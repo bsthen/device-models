@@ -1,4 +1,4 @@
-# Device Models
+# Android Device Models
 
 This repository provides a **mapping of device codes to marketing names** for Android and other smartphones. The data is sourced from the publicly available Google Play supported devices list and updated automatically via GitHub Actions.
 
