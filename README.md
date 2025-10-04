@@ -74,7 +74,7 @@ This repository uses GitHub Actions to automatically fetch the latest supported 
 
 # License
 
-This repository is licensed under the [Apache License 2.0](https://github.com/bsthen/device-models/blob/main/LICENSE).
+This repository is licensed under the [Apache License 2.0](https://github.com/bsthen/device-models?tab=Apache-2.0-1-ov-file).
 
 # Notes
 
