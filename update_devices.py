@@ -1,7 +1,9 @@
 import csv
 import json
 import requests
+import unicodedata
 
+# URL of Google Play supported devices CSV
 CSV_URL = "https://storage.googleapis.com/play_public/supported_devices.csv"
 OUTPUT_FILE = "devices.json"
 
@@ -10,30 +12,30 @@ def fetch_and_convert():
     resp.raise_for_status()
     text = resp.text
 
+    # Read CSV with DictReader
     reader = csv.DictReader(text.splitlines())
-    reader.fieldnames = [h.strip() for h in reader.fieldnames]  # clean headers
+
+    # Strip headers in case of trailing spaces
+    reader.fieldnames = [h.strip() for h in reader.fieldnames]
 
     mapping = {}
     for row in reader:
-        device_code = row.get("Device", "").strip()
-        marketing_name = row.get("Marketing Name", "").strip()
-        retail_brand = row.get("Retail Branding", "").strip()
+        # Normalize strings to remove hidden characters
+        device_code = unicodedata.normalize("NFKC", row.get("Model", "").strip())
+        marketing_name = unicodedata.normalize("NFKC", row.get("Marketing Name", "").strip())
+        retail_brand = unicodedata.normalize("NFKC", row.get("Retail Branding", "").strip())
 
-        # skip empty device codes
-        if not device_code:
+        # Skip rows with empty device code or marketing name
+        if not device_code or not marketing_name:
             continue
 
-        # if device already in mapping, keep existing name if it's non-empty
-        if device_code in mapping and mapping[device_code]["name"]:
-            continue
+        # Store in mapping
+        mapping[device_code] = {
+            "brand": retail_brand,
+            "name": marketing_name
+        }
 
-        # store only if marketing name is available
-        if marketing_name:
-            mapping[device_code] = {
-                "brand": retail_brand,
-                "name": marketing_name
-            }
-
+    # Save to JSON
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(mapping, f, ensure_ascii=False, indent=2)
 
