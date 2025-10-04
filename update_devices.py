@@ -11,16 +11,27 @@ def fetch_and_convert():
     text = resp.text
 
     reader = csv.DictReader(text.splitlines())
+    reader.fieldnames = [h.strip() for h in reader.fieldnames]  # clean headers
+
     mapping = {}
     for row in reader:
-        device_code = row.get("Device")
-        marketing_name = row.get("Marketing Name")
-        retail_brand = row.get("Retail Branding")  # optional
-        if device_code and marketing_name:
-            # Store as nested JSON: includes brand and name
-            mapping[device_code.strip()] = {
-                "brand": retail_brand.strip() if retail_brand else "",
-                "name": marketing_name.strip()
+        device_code = row.get("Device", "").strip()
+        marketing_name = row.get("Marketing Name", "").strip()
+        retail_brand = row.get("Retail Branding", "").strip()
+
+        # skip empty device codes
+        if not device_code:
+            continue
+
+        # if device already in mapping, keep existing name if it's non-empty
+        if device_code in mapping and mapping[device_code]["name"]:
+            continue
+
+        # store only if marketing name is available
+        if marketing_name:
+            mapping[device_code] = {
+                "brand": retail_brand,
+                "name": marketing_name
             }
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
