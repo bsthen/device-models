@@ -34,9 +34,6 @@ jobs:
           # Fetch latest changes from remote
           git fetch origin main
 
-          # Reset local branch to match remote
-          git reset --hard origin/main
-
           # Add and commit new devices.json
           git add devices.json
           git commit -m "Auto update devices.json" || echo "No changes to commit"
