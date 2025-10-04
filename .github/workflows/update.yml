@@ -30,6 +30,16 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Fetch latest changes from remote
+          git fetch origin main
+
+          # Reset local branch to match remote
+          git reset --hard origin/main
+
+          # Add and commit new devices.json
           git add devices.json
           git commit -m "Auto update devices.json" || echo "No changes to commit"
+
+          # Force push to remote
           git push --force https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD:main
