@@ -14,16 +14,22 @@ def fetch_and_convert():
 
     # Read CSV with DictReader
     reader = csv.DictReader(text.splitlines())
+    
+    # Normalize headers to remove hidden characters and spaces
+    reader.fieldnames = [unicodedata.normalize("NFKC", h).strip() for h in reader.fieldnames]
 
-    # Strip headers in case of trailing spaces
-    reader.fieldnames = [h.strip() for h in reader.fieldnames]
+    # Helper function to safely get field values
+    def get_field(row, key):
+        for k in row.keys():
+            if unicodedata.normalize("NFKC", k).strip().lower() == key.lower():
+                return unicodedata.normalize("NFKC", row[k]).strip()
+        return ""
 
     mapping = {}
     for row in reader:
-        # Normalize strings to remove hidden characters
-        device_code = unicodedata.normalize("NFKC", row.get("Model", "").strip())
-        marketing_name = unicodedata.normalize("NFKC", row.get("Marketing Name", "").strip())
-        retail_brand = unicodedata.normalize("NFKC", row.get("Retail Branding", "").strip())
+        device_code = get_field(row, "Model")
+        marketing_name = get_field(row, "Marketing Name")
+        retail_brand = get_field(row, "Retail Branding")
 
         # Skip rows with empty device code or marketing name
         if not device_code or not marketing_name:
