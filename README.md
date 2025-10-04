@@ -70,7 +70,7 @@ def get_device(code: str):
 
 # GitHub Actions
 
-This repository uses GitHub Actions to automatically fetch the latest supported devices CSV from Google, convert it to JSON, and commit updates weekly or monthly. You can also manually trigger the workflow via the Actions tab.
+This repository uses GitHub Actions to automatically fetch the latest supported devices CSV from Google, convert it to JSON, and commit updates weekly.
 
 # License
 
