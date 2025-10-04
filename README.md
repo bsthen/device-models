@@ -56,7 +56,7 @@ from fastapi import FastAPI, HTTPException
 import requests
 
 app = FastAPI()
-DEVICES_URL = "https://raw.githubusercontent.com/<username>/<repo>/main/devices.json"
+DEVICES_URL = "https://raw.githubusercontent.com/bsthen/device-models/main/devices.json"
 device_map = requests.get(DEVICES_URL).json()
 
 @app.get("/device")
