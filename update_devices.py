@@ -1,9 +1,7 @@
 import csv
 import json
 import requests
-import unicodedata
 
-# URL of Google Play supported devices CSV
 CSV_URL = "https://storage.googleapis.com/play_public/supported_devices.csv"
 OUTPUT_FILE = "devices.json"
 
@@ -12,36 +10,29 @@ def fetch_and_convert():
     resp.raise_for_status()
     text = resp.text
 
-    # Read CSV with DictReader
-    reader = csv.DictReader(text.splitlines())
-    
-    # Normalize headers to remove hidden characters and spaces
-    reader.fieldnames = [unicodedata.normalize("NFKC", h).strip() for h in reader.fieldnames]
+    # Read CSV
+    reader = csv.reader(text.splitlines())
 
-    # Helper function to safely get field values
-    def get_field(row, key):
-        for k in row.keys():
-            if unicodedata.normalize("NFKC", k).strip().lower() == key.lower():
-                return unicodedata.normalize("NFKC", row[k]).strip()
-        return ""
+    # Skip header
+    next(reader)
 
     mapping = {}
     for row in reader:
-        device_code = get_field(row, "Model")
-        marketing_name = get_field(row, "Marketing Name")
-        retail_brand = get_field(row, "Retail Branding")
+        if len(row) < 4:
+            continue
 
-        # Skip rows with empty device code or marketing name
+        retail_brand = row[0].strip()      # Column 0
+        marketing_name = row[1].strip()    # Column 1
+        device_code = row[3].strip()       # Column 3
+
         if not device_code or not marketing_name:
             continue
 
-        # Store in mapping
         mapping[device_code] = {
             "brand": retail_brand,
             "name": marketing_name
         }
 
-    # Save to JSON
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(mapping, f, ensure_ascii=False, indent=2)
 
