@@ -13,6 +13,16 @@ This repository provides a **mapping of device codes to marketing names** for An
 
 ---
 
+## 🧩 Common Free GitHub-to-CDN Providers
+
+| CDN                             | Example URL                                                                | Notes                                                                                                |
+| ------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **jsDelivr**                    | `https://cdn.jsdelivr.net/gh/bsthen/device-models/devices.json`            | ✅ Fast, reliable, cached globally via Cloudflare. Recommended for production.                        |
+| **Statically.io**               | `https://cdn.statically.io/gh/bsthen/device-models/main/devices.json`      | ✅ Fast, good for GitHub content, supports branches and tags.                                         |
+| **Raw.githack**                 | `https://raw.githack.com/bsthen/device-models/main/devices.json`           | ✅ Good for testing or demo usage; caches aggressively.                                               |
+| **gcore.jsdelivr.net (Mirror)** | `https://gcore.jsdelivr.net/gh/bsthen/device-models/devices.json`          | 🌍 Mirror of jsDelivr on Gcore network, used automatically by jsDelivr sometimes.                    |
+| **GitHub Raw URL**              | `https://raw.githubusercontent.com/bsthen/device-models/main/devices.json` | ⚠️ Not a CDN (no caching or speed optimization). Best for API scripts or updates.                    |
+
 ## Example JSON Format
 
 ```json
@@ -35,7 +45,7 @@ This repository provides a **mapping of device codes to marketing names** for An
 ```bash
 import requests
 
-DEVICES_URL = "https://raw.githubusercontent.com/bsthen/device-models/main/devices.json"
+DEVICES_URL = "https://cdn.jsdelivr.net/gh/bsthen/device-models/devices.json"
 
 resp = requests.get(DEVICES_URL)
 device_map = resp.json()
@@ -56,7 +66,7 @@ from fastapi import FastAPI, HTTPException
 import requests
 
 app = FastAPI()
-DEVICES_URL = "https://raw.githubusercontent.com/bsthen/device-models/main/devices.json"
+DEVICES_URL = "https://cdn.jsdelivr.net/gh/bsthen/device-models/devices.json"
 device_map = requests.get(DEVICES_URL).json()
 
 @app.get("/device")
