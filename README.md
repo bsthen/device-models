@@ -19,6 +19,7 @@ This repository provides a **mapping of device codes to marketing names** for An
 | ------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | **jsDelivr**                    | `https://cdn.jsdelivr.net/gh/bsthen/device-models/devices.json`            | ✅ Fast, reliable, cached globally via Cloudflare. Recommended for production.                        |
 | **Statically.io**               | `https://cdn.statically.io/gh/bsthen/device-models/main/devices.json`      | ✅ Fast, good for GitHub content, supports branches and tags.                                         |
+| **Rawcdn.githack**                 | `https://rawcdn.githack.com/bsthen/device-models/main/devices.json`           | ✅ Good for production usage; caches aggressively.  
 | **Raw.githack**                 | `https://raw.githack.com/bsthen/device-models/main/devices.json`           | ✅ Good for testing or demo usage; caches aggressively.                                               |
 | **gcore.jsdelivr.net (Mirror)** | `https://gcore.jsdelivr.net/gh/bsthen/device-models/devices.json`          | 🌍 Mirror of jsDelivr on Gcore network, used automatically by jsDelivr sometimes.                    |
 | **GitHub Raw URL**              | `https://raw.githubusercontent.com/bsthen/device-models/main/devices.json` | ⚠️ Not a CDN (no caching or speed optimization). Best for API scripts or updates.                    |
