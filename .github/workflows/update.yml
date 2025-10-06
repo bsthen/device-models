@@ -2,8 +2,8 @@ name: Update Devices JSON
 
 on:
   schedule:
-    # Run weekly (Sunday at 00:00 UTC)
-    - cron: "0 0 * * 0"
+    # Run everyday (At 00:00 UTC)
+    - cron: "0 0 * * *"
   workflow_dispatch: # allow manual run from Actions tab
 
 jobs:
