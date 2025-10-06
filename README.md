@@ -15,7 +15,7 @@ This repository provides a **mapping of device codes to marketing names** for An
 
 ## 🧩 CDN Providers
 
-| CDN                             | Example URL                                                                | Notes                                                                                                |
+| CDN Providers                             | CDN URLs                                                                | Notes                                                                                                |
 | ------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | **jsDelivr**                    | `https://cdn.jsdelivr.net/gh/bsthen/device-models/devices.json`            | ✅ Fast, reliable, cached globally via Cloudflare. Recommended for production.                        |
 | **Statically.io**               | `https://cdn.statically.io/gh/bsthen/device-models/main/devices.json`      | ✅ Fast, good for GitHub content, supports branches and tags.                                         |
