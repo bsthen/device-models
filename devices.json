@@ -36899,6 +36899,10 @@
     "brand": "Google",
     "name": "Pixel 10 Pro"
   },
+  "Pixel 10 Pro Fold": {
+    "brand": "Google",
+    "name": "Pixel 10 Pro Fold"
+  },
   "Pixel 10 Pro XL": {
     "brand": "Google",
     "name": "Pixel 10 Pro XL"
@@ -151823,6 +151827,10 @@
     "brand": "ZTE",
     "name": "CELL C EMPIRE E8"
   },
+  "Z2458": {
+    "brand": "ZTE",
+    "name": "nubia V70 Design"
+  },
   "Z831": {
     "brand": "ZTE",
     "name": "Chapel"
@@ -155547,13 +155555,9 @@
     "brand": "ZTE",
     "name": "ZTE Blade V50 Vita"
   },
-  "Z2458": {
-    "brand": "ZTE",
-    "name": "nubia V70 Design"
-  },
   "Z2467": {
     "brand": "ZTE",
-    "name": "ZTE Blade V70 Max"
+    "name": "nubia V70 Max"
   },
   "ZTE Blade V8 Arc": {
     "brand": "ZTE",
