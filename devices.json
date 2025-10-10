@@ -10047,6 +10047,10 @@
     "brand": "AvidPad",
     "name": "A30PRO"
   },
+  "S28 ultra": {
+    "brand": "AvidPad",
+    "name": "A60"
+  },
   "S30": {
     "brand": "Vankyo",
     "name": "S30"
@@ -24851,6 +24855,10 @@
     "brand": "Dcode",
     "name": "DS_CL4_Pro"
   },
+  "Cygnal X": {
+    "brand": "Dcode",
+    "name": "DS_CL_X"
+  },
   "Dcolor GD2": {
     "brand": "Dcolor",
     "name": "Dcolor"
@@ -28926,6 +28934,10 @@
   "K503": {
     "brand": "EPIKONE",
     "name": "k503"
+  },
+  "EI-XXXXP": {
+    "brand": "EPSON-PowerBoard_Pro",
+    "name": "Epson India Private Limited"
   },
   "SE 2K Android Monitor": {
     "brand": "EQUINOXE",
@@ -52675,6 +52687,10 @@
     "brand": "IQ Touch",
     "name": "iMax_EC1053"
   },
+  "QA_Series": {
+    "brand": "IQTOUCH",
+    "name": "IQTOUCH"
+  },
   "IQU SmartEasy T10w": {
     "brand": "IQU(SZ)",
     "name": "IQUSMARTEASYT10W"
@@ -71302,6 +71318,10 @@
   "T4_EU": {
     "brand": "Lincplus",
     "name": "T4_EU"
+  },
+  "OneStream-VSB-001": {
+    "brand": "LinkNet",
+    "name": "One Stream+"
   },
   "SH960C-LN": {
     "brand": "LinkNet",
@@ -104374,6 +104394,10 @@
   "P11_pro_EEA": {
     "brand": "SVITOO",
     "name": "P11_pro_EEA"
+  },
+  "TAB_P10": {
+    "brand": "SVITOO",
+    "name": "TAB_P10"
   },
   "TAB P12": {
     "brand": "SVITOO",
@@ -158247,6 +158271,10 @@
     "brand": "iData",
     "name": "iData T3 Pro"
   },
+  "iData T5": {
+    "brand": "iData",
+    "name": "iData T5"
+  },
   "iData i2": {
     "brand": "iData",
     "name": "iData i2"
@@ -161124,6 +161152,10 @@
     "name": "Y21d"
   },
   "V2524": {
+    "brand": "vivo",
+    "name": "Y21d"
+  },
+  "V2525": {
     "brand": "vivo",
     "name": "Y21d"
   },
