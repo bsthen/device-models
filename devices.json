@@ -11655,6 +11655,10 @@
     "brand": "BMobile",
     "name": "ORBIT_67"
   },
+  "ORION_TG05": {
+    "brand": "BMobile",
+    "name": "ORION_TG05"
+  },
   "Speed 5": {
     "brand": "BMobile",
     "name": "Speed 5"
@@ -16262,6 +16266,10 @@
   "Benji": {
     "brand": "Bmobility",
     "name": "Benji"
+  },
+  "ORION_TG07": {
+    "brand": "Bmobility",
+    "name": "ORION TG07"
   },
   "Cybook-Tablet": {
     "brand": "Booken",
@@ -42765,7 +42773,7 @@
   },
   "Hisense TV": {
     "brand": "Hisense",
-    "name": "Emeishanph"
+    "name": "Hisense TV"
   },
   "BM001": {
     "brand": "Hisense",
@@ -66631,6 +66639,10 @@
     "brand": "LUMIO",
     "name": "LUMIO"
   },
+  "Lumio Arc 5": {
+    "brand": "LUMIO",
+    "name": "Lumio Arc 5"
+  },
   "Lumio Arc 7": {
     "brand": "LUMIO",
     "name": "Lumio Arc 7"
@@ -85539,6 +85551,10 @@
     "brand": "Nubia",
     "name": "REDMAGIC 10 Air"
   },
+  "Z2472": {
+    "brand": "ZTE",
+    "name": "Z2472"
+  },
   "Z2455": {
     "brand": "ZTE",
     "name": "nubia Focus"
@@ -89066,6 +89082,10 @@
   "OPD2402": {
     "brand": "Oppo",
     "name": "OPPO Pad 3 Pro"
+  },
+  "OPD2506": {
+    "brand": "Oppo",
+    "name": "OPPO Pad 5"
   },
   "OPD2102": {
     "brand": "Oppo",
@@ -95309,7 +95329,7 @@
   },
   "POLYTRON2K": {
     "brand": "Polytron",
-    "name": "2K"
+    "name": "POLYTRON2K"
   },
   "P500": {
     "brand": "ZTE",
@@ -123815,6 +123835,18 @@
     "brand": "SparX",
     "name": "Sparx Ultra 8i"
   },
+  "Sparx Neo 15": {
+    "brand": "SparX",
+    "name": "Sparx_Neo_15"
+  },
+  "Sparx_Neo_15": {
+    "brand": "SparX",
+    "name": "Sparx_Neo_15"
+  },
+  "Sparx_Neo_15_Pro": {
+    "brand": "SparX",
+    "name": "Sparx_Neo_15_Pro"
+  },
   "Ultra 11": {
     "brand": "SparX",
     "name": "Ultra 11"
@@ -135314,6 +135346,10 @@
   "TECNO BG6s": {
     "brand": "Tecno",
     "name": "TECNO SPARK Go 2024"
+  },
+  "TECNO KN3": {
+    "brand": "Tecno",
+    "name": "TECNO SPARK Go 3"
   },
   "TECNO KM8": {
     "brand": "Tecno",
@@ -154442,10 +154478,6 @@
   "Z2465N": {
     "brand": "ZTE",
     "name": "Z2465N"
-  },
-  "Z2472": {
-    "brand": "ZTE",
-    "name": "Z2472"
   },
   "Z3153V": {
     "brand": "ZTE",
