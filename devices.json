@@ -57443,6 +57443,10 @@
     "brand": "JVC",
     "name": "JVC"
   },
+  "JVCTV 4K": {
+    "brand": "JVC",
+    "name": "JVC"
+  },
   "JVCUS 4K TV": {
     "brand": "JVC",
     "name": "JVC"
@@ -88675,6 +88679,14 @@
     "brand": "Oppo",
     "name": "F29 Pro 5G"
   },
+  "CPH2763": {
+    "brand": "Oppo",
+    "name": "F31 Pro 5G"
+  },
+  "CPH2757": {
+    "brand": "Oppo",
+    "name": "F31 Pro+ 5G"
+  },
   "CPH1819": {
     "brand": "Oppo",
     "name": "F7"
@@ -93770,6 +93782,10 @@
   "PR7RKTNF": {
     "brand": "Performance",
     "name": "PR7RKTNF"
+  },
+  "Permaray-IFPD": {
+    "brand": "Permaray",
+    "name": "Permaray-IFPD"
   },
   "Perseo TV Home 2nd Generation Ranger": {
     "brand": "Perseo TV",
@@ -119630,6 +119646,10 @@
   "LCD-xxBEL7A-C": {
     "brand": "Sharp",
     "name": "lcd_xxbel7a_c"
+  },
+  "SHARP 4K UHDTV": {
+    "brand": "Sharp",
+    "name": "sharp"
   },
   "509SH": {
     "brand": "Sharp",
