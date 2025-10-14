@@ -11699,6 +11699,10 @@
     "brand": "BNCF",
     "name": "BPad_10_4G"
   },
+  "4KS1": {
+    "brand": "BNE(TW)",
+    "name": "4KS1"
+  },
   "CONNECT_22": {
     "brand": "BODYCRAFT",
     "name": "M1_IC0_N702_BC"
@@ -30195,11 +30199,11 @@
     "brand": "Epson",
     "name": "EF-61"
   },
-  "HB79": {
-    "brand": "Epson",
-    "name": "EF-62"
-  },
   "HB73": {
+    "brand": "Epson",
+    "name": "EF-71"
+  },
+  "HB79": {
     "brand": "Epson",
     "name": "EF-71"
   },
@@ -93774,6 +93778,10 @@
   "Smart-Ex03": {
     "brand": "Pepperl+Fuchs",
     "name": "Smart-Ex 03"
+  },
+  "Smart-Ex203": {
+    "brand": "Pepperl+Fuchs",
+    "name": "Smart-Ex 203"
   },
   "Tab-IND 10 AND": {
     "brand": "Pepperl+Fuchs",
@@ -159923,6 +159931,10 @@
     "brand": "realme",
     "name": "RMX5061"
   },
+  "RMX5111": {
+    "brand": "realme",
+    "name": "realme 15T"
+  },
   "RMX5303": {
     "brand": "realme",
     "name": "realme C71"
@@ -160090,10 +160102,6 @@
   "RMX5101": {
     "brand": "realme",
     "name": "realme 15 Pro 5G"
-  },
-  "RMX5111": {
-    "brand": "realme",
-    "name": "realme 15T"
   },
   "RMX5250": {
     "brand": "realme",
