@@ -1725,7 +1725,7 @@
   },
   "UTBook_16": {
     "brand": "AWOW",
-    "name": "UTBook_16_EEA"
+    "name": "UTBook_16_US"
   },
   "UTBook_EEA": {
     "brand": "AWOW",
@@ -9705,7 +9705,7 @@
   },
   "TAB9": {
     "brand": "Relndoo",
-    "name": "TAB9-E-EEA"
+    "name": "TAB9-US"
   },
   "YQ10M": {
     "brand": "Atozee",
@@ -13198,6 +13198,10 @@
   "B20X": {
     "brand": "Bertoli",
     "name": "B20X"
+  },
+  "Note 15": {
+    "brand": "Ulefone",
+    "name": "Note 15"
   },
   "BRN01": {
     "brand": "Bestreha",
@@ -30201,7 +30205,7 @@
   },
   "HB73": {
     "brand": "Epson",
-    "name": "EF-71"
+    "name": "EF-62"
   },
   "HB79": {
     "brand": "Epson",
@@ -37675,6 +37679,10 @@
     "brand": "HCNCP",
     "name": "HA10Kids"
   },
+  "HT10Pro": {
+    "brand": "HCNCP",
+    "name": "HT10Pro"
+  },
   "H10_ONE": {
     "brand": "HDC S.A.",
     "name": "H10_ONE"
@@ -37726,6 +37734,10 @@
   "F7": {
     "brand": "HEADWOLF",
     "name": "F7"
+  },
+  "Titan 1": {
+    "brand": "HEADWOLF",
+    "name": "F8"
   },
   "Fpad2": {
     "brand": "HEADWOLF",
@@ -46062,10 +46074,6 @@
   "Note 13 Max": {
     "brand": "Hotwav",
     "name": "Note 13 Max"
-  },
-  "Note 15": {
-    "brand": "Ulefone",
-    "name": "Note 15"
   },
   "Note 15 Pro": {
     "brand": "Hotwav",
@@ -69866,6 +69874,10 @@
   "Lenovo TB-8X04F": {
     "brand": "Lenovo",
     "name": "Lenovo TAB4 8 REL"
+  },
+  "A401LV": {
+    "brand": "Lenovo",
+    "name": "Lenovo TAB8"
   },
   "Lenovo TB-7304I": {
     "brand": "Lenovo",
@@ -94447,6 +94459,10 @@
     "brand": "Pioneer",
     "name": "Navigation"
   },
+  "DTP9762": {
+    "brand": "Pioneer",
+    "name": "DTP9762"
+  },
   "SDA-80TAB": {
     "brand": "Pioneer",
     "name": "SDA-80TAB"
@@ -100422,6 +100438,10 @@
   "K80_ROW": {
     "brand": "Rebecco",
     "name": "K80_ROW"
+  },
+  "A10_PRO": {
+    "brand": "RebotAi",
+    "name": "A10_PRO"
   },
   "A11_EEA": {
     "brand": "RebotAi",
@@ -125939,6 +125959,10 @@
     "brand": "i-Buddie",
     "name": "TA71CA5"
   },
+  "T60": {
+    "brand": "Wiko",
+    "name": "T60"
+  },
   "W90": {
     "brand": "TABWEE",
     "name": "W90_RU"
@@ -133859,10 +133883,6 @@
     "brand": "Teclast",
     "name": "T50_Y_RUS"
   },
-  "T60": {
-    "brand": "Wiko",
-    "name": "T60"
-  },
   "T60Ai_EEA": {
     "brand": "Teclast",
     "name": "T60Ai_EEA"
@@ -134870,6 +134890,10 @@
   "TECNO KB2j": {
     "brand": "Tecno",
     "name": "TECNO POP 2s Pro"
+  },
+  "TECNO T1102": {
+    "brand": "Tecno",
+    "name": "TECNO MEGAPAD  SE"
   },
   "TECNO T1101": {
     "brand": "Tecno",
@@ -144292,8 +144316,8 @@
     "name": "vivo Pad2"
   },
   "PA2455": {
-    "brand": "Vivo",
-    "name": "vivo Pad3"
+    "brand": "vivo",
+    "name": "Pad5e"
   },
   "PA2473": {
     "brand": "Vivo",
@@ -148142,6 +148166,18 @@
   "WK03C": {
     "brand": "XGIMI",
     "name": "Elfin Flip Plus"
+  },
+  "XR13A": {
+    "brand": "XGIMI",
+    "name": "HORIZON 20"
+  },
+  "XR16A": {
+    "brand": "XGIMI",
+    "name": "HORIZON 20 Max"
+  },
+  "XR14A": {
+    "brand": "XGIMI",
+    "name": "HORIZON 20 Pro"
   },
   "Halo": {
     "brand": "XGIMI",
@@ -161155,6 +161191,10 @@
     "brand": "vivo",
     "name": "Pad5"
   },
+  "PA2535": {
+    "brand": "vivo",
+    "name": "Pad5e"
+  },
   "V2464A": {
     "brand": "vivo",
     "name": "S30"
@@ -161191,6 +161231,10 @@
     "brand": "vivo",
     "name": "V60 Lite 5G"
   },
+  "V2513": {
+    "brand": "vivo",
+    "name": "V60e"
+  },
   "V2436A": {
     "brand": "vivo",
     "name": "X Fold5"
@@ -161206,6 +161250,18 @@
   "V2505": {
     "brand": "vivo",
     "name": "X200 FE"
+  },
+  "V2509A": {
+    "brand": "vivo",
+    "name": "X300"
+  },
+  "V2502A": {
+    "brand": "vivo",
+    "name": "X300 Pro"
+  },
+  "V2502DA": {
+    "brand": "vivo",
+    "name": "X300 Pro 卫星通信版"
   },
   "V2532": {
     "brand": "vivo",
