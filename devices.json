@@ -1023,6 +1023,10 @@
     "brand": "AOC",
     "name": "AOC Smart Gaming Monitor"
   },
+  "M10": {
+    "brand": "UAUU",
+    "name": "M10"
+  },
   "Q10107L-ME": {
     "brand": "AOC",
     "name": "Q10107L-ME"
@@ -1425,7 +1429,7 @@
   },
   "IT-801B": {
     "brand": "ATMPC",
-    "name": "IT-801B"
+    "name": "IT-801BA7_EEA"
   },
   "IT-801BA3": {
     "brand": "ATMPC",
@@ -3187,6 +3191,10 @@
     "brand": "Aclas",
     "name": "AO4"
   },
+  "AOx_A_B_C": {
+    "brand": "Aclas",
+    "name": "AOx_A_B_C"
+  },
   "ACONATIC AndroidTV": {
     "brand": "Aconatic",
     "name": "55US800AN"
@@ -4138,6 +4146,10 @@
   "XstreamIPTV1-VT": {
     "brand": "Airtel",
     "name": "XstreamIPTV1"
+  },
+  "XstreamIPTV2-SM": {
+    "brand": "Airtel-Xstream",
+    "name": "XstreamIPTV2-SM"
   },
   "AT1001": {
     "brand": "Aiuto",
@@ -10602,10 +10614,6 @@
   "L10": {
     "brand": "VASOUN",
     "name": "TAB12_EEA"
-  },
-  "M10": {
-    "brand": "UAUU",
-    "name": "M10"
   },
   "A101BM": {
     "brand": "BALMUDA",
@@ -37071,6 +37079,10 @@
     "brand": "Google",
     "name": "Pixel Watch 2"
   },
+  "Pixel Watch 4": {
+    "brand": "Google",
+    "name": "Pixel Watch 4 BTWIFI"
+  },
   "Pixel XL": {
     "brand": "Google",
     "name": "Pixel XL"
@@ -51070,6 +51082,10 @@
   "Kamvas Slate 13": {
     "brand": "Huion",
     "name": "KT1201_EEA"
+  },
+  "AT13": {
+    "brand": "Huion",
+    "name": "KamvasSlate10"
   },
   "KamvasSlate10": {
     "brand": "Huion",
@@ -72727,6 +72743,10 @@
     "brand": "M3 Mobile",
     "name": "M3SM30"
   },
+  "M3UL30": {
+    "brand": "M3 Mobile",
+    "name": "M3UL30"
+  },
   "M3US30": {
     "brand": "M3 Mobile",
     "name": "M3US30"
@@ -72870,6 +72890,10 @@
   "MAU9000D": {
     "brand": "MARUSYS",
     "name": "MAU9000D"
+  },
+  "M18": {
+    "brand": "MARVUE",
+    "name": "M18"
   },
   "M81": {
     "brand": "MARVUE",
@@ -78791,6 +78815,10 @@
     "brand": "Mobiwire",
     "name": "H5112"
   },
+  "H6032": {
+    "brand": "Mobiwire",
+    "name": "H6032"
+  },
   "H6511": {
     "brand": "Mobiwire",
     "name": "H6511"
@@ -84375,6 +84403,10 @@
     "brand": "Neostra",
     "name": "ViewPad 7A"
   },
+  "MT-xxMU": {
+    "brand": "Neotouch",
+    "name": "MT-xxMU"
+  },
   "Box TV": {
     "brand": "Net+",
     "name": "TV"
@@ -84514,6 +84546,10 @@
   "Newsday_N2+": {
     "brand": "Newsday",
     "name": "Newsday_N2+"
+  },
+  "N90": {
+    "brand": "Nexall",
+    "name": "N90_EEA"
   },
   "Mi438S": {
     "brand": "Nexian",
@@ -91870,6 +91906,10 @@
   "M103-EEA": {
     "brand": "PIXGOOD",
     "name": "M103-EEA"
+  },
+  "M328-EEA": {
+    "brand": "PIXGOOD",
+    "name": "M328-EEA"
   },
   "L60-EEA": {
     "brand": "PIXPEAK",
@@ -100447,6 +100487,10 @@
     "brand": "RebotAi",
     "name": "A11_EEA"
   },
+  "D101": {
+    "brand": "RebotAi",
+    "name": "D101"
+  },
   "MX101M2": {
     "brand": "Rectron",
     "name": "MX101M2"
@@ -100518,6 +100562,10 @@
   "25078RA3EY": {
     "brand": "Redmi",
     "name": "REDMI 15C"
+  },
+  "2508CRN2BI": {
+    "brand": "Redmi",
+    "name": "REDMI 15C 5G"
   },
   "25079RPDCC": {
     "brand": "Redmi",
@@ -133843,6 +133891,10 @@
     "brand": "Teclast",
     "name": "T50Max_ROW"
   },
+  "T50Mini_A_EEA": {
+    "brand": "Teclast",
+    "name": "T50Mini_A_EEA"
+  },
   "T50Mini_A_ROW": {
     "brand": "Teclast",
     "name": "T50Mini_A_ROW"
@@ -159883,6 +159935,10 @@
     "brand": "rainx",
     "name": "the101loop"
   },
+  "theloop": {
+    "brand": "rainx",
+    "name": "theloop"
+  },
   "RMX3869": {
     "brand": "realme",
     "name": "NARZO 70 5G"
@@ -161266,6 +161322,10 @@
   "V2532": {
     "brand": "vivo",
     "name": "Y04e"
+  },
+  "V2541": {
+    "brand": "vivo",
+    "name": "Y19s 5G"
   },
   "V2520": {
     "brand": "vivo",
