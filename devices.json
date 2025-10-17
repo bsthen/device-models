@@ -10919,6 +10919,10 @@
     "brand": "BLUECRANE",
     "name": "PP86M"
   },
+  "NX1": {
+    "brand": "BLUEFOX",
+    "name": "BF001_EEA"
+  },
   "M1867G": {
     "brand": "BLUEING",
     "name": "M1867G"
@@ -88167,6 +88171,10 @@
     "brand": "Oppo",
     "name": "A5x 5G"
   },
+  "PLS120": {
+    "brand": "Oppo",
+    "name": "A6 5G"
+  },
   "PLL110": {
     "brand": "Oppo",
     "name": "A6 GT 5G/K13s 5G/A6 Max 5G"
@@ -88734,6 +88742,10 @@
   "CPH2705": {
     "brand": "Oppo",
     "name": "F29 Pro 5G"
+  },
+  "CPH2781": {
+    "brand": "Oppo",
+    "name": "OPPO A6 Pro 5G"
   },
   "CPH2763": {
     "brand": "Oppo",
@@ -91818,6 +91830,10 @@
   "PET_8040_H464S": {
     "brand": "PEAQ",
     "name": "PET_8040_H464S"
+  },
+  "CP31-4T": {
+    "brand": "PEICHENG",
+    "name": "CP31-4T"
   },
   "CP31M": {
     "brand": "PEICHENG",
@@ -101978,6 +101994,10 @@
   "P60_US": {
     "brand": "Relndoo",
     "name": "P60_US"
+  },
+  "P60_U_US": {
+    "brand": "Relndoo",
+    "name": "P60_U_US"
   },
   "T10P_EEA": {
     "brand": "Relndoo",
@@ -138335,6 +138355,10 @@
     "brand": "Ulefone",
     "name": "RugKing"
   },
+  "RugKing 3 Pro": {
+    "brand": "Ulefone",
+    "name": "RugKing 3 Pro"
+  },
   "S10_Pro": {
     "brand": "Ulefone",
     "name": "S10_Pro"
@@ -161386,6 +161410,10 @@
   "waipu.tv Box": {
     "brand": "waiputv",
     "name": "waipu.tv Box"
+  },
+  "waipu.tv Stick (G2)": {
+    "brand": "waiputv",
+    "name": "waipu.tv Stick (G2)"
   },
   "WC-F11": {
     "brand": "wancheng",
