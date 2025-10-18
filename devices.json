@@ -1603,6 +1603,10 @@
     "brand": "AVITA",
     "name": "TS11A1"
   },
+  "AVT-V_Series": {
+    "brand": "AVOCOR",
+    "name": "AVT-V_Series"
+  },
   "A_Series": {
     "brand": "AVOCOR",
     "name": "A_Series"
@@ -31351,6 +31355,10 @@
     "brand": "FACILOTAB",
     "name": "Facilotab_L_Rubis"
   },
+  "XT50": {
+    "brand": "FANCYAUG",
+    "name": "XT50"
+  },
   "F-863": {
     "brand": "FANGOR",
     "name": "F-863"
@@ -35319,6 +35327,10 @@
     "brand": "Ghia",
     "name": "GA7133"
   },
+  "GA7333": {
+    "brand": "Ghia",
+    "name": "GA7333"
+  },
   "GA8N": {
     "brand": "Ghia",
     "name": "GA8N"
@@ -37085,7 +37097,7 @@
   },
   "Pixel Watch 4": {
     "brand": "Google",
-    "name": "Pixel Watch 4 BTWIFI"
+    "name": "Pixel Watch 4"
   },
   "Pixel XL": {
     "brand": "Google",
@@ -135986,6 +135998,10 @@
   "Streaming Dongle": {
     "brand": "Telenor",
     "name": "Stream Dongle"
+  },
+  "T-We Boks III": {
+    "brand": "Telenor",
+    "name": "T-We Boks III"
   },
   "Telenor Mediahubb": {
     "brand": "Telenor",
