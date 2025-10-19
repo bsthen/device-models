@@ -59051,6 +59051,10 @@
     "brand": "KTCtv",
     "name": "INCLO"
   },
+  "JAMUNA SMART TV": {
+    "brand": "KTCtv",
+    "name": "JAMUNA"
+  },
   "EcoTV J": {
     "brand": "KTCtv",
     "name": "Leading Smart TV"
@@ -126194,6 +126198,10 @@
   "SANYO TV": {
     "brand": "TCL",
     "name": "Percee TV"
+  },
+  "ProjectorC1": {
+    "brand": "TCL",
+    "name": "ProjectorC1"
   },
   "5086D": {
     "brand": "TCL",
