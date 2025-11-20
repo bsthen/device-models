@@ -1977,7 +1977,7 @@
   },
   "Aaztec-IFP-Series": {
     "brand": "Aaztec",
-    "name": "Aaztec-IFP-Series"
+    "name": "THAZ-65/75/86/98/110 PD"
   },
   "A08S": {
     "brand": "Abocom",
@@ -22703,6 +22703,10 @@
     "brand": "Crelander",
     "name": "T118"
   },
+  "T66": {
+    "brand": "Crelander",
+    "name": "T66"
+  },
   "W30": {
     "brand": "Crelander",
     "name": "W30"
@@ -26891,6 +26895,10 @@
     "brand": "Digma",
     "name": "Digma Platina 1579M 4G NS1800ML"
   },
+  "G8 DA6B8P02": {
+    "brand": "Digma",
+    "name": "G8_DA6B8P02"
+  },
   "K10 PLUS DA1C0P02": {
     "brand": "Digma",
     "name": "K10_PLUS"
@@ -29315,6 +29323,10 @@
     "brand": "ELO Touch",
     "name": "10in-I-Series-4-Value"
   },
+  "10in-I-Series-5-Value": {
+    "brand": "ELO Touch",
+    "name": "10in-I-Series-5-Value"
+  },
   "15in-I-Series-4": {
     "brand": "ELO Touch",
     "name": "15in-I-Series-4"
@@ -29351,6 +29363,10 @@
     "brand": "ELO Touch",
     "name": "22in-I-Series-5"
   },
+  "22in-I-Series-5-Value": {
+    "brand": "ELO Touch",
+    "name": "22in-I-Series-5-Value"
+  },
   "Backpack-4": {
     "brand": "ELO Touch",
     "name": "Backpack-4"
@@ -29362,6 +29378,10 @@
   "Backpack-5": {
     "brand": "ELO Touch",
     "name": "Backpack-5"
+  },
+  "Backpack-5-Value": {
+    "brand": "ELO Touch",
+    "name": "Backpack-5-Value"
   },
   "EMC-M51": {
     "brand": "ELO Touch",
@@ -32822,6 +32842,10 @@
   "CP11_J1": {
     "brand": "FPD",
     "name": "CP11_J1"
+  },
+  "EcoTV1 Plus": {
+    "brand": "FPD",
+    "name": "EcoTV1 Plus"
   },
   "EcoTV Pro A": {
     "brand": "FPD",
@@ -42934,6 +42958,10 @@
   "HSG1472": {
     "brand": "HannSpree",
     "name": "HSG1472"
+  },
+  "HSG1500": {
+    "brand": "HannSpree",
+    "name": "HSG1500"
   },
   "HSG1501": {
     "brand": "HannSpree",
@@ -53491,6 +53519,10 @@
     "brand": "INGSCREEN",
     "name": "IS-Pro-Series"
   },
+  "IMA301": {
+    "brand": "INMO",
+    "name": "IMA301"
+  },
   "32S1U_Pro": {
     "brand": "INNOCN",
     "name": "32S1U_Pro"
@@ -56410,6 +56442,10 @@
   "NOTE 12P": {
     "brand": "Invens",
     "name": "NOTE_12P"
+  },
+  "NOTE 5G": {
+    "brand": "Invens",
+    "name": "NOTE_5G"
   },
   "INVES SMART TV": {
     "brand": "Inves",
@@ -60238,10 +60274,6 @@
   "Eco Smart Monitor": {
     "brand": "KTCtv",
     "name": "Eco Smart Monitor"
-  },
-  "EcoTV1 Plus": {
-    "brand": "KTCtv",
-    "name": "EcoTV1 Plus"
   },
   "EcoTV2": {
     "brand": "KTCtv",
@@ -93219,6 +93251,14 @@
     "brand": "PAX (CN)",
     "name": "A910S"
   },
+  "A920Pro": {
+    "brand": "PAX (CN)",
+    "name": "A920Pro"
+  },
+  "A960": {
+    "brand": "PAX (CN)",
+    "name": "A960"
+  },
   "A99": {
     "brand": "PAX (CN)",
     "name": "A99"
@@ -101750,6 +101790,10 @@
   "T10A863-21": {
     "brand": "RNRUO",
     "name": "T10A863-21"
+  },
+  "T10A863-51": {
+    "brand": "RNRUO",
+    "name": "T10A863-51"
   },
   "IO 3D": {
     "brand": "ROKiT",
@@ -134663,6 +134707,10 @@
     "brand": "TOKYO",
     "name": "Paraguay"
   },
+  "TOKYO 2K Google TV": {
+    "brand": "TOKYO",
+    "name": "TOKYO 2K GOOGLE TV"
+  },
   "TONE e20": {
     "brand": "TONE",
     "name": "TONE e20"
@@ -139798,6 +139846,10 @@
   "STI6030_TRUE_TV_A01": {
     "brand": "truevisions",
     "name": "STI6030_TRUE_TV_A01"
+  },
+  "750TAIO": {
+    "brand": "TrueBoard",
+    "name": "750TAIO"
   },
   "CHMT52": {
     "brand": "TrueIDTV",
@@ -153259,6 +153311,10 @@
     "brand": "ZOLON",
     "name": "E0214"
   },
+  "E0514": {
+    "brand": "ZOLON",
+    "name": "E0514"
+  },
   "L161X": {
     "brand": "ZOLON",
     "name": "L161x"
@@ -163250,6 +163306,10 @@
   "RMX5116": {
     "brand": "realme",
     "name": "realme P4 Pro 5G"
+  },
+  "RMX5108": {
+    "brand": "realme",
+    "name": "realme P4x 5G"
   },
   "RMP2204": {
     "brand": "realme",
