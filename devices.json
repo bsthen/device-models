@@ -99,6 +99,14 @@
     "brand": "4good",
     "name": "A103"
   },
+  "4iG M391": {
+    "brand": "4iG TV",
+    "name": "4iG M391"
+  },
+  "4iG DIW252V": {
+    "brand": "4iG TV",
+    "name": "Mini Box"
+  },
   "5Star_Note_5": {
     "brand": "5STAR",
     "name": "5Star_Note_5"
@@ -23712,8 +23720,8 @@
     "name": "AS360"
   },
   "B11": {
-    "brand": "OTOT",
-    "name": "B11"
+    "brand": "RebotAi",
+    "name": "B11_EEA"
   },
   "B140": {
     "brand": "DEXP",
@@ -33078,6 +33086,10 @@
   "Smart601": {
     "brand": "FarEasTone",
     "name": "Smart601"
+  },
+  "AR-5003MSB": {
+    "brand": "Fastway",
+    "name": "AR-5003MSB"
   },
   "FW-Plus Ultra 4K Box1": {
     "brand": "Fastway",
@@ -80262,6 +80274,10 @@
   "Awadjidje": {
     "brand": "Mobiwire",
     "name": "Awadjidjè"
+  },
+  "BUZZ_2": {
+    "brand": "Mobiwire",
+    "name": "BUZZ_2"
   },
   "Moov Smart Pro": {
     "brand": "Mobiwire",
@@ -152763,6 +152779,10 @@
     "brand": "Yes",
     "name": "yes"
   },
+  "Yes": {
+    "brand": "Yes",
+    "name": "Yes"
+  },
   "Note 30 pro": {
     "brand": "YesTeL",
     "name": "Note_30_pro"
@@ -162823,10 +162843,6 @@
     "brand": "realme",
     "name": "RMX5210"
   },
-  "RMX5253": {
-    "brand": "realme",
-    "name": "RMX5253"
-  },
   "RMX5303": {
     "brand": "realme",
     "name": "realme C71"
@@ -163178,6 +163194,10 @@
   "RMX5020": {
     "brand": "realme",
     "name": "realme C75x"
+  },
+  "RMX5253": {
+    "brand": "realme",
+    "name": "realme C85 5G"
   },
   "RMX5555": {
     "brand": "realme",
