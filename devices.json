@@ -265,7 +265,7 @@
   },
   "MPMedium5": {
     "brand": "ABILIA",
-    "name": "MPM5"
+    "name": "MPMedium5"
   },
   "ACD-Tab-10S": {
     "brand": "ACD Computers",
@@ -1175,6 +1175,10 @@
     "brand": "ARBOR",
     "name": "HT10"
   },
+  "Arguest Android TV": {
+    "brand": "ARGUEST",
+    "name": "Arguest Android TV"
+  },
   "Arguest Android UHD TV": {
     "brand": "ARGUEST",
     "name": "Arguest Android UHD TV"
@@ -1485,7 +1489,7 @@
   },
   "IT-801B": {
     "brand": "ATMPC",
-    "name": "IT-801BA7_EEA"
+    "name": "IT-801BA9_EEA"
   },
   "IT-801BA3": {
     "brand": "ATMPC",
@@ -4205,7 +4209,7 @@
   },
   "KB1004": {
     "brand": "Ainmel",
-    "name": "KB1004A"
+    "name": "KB1004A_EEA"
   },
   "7C08X": {
     "brand": "Ainol",
@@ -6071,6 +6075,10 @@
     "brand": "Altron",
     "name": "OB_628"
   },
+  "2K Pro TV": {
+    "brand": "Altus",
+    "name": "2K Pro TV"
+  },
   "4K Pro TV": {
     "brand": "Altus",
     "name": "Altus Android TV"
@@ -6846,6 +6854,10 @@
   "S1 Jazz": {
     "brand": "Aqua",
     "name": "S1 Jazz"
+  },
+  "Arcelik 2K Google TV": {
+    "brand": "Arcelik",
+    "name": "Arcelik 2K Google TV"
   },
   "Arcelik Google TV": {
     "brand": "Arcelik",
@@ -10439,6 +10451,10 @@
     "brand": "Axzy",
     "name": "Axzy_Pad"
   },
+  "E140B": {
+    "brand": "Axzy",
+    "name": "Axzy_Pad"
+  },
   "Axzy_Pad_Pro": {
     "brand": "Axzy",
     "name": "Axzy_Pad_Pro"
@@ -13147,6 +13163,10 @@
     "brand": "Beghelli",
     "name": "SLV SMARTPHONE 55"
   },
+  "Beko 2K Google TV": {
+    "brand": "Beko",
+    "name": "Beko 2K Google TV"
+  },
   "Beko Android TV": {
     "brand": "Beko",
     "name": "Turkey"
@@ -13326,6 +13346,10 @@
   "Kogan Agora 4G Lite": {
     "brand": "BenQ",
     "name": "Kogan Agora 4G Lite"
+  },
+  "NE001_series": {
+    "brand": "BenQ",
+    "name": "NE001_series"
   },
   "PT2200": {
     "brand": "BenQ",
@@ -14074,6 +14098,10 @@
   "SHARK MBU-H0": {
     "brand": "Blackshark",
     "name": "MBU-H0"
+  },
+  "ML1107H": {
+    "brand": "Blackshark",
+    "name": "Pad6"
   },
   "Pad6": {
     "brand": "Blackshark",
@@ -22679,6 +22707,10 @@
     "brand": "Cozyla",
     "name": "Calendar2"
   },
+  "Calendar_Go": {
+    "brand": "Cozyla",
+    "name": "Calendar_Go"
+  },
   "ELP-4391K": {
     "brand": "Crafty",
     "name": "Crafty-IFPD"
@@ -24799,9 +24831,17 @@
     "brand": "DOUNDY",
     "name": "DA10"
   },
+  "DH10Kids": {
+    "brand": "DOUNDY",
+    "name": "DH10XS"
+  },
   "DH10XS": {
     "brand": "DOUNDY",
     "name": "DH10XS"
+  },
+  "DK10": {
+    "brand": "Doogee",
+    "name": "V40"
   },
   "W051": {
     "brand": "DPIN",
@@ -27075,6 +27115,10 @@
     "brand": "Digma",
     "name": "Pro 1480E 4G"
   },
+  "R8 DA1C8P02": {
+    "brand": "Digma",
+    "name": "R8"
+  },
   "PRO 1400E 4G RS1253PL": {
     "brand": "Digma",
     "name": "RS1253PL"
@@ -27518,10 +27562,6 @@
   "Blade20 Ultra": {
     "brand": "Doogee",
     "name": "Blade20 Ultra"
-  },
-  "DK10": {
-    "brand": "Doogee",
-    "name": "V40"
   },
   "F10": {
     "brand": "Telego",
@@ -35887,6 +35927,10 @@
     "brand": "Geecoo",
     "name": "G1_3g"
   },
+  "GI-IFP": {
+    "brand": "Geeken",
+    "name": "Geeken_IFPD"
+  },
   "G2W-RS55HD": {
     "brand": "Gen2Wave",
     "name": "Prime RS01"
@@ -37104,8 +37148,8 @@
     "name": "GIONEE_H603B"
   },
   "M11": {
-    "brand": "Southern Telecom",
-    "name": "Polaroid M11"
+    "brand": "ZOLON",
+    "name": "M0315"
   },
   "GIONEE P12": {
     "brand": "Gionee",
@@ -38343,6 +38387,10 @@
     "brand": "Grundig",
     "name": "GTB850"
   },
+  "Grundig 2K Google TV": {
+    "brand": "Grundig",
+    "name": "Grundig 2K Google TV"
+  },
   "Grundig Android TV": {
     "brand": "Grundig",
     "name": "Turkey"
@@ -38366,6 +38414,10 @@
   "Grundig Google UHD TV": {
     "brand": "Grundig",
     "name": "Grundig Google UHD TV"
+  },
+  "Grundig OLED Google TV": {
+    "brand": "Grundig",
+    "name": "Grundig OLED Google TV"
   },
   "Grundig QLED Google TV": {
     "brand": "Grundig",
@@ -59235,6 +59287,10 @@
     "brand": "Jumper",
     "name": "EZpad_M11"
   },
+  "TDV0808": {
+    "brand": "Jumper",
+    "name": "EZpad_M11"
+  },
   "EZpad M11 Pro": {
     "brand": "Jumper",
     "name": "EZpad_M11_Pro"
@@ -60310,6 +60366,10 @@
   "EcoTV J": {
     "brand": "KTCtv",
     "name": "Leading Smart TV"
+  },
+  "MAXIPOWER SMART TV": {
+    "brand": "KTCtv",
+    "name": "MAXIPOWER"
   },
   "40DNA": {
     "brand": "KTCtv",
@@ -79139,6 +79199,10 @@
     "brand": "Mintt",
     "name": "Mintt_T11_SE"
   },
+  "Mintt T3 SE": {
+    "brand": "Mintt",
+    "name": "Mintt_T3_SE"
+  },
   "Mintt_Tab_T1": {
     "brand": "Mintt",
     "name": "Mintt_Tab_T1"
@@ -82953,7 +83017,7 @@
   },
   "Ranger2KN": {
     "brand": "Movfast",
-    "name": "Ranger2KN"
+    "name": "Ranger2KN_RU"
   },
   "Ranger2K_N": {
     "brand": "Movfast",
@@ -85014,6 +85078,10 @@
   "NB_XXE1D_AM_W": {
     "brand": "NEWORK",
     "name": "Interactive Smart Display"
+  },
+  "NB_XXPXX_XX_X": {
+    "brand": "NEWORK",
+    "name": "NewBoard"
   },
   "N2138": {
     "brand": "NEWPAS",
@@ -93267,14 +93335,6 @@
     "brand": "PAX (CN)",
     "name": "A910S"
   },
-  "A920Pro": {
-    "brand": "PAX (CN)",
-    "name": "A920Pro"
-  },
-  "A960": {
-    "brand": "PAX (CN)",
-    "name": "A960"
-  },
   "A99": {
     "brand": "PAX (CN)",
     "name": "A99"
@@ -95876,6 +95936,10 @@
     "name": "PHILIPS"
   },
   "2K SMART TV PH": {
+    "brand": "Philips",
+    "name": "PHILIPS"
+  },
+  "EcoTV Ultra": {
     "brand": "Philips",
     "name": "PHILIPS"
   },
@@ -102429,7 +102493,7 @@
   },
   "A10_PRO": {
     "brand": "RebotAi",
-    "name": "A10_PRO"
+    "name": "A10_PRO_EEA"
   },
   "A10_PRO_EEA": {
     "brand": "RebotAi",
@@ -104691,6 +104755,10 @@
     "brand": "SAWINK",
     "name": "M8_Max"
   },
+  "S8_Ultra": {
+    "brand": "SAWINK",
+    "name": "S8_Ultra"
+  },
   "Schneider 2K Android TV": {
     "brand": "SCHNEIDER",
     "name": "EU、UK、AP"
@@ -104882,6 +104950,10 @@
   "NBP-75": {
     "brand": "SEWOO",
     "name": "SEWOO NBP-75"
+  },
+  "ST11_EEA": {
+    "brand": "SEWOO",
+    "name": "ST11_EEA"
   },
   "ST11": {
     "brand": "SEWOO",
@@ -106294,6 +106366,10 @@
   "S3_U_US": {
     "brand": "SUAAT",
     "name": "S3_U_US"
+  },
+  "S3_V_EEA": {
+    "brand": "SUAAT",
+    "name": "S3_V_EEA"
   },
   "S3_V_US": {
     "brand": "SUAAT",
@@ -119323,6 +119399,10 @@
     "brand": "Samsung",
     "name": "W2017"
   },
+  "WAFX-P": {
+    "brand": "Samsung",
+    "name": "WAFX-P"
+  },
   "SMT-E5015": {
     "brand": "Samsung",
     "name": "olleh"
@@ -119454,6 +119534,10 @@
   "NGamer": {
     "brand": "Sansui",
     "name": "NGamer"
+  },
+  "SANSUI 2K Smart TV": {
+    "brand": "Sansui",
+    "name": "SANSUI 2K Smart TV"
   },
   "SANSUI 2K Smart TV": {
     "brand": "Sansui",
@@ -142379,6 +142463,10 @@
     "brand": "VK DIGITAL",
     "name": "VKONBOX"
   },
+  "VL68_Lite": {
+    "brand": "VL Wireless Inc",
+    "name": "VL68 Lite"
+  },
   "VNPT SmartBox 3": {
     "brand": "VNPT Technology",
     "name": "VNPT SmartBox"
@@ -152751,6 +152839,10 @@
     "brand": "Yasin",
     "name": "Yasin Android TV"
   },
+  "MeetingBoardC": {
+    "brand": "Yealink",
+    "name": "MeetingBoardC"
+  },
   "Trend": {
     "brand": "Yekani",
     "name": "T3A  Trend"
@@ -157291,6 +157383,10 @@
     "brand": "ZTE",
     "name": "Z2465N"
   },
+  "Z2575": {
+    "brand": "ZTE",
+    "name": "Z2575"
+  },
   "Z3153V": {
     "brand": "ZTE",
     "name": "Z3153V"
@@ -158727,10 +158823,6 @@
     "brand": "ZTE",
     "name": "nubia V50 Vita"
   },
-  "Z2575": {
-    "brand": "ZTE",
-    "name": "nubia V80 Design"
-  },
   "nubia Z5": {
     "brand": "ZTE",
     "name": "nubia Z5"
@@ -158958,6 +159050,10 @@
   "ET40": {
     "brand": "Zebra",
     "name": "ET40A"
+  },
+  "ET401": {
+    "brand": "Zebra",
+    "name": "ET401"
   },
   "ET45": {
     "brand": "Zebra",
@@ -161185,7 +161281,7 @@
   },
   "iData T5": {
     "brand": "iData",
-    "name": "iData T5"
+    "name": "iData T5X"
   },
   "iData i2": {
     "brand": "iData",
