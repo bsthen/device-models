@@ -29375,6 +29375,10 @@
     "brand": "ELO Touch",
     "name": "10in-I-Series-5-Value"
   },
+  "14in-E-Series-5": {
+    "brand": "ELO Touch",
+    "name": "14in-E-Series-5"
+  },
   "15in-I-Series-4": {
     "brand": "ELO Touch",
     "name": "15in-I-Series-4"
@@ -30510,6 +30514,10 @@
   "B866V2F01": {
     "brand": "Elisa",
     "name": "B866V2F01"
+  },
+  "Helo3": {
+    "brand": "Elisa",
+    "name": "Viihde Sound"
   },
   "ElliQTablet": {
     "brand": "ElliQ",
@@ -63287,6 +63295,10 @@
     "brand": "LENIX",
     "name": "LENIX Pro"
   },
+  "LENIX Standard": {
+    "brand": "LENIX",
+    "name": "LENIX Standard"
+  },
   "LEM-TS1": {
     "brand": "LEOMO",
     "name": "LEM-TS1"
@@ -89282,6 +89294,10 @@
   "DIW387_UHD_OOR": {
     "brand": "Ooredoo",
     "name": "Ooredoo TV"
+  },
+  "SKW-HP44J-OTV": {
+    "brand": "Ooredoo",
+    "name": "Ooredoo tv"
   },
   "Smart10_Pro": {
     "brand": "Ooredoo",
@@ -142467,9 +142483,13 @@
     "brand": "VK DIGITAL",
     "name": "VKONBOX"
   },
+  "VL68 Lite": {
+    "brand": "VL Wireless Inc",
+    "name": "VL68_Lite"
+  },
   "VL68_Lite": {
     "brand": "VL Wireless Inc",
-    "name": "VL68 Lite"
+    "name": "VL68_Lite"
   },
   "VNPT SmartBox 3": {
     "brand": "VNPT Technology",
