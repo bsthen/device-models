@@ -22707,6 +22707,18 @@
     "brand": "Cozyla",
     "name": "Calendar2"
   },
+  "Calendar2_16": {
+    "brand": "Cozyla",
+    "name": "Calendar2_16"
+  },
+  "Calendar2_24": {
+    "brand": "Cozyla",
+    "name": "Calendar2_24"
+  },
+  "Calendar2_32": {
+    "brand": "Cozyla",
+    "name": "Calendar2_32"
+  },
   "Calendar_Go": {
     "brand": "Cozyla",
     "name": "Calendar_Go"
@@ -82601,7 +82613,7 @@
   },
   "motorola edge 50 neo": {
     "brand": "Motorola",
-    "name": "motorola edge 60 fusion"
+    "name": "motorola edge 60 neo"
   },
   "moto g86 power 5G": {
     "brand": "Motorola",
@@ -82721,7 +82733,7 @@
   },
   "motorola edge 50 ultra": {
     "brand": "Motorola",
-    "name": "motorola edge 50 ultra"
+    "name": "motorola edge 70"
   },
   "motorola edge 5G UW": {
     "brand": "Motorola",
@@ -82739,6 +82751,10 @@
     "brand": "Motorola",
     "name": "motorola edge 60 fusion"
   },
+  "motorola edge 60 neo": {
+    "brand": "Motorola",
+    "name": "motorola edge 60 neo"
+  },
   "motorola edge 60 pro": {
     "brand": "Motorola",
     "name": "motorola edge 60 pro"
@@ -82746,6 +82762,10 @@
   "motorola edge 60s pro": {
     "brand": "Motorola",
     "name": "motorola edge 60s pro"
+  },
+  "motorola edge 70": {
+    "brand": "Motorola",
+    "name": "motorola edge 70"
   },
   "XT2175-2": {
     "brand": "Motorola",
@@ -86422,6 +86442,10 @@
   "NSTV FF": {
     "brand": "NobleSkiodo",
     "name": "NSTV FF"
+  },
+  "Noble Skiodo TV": {
+    "brand": "NobleSkiodo",
+    "name": "Noble Skiodo TV"
   },
   "4K Smart FF TV": {
     "brand": "Noblex",
@@ -93155,6 +93179,10 @@
     "brand": "Oukitel",
     "name": "WP6_EEA"
   },
+  "WP61": {
+    "brand": "Oukitel",
+    "name": "WP61_EEA"
+  },
   "WP7": {
     "brand": "Oukitel",
     "name": "WP7"
@@ -93899,6 +93927,10 @@
     "brand": "POCO",
     "name": "POCO C85"
   },
+  "2508CPC2BI": {
+    "brand": "POCO",
+    "name": "POCO C85 5G"
+  },
   "POCO F2 Pro": {
     "brand": "POCO",
     "name": "POCO F2 Pro"
@@ -93942,6 +93974,14 @@
   "23113RKC6G": {
     "brand": "POCO",
     "name": "POCO F6 Pro"
+  },
+  "2510DPC44G": {
+    "brand": "POCO",
+    "name": "POCO F8 Pro"
+  },
+  "25102PCBEG": {
+    "brand": "POCO",
+    "name": "POCO F8 Ultra"
   },
   "M2004J19PI": {
     "brand": "POCO",
@@ -95711,6 +95751,10 @@
     "brand": "Penta",
     "name": "PENTA_73AAQ1"
   },
+  "AILiveBoard-Core": {
+    "brand": "PeopleLink",
+    "name": "AILiveBoard-Core"
+  },
   "Smart-Ex03": {
     "brand": "Pepperl+Fuchs",
     "name": "Smart-Ex 03"
@@ -96178,6 +96222,10 @@
   "Philips S8325": {
     "brand": "Philips",
     "name": "Philips S8325"
+  },
+  "Philips Smart 2K TV": {
+    "brand": "Philips",
+    "name": "Philips Smart 2K TV"
   },
   "PHILIPS 4K TV": {
     "brand": "Philips",
@@ -102529,7 +102577,7 @@
   },
   "D101": {
     "brand": "RebotAi",
-    "name": "D101"
+    "name": "D101_EEA"
   },
   "D101_EEA": {
     "brand": "RebotAi",
@@ -104043,6 +104091,10 @@
     "brand": "Reliance",
     "name": "Smartphone JS LS-5010"
   },
+  "RLP8T": {
+    "brand": "Relink",
+    "name": "RLP8T"
+  },
   "P60_EUR": {
     "brand": "Relndoo",
     "name": "P60_EUR"
@@ -104070,6 +104122,10 @@
   "T88": {
     "brand": "YOBANSE",
     "name": "T88"
+  },
+  "TAB10_US": {
+    "brand": "Relndoo",
+    "name": "TAB10_US"
   },
   "TB02_E": {
     "brand": "Relndoo",
@@ -106910,6 +106966,10 @@
   "SWTV-24HK-4K NF": {
     "brand": "SWTV",
     "name": "SWTV-24HK-4K NF"
+  },
+  "SWTV-24HK-FHD": {
+    "brand": "SWTV",
+    "name": "SWTV-24HK-FHD"
   },
   "SWTV-24NA-4K": {
     "brand": "SWTV",
@@ -118608,6 +118668,10 @@
     "name": "Galaxy XCover7 Pro"
   },
   "SM-I610": {
+    "brand": "Samsung",
+    "name": "Galaxy XR"
+  },
+  "SM-I610H": {
     "brand": "Samsung",
     "name": "Galaxy XR"
   },
@@ -157411,6 +157475,10 @@
     "brand": "ZTE",
     "name": "Z2575"
   },
+  "Z2576": {
+    "brand": "ZTE",
+    "name": "Z2576"
+  },
   "Z3153V": {
     "brand": "ZTE",
     "name": "Z3153V"
@@ -164201,7 +164269,7 @@
   },
   "V2443A": {
     "brand": "vivo",
-    "name": "Y50i 8+256版"
+    "name": "Y50i 移动定制版"
   },
   "PA2553": {
     "brand": "vivo",
