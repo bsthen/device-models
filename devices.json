@@ -203,6 +203,10 @@
     "brand": "A1",
     "name": "Ai-ES1059"
   },
+  "AI PONT": {
+    "brand": "thehaam",
+    "name": "Smart TV"
+  },
   "M50": {
     "brand": "ZOLON",
     "name": "M50"
@@ -839,8 +843,8 @@
     "brand": "ALBADEEL",
     "name": "AIP_X92"
   },
-  "AI PONT": {
-    "brand": "realme",
+  "Albadeel Google TV": {
+    "brand": "ALBADEEL",
     "name": "Smart TV"
   },
   "A1": {
@@ -974,6 +978,10 @@
   "AF930": {
     "brand": "ANFU",
     "name": "AF930"
+  },
+  "AF980": {
+    "brand": "ANFU",
+    "name": "AF980"
   },
   "L50": {
     "brand": "SPC Mobile",
@@ -1306,6 +1314,10 @@
   "ASTECH UHD Android TV": {
     "brand": "ASTECH",
     "name": "Senegal"
+  },
+  "ASTECH Google TV": {
+    "brand": "ASTECH",
+    "name": "Smart TV"
   },
   "ASTEX 2K Android": {
     "brand": "ASTEX",
@@ -6262,6 +6274,10 @@
   "Kamai7": {
     "brand": "Aminocom",
     "name": "Kamai7"
+  },
+  "AMCON Google TV": {
+    "brand": "Aminocom",
+    "name": "Smart TV"
   },
   "IPA-1104HDH-01": {
     "brand": "eSTREAM 4K",
@@ -19443,6 +19459,10 @@
     "brand": "Changhong",
     "name": "U50H7"
   },
+  "evvoli Google TV": {
+    "brand": "Evvoli",
+    "name": "Smart TV"
+  },
   "CM-7600": {
     "brand": "Channel Master",
     "name": "Stream+"
@@ -21530,6 +21550,10 @@
   "NOVA 80Pro": {
     "brand": "Condor",
     "name": "SP672"
+  },
+  "Condor Google TV": {
+    "brand": "Condor",
+    "name": "Smart TV"
   },
   "TGW710G": {
     "brand": "Condor",
@@ -23623,6 +23647,10 @@
     "brand": "DAIKO",
     "name": "DAIKO UHD TV"
   },
+  "Daiko Google TV": {
+    "brand": "DAIKO",
+    "name": "Smart TV"
+  },
   "MBTWDY01": {
     "brand": "DAIYU",
     "name": "MBTWDY01"
@@ -25102,6 +25130,10 @@
   "Daewoo 4K TV": {
     "brand": "Daewoo",
     "name": "Daewoo 4K TV"
+  },
+  "DAEWOO Google TV": {
+    "brand": "Daewoo",
+    "name": "Smart TV"
   },
   "2K SA Smart TV": {
     "brand": "iMuz",
@@ -34459,6 +34491,10 @@
     "brand": "Fresh",
     "name": "FreshTV"
   },
+  "FRESH GOOGLE TV": {
+    "brand": "Fresh",
+    "name": "Smart TV"
+  },
   "RubensTab_T11": {
     "brand": "Frunsi",
     "name": "RubensTab_T11"
@@ -35146,6 +35182,10 @@
   "GGuardTV": {
     "brand": "G-Guard",
     "name": "G GuardTV"
+  },
+  "G-Guard Google TV": {
+    "brand": "G-Guard",
+    "name": "Smart TV"
   },
   "SPEED_2021": {
     "brand": "G-TOUCH",
@@ -53693,11 +53733,11 @@
   },
   "IMPEX evoQ 2K": {
     "brand": "IMPEX",
-    "name": "IMPEX evoQ 2K"
+    "name": "Smart TV"
   },
   "IMPEX evoQ 4K": {
     "brand": "IMPEX",
-    "name": "IMPEX evoQ 4K"
+    "name": "Smart TV"
   },
   "Impex Smart TV": {
     "brand": "IMPEX",
@@ -59142,6 +59182,10 @@
   "JAWWY-TV-2.0": {
     "brand": "Jawwy TV",
     "name": "JAWWY-TV-2.0"
+  },
+  "JTV Google TV": {
+    "brand": "Jawwy TV",
+    "name": "Smart TV"
   },
   "A10Pro_EEA": {
     "brand": "Jckkcfug",
@@ -69315,6 +69359,10 @@
     "brand": "Lava",
     "name": "LAVA LXX523"
   },
+  "LXX525": {
+    "brand": "Lava",
+    "name": "LAVA LXX525"
+  },
   "LZG410": {
     "brand": "Lava",
     "name": "Yuva Sar 2"
@@ -69390,6 +69438,10 @@
   "LN9821": {
     "brand": "Lava",
     "name": "LN9820"
+  },
+  "LT4900": {
+    "brand": "Lava",
+    "name": "LT4900"
   },
   "LAVA LXX519": {
     "brand": "Lava",
@@ -76046,6 +76098,14 @@
   "MARCEL GSMART5.0 4KTV FF": {
     "brand": "Marcel",
     "name": "MARCEL GSMART5.0 4KTV FF"
+  },
+  "MARCEL UHD GOOGLE TV 5.0": {
+    "brand": "Marcel",
+    "name": "Smart TV"
+  },
+  "MARCEL GOOGLE TV5.0": {
+    "brand": "Marcel",
+    "name": "Smart TV"
   },
   "Markatab-1": {
     "brand": "MarkaTab",
@@ -92611,6 +92671,10 @@
     "brand": "Orbic",
     "name": "RC8L1T-RW1"
   },
+  "Orbit GOOGLE TV": {
+    "brand": "OrbitWorld",
+    "name": "Smart TV"
+  },
   "R678L5SV": {
     "brand": "Orbic",
     "name": "StyleVisible"
@@ -93831,6 +93895,10 @@
     "brand": "PEAQ",
     "name": "PET_8040_H464S"
   },
+  "AI PONT IT": {
+    "brand": "SABA",
+    "name": "Smart TV"
+  },
   "AT74K": {
     "brand": "PEICHENG",
     "name": "AT74K"
@@ -93930,6 +93998,10 @@
   "SMARTlink_EEA": {
     "brand": "PHYWE",
     "name": "SMARTlink_EEA"
+  },
+  "PILOT Google TV": {
+    "brand": "PILOT",
+    "name": "Smart TV"
   },
   "SGWIFIPAD320093": {
     "brand": "PINOCCHIO",
@@ -96031,6 +96103,10 @@
     "brand": "Philco",
     "name": "PhilcoTV"
   },
+  "AI PONT BR": {
+    "brand": "Philco",
+    "name": "Smart TV"
+  },
   "TP10A332": {
     "brand": "Philco",
     "name": "TP10A332"
@@ -96454,6 +96530,10 @@
   "S6133S": {
     "brand": "Philips",
     "name": "S6133S"
+  },
+  "SWTV": {
+    "brand": "Skyworth",
+    "name": "Euro"
   },
   "Philips 4K A1": {
     "brand": "Philips",
@@ -101491,6 +101571,10 @@
     "brand": "RAVOZ",
     "name": "RAVOZ_Z8"
   },
+  "RAYLAN GOOGLE TV": {
+    "brand": "RAYLAN",
+    "name": "Smart TV"
+  },
   "ATLAS 2": {
     "brand": "RAYO_MOVIl",
     "name": "ATLAS 2"
@@ -104919,7 +105003,7 @@
     "brand": "S-tell",
     "name": "P850"
   },
-  "AI PONT IT": {
+  "AI PONT FR": {
     "brand": "SABA",
     "name": "Smart TV"
   },
@@ -105315,6 +105399,10 @@
     "brand": "SHIFT",
     "name": "SHIFTphone 8"
   },
+  "SHINON Google TV": {
+    "brand": "SHINON",
+    "name": "Smart TV"
+  },
   "SHOWNIC 4K Google TV": {
     "brand": "SHOWNIC",
     "name": "EMEA"
@@ -105586,6 +105674,10 @@
   "Smartplus": {
     "brand": "SMART +",
     "name": "S40_PLUS"
+  },
+  "Google TV": {
+    "brand": "SMART TECHNOLOGY",
+    "name": "Smart TV"
   },
   "AM60 series": {
     "brand": "SMART Technologies",
@@ -106970,10 +107062,6 @@
   "GMS_TAB10": {
     "brand": "SWACONNECT",
     "name": "SWA310_NEU"
-  },
-  "SWTV": {
-    "brand": "Skyworth",
-    "name": "Euro"
   },
   "SW-22AE NF": {
     "brand": "SWTV",
@@ -134669,7 +134757,7 @@
   },
   "TD SYSTEMS Android TV": {
     "brand": "TD SYSTEMS",
-    "name": "EUROPE"
+    "name": "Smart TV"
   },
   "V800": {
     "brand": "TD Tech",
@@ -135142,6 +135230,10 @@
   "TOPNICE-H66": {
     "brand": "TOPNICE",
     "name": "IFPD-H66"
+  },
+  "TORNADO Google TV": {
+    "brand": "TORNADO",
+    "name": "Smart TV"
   },
   "TORNADO 2K SMART TV": {
     "brand": "TORNADO",
@@ -140442,6 +140534,10 @@
   "UKA_Dream_1": {
     "brand": "UKA-Dream",
     "name": "UKA_Dream_1"
+  },
+  "UNEVA Google TV": {
+    "brand": "UNEVA",
+    "name": "Smart TV"
   },
   "UNICO 2K AI Smart TV": {
     "brand": "UNICO",
@@ -149307,6 +149403,14 @@
     "brand": "Walton",
     "name": "RX7 Mini"
   },
+  "WALTON UHD GOOGLE TV 5.0": {
+    "brand": "Walton",
+    "name": "Smart TV"
+  },
+  "WALTON GOOGLE TV5.0": {
+    "brand": "Walton",
+    "name": "Smart TV"
+  },
   "Walpad_10H": {
     "brand": "Walton",
     "name": "WALPAD 10H"
@@ -149394,6 +149498,10 @@
   "zenx 2": {
     "brand": "Walton",
     "name": "zenx 2"
+  },
+  "WANSA Google TV": {
+    "brand": "Wansa",
+    "name": "Smart TV"
   },
   "Avengers": {
     "brand": "Warner Bros",
