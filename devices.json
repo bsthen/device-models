@@ -82589,7 +82589,15 @@
   },
   "moto g05": {
     "brand": "Motorola",
-    "name": "moto g05"
+    "name": "moto g06 power"
+  },
+  "moto g06": {
+    "brand": "Motorola",
+    "name": "moto g06"
+  },
+  "moto g06 power": {
+    "brand": "Motorola",
+    "name": "moto g06 power"
   },
   "moto g(10) power": {
     "brand": "Motorola",
@@ -82766,6 +82774,10 @@
   "moto g66y 5G": {
     "brand": "Motorola",
     "name": "moto g66y 5G"
+  },
+  "XT2533-4": {
+    "brand": "Motorola",
+    "name": "moto g67 power 5G"
   },
   "moto g67 power 5G": {
     "brand": "Motorola",
