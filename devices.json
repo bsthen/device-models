@@ -5895,6 +5895,10 @@
     "brand": "Alldocube",
     "name": "iPlay_70_Max"
   },
+  "iPlay 70 Pad Pro": {
+    "brand": "Alldocube",
+    "name": "iPlay_70_Pad_Pro"
+  },
   "iPlay_70_Pro": {
     "brand": "Alldocube",
     "name": "iPlay_70_Pro"
@@ -13498,6 +13502,10 @@
   "RP8604": {
     "brand": "BenQ",
     "name": "RP8604"
+  },
+  "AI PONT PLUS FF": {
+    "brand": "Wansa",
+    "name": "Smart TV"
   },
   "BenQ T3": {
     "brand": "BenQ",
@@ -26647,6 +26655,10 @@
     "brand": "Digit",
     "name": "DigitPad10"
   },
+  "Digit chrome": {
+    "brand": "Digit",
+    "name": "Digit_Chrome"
+  },
   "Digit Glory1": {
     "brand": "Digit",
     "name": "Digit_Glory"
@@ -31750,6 +31762,10 @@
   "E0120": {
     "brand": "Everis",
     "name": "E0120"
+  },
+  "KB1008": {
+    "brand": "Evermyth",
+    "name": "KB1008_EEA"
   },
   "KB1009": {
     "brand": "Evermyth",
@@ -46068,6 +46084,10 @@
     "name": "ALFA 8RX"
   },
   "ALFA10MX": {
+    "brand": "Hometech",
+    "name": "ALFA10MX"
+  },
+  "Alfa 10MX": {
     "brand": "Hometech",
     "name": "ALFA10MX"
   },
@@ -63393,7 +63413,7 @@
   },
   "C20Pro": {
     "brand": "LANDI",
-    "name": "C20Pro"
+    "name": "C20ProN00"
   },
   "C20ProSE": {
     "brand": "LANDI",
@@ -84363,6 +84383,10 @@
     "brand": "Myphone",
     "name": "brown 1"
   },
+  "my17": {
+    "brand": "Myphone",
+    "name": "my17"
+  },
   "MyPhone my28S": {
     "brand": "Myphone",
     "name": "my28S"
@@ -92683,10 +92707,6 @@
     "brand": "Orbic",
     "name": "RC8L1T-RW1"
   },
-  "Orbit GOOGLE TV": {
-    "brand": "OrbitWorld",
-    "name": "Smart TV"
-  },
   "R678L5SV": {
     "brand": "Orbic",
     "name": "StyleVisible"
@@ -92702,6 +92722,10 @@
   "OrbitWorld_Tablet": {
     "brand": "OrbitWorld",
     "name": "OrbitWorld_Tablet"
+  },
+  "Orbit GOOGLE TV": {
+    "brand": "OrbitWorld",
+    "name": "Smart TV"
   },
   "Celia": {
     "brand": "Ordissimo",
@@ -104919,6 +104943,10 @@
     "brand": "Ruio",
     "name": "S6537G"
   },
+  "Edge X1": {
+    "brand": "Ruio",
+    "name": "S6539Q"
+  },
   "Hot2": {
     "brand": "Ruio",
     "name": "S6539Q"
@@ -107045,11 +107073,15 @@
   },
   "TAB_P10": {
     "brand": "SVITOO",
-    "name": "TAB_P10_EEA_C"
+    "name": "TAB_P10_ROW"
   },
   "TAB_P10_EEA": {
     "brand": "SVITOO",
     "name": "TAB_P10_EEA"
+  },
+  "TAB_P10_ROW": {
+    "brand": "SVITOO",
+    "name": "TAB_P10_ROW"
   },
   "TAB P12": {
     "brand": "SVITOO",
@@ -132799,6 +132831,14 @@
     "brand": "TCT (Alcatel)",
     "name": "Alcatel A11 SE"
   },
+  "A601N": {
+    "brand": "TCT (Alcatel)",
+    "name": "Alcatel A62"
+  },
+  "A601Q": {
+    "brand": "TCT (Alcatel)",
+    "name": "Alcatel A62"
+  },
   "Alcatel_5004R": {
     "brand": "TCT (Alcatel)",
     "name": "Alcatel AXEL™"
@@ -136446,6 +136486,10 @@
   "P50S": {
     "brand": "Teclast",
     "name": "P50S_ROW"
+  },
+  "P50T_E_ROW": {
+    "brand": "Teclast",
+    "name": "P50T_E_ROW"
   },
   "P50_B": {
     "brand": "Teclast",
@@ -144711,6 +144755,10 @@
     "brand": "ViewSonic",
     "name": "IFP8652-2"
   },
+  "IN01_2_1N": {
+    "brand": "ViewSonic",
+    "name": "IN01_2_1N"
+  },
   "IN02_series": {
     "brand": "ViewSonic",
     "name": "IN02 series"
@@ -150923,6 +150971,10 @@
     "brand": "Wpawa",
     "name": "HT10-PRO"
   },
+  "HT10_Ultra": {
+    "brand": "Wpawa",
+    "name": "HT10_Ultra"
+  },
   "ACE": {
     "brand": "X-Age",
     "name": "ACE"
@@ -153982,6 +154034,10 @@
   "NX732J": {
     "brand": "ZTE",
     "name": "nubia Flip 2 5G"
+  },
+  "A506ZT": {
+    "brand": "ZTE",
+    "name": "A506ZT"
   },
   "ZTE A880": {
     "brand": "ZTE",
@@ -159227,6 +159283,10 @@
     "brand": "ZTE",
     "name": "nubia Pad SE"
   },
+  "A507ZT": {
+    "brand": "ZTE",
+    "name": "nubia S2e"
+  },
   "nubia 8550": {
     "brand": "ZTE",
     "name": "nubia V50 Vita"
@@ -160294,6 +160354,10 @@
   "MAGNO S": {
     "brand": "Zuum",
     "name": "MAGNO S"
+  },
+  "MAGNO C3": {
+    "brand": "Zuum",
+    "name": "MAGNO_C3"
   },
   "MAGNO P1": {
     "brand": "Zuum",
@@ -163027,6 +163091,10 @@
     "brand": "novo",
     "name": "Bonvi Pro"
   },
+  "AI PONT FF": {
+    "brand": "oboni",
+    "name": "Smart TV"
+  },
   "TK706": {
     "brand": "okayseamedia",
     "name": "TK706"
@@ -163706,6 +163774,10 @@
   "RMX5020": {
     "brand": "realme",
     "name": "realme C75x"
+  },
+  "RMX5566": {
+    "brand": "realme",
+    "name": "realme C85"
   },
   "RMX5253": {
     "brand": "realme",
