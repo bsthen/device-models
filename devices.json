@@ -2383,6 +2383,10 @@
     "brand": "Acer",
     "name": "A8P2"
   },
+  "AC50": {
+    "brand": "Acer",
+    "name": "Acer_AC50_RD"
+  },
   "ACER_ALTOS_EZBA": {
     "brand": "Acer",
     "name": "ACER ALTOS EZBA"
@@ -2654,10 +2658,6 @@
   "A62 ULTRA": {
     "brand": "Acer",
     "name": "Acer_A62_ULTRA_RD"
-  },
-  "AC50": {
-    "brand": "Acer",
-    "name": "Acer_AC50_RD"
   },
   "AC81": {
     "brand": "Acer",
@@ -29178,6 +29178,10 @@
   "Wolf10R": {
     "brand": "EACRUGGED",
     "name": "Wolf10R"
+  },
+  "EarsoN02": {
+    "brand": "EARSON",
+    "name": "EarsoN02"
   },
   "VC5": {
     "brand": "EARTHTREK",
@@ -68143,6 +68147,10 @@
     "brand": "LOOQS",
     "name": "L108MR"
   },
+  "DECO LOWI DIW252": {
+    "brand": "LOWI",
+    "name": "DECO LOWI DIW252"
+  },
   "LP Legend": {
     "brand": "LP (TN)",
     "name": "LP Legend"
@@ -82771,6 +82779,14 @@
     "brand": "Motorola",
     "name": "moto g56 5G"
   },
+  "moto g57 power": {
+    "brand": "Motorola",
+    "name": "moto g57 power"
+  },
+  "motorola edge 60 stylus": {
+    "brand": "Motorola",
+    "name": "motorola edge 60 stylus"
+  },
   "moto g62 5G": {
     "brand": "Motorola",
     "name": "moto g62 5G"
@@ -82802,10 +82818,6 @@
   "moto g67 power 5G": {
     "brand": "Motorola",
     "name": "moto g67 power 5G"
-  },
-  "motorola edge 60 stylus": {
-    "brand": "Motorola",
-    "name": "motorola edge 60 stylus"
   },
   "moto g72": {
     "brand": "Motorola",
@@ -96490,6 +96502,10 @@
   "Philips S6320T": {
     "brand": "Philips",
     "name": "Philips S6320T"
+  },
+  "Philips S8310": {
+    "brand": "Philips",
+    "name": "Philips S8310 EEA"
   },
   "Philips S8320": {
     "brand": "Philips",
