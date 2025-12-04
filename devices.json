@@ -1235,6 +1235,10 @@
     "brand": "ARTRAN",
     "name": "IB868H"
   },
+  "LI109Q": {
+    "brand": "ARTRAN",
+    "name": "LI109Q"
+  },
   "ARZOPA P1": {
     "brand": "ARZOPA",
     "name": "P1_EEA"
@@ -1705,7 +1709,7 @@
   },
   "S_Series": {
     "brand": "AVOCOR",
-    "name": "Commercial_Display"
+    "name": "S_Series"
   },
   "AWOW_CreaPad_1001": {
     "brand": "AWOW",
@@ -16919,6 +16923,10 @@
     "brand": "BrailleNote",
     "name": "gryphon"
   },
+  "BGX5": {
+    "brand": "Brain",
+    "name": "Natural AI Phone"
+  },
   "L1Fa": {
     "brand": "Brandcode",
     "name": "L1Fa"
@@ -17264,8 +17272,8 @@
     "name": "Spira E2X 5\\'\\'"
   },
   "bytello_edla": {
-    "brand": "Bytello",
-    "name": "general_broad_3588"
+    "brand": "CVTE",
+    "name": "general_3576"
   },
   "X134": {
     "brand": "Byxsb",
@@ -20603,6 +20611,10 @@
     "brand": "Clevertouch",
     "name": "IMPACT Lux"
   },
+  "Pro_C_Display": {
+    "brand": "Clevertouch",
+    "name": "Pro-C"
+  },
   "Pro_Series_3_Display": {
     "brand": "Clevertouch",
     "name": "Pro_Series_3"
@@ -23667,6 +23679,14 @@
     "brand": "DAMASCO",
     "name": "DAMASCO MOBILE SERIE M-300 VISION"
   },
+  "SERIE_M_100": {
+    "brand": "DAMASCO",
+    "name": "SERIE_M_100"
+  },
+  "SERIE_M_200": {
+    "brand": "DAMASCO",
+    "name": "SERIE_M_200"
+  },
   "TAB-T101-4": {
     "brand": "DAMASCO",
     "name": "TAB-T101-4"
@@ -25542,6 +25562,10 @@
   "K908H4G": {
     "brand": "Datamini",
     "name": "K908H4G"
+  },
+  "T1004G": {
+    "brand": "Datamini",
+    "name": "T1004G"
   },
   "T104G": {
     "brand": "Datamini",
@@ -32598,6 +32622,10 @@
   "D118_EEA": {
     "brand": "FEONAL",
     "name": "D118_EEA"
+  },
+  "D123_EEA": {
+    "brand": "FEONAL",
+    "name": "D123_EEA"
   },
   "D138_EEA": {
     "brand": "FEONAL",
@@ -42071,6 +42099,10 @@
     "brand": "HTC",
     "name": "Wildfire E6"
   },
+  "Wildfire E6 Elite": {
+    "brand": "HTC",
+    "name": "Wildfire E6 Elite"
+  },
   "Wildfire E6 Plus": {
     "brand": "HTC",
     "name": "Wildfire E6 Plus"
@@ -42944,7 +42976,7 @@
     "name": "T785B"
   },
   "TAB-700": {
-    "brand": "Haier",
+    "brand": "NPsystem",
     "name": "TAB-700"
   },
   "TAB700MPG": {
@@ -68307,6 +68339,10 @@
     "brand": "LT_Mobile",
     "name": "LT_9902"
   },
+  "LT_9904": {
+    "brand": "LT_Mobile",
+    "name": "LT_9904"
+  },
   "LT_9906": {
     "brand": "LT_Mobile",
     "name": "LT_9906"
@@ -74831,6 +74867,14 @@
     "brand": "MEIZE",
     "name": "D108"
   },
+  "D121": {
+    "brand": "MEIZE",
+    "name": "D121"
+  },
+  "D123": {
+    "brand": "MEIZE",
+    "name": "D123"
+  },
   "D125": {
     "brand": "MEIZE",
     "name": "D125"
@@ -79755,6 +79799,10 @@
     "brand": "MobiIoT",
     "name": "MobiPrint 5"
   },
+  "WM58": {
+    "brand": "MobiIoT",
+    "name": "WM58"
+  },
   "MobiPrint4_Plus": {
     "brand": "MobiIoT",
     "name": "MobiPrint4_Plus"
@@ -79766,10 +79814,6 @@
   "MobiGo2L": {
     "brand": "MobiIoT",
     "name": "Mobigo2L"
-  },
-  "WM58": {
-    "brand": "MobiIoT",
-    "name": "WM58"
   },
   "MO-T3": {
     "brand": "MobiOcean",
@@ -82194,6 +82238,10 @@
   "XT2301-5": {
     "brand": "Motorola",
     "name": "moto X40"
+  },
+  "XT2601-1": {
+    "brand": "Motorola",
+    "name": "moto X70 Air"
   },
   "moto e": {
     "brand": "Motorola",
@@ -85274,6 +85322,10 @@
   "V22S": {
     "brand": "Vortex",
     "name": "V22S"
+  },
+  "N16": {
+    "brand": "NEMO",
+    "name": "N16"
   },
   "N36s": {
     "brand": "NEMO",
@@ -92935,6 +92987,10 @@
     "brand": "Oukitel",
     "name": "C61_Pro_EEA"
   },
+  "C62": {
+    "brand": "Oukitel",
+    "name": "OUKITEL_C62_EEA"
+  },
   "C62 Pro": {
     "brand": "Oukitel",
     "name": "C62_Pro_EEA"
@@ -93122,10 +93178,6 @@
   "C59": {
     "brand": "Oukitel",
     "name": "OUKITEL_C59_EEA"
-  },
-  "C62": {
-    "brand": "Oukitel",
-    "name": "OUKITEL_C62_EEA"
   },
   "OUKITEL G3": {
     "brand": "Oukitel",
@@ -94078,6 +94130,10 @@
   "M328-EEA": {
     "brand": "PIXGOOD",
     "name": "M328-EEA"
+  },
+  "M902-EEA": {
+    "brand": "PIXGOOD",
+    "name": "M902-EEA"
   },
   "L60-EEA": {
     "brand": "PIXPEAK",
@@ -119619,6 +119675,18 @@
     "brand": "Samsung",
     "name": "Galaxy Z Fold7"
   },
+  "SM-F9680": {
+    "brand": "Samsung",
+    "name": "Galaxy Z TriFold"
+  },
+  "SM-F968B": {
+    "brand": "Samsung",
+    "name": "Galaxy Z TriFold"
+  },
+  "SM-F968N": {
+    "brand": "Samsung",
+    "name": "Galaxy Z TriFold"
+  },
   "YP-GB70D": {
     "brand": "Samsung",
     "name": "Galaxy player 70 Plus"
@@ -126671,6 +126739,10 @@
     "brand": "SparX",
     "name": "Sparx_Neo_15"
   },
+  "Sparx Neo 15 Pro": {
+    "brand": "SparX",
+    "name": "Sparx_Neo_15_Pro"
+  },
   "Sparx_Neo_15_Pro": {
     "brand": "SparX",
     "name": "Sparx_Neo_15_Pro"
@@ -127786,6 +127858,10 @@
   "SunDirectMax": {
     "brand": "SunDirectMax",
     "name": "SunDirectMax"
+  },
+  "EZ 2": {
+    "brand": "Sun_King",
+    "name": "EZ 2"
   },
   "EZ 1": {
     "brand": "Sun_King",
@@ -135336,7 +135412,7 @@
     "name": "T13-EEA"
   },
   "T15": {
-    "brand": "TOSCIDO",
+    "brand": "Trecfone",
     "name": "T15"
   },
   "T15-EEA": {
@@ -162926,6 +163002,14 @@
   "meanIT_X2": {
     "brand": "intelkom",
     "name": "meanIT_X2"
+  },
+  "BLK-L03": {
+    "brand": "iotapk",
+    "name": "HONOR CHOICE AI Translator"
+  },
+  "BLK-L09": {
+    "brand": "iotapk",
+    "name": "HONOR CHOICE AI Translator"
   },
   "Polar3": {
     "brand": "ioutdoor",
