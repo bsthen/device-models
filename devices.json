@@ -47375,6 +47375,10 @@
     "brand": "Hotwav",
     "name": "A17 Pro Max"
   },
+  "A25 Ultra": {
+    "brand": "Hotwav",
+    "name": "A36"
+  },
   "A36": {
     "brand": "Hotwav",
     "name": "A36"
@@ -58823,6 +58827,10 @@
     "brand": "JTWORKS",
     "name": "JTWORKS-IFPD"
   },
+  "KT14Pro": {
+    "brand": "JTYPAD",
+    "name": "KT14Pro-EEA"
+  },
   "R500_EEA": {
     "brand": "JUEDUR",
     "name": "R500 EEA"
@@ -59253,7 +59261,7 @@
   },
   "A10 PLUS": {
     "brand": "Jckkcfug",
-    "name": "A10_PLUS_EEA"
+    "name": "A10_PLUS_ROW"
   },
   "A20Plus_EEA": {
     "brand": "Jckkcfug",
@@ -62150,6 +62158,10 @@
   "KATB2P1064WPA": {
     "brand": "Kogan",
     "name": "KATB2P1064WPA"
+  },
+  "KATB311PLSPA": {
+    "brand": "Kogan",
+    "name": "KATB311PLSPA"
   },
   "Kogan 4K Android TV": {
     "brand": "Kogan",
@@ -78171,6 +78183,10 @@
     "brand": "Meswao",
     "name": "MES-B3"
   },
+  "MetfoneTVBox": {
+    "brand": "MetfoneTVBox",
+    "name": "MetfoneTVBox"
+  },
   "E2": {
     "brand": "VerD",
     "name": "E2"
@@ -83353,7 +83369,7 @@
   },
   "Ranger2KN": {
     "brand": "Movfast",
-    "name": "Ranger2KN_RU"
+    "name": "Ranger2KN"
   },
   "Ranger2K_N": {
     "brand": "Movfast",
@@ -88807,6 +88823,10 @@
     "brand": "Olympia",
     "name": "NEO_Mini"
   },
+  "OLYMPIA Neo_Mini+": {
+    "brand": "Olympia",
+    "name": "Smartphone2"
+  },
   "TREK": {
     "brand": "Olympia",
     "name": "TREK"
@@ -92438,6 +92458,10 @@
   "DV8555": {
     "brand": "Orange",
     "name": "DV8555"
+  },
+  "DV9651": {
+    "brand": "Orange",
+    "name": "DV9651"
   },
   "Orange Dive 30": {
     "brand": "Orange",
@@ -142583,6 +142607,10 @@
     "brand": "VASOUN",
     "name": "L10-T11-EEA"
   },
+  "L10-T17-EEA": {
+    "brand": "VASOUN",
+    "name": "L10-T17-EEA"
+  },
   "L10_T06": {
     "brand": "VASOUN",
     "name": "L10_T06"
@@ -159339,6 +159367,10 @@
     "brand": "ZTE",
     "name": "nubia Focus 5G"
   },
+  "A502ZT": {
+    "brand": "ZTE",
+    "name": "nubia Fold"
+  },
   "Z2353": {
     "brand": "ZTE",
     "name": "nubia Music"
@@ -159374,6 +159406,10 @@
   "K99J": {
     "brand": "ZTE",
     "name": "nubia Pad SE"
+  },
+  "Z6305R": {
+    "brand": "ZTE",
+    "name": "nubia S2R"
   },
   "A507ZT": {
     "brand": "ZTE",
@@ -160499,6 +160535,10 @@
     "brand": "Zuum",
     "name": "SENS_G"
   },
+  "SENS PLUS": {
+    "brand": "Zuum",
+    "name": "SENS_PLUS1"
+  },
   "STELLAR": {
     "brand": "Zuum",
     "name": "STELLAR"
@@ -160802,6 +160842,10 @@
   "AEOP517": {
     "brand": "benco",
     "name": "benco V92"
+  },
+  "AEOP527": {
+    "brand": "benco",
+    "name": "benco V93"
   },
   "AH9110": {
     "brand": "benco",
