@@ -20949,7 +20949,7 @@
   },
   "P60": {
     "brand": "Relndoo",
-    "name": "P60_ROW"
+    "name": "P60_U_US"
   },
   "P52_Pride5C": {
     "brand": "ColorsMobile",
@@ -60334,6 +60334,10 @@
   "KONKA 2K Android TV-B": {
     "brand": "KONKA",
     "name": "KONKA 2K Android TV-B"
+  },
+  "KONKA 2K Google TV": {
+    "brand": "KONKA",
+    "name": "KONKA 2K Google TV"
   },
   "KONKA 4K Android TV-A": {
     "brand": "KONKA",
@@ -142579,6 +142583,10 @@
     "brand": "VASOUN",
     "name": "L10-C03"
   },
+  "L10-C03_EEA": {
+    "brand": "VASOUN",
+    "name": "L10-C03_EEA"
+  },
   "L10-M01": {
     "brand": "VASOUN",
     "name": "L10-M01"
@@ -142606,6 +142614,10 @@
   "L10-T11-EEA": {
     "brand": "VASOUN",
     "name": "L10-T11-EEA"
+  },
+  "L10-T17": {
+    "brand": "VASOUN",
+    "name": "L10-T17"
   },
   "L10-T17-EEA": {
     "brand": "VASOUN",
@@ -143006,6 +143018,10 @@
   "VKONEBOX": {
     "brand": "VK DIGITAL",
     "name": "VKONBOX"
+  },
+  "VL68": {
+    "brand": "VL Wireless Inc",
+    "name": "VL68"
   },
   "VL68 Lite": {
     "brand": "VL Wireless Inc",
@@ -163390,6 +163406,10 @@
   "PP86AK": {
     "brand": "onn.",
     "name": "PP86AK"
+  },
+  "SL713B1": {
+    "brand": "onn.",
+    "name": "SL713B1"
   },
   "100135923": {
     "brand": "onn.",
