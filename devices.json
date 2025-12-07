@@ -1343,6 +1343,10 @@
     "brand": "ASTEX",
     "name": "ASTEX Google TV"
   },
+  "ASTEX JT Google TV": {
+    "brand": "ASTEX",
+    "name": "KKRTK2851FJTGTV_ASTEX"
+  },
   "Hyper_Max_Power": {
     "brand": "ASTON",
     "name": "Hyper_Max_Power"
@@ -4278,6 +4282,10 @@
   "KB1001": {
     "brand": "Ainmel",
     "name": "KB1001_EEA"
+  },
+  "KB1003": {
+    "brand": "Ainmel",
+    "name": "KB1003_EEA"
   },
   "KB1004": {
     "brand": "Ainmel",
@@ -60307,6 +60315,14 @@
     "brand": "KONKA",
     "name": "KC516_Pro"
   },
+  "KONKA 4K Google TV": {
+    "brand": "KONKA",
+    "name": "KKRTK2851FGTV_K"
+  },
+  "KONKA 4KP Google TV": {
+    "brand": "KONKA",
+    "name": "KKRTK2875P_K"
+  },
   "KM7012BK": {
     "brand": "KONKA",
     "name": "KM7012BK"
@@ -94175,6 +94191,10 @@
     "brand": "PIXPEAK",
     "name": "M258-EEA"
   },
+  "M832-EEA": {
+    "brand": "PIXPEAK",
+    "name": "M832-EEA"
+  },
   "P107-EEA": {
     "brand": "PIXPEAK",
     "name": "P107-EEA"
@@ -101894,6 +101914,10 @@
   "RC10T3G21": {
     "brand": "RCA",
     "name": "RC10T3G21"
+  },
+  "OA-SAHARA": {
+    "brand": "RCA",
+    "name": "RC10TB"
   },
   "RC10TB": {
     "brand": "RCA",
