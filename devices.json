@@ -5787,6 +5787,10 @@
     "brand": "Alldocube",
     "name": "iPlay 60 Pad Pro"
   },
+  "iPlay70MaxPro5G": {
+    "brand": "Alldocube",
+    "name": "iPlay 70 Max Pro 5G"
+  },
   "T806MH": {
     "brand": "Alldocube",
     "name": "iPlay 8 Pro"
@@ -6838,6 +6842,10 @@
   "SW3299T-4K": {
     "brand": "Apolosign",
     "name": "PortableTV"
+  },
+  "StandMe": {
+    "brand": "Apolosign",
+    "name": "PortableTVSW3299TFHD"
   },
   "WF1589T": {
     "brand": "Apolosign",
@@ -19414,6 +19422,10 @@
   "CTA Q7": {
     "brand": "Centerm",
     "name": "CTA Q7"
+  },
+  "K6": {
+    "brand": "Pokini",
+    "name": "K6"
   },
   "Centric CM3331": {
     "brand": "Centric",
@@ -32923,6 +32935,10 @@
     "brand": "FOSSiBOT",
     "name": "S3_Pro"
   },
+  "S5_Pro": {
+    "brand": "FOSSiBOT",
+    "name": "S5 Pro"
+  },
   "A55AM": {
     "brand": "FOXX",
     "name": "A55AM"
@@ -35510,6 +35526,10 @@
   "GigaX Y30": {
     "brand": "GDL(BD)",
     "name": "GigaX Y30"
+  },
+  "GigaX S7": {
+    "brand": "GDL(BD)",
+    "name": "GigaX_S7"
   },
   "MB10": {
     "brand": "GDM (es)",
@@ -53839,6 +53859,10 @@
     "brand": "INGSCREEN",
     "name": "IS-Pro-Series"
   },
+  "IS_6518": {
+    "brand": "INGSCREEN",
+    "name": "IS_6518_Pro"
+  },
   "IMA301": {
     "brand": "INMO",
     "name": "IMA301"
@@ -53902,6 +53926,10 @@
   "INOI_5_Pro": {
     "brand": "INOI",
     "name": "INOI 5 Pro"
+  },
+  "A152": {
+    "brand": "INOI",
+    "name": "INOI A16"
   },
   "A550": {
     "brand": "INOI",
@@ -60522,10 +60550,6 @@
   "K5m": {
     "brand": "KRIP",
     "name": "K5m"
-  },
-  "K6": {
-    "brand": "Pokini",
-    "name": "K6"
   },
   "K60": {
     "brand": "koobee",
@@ -74456,8 +74480,8 @@
     "name": "C67"
   },
   "C68": {
-    "brand": "M-Horse",
-    "name": "C68"
+    "brand": "Oukitel",
+    "name": "C68_ROW"
   },
   "Pure1": {
     "brand": "M-Horse",
@@ -79918,6 +79942,10 @@
   "P11 Plus": {
     "brand": "Mobicel",
     "name": "Z6"
+  },
+  "Mobicel P12 Plus": {
+    "brand": "Mobicel",
+    "name": "P12 Plus"
   },
   "RX": {
     "brand": "Mobicel",
@@ -93023,9 +93051,17 @@
     "brand": "Oukitel",
     "name": "C59_Pro_EEA"
   },
+  "C59": {
+    "brand": "Oukitel",
+    "name": "OUKITEL_C59_EEA"
+  },
   "C60 Pro": {
     "brand": "Oukitel",
     "name": "C60_Pro_EEA"
+  },
+  "C61 CDMA": {
+    "brand": "Oukitel",
+    "name": "C61_Plus_ROW"
   },
   "C61 Pro": {
     "brand": "Oukitel",
@@ -93054,6 +93090,14 @@
   "C65 Pro": {
     "brand": "Oukitel",
     "name": "C65_Pro_EEA"
+  },
+  "C68 Plus": {
+    "brand": "Oukitel",
+    "name": "C68_Plus_NFC_ROW"
+  },
+  "C69": {
+    "brand": "Oukitel",
+    "name": "C69_ROW"
   },
   "C8 4G": {
     "brand": "Oukitel",
@@ -93219,10 +93263,6 @@
     "brand": "Oukitel",
     "name": "OUKITEL_C2_EEA"
   },
-  "C59": {
-    "brand": "Oukitel",
-    "name": "OUKITEL_C59_EEA"
-  },
   "OUKITEL G3": {
     "brand": "Oukitel",
     "name": "OUKITEL_G3_EEA"
@@ -93237,7 +93277,7 @@
   },
   "RT7 TITAN 5G": {
     "brand": "Oukitel",
-    "name": "P07_NFC_EEA"
+    "name": "RT7_TITAN_5G_EEA"
   },
   "RT1": {
     "brand": "Oukitel",
@@ -93539,6 +93579,10 @@
     "brand": "Oukitel",
     "name": "WP56_EEA"
   },
+  "WP58 Pro": {
+    "brand": "Oukitel",
+    "name": "WP58_Pro_ROW"
+  },
   "WP6": {
     "brand": "Oukitel",
     "name": "WP6_EEA"
@@ -93546,6 +93590,10 @@
   "WP61": {
     "brand": "Oukitel",
     "name": "WP61_EEA"
+  },
+  "WP62": {
+    "brand": "Oukitel",
+    "name": "WP62_A15_ROW"
   },
   "WP7": {
     "brand": "Oukitel",
@@ -102519,6 +102567,10 @@
     "brand": "Razer",
     "name": "Razer phone"
   },
+  "ReSYS_IB": {
+    "brand": "ReSYS",
+    "name": "RE SYS-IFPD"
+  },
   "ReadlyReaderOne": {
     "brand": "Readly",
     "name": "ReadlyReaderOne"
@@ -105075,6 +105127,10 @@
     "brand": "Ruio",
     "name": "S6539Q"
   },
+  "S6539": {
+    "brand": "Ruio",
+    "name": "S6539Q"
+  },
   "S6539Q": {
     "brand": "Ruio",
     "name": "S6539Q"
@@ -106342,6 +106398,10 @@
   "Ranger710": {
     "brand": "SPECTRA",
     "name": "Ranger710"
+  },
+  "Spectra_J2": {
+    "brand": "SPECTRA",
+    "name": "Spectra J2"
   },
   "MobileMapper6": {
     "brand": "SPECTRA",
@@ -123994,6 +124054,10 @@
   "STG_Series": {
     "brand": "Smart_Touch",
     "name": "ST IR13"
+  },
+  "QERA_Series": {
+    "brand": "Smart_Touch",
+    "name": "Smart Touch QERA"
   },
   "SRF79": {
     "brand": "Smartab",
@@ -159290,6 +159354,10 @@
   "ZTE V890": {
     "brand": "ZTE",
     "name": "ZTE V890"
+  },
+  "ZTE X1010": {
+    "brand": "ZTE",
+    "name": "ZTE X1010"
   },
   "Z558VL": {
     "brand": "ZTE",
