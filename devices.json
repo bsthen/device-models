@@ -17295,6 +17295,10 @@
     "brand": "Byxsb",
     "name": "X134"
   },
+  "X134L": {
+    "brand": "Byxsb",
+    "name": "X134L_EEA"
+  },
   "SH950C-CM": {
     "brand": "C&M",
     "name": "SH950C-CM"
@@ -17918,6 +17922,10 @@
   "COMBUS_IB": {
     "brand": "COMBUSTECH",
     "name": "COMBUSTECH-IFPD"
+  },
+  "COMBUS_IB3": {
+    "brand": "COMBUSTECH",
+    "name": "COMBUS_IB3"
   },
   "A3-1510P": {
     "brand": "COMPAX",
@@ -38990,6 +38998,10 @@
   "HBDC-822": {
     "brand": "HAOWEI",
     "name": "HBDC-822"
+  },
+  "HPN-QA15": {
+    "brand": "HAPPYNET",
+    "name": "HPN-QA15"
   },
   "PJ209APlus": {
     "brand": "HAVIT",
@@ -74783,6 +74795,10 @@
     "brand": "MAXLEGEN",
     "name": "M708-EEA"
   },
+  "MXCORE": {
+    "brand": "Noblex",
+    "name": "TN11A6128"
+  },
   "MXPAD": {
     "brand": "MAXRON",
     "name": "MXPAD"
@@ -86895,10 +86911,6 @@
     "brand": "Noblex",
     "name": "T7A6N"
   },
-  "MXCORE": {
-    "brand": "Noblex",
-    "name": "TN11A6128"
-  },
   "TN11A6128": {
     "brand": "Noblex",
     "name": "TN11A6128"
@@ -94102,6 +94114,10 @@
   "CP31M": {
     "brand": "PEICHENG",
     "name": "CP31M"
+  },
+  "CP31U": {
+    "brand": "PEICHENG",
+    "name": "CP31U"
   },
   "CP81S_PRO": {
     "brand": "PEICHENG",
