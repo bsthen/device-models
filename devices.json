@@ -69571,10 +69571,6 @@
     "brand": "Lava",
     "name": "LN9820"
   },
-  "LT4900": {
-    "brand": "Lava",
-    "name": "LT4900"
-  },
   "LAVA LXX519": {
     "brand": "Lava",
     "name": "LXX519"
@@ -85419,6 +85415,10 @@
     "brand": "NEO",
     "name": "GF215-REY"
   },
+  "Neo-Tab-T606-Plus": {
+    "brand": "NEO",
+    "name": "Neo-Tab-T606-Plus"
+  },
   "Neon Tab 11": {
     "brand": "NEON",
     "name": "Neon Tab 11"
@@ -86553,7 +86553,7 @@
   },
   "NLS-MT67": {
     "brand": "Newland",
-    "name": "NLS-MT6755-GL"
+    "name": "NLS-MT6757"
   },
   "NLS-MT90": {
     "brand": "Newland",
@@ -92210,6 +92210,10 @@
   "PLV110": {
     "brand": "Oppo",
     "name": "Reno15 Pro"
+  },
+  "PMD110": {
+    "brand": "Oppo",
+    "name": "Reno15c"
   },
   "CPH1945": {
     "brand": "Oppo",
