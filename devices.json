@@ -11088,8 +11088,8 @@
     "name": "X104-EEA"
   },
   "X108": {
-    "brand": "BEISTA",
-    "name": "X108"
+    "brand": "URAO",
+    "name": "X108_EEA"
   },
   "X80-EEA": {
     "brand": "BEISTA",
@@ -17547,6 +17547,10 @@
     "brand": "CEPTER",
     "name": "CTABNEXUS8128"
   },
+  "CTABNEXUSW": {
+    "brand": "CEPTER",
+    "name": "CTABNEXUSW"
+  },
   "CTABTERRA128": {
     "brand": "CEPTER",
     "name": "CTABTERRA128"
@@ -18210,6 +18214,10 @@
   "mensa": {
     "brand": "CVTE",
     "name": "mensa_an64"
+  },
+  "BRK7600SPL": {
+    "brand": "CViauto",
+    "name": "ARK01"
   },
   "CWELL M10": {
     "brand": "CWELL",
@@ -23537,7 +23545,7 @@
   },
   "X70": {
     "brand": "raemond",
-    "name": "X70_ROW"
+    "name": "X70_US"
   },
   "X90": {
     "brand": "raemond",
@@ -29275,6 +29283,10 @@
     "brand": "ECOPAD",
     "name": "A30L1_EEA"
   },
+  "K12L1": {
+    "brand": "ECOPAD",
+    "name": "K12L1"
+  },
   "K90": {
     "brand": "RAINBOX",
     "name": "K90"
@@ -30094,6 +30106,10 @@
   "ETEL P68": {
     "brand": "ETELPREMIUM",
     "name": "P68"
+  },
+  "E28": {
+    "brand": "KENSHI",
+    "name": "E28"
   },
   "HERO-SP001": {
     "brand": "ETERNITY",
@@ -31641,7 +31657,7 @@
   },
   "M70": {
     "brand": "Rebecco",
-    "name": "M70_ROW"
+    "name": "M70_US"
   },
   "M80": {
     "brand": "Evercoss",
@@ -35699,6 +35715,10 @@
     "brand": "GOODTEL",
     "name": "G11_U_EEA"
   },
+  "G11_U_US": {
+    "brand": "GOODTEL",
+    "name": "G11_U_US"
+  },
   "G2-EEA": {
     "brand": "GOODTEL",
     "name": "G2-EEA"
@@ -39070,6 +39090,10 @@
   "F6": {
     "brand": "MyFon",
     "name": "F6"
+  },
+  "F6E": {
+    "brand": "HEADWOLF",
+    "name": "F6E"
   },
   "F7": {
     "brand": "HEADWOLF",
@@ -54299,6 +54323,10 @@
     "brand": "IRA (explore more)",
     "name": "IRA_T1029"
   },
+  "IRA_T1030M": {
+    "brand": "IRA (explore more)",
+    "name": "IRA_T1030M"
+  },
   "IRA_T803M": {
     "brand": "IRA (explore more)",
     "name": "IRA_T803M"
@@ -60111,10 +60139,6 @@
     "brand": "KENSHI",
     "name": "E18_RU"
   },
-  "E28": {
-    "brand": "KENSHI",
-    "name": "E28"
-  },
   "PAD": {
     "brand": "KENSHI",
     "name": "EBUABFV_PAD"
@@ -60897,7 +60921,7 @@
   },
   "Black 6": {
     "brand": "Kalley",
-    "name": "Black_6C"
+    "name": "Black_6G"
   },
   "Black C Plus": {
     "brand": "Kalley",
@@ -69175,6 +69199,10 @@
     "brand": "Lanix",
     "name": "llium Pad L8"
   },
+  "G11L": {
+    "brand": "Laptok",
+    "name": "G11L"
+  },
   "Cumulus_5_HD": {
     "brand": "Lark",
     "name": "Cumulus 5 HD"
@@ -76502,6 +76530,10 @@
   "MGTBA10OC": {
     "brand": "Master-G",
     "name": "MGTBA10OC"
+  },
+  "MGTBA8OC": {
+    "brand": "Master-G",
+    "name": "MGTBA8OC"
   },
   "HE2704": {
     "brand": "MauritiusTelcom",
@@ -90135,6 +90167,10 @@
     "brand": "Oppo",
     "name": "A5 2020"
   },
+  "A502OP": {
+    "brand": "Oppo",
+    "name": "A5 5G"
+  },
   "CPH2735": {
     "brand": "Oppo",
     "name": "A5 5G"
@@ -90314,6 +90350,10 @@
   "CPH2755": {
     "brand": "Oppo",
     "name": "A5i Pro"
+  },
+  "CPH2821": {
+    "brand": "Oppo",
+    "name": "A5i Pro 5G"
   },
   "CPH2759": {
     "brand": "Oppo",
@@ -94203,6 +94243,10 @@
     "brand": "PHILCO (ar)",
     "name": "TP10A464D"
   },
+  "12998-99": {
+    "brand": "PHYWE",
+    "name": "12998-99ECobraSMARTlink"
+  },
   "SMARTlink": {
     "brand": "PHYWE",
     "name": "SMARTlink"
@@ -97211,6 +97255,10 @@
     "brand": "Plimpton",
     "name": "Kids20_EEA"
   },
+  "Kids20_A16_JAE": {
+    "brand": "Plimpton",
+    "name": "Kids20_A16_JAE"
+  },
   "Kids20_PA15": {
     "brand": "Plimpton",
     "name": "Kids20_PA15"
@@ -97238,6 +97286,10 @@
   "P1A15_EEA": {
     "brand": "Plimpton",
     "name": "P1A15_EEA"
+  },
+  "P1_A16_JAE": {
+    "brand": "Plimpton",
+    "name": "P1_A16_JAE"
   },
   "P2A16": {
     "brand": "Plimpton",
@@ -102951,6 +103003,10 @@
     "brand": "Realtime",
     "name": "T503F"
   },
+  "T503F_L1": {
+    "brand": "Realtime",
+    "name": "T503F_L1"
+  },
   "K30_EEA": {
     "brand": "Rebecco",
     "name": "K50_EEA_B"
@@ -103054,6 +103110,10 @@
   "A11_EEA": {
     "brand": "RebotAi",
     "name": "A11_EEA"
+  },
+  "AF13": {
+    "brand": "RebotAi",
+    "name": "AF13"
   },
   "B11_EEA": {
     "brand": "RebotAi",
@@ -107298,6 +107358,10 @@
   "TAB_P1300_EEA": {
     "brand": "SVITOO",
     "name": "TAB_P1300_EEA"
+  },
+  "V13": {
+    "brand": "SVITOO",
+    "name": "V13"
   },
   "SWA310": {
     "brand": "SWACONNECT",
@@ -137079,6 +137143,10 @@
     "brand": "Teclast",
     "name": "T65Plus_ROW"
   },
+  "T65_A5D8": {
+    "brand": "Teclast",
+    "name": "T65_A5D8"
+  },
   "T65_EEA": {
     "brand": "Teclast",
     "name": "T65_EEA"
@@ -137094,6 +137162,10 @@
   "T70_EEA": {
     "brand": "Teclast",
     "name": "T70_EEA"
+  },
+  "T70_E_ROW": {
+    "brand": "Teclast",
+    "name": "T70_E_ROW"
   },
   "T70_ROW": {
     "brand": "Teclast",
@@ -140962,6 +141034,10 @@
   "G140L": {
     "brand": "URAO",
     "name": "G140L_EEA"
+  },
+  "G142L": {
+    "brand": "URAO",
+    "name": "G142L_EEA"
   },
   "X107": {
     "brand": "URAO",
@@ -144982,6 +145058,10 @@
   "IFP34": {
     "brand": "ViewSonic",
     "name": "IFP34"
+  },
+  "IFP41_1": {
+    "brand": "ViewSonic",
+    "name": "IFP41_1_Series"
   },
   "IFP51": {
     "brand": "ViewSonic",
@@ -149961,7 +150041,7 @@
   },
   "G13L": {
     "brand": "Whitedeer",
-    "name": "G13L"
+    "name": "G13L_EEA"
   },
   "KT1028": {
     "brand": "Whitedeer",
