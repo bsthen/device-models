@@ -6731,6 +6731,10 @@
     "brand": "Apex",
     "name": "Z4PRO"
   },
+  "WA1389T": {
+    "brand": "Apolosign",
+    "name": "AndroidTablet"
+  },
   "FA158AT": {
     "brand": "Apolosign",
     "name": "DigitalCalendar"
@@ -17106,6 +17110,10 @@
   "M8047IU": {
     "brand": "Brightstar",
     "name": "M8046IU"
+  },
+  "BrioTouch": {
+    "brand": "Briotouch",
+    "name": "IFP_ADPM"
   },
   "ULTRA-PLUS-BR": {
     "brand": "Briotouch",
@@ -39159,6 +39167,10 @@
     "brand": "HEADWOLF",
     "name": "W6B"
   },
+  "W6C": {
+    "brand": "HEADWOLF",
+    "name": "W6C"
+  },
   "W7": {
     "brand": "Wings",
     "name": "W7_Q_EEA"
@@ -46469,7 +46481,7 @@
   },
   "EDA10A": {
     "brand": "Honeywell",
-    "name": "EDA10A-1"
+    "name": "EDA10A"
   },
   "EDA40": {
     "brand": "Honeywell",
@@ -77331,6 +77343,10 @@
     "brand": "Mecool",
     "name": "KT2"
   },
+  "FHD Streaming Stick": {
+    "brand": "Strong",
+    "name": "LEAP-UNA+"
+  },
   "MBX4K Maverick": {
     "brand": "Mediabox",
     "name": "MBX4K Maverick"
@@ -86593,7 +86609,7 @@
   },
   "NLS-MT95": {
     "brand": "Newland",
-    "name": "NLS-MT95"
+    "name": "NLS-MT9556"
   },
   "NLS-N7": {
     "brand": "Newland",
@@ -86602,6 +86618,10 @@
   "NLS-NFT10": {
     "brand": "Newland",
     "name": "NLS-NFT10"
+  },
+  "NLS-SD100P": {
+    "brand": "Newland",
+    "name": "NLS-SD100P"
   },
   "NLS-NQuire": {
     "brand": "Newland",
@@ -90390,6 +90410,10 @@
   "CPH2683": {
     "brand": "Oppo",
     "name": "OPPO A60 5G/ A3 5G"
+  },
+  "CPH2823": {
+    "brand": "Oppo",
+    "name": "A6x 5G"
   },
   "CPH1901": {
     "brand": "Oppo",
@@ -162110,6 +162134,10 @@
   "iDataT2": {
     "brand": "iData",
     "name": "iDataT2"
+  },
+  "iDataW7": {
+    "brand": "iData",
+    "name": "iDataW7"
   },
   "CT8": {
     "brand": "iDea USA",
