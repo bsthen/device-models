@@ -55587,6 +55587,10 @@
     "brand": "Infinix",
     "name": "Infinix ZERO 8i"
   },
+  "Infinix X6962": {
+    "brand": "Infinix",
+    "name": "ZERO Flip"
+  },
   "Infinix X6811B": {
     "brand": "Infinix",
     "name": "Infinix ZERO X"
@@ -56002,10 +56006,6 @@
   "Infinix X6815D": {
     "brand": "Infinix",
     "name": "ZERO 5G 2023"
-  },
-  "Infinix X6962": {
-    "brand": "Infinix",
-    "name": "ZERO Flip"
   },
   "Infinix X6820": {
     "brand": "Infinix",
@@ -60666,6 +60666,10 @@
   "W83B-F2-RK3576": {
     "brand": "KTC",
     "name": "W83B-LANGO3576"
+  },
+  "W93B_A": {
+    "brand": "KTC",
+    "name": "W93B_A"
   },
   "BLISS503": {
     "brand": "KTC (PD)",
@@ -120378,6 +120382,10 @@
   "Schok Volt SV55U": {
     "brand": "Schok",
     "name": "Schok Volt SV55U"
+  },
+  "Schok Volt SV69S": {
+    "brand": "Schok",
+    "name": "Schok Volt SV69S"
   },
   "freedom turbo": {
     "brand": "Schok",
