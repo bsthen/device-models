@@ -18635,6 +18635,10 @@
     "brand": "Captiva",
     "name": "Pad 10 2-in-1"
   },
+  "RSE": {
+    "brand": "Caravan",
+    "name": "RSE_Caravan"
+  },
   "Carbon 1 Mark II": {
     "brand": "Carbon Mobile",
     "name": "Carbon 1 Mark II"
@@ -20530,6 +20534,10 @@
   "Claro TV Box 4k": {
     "brand": "Claro",
     "name": "Claro TV Box 4k"
+  },
+  "Claro TV Stick 4k": {
+    "brand": "Claro",
+    "name": "Claro TV Stick 4k​"
   },
   "Claro TV+ Mini": {
     "brand": "Claro",
@@ -30282,6 +30290,10 @@
   "MOBI-SECTV": {
     "brand": "EVOFORCE1",
     "name": "MOBI-SECTV"
+  },
+  "EVO Fuse Pro": {
+    "brand": "EVOPRO",
+    "name": "EVO Fuse Pro"
   },
   "EVOPRO": {
     "brand": "eSTREAM 4K",
@@ -94427,6 +94439,10 @@
     "brand": "PLDT",
     "name": "Smart Page 8 Pro"
   },
+  "VIDEO SOUND BOX": {
+    "brand": "PLDTHOME",
+    "name": "Video Sound Box"
+  },
   "A1190": {
     "brand": "PLOYER",
     "name": "A1190"
@@ -119983,6 +119999,10 @@
     "brand": "Samsung",
     "name": "Galaxy Z TriFold"
   },
+  "SM-F968U1": {
+    "brand": "Samsung",
+    "name": "Galaxy Z TriFold"
+  },
   "YP-GB70D": {
     "brand": "Samsung",
     "name": "Galaxy player 70 Plus"
@@ -127372,6 +127392,10 @@
     "name": "Alpha_300"
   },
   "NOTE TK02": {
+    "brand": "Starlight",
+    "name": "Alpha_300"
+  },
+  "iHunt S26 ULTRA": {
     "brand": "Starlight",
     "name": "Alpha_300"
   },
@@ -135251,6 +135275,10 @@
     "brand": "TECHNOLOGIA Y CRATIVIDAD",
     "name": "M103H"
   },
+  "Tab_80_pro": {
+    "brand": "TECH_VIEW",
+    "name": "Tab_80_pro"
+  },
   "F102-T610-EEA": {
     "brand": "TECHcomputer",
     "name": "F102-T610-EEA"
@@ -140650,6 +140678,10 @@
   "Trio-Stealth-G4-7.85": {
     "brand": "Trio",
     "name": "Stealth-G4-7.85"
+  },
+  "Fk01": {
+    "brand": "Trouver",
+    "name": "Fk01"
   },
   "20721400": {
     "brand": "True",
