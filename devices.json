@@ -1324,7 +1324,7 @@
     "name": "Senegal"
   },
   "ASTECH Google TV": {
-    "brand": "ASTECH",
+    "brand": "DAIKO",
     "name": "Smart TV"
   },
   "ASTEX 2K Android": {
@@ -4297,7 +4297,7 @@
   },
   "KB1005": {
     "brand": "Ainmel",
-    "name": "KB1005"
+    "name": "KB1005_EEA"
   },
   "7C08X": {
     "brand": "Ainol",
@@ -20515,6 +20515,10 @@
     "brand": "Claro",
     "name": "B866W12M"
   },
+  "Claro TV Box 4k": {
+    "brand": "Claro",
+    "name": "Claro TV Box 4k"
+  },
   "CLARO BOX TV": {
     "brand": "Claro",
     "name": "CLARO BOX TV"
@@ -20530,10 +20534,6 @@
   "Claro STB": {
     "brand": "Claro",
     "name": "SEI810CPR"
-  },
-  "Claro TV Box 4k": {
-    "brand": "Claro",
-    "name": "Claro TV Box 4k"
   },
   "Claro TV Stick 4k": {
     "brand": "Claro",
@@ -30219,6 +30219,10 @@
     "brand": "FUSE4K",
     "name": "FUSE 4K"
   },
+  "FUSE4K-Bluestream": {
+    "brand": "EVO FUSE 4K",
+    "name": "EVOFUSE4K-BS"
+  },
   "FUSE-MOBI": {
     "brand": "EVO FUSE 4K",
     "name": "EVOFUSE4K-SHENTEL"
@@ -30290,6 +30294,10 @@
   "MOBI-SECTV": {
     "brand": "EVOFORCE1",
     "name": "MOBI-SECTV"
+  },
+  "EVO Force Pro": {
+    "brand": "EVOPRO",
+    "name": "EVO Force Pro"
   },
   "EVO Fuse Pro": {
     "brand": "EVOPRO",
@@ -46187,6 +46195,10 @@
     "brand": "Homatics",
     "name": "Kickpi"
   },
+  "MB730": {
+    "brand": "Homatics",
+    "name": "MB730"
+  },
   "Dongle 4K": {
     "brand": "Homatics",
     "name": "SEI700HMG"
@@ -46198,6 +46210,10 @@
   "Stick HD": {
     "brand": "Homatics",
     "name": "Stick HD"
+  },
+  "TG STREAM 2": {
+    "brand": "Homatics",
+    "name": "TG STREAM 2"
   },
   "XR Theater G": {
     "brand": "Homatics",
@@ -55763,6 +55779,10 @@
     "brand": "Infinix",
     "name": "NOTE 8i"
   },
+  "Infinix X6887": {
+    "brand": "Infinix",
+    "name": "NOTE Edge"
+  },
   "Infinix X610B": {
     "brand": "Infinix",
     "name": "Note 6"
@@ -56602,6 +56622,10 @@
   "BT210": {
     "brand": "Intel",
     "name": "Yolo"
+  },
+  "G Dongle 4K": {
+    "brand": "Intelbras",
+    "name": "G Dongle 4K"
   },
   "IZY01": {
     "brand": "Intelbras",
@@ -75755,6 +75779,10 @@
     "brand": "MTN",
     "name": "Kabode Max"
   },
+  "MTN Smart TV Box": {
+    "brand": "MTN",
+    "name": "MTN"
+  },
   "S5012": {
     "brand": "MTN",
     "name": "S5012"
@@ -83507,6 +83535,10 @@
     "brand": "Move",
     "name": "MOVE OTT-Box 1"
   },
+  "MOVE OTT-Box 4": {
+    "brand": "Move",
+    "name": "MOVE OTT-Box 4"
+  },
   "LX50": {
     "brand": "Moveby",
     "name": "LINNEX"
@@ -87434,6 +87466,10 @@
   "Nokia Streaming Box 8000": {
     "brand": "Nokia",
     "name": "Nokia Steaming Box 8000"
+  },
+  "Nokia Streaming Box 8010": {
+    "brand": "Nokia",
+    "name": "Nokia Streaming Box 8010"
   },
   "Nokia Streaming Stick 800": {
     "brand": "Nokia",
@@ -93887,6 +93923,10 @@
     "brand": "PAITANRY",
     "name": "R16PROMAX"
   },
+  "R16Pro_PAD_EEA": {
+    "brand": "PAITANRY",
+    "name": "R16Pro_PAD_EEA"
+  },
   "N868": {
     "brand": "Teclast",
     "name": "P50Case"
@@ -94238,6 +94278,10 @@
   "PET_8040_H464S": {
     "brand": "PEAQ",
     "name": "PET_8040_H464S"
+  },
+  "PGS1000": {
+    "brand": "PEAQ",
+    "name": "PGS1000"
   },
   "AI PONT IT": {
     "brand": "SABA",
@@ -102508,8 +102552,8 @@
     "name": "Space_M10Pro"
   },
   "NX809J": {
-    "brand": "REDMAGIC",
-    "name": "REDMAGIC 11 Pro+"
+    "brand": "ZTE",
+    "name": "红魔11 Pro游戏手机"
   },
   "RTSP-A124ML": {
     "brand": "REDTONE",
@@ -122851,6 +122895,10 @@
     "brand": "Shenzhen Jiuzhou",
     "name": "DTP9710"
   },
+  "4K Dongle Research": {
+    "brand": "Shenzhen SEI Robotics",
+    "name": "4K Dongle"
+  },
   "ADT-2": {
     "brand": "Shenzhen SEI Robotics",
     "name": "ADT-2"
@@ -122858,6 +122906,10 @@
   "planck": {
     "brand": "Shenzhen SEI Robotics",
     "name": "AMLogic Ref"
+  },
+  "BOX GTD TV 4K": {
+    "brand": "Shenzhen SEI Robotics",
+    "name": "BOX GTD TV 4K"
   },
   "CNTV Plus Smart Box": {
     "brand": "Shenzhen SEI Robotics",
@@ -122870,6 +122922,14 @@
   "Sensa Box 4K": {
     "brand": "Shenzhen SEI Robotics",
     "name": "Sensa Box 4K"
+  },
+  "mvshub Stick": {
+    "brand": "Shenzhen SEI Robotics",
+    "name": "mvshub Stick"
+  },
+  "primetime TV": {
+    "brand": "Shenzhen SEI Robotics",
+    "name": "primetime TV"
   },
   "SKIEDLA65": {
     "brand": "Shiarffe",
@@ -127379,6 +127439,10 @@
     "brand": "StarMobile",
     "name": "up_octa"
   },
+  "StarTV por fibra": {
+    "brand": "StarTV",
+    "name": "StarTV por fibra"
+  },
   "Alpha 100": {
     "brand": "Starlight",
     "name": "Alpha 100"
@@ -127630,6 +127694,10 @@
   "SHARK": {
     "brand": "Stream",
     "name": "SHARK"
+  },
+  "STR-D2 G4K": {
+    "brand": "Stream",
+    "name": "STR-D2 G4K"
   },
   "STREAM 2K Google TV": {
     "brand": "Stream",
@@ -139119,6 +139187,10 @@
     "brand": "Tele2",
     "name": "Tv Hub Mini"
   },
+  "Telecable Smart Box": {
+    "brand": "Telecable",
+    "name": "Telecable Smart Box"
+  },
   "Telecable ATV": {
     "brand": "Telecable",
     "name": "tedi"
@@ -139650,6 +139722,10 @@
   "TH805": {
     "brand": "Thinpad",
     "name": "TH805"
+  },
+  "Thomson 150": {
+    "brand": "Thomson",
+    "name": "150"
   },
   "270": {
     "brand": "Thomson",
@@ -141182,6 +141258,10 @@
   "G142L": {
     "brand": "URAO",
     "name": "G142L_EEA"
+  },
+  "G143L": {
+    "brand": "URAO",
+    "name": "G143L"
   },
   "X107": {
     "brand": "URAO",
@@ -143478,6 +143558,10 @@
   "VS-DUAL-86": {
     "brand": "VS Visu",
     "name": "VS-DUAL-86"
+  },
+  "VS_S_P4": {
+    "brand": "VS Visu",
+    "name": "VS_S_P4"
   },
   "V.35": {
     "brand": "VSN",
@@ -159955,6 +160039,10 @@
     "brand": "ZapiTV",
     "name": "ZAPI2022"
   },
+  "ZAPI2023": {
+    "brand": "ZapiTV",
+    "name": "ZAPI2023"
+  },
   "Zapi2020": {
     "brand": "ZapiTV",
     "name": "Zapi2020"
@@ -161462,6 +161550,10 @@
   "Cypher C50": {
     "brand": "cypher",
     "name": "Cypher_C50"
+  },
+  "Cypher C70": {
+    "brand": "cypher",
+    "name": "Cypher_C70"
   },
   "DAZN": {
     "brand": "dazen",
