@@ -56047,6 +56047,10 @@
     "brand": "Infinix",
     "name": "XPAD 20 Pro"
   },
+  "Infinix X1102B": {
+    "brand": "Infinix",
+    "name": "XPAD 30E"
+  },
   "Infinix X6731": {
     "brand": "Infinix",
     "name": "ZERO 30 5G"
@@ -75071,6 +75075,14 @@
     "brand": "MEIZE",
     "name": "D126_TAB_EEA"
   },
+  "D131": {
+    "brand": "MEIZE",
+    "name": "D131"
+  },
+  "D131_eea": {
+    "brand": "MEIZE",
+    "name": "D131_eea"
+  },
   "D135": {
     "brand": "MEIZE",
     "name": "D135"
@@ -88982,6 +88994,10 @@
   "CT3": {
     "brand": "Olive Oil",
     "name": "OliveOil Model 3"
+  },
+  "FORM300": {
+    "brand": "Olivetti",
+    "name": "FORM300"
   },
   "Graphos A10": {
     "brand": "Olivetti",
@@ -103258,6 +103274,10 @@
   "AF13": {
     "brand": "RebotAi",
     "name": "AF13"
+  },
+  "AF13_EEA": {
+    "brand": "RebotAi",
+    "name": "AF13_EEA"
   },
   "B11_EEA": {
     "brand": "RebotAi",
@@ -127379,6 +127399,10 @@
     "brand": "iBoard",
     "name": "IFPD"
   },
+  "TE_QS_PRO": {
+    "brand": "StarBoard",
+    "name": "TE_QS_PRO"
+  },
   "TE_YL_PRO": {
     "brand": "StarBoard",
     "name": "TE_YL_PRO"
@@ -129292,6 +129316,10 @@
     "name": "TAG-TABKIDS"
   },
   "TAG_Pluto_TAB_II": {
+    "brand": "TAG-TECH",
+    "name": "TAG_Pluto_TAB_II"
+  },
+  "studybook_Tablets": {
     "brand": "TAG-TECH",
     "name": "TAG_Pluto_TAB_II"
   },
@@ -142714,6 +142742,10 @@
   "UE010": {
     "brand": "Unnecto",
     "name": "UE010"
+  },
+  "UE020": {
+    "brand": "Unnecto",
+    "name": "UE020"
   },
   "HH25": {
     "brand": "Unnion Technologies",
@@ -163823,6 +163855,10 @@
     "brand": "onn.",
     "name": "100135924"
   },
+  "36020962": {
+    "brand": "onn.",
+    "name": "36020962"
+  },
   "M17QF21W": {
     "brand": "onn.",
     "name": "M17QF21W"
@@ -164474,6 +164510,10 @@
   "RMX5033": {
     "brand": "realme",
     "name": "realme NARZO 80 Pro 5G"
+  },
+  "RMX5264": {
+    "brand": "realme",
+    "name": "realme NARZO 90x 5G"
   },
   "RMX2117": {
     "brand": "realme",
