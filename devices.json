@@ -5871,6 +5871,10 @@
     "brand": "Alldocube",
     "name": "iPlay60_mini_Turbo"
   },
+  "iPlay70": {
+    "brand": "Alldocube",
+    "name": "iPlay70"
+  },
   "iPlay70_S": {
     "brand": "Alldocube",
     "name": "iPlay70_S"
@@ -13526,6 +13530,10 @@
   "RM8604": {
     "brand": "BenQ",
     "name": "RM8604"
+  },
+  "RP05_series": {
+    "brand": "BenQ",
+    "name": "RP05_series"
   },
   "RP6504": {
     "brand": "BenQ",
@@ -36299,6 +36307,10 @@
     "brand": "General Mobile",
     "name": "E-tab 4"
   },
+  "G519": {
+    "brand": "General Mobile",
+    "name": "Era 30 PRO"
+  },
   "Etab5": {
     "brand": "General Mobile",
     "name": "Etab5"
@@ -42234,6 +42246,10 @@
   "Wildfire E7": {
     "brand": "HTC",
     "name": "Wildfire E7"
+  },
+  "Wildfire E7 Elite": {
+    "brand": "HTC",
+    "name": "Wildfire E7 Elite"
   },
   "Wildfire E7 Plus": {
     "brand": "HTC",
@@ -60862,6 +60878,10 @@
   "KUBIK_GENTA_10": {
     "brand": "KUBIK",
     "name": "KUBIK_GENTA_10"
+  },
+  "KCG02": {
+    "brand": "KURAEMON",
+    "name": "KCG02"
   },
   "KMG05": {
     "brand": "KURAEMON",
@@ -80099,6 +80119,10 @@
     "brand": "Mobicel",
     "name": "Smart Tab 10 4G"
   },
+  "Spectra_J2": {
+    "brand": "SPECTRA",
+    "name": "Spectra J2"
+  },
   "VX21": {
     "brand": "Mobicel",
     "name": "VX21"
@@ -93297,7 +93321,7 @@
   },
   "C68 Plus": {
     "brand": "Oukitel",
-    "name": "C68_Plus_NFC_ROW"
+    "name": "C68_Plus_ROW"
   },
   "C69": {
     "brand": "Oukitel",
@@ -93314,6 +93338,14 @@
   "WP32 Pro": {
     "brand": "Oukitel",
     "name": "Customer need debug"
+  },
+  "G1 S": {
+    "brand": "Oukitel",
+    "name": "G1_S_EEA"
+  },
+  "Industry": {
+    "brand": "Oukitel",
+    "name": "Industry_EEA"
   },
   "K10000 Mix": {
     "brand": "Oukitel",
@@ -93486,6 +93518,10 @@
   "RT1": {
     "brand": "Oukitel",
     "name": "RT1_EEA"
+  },
+  "RT10": {
+    "brand": "Oukitel",
+    "name": "RT10_EEA"
   },
   "RT2": {
     "brand": "Oukitel",
@@ -93678,6 +93714,10 @@
   "WP23 Plus": {
     "brand": "Oukitel",
     "name": "WP23_Plus_EEA"
+  },
+  "WP23 S": {
+    "brand": "Oukitel",
+    "name": "WP23_Plus_A15_EEA"
   },
   "WP27": {
     "brand": "Oukitel",
@@ -94002,6 +94042,14 @@
   "A910S": {
     "brand": "PAX (CN)",
     "name": "A910S"
+  },
+  "A920Pro": {
+    "brand": "PAX (CN)",
+    "name": "A920Pro"
+  },
+  "A960": {
+    "brand": "PAX (CN)",
+    "name": "A960"
   },
   "A99": {
     "brand": "PAX (CN)",
@@ -106642,10 +106690,6 @@
   "Ranger710": {
     "brand": "SPECTRA",
     "name": "Ranger710"
-  },
-  "Spectra_J2": {
-    "brand": "SPECTRA",
-    "name": "Spectra J2"
   },
   "MobileMapper6": {
     "brand": "SPECTRA",
@@ -129351,6 +129395,10 @@
     "brand": "TBC (TW)",
     "name": "TATV_8000"
   },
+  "ONE Lite": {
+    "brand": "TCH(Timeless Connection Hero)",
+    "name": "ONE Lite"
+  },
   "8194": {
     "brand": "TCL",
     "name": "3T10 WIFI KDDI"
@@ -142714,6 +142762,10 @@
   "EPIC-E55": {
     "brand": "UnityWireless",
     "name": "EPIC E55"
+  },
+  "Bolt 1U": {
+    "brand": "Unnecto",
+    "name": "Bolt 1U"
   },
   "Bolt 1": {
     "brand": "Unnecto",
@@ -160930,6 +160982,10 @@
   "Gravity Life": {
     "brand": "Zuum",
     "name": "Gravity Life"
+  },
+  "HIDRA 807": {
+    "brand": "Zuum",
+    "name": "HIDRA 807"
   },
   "Hidra Max": {
     "brand": "Zuum",
