@@ -579,6 +579,10 @@
     "brand": "Hisense",
     "name": "AGM X3"
   },
+  "AGM_G3": {
+    "brand": "AGM Mobile",
+    "name": "AGM_G3"
+  },
   "AG Go-Tab Access": {
     "brand": "AG Mobile",
     "name": "AG_Go-Tab_Access"
@@ -1182,6 +1186,10 @@
   "Marshall-8": {
     "brand": "ARATEK",
     "name": "Marshall-8"
+  },
+  "TruFace": {
+    "brand": "ARATEK",
+    "name": "TruFace"
   },
   "G47": {
     "brand": "ARBOR",
@@ -2210,6 +2218,10 @@
   "AX1": {
     "brand": "Acepad",
     "name": "AX1"
+  },
+  "Acepad ABLE": {
+    "brand": "Acepad",
+    "name": "Acepad ABLE"
   },
   "Acepad HIGH": {
     "brand": "Acepad",
@@ -3490,6 +3502,10 @@
   "Adesa_AD33": {
     "brand": "Adesa",
     "name": "AD33"
+  },
+  "Adget Alternative": {
+    "brand": "Adget",
+    "name": "ADGT_AL02"
   },
   "G3SMNTA22": {
     "brand": "Admiral Overseas Corporation",
@@ -13518,6 +13534,10 @@
   "RE04_series": {
     "brand": "BenQ",
     "name": "RE04_series"
+  },
+  "RM05_series": {
+    "brand": "BenQ",
+    "name": "RM05_series"
   },
   "RM6504": {
     "brand": "BenQ",
@@ -35615,6 +35635,10 @@
     "brand": "GDL(BD)",
     "name": "GigaX_S7"
   },
+  "GigaX S7 Plus": {
+    "brand": "GDL(BD)",
+    "name": "GigaX_S7_Plus"
+  },
   "MB10": {
     "brand": "GDM (es)",
     "name": "MB10"
@@ -41230,6 +41254,10 @@
   "HTC AT01 Plus": {
     "brand": "HTC",
     "name": "HTC AT01 Plus"
+  },
+  "HTC AT02 Plus": {
+    "brand": "HTC",
+    "name": "HTC AT02 Plus"
   },
   "2Q8L10000": {
     "brand": "HTC",
@@ -74627,6 +74655,10 @@
     "brand": "M-Horse",
     "name": "M2S"
   },
+  "Note 50 Pro Max": {
+    "brand": "M-Horse",
+    "name": "Note 50 Pro Max"
+  },
   "Pure 2": {
     "brand": "M-Horse",
     "name": "Pure 2"
@@ -80095,9 +80127,17 @@
     "brand": "Mobicel",
     "name": "MiPAD"
   },
+  "Mobicel_F42": {
+    "brand": "Mobicel",
+    "name": "Mobicel F42"
+  },
   "Mobicel Mercury": {
     "brand": "Mobicel",
     "name": "Mobicel Mercury"
+  },
+  "Mobicel_P9": {
+    "brand": "Mobicel",
+    "name": "Mobicel P9"
   },
   "Mobicel_Z6": {
     "brand": "Mobicel",
@@ -80224,7 +80264,7 @@
     "name": "D2"
   },
   "D3": {
-    "brand": "Mobicell",
+    "brand": "Sunmi",
     "name": "D3"
   },
   "DANDY": {
@@ -93341,7 +93381,7 @@
   },
   "G1 S": {
     "brand": "Oukitel",
-    "name": "G1_S_EEA"
+    "name": "G1_S_ROW"
   },
   "Industry": {
     "brand": "Oukitel",
@@ -93522,6 +93562,10 @@
   "RT10": {
     "brand": "Oukitel",
     "name": "RT10_EEA"
+  },
+  "RT10 Pro": {
+    "brand": "Oukitel",
+    "name": "RT10_Pro_EEA"
   },
   "RT2": {
     "brand": "Oukitel",
@@ -93717,7 +93761,7 @@
   },
   "WP23 S": {
     "brand": "Oukitel",
-    "name": "WP23_Plus_A15_EEA"
+    "name": "WP23_Plus_A15_ROW"
   },
   "WP27": {
     "brand": "Oukitel",
@@ -93815,6 +93859,10 @@
     "brand": "Oukitel",
     "name": "WP55_EEA"
   },
+  "WP55 S": {
+    "brand": "Oukitel",
+    "name": "WP55_S_EEA"
+  },
   "WP55 Ultra": {
     "brand": "Oukitel",
     "name": "WP55_Ultra_EEA"
@@ -93831,9 +93879,17 @@
     "brand": "Oukitel",
     "name": "WP6_EEA"
   },
+  "WP60": {
+    "brand": "Oukitel",
+    "name": "WP60_EEA"
+  },
   "WP61": {
     "brand": "Oukitel",
     "name": "WP61_EEA"
+  },
+  "WP61 TI": {
+    "brand": "Oukitel",
+    "name": "WP61_TI_EEA"
   },
   "WP62": {
     "brand": "Oukitel",
@@ -94490,6 +94546,10 @@
   "M328-EEA": {
     "brand": "PIXGOOD",
     "name": "M328-EEA"
+  },
+  "M618-EEA": {
+    "brand": "PIXGOOD",
+    "name": "M618-EEA"
   },
   "M902-EEA": {
     "brand": "PIXGOOD",
@@ -103703,6 +103763,14 @@
     "brand": "Redmi",
     "name": "Redmi 15 5G"
   },
+  "25057RN09R": {
+    "brand": "Redmi",
+    "name": "Redmi 15 5G"
+  },
+  "A501XM": {
+    "brand": "Redmi",
+    "name": "Redmi 15 5G"
+  },
   "2508CRN2BE": {
     "brand": "Redmi",
     "name": "Redmi 15C 5G"
@@ -106690,6 +106758,10 @@
   "Ranger710": {
     "brand": "SPECTRA",
     "name": "Ranger710"
+  },
+  "Spectra_J2_Pro": {
+    "brand": "SPECTRA",
+    "name": "Spectra J2 Pro"
   },
   "MobileMapper6": {
     "brand": "SPECTRA",
@@ -127111,6 +127183,10 @@
     "brand": "SparX",
     "name": "Neo 11"
   },
+  "Neo 15 Ultra": {
+    "brand": "SparX",
+    "name": "Neo 15 Ultra"
+  },
   "Sparx Neo 5 Plus": {
     "brand": "SparX",
     "name": "Neo 5 Plus"
@@ -140455,6 +140531,10 @@
     "brand": "Toshiba Tec Corporation",
     "name": "TBL-300"
   },
+  "ArmorX": {
+    "brand": "Tototheo",
+    "name": "Armor X"
+  },
   "1100AS": {
     "brand": "Touch plus",
     "name": "1100AS"
@@ -143251,6 +143331,10 @@
     "brand": "VID(CN)",
     "name": "GQ5012BF3"
   },
+  "GQ5013TF1": {
+    "brand": "VID(CN)",
+    "name": "GQ5013TF1"
+  },
   "GQ5015": {
     "brand": "VID(CN)",
     "name": "GQ5015"
@@ -143258,6 +143342,10 @@
   "GQ5015RH1": {
     "brand": "VID(CN)",
     "name": "GQ5015RH1"
+  },
+  "GQ5016TF1": {
+    "brand": "VID(CN)",
+    "name": "GQ5016TF1"
   },
   "GQ5017BF2": {
     "brand": "VID(CN)",
@@ -145258,6 +145346,14 @@
   "SMART 8": {
     "brand": "Vgo Tel",
     "name": "SMART 8"
+  },
+  "SMART 8 Go": {
+    "brand": "Vgo Tel",
+    "name": "SMART 8 Go"
+  },
+  "SMART_9_PRO": {
+    "brand": "Vgo Tel",
+    "name": "SMART 9 PRO"
   },
   "Smart 2": {
     "brand": "Vgo Tel",
@@ -163994,6 +164090,10 @@
   "36018345": {
     "brand": "onn.",
     "name": "onn11Kids"
+  },
+  "36018344": {
+    "brand": "onn.",
+    "name": "onn8Kids"
   },
   "100003561": {
     "brand": "onn.",
