@@ -57543,6 +57543,10 @@
     "brand": "Irbis",
     "name": "TZ969"
   },
+  "A200PRO": {
+    "brand": "Iris",
+    "name": "A200PRO"
+  },
   "G7060": {
     "brand": "Iris",
     "name": "G7060"
@@ -61528,7 +61532,7 @@
     "name": "E61Pro"
   },
   "K7": {
-    "brand": "Surfans",
+    "brand": "Whitedeer",
     "name": "K7"
   },
   "K9Pro": {
@@ -136735,6 +136739,10 @@
     "brand": "Techsonic",
     "name": "TECHR720W"
   },
+  "S17Pro": {
+    "brand": "Techview",
+    "name": "S17Pro"
+  },
   "Tab_80_LTE": {
     "brand": "Techview",
     "name": "Techview_Tab_80_LTE"
@@ -140606,6 +140614,10 @@
   "TVULTRA98_G5": {
     "brand": "Touchview Interactive",
     "name": "TVULTRA98_G5"
+  },
+  "TouchView_Gen6": {
+    "brand": "Touchview Interactive",
+    "name": "TouchView_Gen6"
   },
   "TV_G5UPGRADE": {
     "brand": "Touchview Interactive",
@@ -152298,6 +152310,10 @@
   "N02_ProA": {
     "brand": "Xgody",
     "name": "N02_ProA"
+  },
+  "N05 PRO": {
+    "brand": "Xgody",
+    "name": "N05_PRO"
   },
   "P60Pro": {
     "brand": "Xgody",
@@ -165498,6 +165514,10 @@
   "V2528A": {
     "brand": "vivo",
     "name": "S50"
+  },
+  "V2527A": {
+    "brand": "vivo",
+    "name": "S50 Pro mini"
   },
   "V2510": {
     "brand": "vivo",
