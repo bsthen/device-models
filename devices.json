@@ -23509,7 +23509,7 @@
   },
   "P90": {
     "brand": "Relndoo",
-    "name": "P90_ROW"
+    "name": "P90_US"
   },
   "POCKET 3": {
     "brand": "Cubot",
@@ -100363,6 +100363,10 @@
     "brand": "Prestigio",
     "name": "Wize W3"
   },
+  "Prism": {
+    "brand": "Prestigio_Solutions",
+    "name": "Multiboard Prism"
+  },
   "PSMB011Pxx1": {
     "brand": "Prestigio_Solutions",
     "name": "PSMB011Pxx1"
@@ -127522,6 +127526,10 @@
   "TE_QS": {
     "brand": "iBoard",
     "name": "IFPD"
+  },
+  "TE_QS_LL": {
+    "brand": "StarBoard",
+    "name": "TE_QS_LL"
   },
   "TE_QS_PRO": {
     "brand": "StarBoard",
