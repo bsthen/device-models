@@ -89883,6 +89883,14 @@
     "brand": "OnePlus",
     "name": "Pad 3"
   },
+  "OPD2504": {
+    "brand": "OnePlus",
+    "name": "Pad Go 2"
+  },
+  "OPD2505": {
+    "brand": "OnePlus",
+    "name": "Pad Go 2"
+  },
   "Y Series": {
     "brand": "OnePlus",
     "name": "Y Series"
@@ -92590,6 +92598,10 @@
   "CPH2811": {
     "brand": "Oppo",
     "name": "Reno15 Pro Max 5G"
+  },
+  "CPH2813": {
+    "brand": "Oppo",
+    "name": "Reno15 Pro Mini 5G"
   },
   "PMD110": {
     "brand": "Oppo",
@@ -108530,6 +108542,18 @@
   "SM-A075M": {
     "brand": "Samsung",
     "name": "Galaxy A07"
+  },
+  "SM-A076B": {
+    "brand": "Samsung",
+    "name": "Galaxy A07 5G"
+  },
+  "SM-A076E": {
+    "brand": "Samsung",
+    "name": "Galaxy A07 5G"
+  },
+  "SM-A076M": {
+    "brand": "Samsung",
+    "name": "Galaxy A07 5G"
   },
   "SM-A105F": {
     "brand": "Samsung",
