@@ -35031,6 +35031,10 @@
     "brand": "Fujitsu",
     "name": "INTERACTIVE_PANEL"
   },
+  "IWxx2_Ultra": {
+    "brand": "Fujitsu",
+    "name": "IWxx2_Ultra"
+  },
   "M02": {
     "brand": "Fujitsu",
     "name": "arrows M02"
@@ -42442,6 +42446,10 @@
   "H81": {
     "brand": "HUGEROCK",
     "name": "H81"
+  },
+  "E10_A": {
+    "brand": "HUIHUANG",
+    "name": "E10_A_EEA"
   },
   "CW-SPCM": {
     "brand": "HUSHIDA",
@@ -103444,8 +103452,8 @@
     "name": "T503F_L1"
   },
   "K30_EEA": {
-    "brand": "Rebecco",
-    "name": "K50_EEA_B"
+    "brand": "raemond",
+    "name": "X90_EEA"
   },
   "K30_EEA_B": {
     "brand": "Rebecco",
@@ -153667,6 +153675,10 @@
     "brand": "Xiaomi",
     "name": "Xiaomi 17 Pro Max"
   },
+  "2512BPNDAC": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 17 Ultra"
+  },
   "2109119BC": {
     "brand": "Xiaomi",
     "name": "Xiaomi Civi 1S"
@@ -164642,6 +164654,14 @@
   "RMX5250": {
     "brand": "realme",
     "name": "realme 15x 5G"
+  },
+  "RMX5120": {
+    "brand": "realme",
+    "name": "realme 16 Pro 5G"
+  },
+  "RMX5131": {
+    "brand": "realme",
+    "name": "realme 16 Pro+ 5G"
   },
   "realme 2K G Smart TV": {
     "brand": "realme",
