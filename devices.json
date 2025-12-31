@@ -947,6 +947,10 @@
     "brand": "ALTOP",
     "name": "ALTOP E board"
   },
+  "AMCON Google TV": {
+    "brand": "Aminocom",
+    "name": "Smart TV"
+  },
   "ASPWR24": {
     "brand": "AMG-Smartphone",
     "name": "AMG_WR24"
@@ -6116,7 +6120,7 @@
     "name": "Cat S31"
   },
   "S32": {
-    "brand": "TIOK",
+    "brand": "i-custom",
     "name": "S32"
   },
   "S32_NFC": {
@@ -6354,10 +6358,6 @@
   "Kamai7": {
     "brand": "Aminocom",
     "name": "Kamai7"
-  },
-  "AMCON Google TV": {
-    "brand": "Aminocom",
-    "name": "Smart TV"
   },
   "IPA-1104HDH-01": {
     "brand": "eSTREAM 4K",
@@ -35031,6 +35031,10 @@
     "brand": "Fujitsu",
     "name": "INTERACTIVE_PANEL"
   },
+  "IWxx2_DXx": {
+    "brand": "Fujitsu",
+    "name": "IWxx2_DXx"
+  },
   "IWxx2_Ultra": {
     "brand": "Fujitsu",
     "name": "IWxx2_Ultra"
@@ -42446,6 +42450,10 @@
   "H81": {
     "brand": "HUGEROCK",
     "name": "H81"
+  },
+  "T-Smart": {
+    "brand": "HUGEROCK",
+    "name": "T-Smart"
   },
   "E10_A": {
     "brand": "HUIHUANG",
@@ -95959,6 +95967,10 @@
     "brand": "Panasonic",
     "name": "JX900C"
   },
+  "Panasonic_IFPD": {
+    "brand": "Panasonic",
+    "name": "KT"
+  },
   "Panasonic KX-PRXA10": {
     "brand": "Panasonic",
     "name": "KX-PRXA10"
@@ -95966,6 +95978,10 @@
   "Panasonic KX-PRXA15": {
     "brand": "Panasonic",
     "name": "KX-PRXA15"
+  },
+  "LH_86CT8NDCM": {
+    "brand": "Panasonic",
+    "name": "LH_86CT8NDCM"
   },
   "LH_CTR": {
     "brand": "Panasonic",
@@ -97671,6 +97687,10 @@
     "brand": "PlayPoland",
     "name": "play_dctiw362"
   },
+  "N9600": {
+    "brand": "Pleio",
+    "name": "N9600"
+  },
   "Kids10_A15": {
     "brand": "Plimpton",
     "name": "Kids10_A15"
@@ -97970,6 +97990,10 @@
   "PT11": {
     "brand": "Point Mobile",
     "name": "PT11"
+  },
+  "TR54": {
+    "brand": "Point Mobile",
+    "name": "TR54"
   },
   "PVT-R78-3288": {
     "brand": "Point of view",
@@ -100766,6 +100790,10 @@
   "M10_R06": {
     "brand": "Pritom",
     "name": "M10_R06"
+  },
+  "M10_R07": {
+    "brand": "Pritom",
+    "name": "M10_R07"
   },
   "M10_T01": {
     "brand": "Pritom",
@@ -107821,7 +107849,7 @@
   },
   "V13": {
     "brand": "SVITOO",
-    "name": "V13"
+    "name": "V13_EEA"
   },
   "SWA310": {
     "brand": "SWACONNECT",
@@ -129462,6 +129490,10 @@
   "roar_V150": {
     "brand": "Symphony",
     "name": "roar_V150"
+  },
+  "G7576": {
+    "brand": "Synetech",
+    "name": "Gemini"
   },
   "Synetech_T35": {
     "brand": "Synetech",
