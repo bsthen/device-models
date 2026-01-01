@@ -11111,6 +11111,10 @@
     "brand": "BAYKUS",
     "name": "BKM10"
   },
+  "lgyuev-T11": {
+    "brand": "BDIC",
+    "name": "lgyuev-T11"
+  },
   "Destiny": {
     "brand": "Stylo",
     "name": "Destiny"
@@ -15270,6 +15274,10 @@
   "BP 2K Android TV": {
     "brand": "Blaupunkt",
     "name": "BLAUPUNKT2K"
+  },
+  "UHD Google TV Stick": {
+    "brand": "Strong",
+    "name": "LEAP-NOVA"
   },
   "BP_6008": {
     "brand": "Blaupunkt",
@@ -26370,6 +26378,10 @@
   "M50E-1A": {
     "brand": "Dialog Blaze",
     "name": "M50E-1A"
+  },
+  "Dialog ViU Mini": {
+    "brand": "Dialog_TV",
+    "name": "Dialog ViU Mini"
   },
   "Viu Mini": {
     "brand": "Dialog_TV",
@@ -47371,6 +47383,14 @@
     "brand": "Hoozo",
     "name": "AL-13-EEA"
   },
+  "AX10_EEA": {
+    "brand": "Hoozo",
+    "name": "AX10_EEA"
+  },
+  "AX13_EEA": {
+    "brand": "Hoozo",
+    "name": "AX13_EEA"
+  },
   "F13": {
     "brand": "Hoozo",
     "name": "F13"
@@ -63775,6 +63795,10 @@
     "brand": "LANDI",
     "name": "M20SE"
   },
+  "P30 Tablet": {
+    "brand": "LANDI",
+    "name": "P30TN00"
+  },
   "Pad6plus": {
     "brand": "LANDI",
     "name": "Pad6plus"
@@ -77591,6 +77615,10 @@
     "brand": "Mecool",
     "name": "KM9PRO"
   },
+  "UHD Google TV STB": {
+    "brand": "Strong",
+    "name": "LEAP-S3 PRO"
+  },
   "KT1": {
     "brand": "Mecool",
     "name": "KT1"
@@ -89842,6 +89870,10 @@
   "OPD2481": {
     "brand": "OnePlus",
     "name": "OnePlus Pad Lite"
+  },
+  "PLY110": {
+    "brand": "OnePlus",
+    "name": "OnePlus Turbo 6V"
   },
   "OPWWE231": {
     "brand": "OnePlus",
@@ -105443,10 +105475,6 @@
     "brand": "RockTek",
     "name": "GT1"
   },
-  "UHD Google TV STB": {
-    "brand": "Strong",
-    "name": "LEAP-S3 PRO"
-  },
   "RT-G1": {
     "brand": "RockTek",
     "name": "RT-G1"
@@ -105838,6 +105866,10 @@
   "FP-U320-711-WWAN": {
     "brand": "SAKAISIO",
     "name": "FP-U320-711-WWAN"
+  },
+  "S3201": {
+    "brand": "SANCO",
+    "name": "S3201"
   },
   "SANCO Android TV": {
     "brand": "SANCO",
@@ -128079,9 +128111,9 @@
     "brand": "Stream",
     "name": "Stream TV G2K"
   },
-  "UHD Google TV Stick": {
+  "FHD Google TV Stick": {
     "brand": "Strong",
-    "name": "LEAP-NOVA"
+    "name": "LEAP-UNA+"
   },
   "4K Hybrid STB": {
     "brand": "Strong",
@@ -129608,7 +129640,7 @@
     "name": "Revvl 8 Pro"
   },
   "9185W": {
-    "brand": "T-Mobile",
+    "brand": "TCL",
     "name": "T-Mobile REVVL TAB 2"
   },
   "5087Z": {
@@ -129798,6 +129830,10 @@
   "ProjectorC1": {
     "brand": "TCL",
     "name": "ProjectorC1"
+  },
+  "T450H": {
+    "brand": "TCL",
+    "name": "Telstra T-Inspire 2"
   },
   "5086D": {
     "brand": "TCL",
@@ -130385,7 +130421,7 @@
   },
   "T951P": {
     "brand": "TCL",
-    "name": "TCL 60 Ultra NXTPAPER 5G"
+    "name": "TCL NXTPAPER 60 Ultra"
   },
   "T705M": {
     "brand": "TCL",
@@ -130470,6 +130506,14 @@
   "T513W": {
     "brand": "TCL",
     "name": "TCL K32 5G"
+  },
+  "T513Z": {
+    "brand": "TCL",
+    "name": "TCL K33 5G"
+  },
+  "T513V": {
+    "brand": "TCL",
+    "name": "TCL K33 5G"
   },
   "T513SP": {
     "brand": "TCL",
@@ -130590,6 +130634,14 @@
   "9463A1": {
     "brand": "TCL",
     "name": "TCL NXTPAPER 14 Pro"
+  },
+  "T807D": {
+    "brand": "TCL",
+    "name": "TCL NXTPAPER 70 Pro"
+  },
+  "T807E": {
+    "brand": "TCL",
+    "name": "TCL NXTPAPER 70 Pro"
   },
   "T780H": {
     "brand": "TCL",
@@ -130858,10 +130910,6 @@
   "9317G": {
     "brand": "TCT (Alcatel)",
     "name": "TKEE mini"
-  },
-  "T450H": {
-    "brand": "TCL",
-    "name": "Telstra T-Inspire 2"
   },
   "UnionTV": {
     "brand": "TCL",
