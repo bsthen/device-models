@@ -527,6 +527,10 @@
     "brand": "ADVAN",
     "name": "ADVAN_X1"
   },
+  "S50": {
+    "brand": "Stylo",
+    "name": "S50"
+  },
   "8004": {
     "brand": "Advan digital",
     "name": "XTAB"
@@ -964,7 +968,7 @@
     "name": "ALTOP E board"
   },
   "AMCON Google TV": {
-    "brand": "Aminocom",
+    "brand": "AMCON",
     "name": "Smart TV"
   },
   "ASPWR24": {
@@ -1132,7 +1136,7 @@
     "name": "Q8108L-ME"
   },
   "P10 Kid": {
-    "brand": "AORLYM",
+    "brand": "POCKAM",
     "name": "P10 Kid"
   },
   "P13 Pro": {
@@ -1222,6 +1226,10 @@
   "BM5500": {
     "brand": "ARATEK",
     "name": "BM5500"
+  },
+  "BM5500S": {
+    "brand": "ARATEK",
+    "name": "BM5500S"
   },
   "Marshall-5": {
     "brand": "ARATEK",
@@ -4666,6 +4674,18 @@
   "JA5-TBA1201": {
     "brand": "Aiwa",
     "name": "JA5-TBA1201"
+  },
+  "AI PONT CO": {
+    "brand": "Hyundai",
+    "name": "Smart TV"
+  },
+  "AI PONT NA": {
+    "brand": "thehaam",
+    "name": "Smart TV"
+  },
+  "AI PONT SA": {
+    "brand": "oboni",
+    "name": "Smart TV"
   },
   "TA-07-232": {
     "brand": "Aiwa",
@@ -11529,7 +11549,7 @@
   },
   "I8_Plus": {
     "brand": "BMAX",
-    "name": "I8_Plus"
+    "name": "I8_Plus_WLAN"
   },
   "I9_Plus": {
     "brand": "MEIZE",
@@ -14899,6 +14919,10 @@
     "brand": "Blackview",
     "name": "FORT 1"
   },
+  "FORT 100": {
+    "brand": "Blackview",
+    "name": "FORT 100"
+  },
   "FORT 2": {
     "brand": "Blackview",
     "name": "FORT 2"
@@ -14978,6 +15002,14 @@
   "Pad8": {
     "brand": "Blackview",
     "name": "Pad8_RU"
+  },
+  "ROCK 1": {
+    "brand": "Blackview",
+    "name": "ROCK 1"
+  },
+  "ROCK 1 Pro": {
+    "brand": "Blackview",
+    "name": "ROCK 1 Pro"
   },
   "ROCK 2": {
     "brand": "Blackview",
@@ -16894,10 +16926,6 @@
   "S20": {
     "brand": "xTouch",
     "name": "S20"
-  },
-  "S50": {
-    "brand": "Stylo",
-    "name": "S50"
   },
   "SF550": {
     "brand": "Bluebird",
@@ -27979,6 +28007,10 @@
     "brand": "Doogee",
     "name": "Blade20 Pro"
   },
+  "Blade20 Pro Max": {
+    "brand": "Doogee",
+    "name": "Blade20 Pro Max"
+  },
   "Blade20 Turbo": {
     "brand": "Doogee",
     "name": "Blade20 Turbo"
@@ -28543,6 +28575,10 @@
     "brand": "Doogee",
     "name": "Tab E3+"
   },
+  "Tab G5": {
+    "brand": "Doogee",
+    "name": "Tab G5"
+  },
   "Tab G6": {
     "brand": "Doogee",
     "name": "Tab G6"
@@ -28550,6 +28586,10 @@
   "Tab G6 Max": {
     "brand": "Doogee",
     "name": "Tab G6 Max"
+  },
+  "Tab G6 Pro": {
+    "brand": "Doogee",
+    "name": "Tab G6 Pro"
   },
   "Tab G6+": {
     "brand": "Doogee",
@@ -28667,9 +28707,17 @@
     "brand": "Doogee",
     "name": "V40"
   },
+  "V40 Max": {
+    "brand": "Doogee",
+    "name": "V40 Max"
+  },
   "V40 Pro": {
     "brand": "Doogee",
     "name": "V40 Pro"
+  },
+  "V40 X": {
+    "brand": "Doogee",
+    "name": "V40 X"
   },
   "DOOGEE X10": {
     "brand": "Doogee",
@@ -29486,6 +29534,10 @@
   "A30L1": {
     "brand": "ECOPAD",
     "name": "A30L1_EEA"
+  },
+  "C5Pro": {
+    "brand": "ECOPAD",
+    "name": "C5Pro"
   },
   "K12L1": {
     "brand": "ECOPAD",
@@ -30651,6 +30703,10 @@
     "brand": "EasyPhone",
     "name": "100"
   },
+  "K6Pro": {
+    "brand": "Easymer",
+    "name": "K6Pro"
+  },
   "ECHO_HOLI": {
     "brand": "Echo Mobiles",
     "name": "ECHO_HOLI"
@@ -30846,6 +30902,10 @@
   "ElementDeluxe2K": {
     "brand": "Element",
     "name": "Element"
+  },
+  "E300AF32PBG": {
+    "brand": "Element",
+    "name": "Smart TV"
   },
   "TU43GDX": {
     "brand": "Element",
@@ -31786,10 +31846,6 @@
   "EST_001_BLK": {
     "brand": "Estelle",
     "name": "EST-001-BLA"
-  },
-  "AI PONT NA": {
-    "brand": "Witooth",
-    "name": "Android TV"
   },
   "ET660": {
     "brand": "Eten",
@@ -33306,6 +33362,10 @@
   "FOXXD C65": {
     "brand": "FOXXD",
     "name": "FOXXD C65"
+  },
+  "FOXXD C69M": {
+    "brand": "FOXXD",
+    "name": "FOXXD C69M"
   },
   "FOXXD HTH C67": {
     "brand": "FOXXD",
@@ -35658,6 +35718,10 @@
   "T11_PRO": {
     "brand": "G-Tab",
     "name": "T11_PRO"
+  },
+  "T13": {
+    "brand": "PAWBO",
+    "name": "T13"
   },
   "T9": {
     "brand": "Performance",
@@ -43811,6 +43875,10 @@
     "brand": "HiStone",
     "name": "HK566"
   },
+  "Hope Plus": {
+    "brand": "Hicel",
+    "name": "Hope_Plus"
+  },
   "STAR 1": {
     "brand": "Hicel",
     "name": "STAR_1"
@@ -47495,9 +47563,17 @@
     "brand": "Hoozo",
     "name": "AL-13-EEA"
   },
+  "AX10": {
+    "brand": "Hoozo",
+    "name": "AX10"
+  },
   "AX10_EEA": {
     "brand": "Hoozo",
     "name": "AX10_EEA"
+  },
+  "AX13": {
+    "brand": "Hoozo",
+    "name": "AX13"
   },
   "AX13_EEA": {
     "brand": "Hoozo",
@@ -47926,6 +48002,14 @@
   "Pad 11": {
     "brand": "Hotwav",
     "name": "Pad 11"
+  },
+  "Pad 12": {
+    "brand": "Hotwav",
+    "name": "Pad 12"
+  },
+  "Pad 12 Pro": {
+    "brand": "Hotwav",
+    "name": "Pad 12 Pro"
   },
   "Pad 13": {
     "brand": "OSCAL",
@@ -53299,10 +53383,6 @@
     "brand": "Hyundai",
     "name": "A26062k"
   },
-  "AI PONT SA": {
-    "brand": "Hyundai",
-    "name": "Android TV"
-  },
   "HYUNDAI SMART 4K TV": {
     "brand": "Hyundai",
     "name": "BOLIVIA"
@@ -53868,10 +53948,6 @@
     "name": "Smart TV"
   },
   "HYUNDAI 2K AI Smart TV": {
-    "brand": "Hyundai",
-    "name": "Smart TV"
-  },
-  "AI PONT CO": {
     "brand": "Hyundai",
     "name": "Smart TV"
   },
@@ -59555,6 +59631,10 @@
     "brand": "JVC",
     "name": "JVC"
   },
+  "JVC 2K Smart TV": {
+    "brand": "JVC",
+    "name": "JVC 2K Smart TV"
+  },
   "JVC 4K Smart TV NZ": {
     "brand": "JVC",
     "name": "JVC 4K Smart TV NZ"
@@ -59582,6 +59662,10 @@
   "JVCUS 2K Google TV": {
     "brand": "JVC",
     "name": "MTC"
+  },
+  "JVC TV": {
+    "brand": "JVC",
+    "name": "Smart TV"
   },
   "JVC Android TV SA": {
     "brand": "JVC",
@@ -59726,6 +59810,10 @@
   "KT1016": {
     "brand": "Jeazans",
     "name": "KT1016_EEA"
+  },
+  "X100L": {
+    "brand": "Jeazans",
+    "name": "X100L"
   },
   "A94GT_Plus": {
     "brand": "Jenesis",
@@ -61769,7 +61857,7 @@
   },
   "K7": {
     "brand": "Whitedeer",
-    "name": "K7"
+    "name": "K7_EEA"
   },
   "K9Pro": {
     "brand": "Kenbo",
@@ -62102,6 +62190,10 @@
   "4K T31 Smart TV": {
     "brand": "Kivi",
     "name": "KIVI"
+  },
+  "KIVI": {
+    "brand": "Kivi",
+    "name": "Smart TV"
   },
   "7588AN": {
     "brand": "Klipad",
@@ -77019,6 +77111,10 @@
     "brand": "Maxcom",
     "name": "MS651"
   },
+  "MS652": {
+    "brand": "Maxcom",
+    "name": "MS652"
+  },
   "RS-401": {
     "brand": "Maxcom",
     "name": "RS-401"
@@ -79862,6 +79958,10 @@
   "MP01": {
     "brand": "Umidigi",
     "name": "A11S EEA"
+  },
+  "AI PONT BD": {
+    "brand": "Minister",
+    "name": "Smart TV"
   },
   "M4CR": {
     "brand": "Mint",
@@ -84106,6 +84206,10 @@
   "Movix Go": {
     "brand": "Movix",
     "name": "Movix Go"
+  },
+  "AD116": {
+    "brand": "Moxalc",
+    "name": "AD116_EEA"
   },
   "m2467": {
     "brand": "Moxee",
@@ -88652,7 +88756,7 @@
     "name": "OK 2K TV"
   },
   "AI PONT DE": {
-    "brand": "OK (Mediamark)",
+    "brand": "PEAQ",
     "name": "Smart TV"
   },
   "ok 2K TV": {
@@ -88702,10 +88806,6 @@
   "Okapi_Tab8": {
     "brand": "OKAPI",
     "name": "Okapi_Tab8"
-  },
-  "Okapi_Tab8_Pro": {
-    "brand": "OKAPI",
-    "name": "Okapi_Tab8_Pro"
   },
   "Tab10": {
     "brand": "OKAPI",
@@ -89046,6 +89146,10 @@
   "Pad 18": {
     "brand": "OSCAL",
     "name": "Pad 18"
+  },
+  "Pad 200": {
+    "brand": "OSCAL",
+    "name": "Pad 200"
   },
   "Pad 30 WiFi": {
     "brand": "OSCAL",
@@ -90022,6 +90126,10 @@
   "OPD2481": {
     "brand": "OnePlus",
     "name": "OnePlus Pad Lite"
+  },
+  "PLU110": {
+    "brand": "OnePlus",
+    "name": "OnePlus Turbo 6"
   },
   "PLY110": {
     "brand": "OnePlus",
@@ -94443,10 +94551,6 @@
     "brand": "PAWBO",
     "name": "Max12"
   },
-  "T13": {
-    "brand": "PAWBO",
-    "name": "T13"
-  },
   "Tab-T13": {
     "brand": "PAWBO",
     "name": "Tab-T13"
@@ -94834,6 +94938,10 @@
   "YQ11M": {
     "brand": "PEICHENG",
     "name": "YQ11M"
+  },
+  "YQ11MK": {
+    "brand": "PEICHENG",
+    "name": "YQ11MK"
   },
   "ZB31": {
     "brand": "PEICHENG",
@@ -97458,6 +97566,10 @@
   "Philips 4K A1": {
     "brand": "Philips",
     "name": "Smart TV"
+  },
+  "T7250": {
+    "brand": "Philips",
+    "name": "T7250"
   },
   "T7305L": {
     "brand": "Philips",
@@ -102327,6 +102439,10 @@
     "brand": "Quantum",
     "name": "Elise_T65"
   },
+  "Elise T65V": {
+    "brand": "Quantum",
+    "name": "Elise_T65V"
+  },
   "Quantum Fly": {
     "brand": "Quantum",
     "name": "FLY"
@@ -105251,6 +105367,10 @@
     "brand": "Reeder",
     "name": "S23 Pro Max 256GB"
   },
+  "S71 Flip": {
+    "brand": "Reeder",
+    "name": "S71 Flip"
+  },
   "S919": {
     "brand": "Reeder",
     "name": "S919"
@@ -105370,6 +105490,10 @@
   "TAB10_US": {
     "brand": "Relndoo",
     "name": "TAB10_US"
+  },
+  "TAB9_EEA": {
+    "brand": "Relndoo",
+    "name": "TAB9_EEA"
   },
   "TB02_E": {
     "brand": "Relndoo",
@@ -106107,6 +106231,10 @@
     "brand": "SCHNEIDER",
     "name": "SCHNEIDER"
   },
+  "AI PONT DZ": {
+    "brand": "SCHNEIDER",
+    "name": "Smart TV"
+  },
   "Wave 3": {
     "brand": "SCHNEIDER",
     "name": "Wave 3"
@@ -106211,6 +106339,14 @@
     "brand": "SEGO",
     "name": "Note_70"
   },
+  "Orbit O1": {
+    "brand": "SEGO",
+    "name": "Orbit O1"
+  },
+  "Orbit O2": {
+    "brand": "SEGO",
+    "name": "Orbit O2"
+  },
   "S24 Neo": {
     "brand": "SEGO",
     "name": "S24 Neo"
@@ -106218,6 +106354,10 @@
   "S25 Neo": {
     "brand": "SEGO",
     "name": "S25 Neo"
+  },
+  "EPIC X": {
+    "brand": "SEGO",
+    "name": "SEGO_EPIC_X"
   },
   "ZERO 50": {
     "brand": "SEGO",
@@ -106274,6 +106414,10 @@
   "K3C_7570": {
     "brand": "SENSONICS",
     "name": "K3C_7570"
+  },
+  "BPR-10IIA": {
+    "brand": "SEWOO",
+    "name": "BPR-10IIA"
   },
   "NBP-65": {
     "brand": "SEWOO",
@@ -106676,7 +106820,7 @@
     "name": "S40_PLUS"
   },
   "Google TV": {
-    "brand": "SMART TECHNOLOGY",
+    "brand": "biolux",
     "name": "Smart TV"
   },
   "AM60 series": {
@@ -111578,6 +111722,10 @@
   "SM-E556B": {
     "brand": "Samsung",
     "name": "Galaxy F55 5G"
+  },
+  "SM-E566B": {
+    "brand": "Samsung",
+    "name": "Galaxy F56 5G"
   },
   "SM-E625F": {
     "brand": "Samsung",
@@ -124547,6 +124695,10 @@
     "brand": "Sky Devices",
     "name": "SKY KID1"
   },
+  "SKY_KIDs_PRO1": {
+    "brand": "Sky Devices",
+    "name": "SKY KIDs PRO1"
+  },
   "SKY PAD10": {
     "brand": "Sky Devices",
     "name": "SKY PAD10"
@@ -130910,6 +131062,10 @@
   "9060G": {
     "brand": "TCL",
     "name": "TCL TAB 10 FHD 4G"
+  },
+  "8483A": {
+    "brand": "TCL",
+    "name": "TCL TAB 10 Gen4"
   },
   "9160G1": {
     "brand": "TCL",
@@ -142570,6 +142726,10 @@
   "Ulefone_X": {
     "brand": "Ulefone",
     "name": "Ulefone_X"
+  },
+  "T6501": {
+    "brand": "Uleway",
+    "name": "T6501"
   },
   "Ultimate FU": {
     "brand": "Ultimate",
@@ -154487,6 +154647,10 @@
     "brand": "YQSVAIOR",
     "name": "YQ81-ROW"
   },
+  "Rugged tablet": {
+    "brand": "YSF(tyd)",
+    "name": "Rugged tablet"
+  },
   "B9000": {
     "brand": "YSFEN",
     "name": "B9000"
@@ -154902,6 +155066,10 @@
   "Amigo7xYUF": {
     "brand": "Youfone",
     "name": "Amigo7xYUF"
+  },
+  "Pad 2": {
+    "brand": "Ytab",
+    "name": "Pad2"
   },
   "A1332E": {
     "brand": "Yuho",
@@ -162755,6 +162923,10 @@
     "brand": "i.safe MOBILE",
     "name": "IS540"
   },
+  "IS541": {
+    "brand": "i.safe MOBILE",
+    "name": "IS541"
+  },
   "Aspen_4": {
     "brand": "i3CONNECT",
     "name": "Aspen 4"
@@ -163647,6 +163819,10 @@
     "brand": "iMin",
     "name": "Lark 1"
   },
+  "I25M01": {
+    "brand": "iMin",
+    "name": "Roc 1"
+  },
   "I23D02": {
     "brand": "iMin",
     "name": "Swan1Pro"
@@ -163677,7 +163853,7 @@
   },
   "I23M03": {
     "brand": "iMin",
-    "name": "Swift 1 Pro"
+    "name": "Swift 1 Pro (A15)"
   },
   "I23M01_EEA": {
     "brand": "iMin",
@@ -164286,6 +164462,10 @@
   "BLK-L09": {
     "brand": "iotapk",
     "name": "HONOR CHOICE AI Translator"
+  },
+  "L611": {
+    "brand": "ioutdoor",
+    "name": "L611"
   },
   "Polar3": {
     "brand": "ioutdoor",
@@ -165326,6 +165506,14 @@
   "RMP2402": {
     "brand": "realme",
     "name": "realme Pad 2 Lite"
+  },
+  "RMP2502": {
+    "brand": "realme",
+    "name": "realme Pad 3"
+  },
+  "RMP2501": {
+    "brand": "realme",
+    "name": "realme Pad 3 5G"
   },
   "RMP2108": {
     "brand": "realme",
