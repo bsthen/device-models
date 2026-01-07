@@ -4951,6 +4951,10 @@
     "brand": "Aligator",
     "name": "Aligator_S6700"
   },
+  "Aligator S8000": {
+    "brand": "Aligator",
+    "name": "Aligator_S8000"
+  },
   "RX460": {
     "brand": "Aligator",
     "name": "RX460"
@@ -10201,7 +10205,7 @@
   },
   "YQ10S_MAX": {
     "brand": "PEICHENG",
-    "name": "YQ10SC_MAX"
+    "name": "YQ10ST_MAX"
   },
   "YQ10S_PRO": {
     "brand": "Atozee",
@@ -11298,6 +11302,10 @@
   "BILIMLI2025": {
     "brand": "BILIMLI",
     "name": "BILIMLI2025"
+  },
+  "Phenix XT": {
+    "brand": "BIT Mobile",
+    "name": "Phenix XT"
   },
   "B2017": {
     "brand": "BKAV",
@@ -15279,6 +15287,10 @@
     "brand": "Blackview",
     "name": "XPLORE 2 Satellite"
   },
+  "XPLORE X1": {
+    "brand": "Blackview",
+    "name": "XPLORE X1"
+  },
   "ZENO 1": {
     "brand": "Blackview",
     "name": "ZENO 1"
@@ -17682,6 +17694,10 @@
   "HS29779-18": {
     "brand": "CEM Global",
     "name": "HS29779-18"
+  },
+  "A10ST-5G": {
+    "brand": "CENAVA",
+    "name": "A10ST-5G"
   },
   "A80ST": {
     "brand": "CENAVA",
@@ -23148,6 +23164,10 @@
     "name": "W30"
   },
   "crelander_android15": {
+    "brand": "Crelander",
+    "name": "W30"
+  },
+  "crelander_android16": {
     "brand": "Crelander",
     "name": "W30"
   },
@@ -29295,6 +29315,10 @@
     "brand": "Dual",
     "name": "Dual 2K Android TV"
   },
+  "Dunns Pulse Pro": {
+    "brand": "Dunns",
+    "name": "Dunns Pulse Pro"
+  },
   "Dunns Slinger": {
     "brand": "Dunns",
     "name": "Dunns Slinger"
@@ -29534,6 +29558,10 @@
   "A30L1": {
     "brand": "ECOPAD",
     "name": "A30L1_EEA"
+  },
+  "A30Pro_A": {
+    "brand": "ECOPAD",
+    "name": "A30Pro_A_EEA"
   },
   "C5Pro": {
     "brand": "ECOPAD",
@@ -30059,6 +30087,10 @@
     "brand": "ENV(EC)",
     "name": "ENV_PAD_PRO_XS"
   },
+  "ENV Spartan GT99": {
+    "brand": "ENV(EC)",
+    "name": "ENV_Spartan_GT99"
+  },
   "ENV_TAB_Go": {
     "brand": "ENV(EC)",
     "name": "ENV_TAB_Go"
@@ -30066,6 +30098,14 @@
   "ENV_TAB_Go_Pro": {
     "brand": "ENV(EC)",
     "name": "ENV_TAB_Go_Pro"
+  },
+  "ENV_note_20": {
+    "brand": "ENV(EC)",
+    "name": "ENV_note_20"
+  },
+  "NEO PRO MAX": {
+    "brand": "ENV(EC)",
+    "name": "NEO PRO MAX"
   },
   "note 16": {
     "brand": "ENV(EC)",
@@ -33218,6 +33258,10 @@
   "F109 S": {
     "brand": "FOSSiBOT",
     "name": "F109 S"
+  },
+  "F110 Pro": {
+    "brand": "FOSSiBOT",
+    "name": "F110 Pro"
   },
   "F110L": {
     "brand": "FOSSiBOT",
@@ -47027,6 +47071,10 @@
     "brand": "Honor",
     "name": "HONOR 50 Lite"
   },
+  "MEY-AN00": {
+    "brand": "Honor",
+    "name": "HONOR 500"
+  },
   "FNE-NX9": {
     "brand": "Honor",
     "name": "HONOR 70"
@@ -47451,6 +47499,14 @@
     "brand": "Honor",
     "name": "HONOR X8c"
   },
+  "LNA-LX2": {
+    "brand": "Honor",
+    "name": "HONOR X8d"
+  },
+  "LNA-LX3": {
+    "brand": "Honor",
+    "name": "HONOR X8d"
+  },
   "ANY-LX2": {
     "brand": "Honor",
     "name": "HONOR X9"
@@ -47506,6 +47562,10 @@
   "DVD-AN80": {
     "brand": "Honor",
     "name": "荣耀Power"
+  },
+  "SER-AN00": {
+    "brand": "Honor",
+    "name": "荣耀Power2"
   },
   "VCA-AN00": {
     "brand": "Honor",
@@ -75315,6 +75375,10 @@
     "brand": "MAXLEGEN",
     "name": "M708-EEA"
   },
+  "M816-EEA": {
+    "brand": "MAXLEGEN",
+    "name": "Tablet_a"
+  },
   "MXCORE": {
     "brand": "Noblex",
     "name": "TN11A6128"
@@ -75966,6 +76030,10 @@
   "M90": {
     "brand": "MOREFUN",
     "name": "M90"
+  },
+  "RS300A": {
+    "brand": "MOTREX",
+    "name": "RS300A"
   },
   "Movi Projector Phone": {
     "brand": "MOVI",
@@ -77638,6 +77706,10 @@
   "MeanIt_X30": {
     "brand": "MeanIT",
     "name": "MeanIt_X30"
+  },
+  "PP101": {
+    "brand": "MeanIT",
+    "name": "PP101"
   },
   "START_S5": {
     "brand": "MeanIT",
@@ -84209,7 +84281,7 @@
   },
   "AD116": {
     "brand": "Moxalc",
-    "name": "AD116_EEA"
+    "name": "AD116_ROW"
   },
   "m2467": {
     "brand": "Moxee",
@@ -88191,6 +88263,10 @@
     "brand": "Nomu",
     "name": "V58"
   },
+  "X6 Pro": {
+    "brand": "Nordalp",
+    "name": "X6 Pro"
+  },
   "NT-P70": {
     "brand": "NorthTech",
     "name": "NT-P70"
@@ -89719,6 +89795,18 @@
     "brand": "OnePlus",
     "name": "OnePlus 15"
   },
+  "CPH2767": {
+    "brand": "OnePlus",
+    "name": "OnePlus 15R"
+  },
+  "CPH2769": {
+    "brand": "OnePlus",
+    "name": "OnePlus 15R"
+  },
+  "CPH2771": {
+    "brand": "OnePlus",
+    "name": "OnePlus 15R"
+  },
   "ONEPLUS A6000": {
     "brand": "OnePlus",
     "name": "OnePlus 6"
@@ -90202,6 +90290,10 @@
   "Y Series": {
     "brand": "OnePlus",
     "name": "Y Series"
+  },
+  "PLR110": {
+    "brand": "OnePlus",
+    "name": "一加 Ace 6T"
   },
   "OPD2508": {
     "brand": "OnePlus",
@@ -94579,10 +94671,6 @@
     "brand": "PAX (CN)",
     "name": "A920Pro"
   },
-  "A960": {
-    "brand": "PAX (CN)",
-    "name": "A960"
-  },
   "A99": {
     "brand": "PAX (CN)",
     "name": "A99"
@@ -97558,6 +97646,14 @@
   "S6133S": {
     "brand": "Philips",
     "name": "S6133S"
+  },
+  "S7210": {
+    "brand": "Philips",
+    "name": "S7210"
+  },
+  "S7220": {
+    "brand": "Philips",
+    "name": "S7220"
   },
   "SWTV": {
     "brand": "Skyworth",
@@ -106175,6 +106271,10 @@
     "brand": "SAKAISIO",
     "name": "FP-U320-711-WWAN"
   },
+  "SALT A78": {
+    "brand": "SALT",
+    "name": "SALT A78"
+  },
   "S3201": {
     "brand": "SANCO",
     "name": "S3201"
@@ -106354,6 +106454,10 @@
   "S25 Neo": {
     "brand": "SEGO",
     "name": "S25 Neo"
+  },
+  "SEGO EPIC": {
+    "brand": "SEGO",
+    "name": "SEGO_EPIC"
   },
   "EPIC X": {
     "brand": "SEGO",
@@ -109307,6 +109411,10 @@
     "brand": "Samsung",
     "name": "Galaxy A17 5G"
   },
+  "SM-S176V": {
+    "brand": "Samsung",
+    "name": "Galaxy A17 5G"
+  },
   "SM-A260F": {
     "brand": "Samsung",
     "name": "Galaxy A2 Core"
@@ -111680,10 +111788,6 @@
     "name": "Galaxy F16 5G"
   },
   "SM-E176B": {
-    "brand": "Samsung",
-    "name": "Galaxy F17 5G"
-  },
-  "SM-S176V": {
     "brand": "Samsung",
     "name": "Galaxy F17 5G"
   },
@@ -123270,6 +123374,10 @@
   "PN-ZC02": {
     "brand": "Sharp",
     "name": "PN-ZC02"
+  },
+  "PN_LB3_series": {
+    "brand": "Sharp",
+    "name": "PN_LB3_Sereies"
   },
   "SH-04D": {
     "brand": "Sharp",
@@ -137374,6 +137482,10 @@
   "TECHR720W": {
     "brand": "Techsonic",
     "name": "TECHR720W"
+  },
+  "S1000Pro": {
+    "brand": "Techview",
+    "name": "S1000Pro"
   },
   "S17Pro": {
     "brand": "Techview",
