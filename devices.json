@@ -59873,7 +59873,7 @@
   },
   "X100L": {
     "brand": "Jeazans",
-    "name": "X100L"
+    "name": "X100L_EEA"
   },
   "A94GT_Plus": {
     "brand": "Jenesis",
@@ -61258,6 +61258,10 @@
   "4K Siera SMART TV": {
     "brand": "KTCtv",
     "name": "Siera"
+  },
+  "EcoPro": {
+    "brand": "KTCtv",
+    "name": "VAMVO"
   },
   "VIMEEL GOOGLE TV 4K": {
     "brand": "KTCtv",
@@ -82983,6 +82987,10 @@
     "brand": "Motorola",
     "name": "moto X70 Air"
   },
+  "XT2603-1": {
+    "brand": "Motorola",
+    "name": "moto X70 Pro"
+  },
   "moto e": {
     "brand": "Motorola",
     "name": "moto e"
@@ -83773,7 +83781,7 @@
   },
   "motorola edge 50 ultra": {
     "brand": "Motorola",
-    "name": "motorola edge 70"
+    "name": "motorola signature"
   },
   "motorola edge 5G UW": {
     "brand": "Motorola",
@@ -83986,6 +83994,10 @@
   "motorola razr ultra 2025": {
     "brand": "Motorola",
     "name": "motorola razr ultra 2025"
+  },
+  "motorola signature": {
+    "brand": "Motorola",
+    "name": "motorola signature"
   },
   "EVOLVE": {
     "brand": "Motorola Solutions",
@@ -113442,6 +113454,10 @@
   "SM-M176B": {
     "brand": "Samsung",
     "name": "Galaxy M17 5G"
+  },
+  "SM-M076B": {
+    "brand": "Samsung",
+    "name": "Galaxy M17e 5G"
   },
   "SM-M205N": {
     "brand": "Samsung",
