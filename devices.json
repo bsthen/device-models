@@ -4059,6 +4059,10 @@
     "brand": "Advance",
     "name": "SP5738"
   },
+  "SP5739": {
+    "brand": "Advance",
+    "name": "SP5739"
+  },
   "SP5760": {
     "brand": "Advance",
     "name": "SP5760"
@@ -74871,6 +74875,10 @@
     "brand": "Logicom",
     "name": "Touch Tablet CT730"
   },
+  "VISION X3 MAX": {
+    "brand": "Logicom",
+    "name": "VISION_X3_MAX"
+  },
   "VR BOT 552": {
     "brand": "Logicom",
     "name": "VRBOT552"
@@ -95055,6 +95063,10 @@
     "brand": "PEICHENG",
     "name": "ZB32A"
   },
+  "ZB32V": {
+    "brand": "PEICHENG",
+    "name": "ZB32V"
+  },
   "ZB32_PRO": {
     "brand": "PEICHENG",
     "name": "ZB32_PRO"
@@ -106872,6 +106884,10 @@
     "name": "K11_US"
   },
   "K13-EEA": {
+    "brand": "SKYEGG",
+    "name": "K13-U-EEA"
+  },
+  "K13-U-EEA": {
     "brand": "SKYEGG",
     "name": "K13-U-EEA"
   },
