@@ -523,6 +523,10 @@
     "brand": "Advan digital",
     "name": "TAB VX"
   },
+  "A10": {
+    "brand": "iYOU",
+    "name": "A10"
+  },
   "6781": {
     "brand": "ADVAN",
     "name": "ADVAN_X1"
@@ -11246,10 +11250,6 @@
   "P187": {
     "brand": "BERGSTROM",
     "name": "P187"
-  },
-  "A10": {
-    "brand": "iYOU",
-    "name": "A10"
   },
   "A20": {
     "brand": "Wintouch",
@@ -23175,6 +23175,10 @@
     "brand": "Crelander",
     "name": "W30"
   },
+  "W30-EEA": {
+    "brand": "Crelander",
+    "name": "W30-EEA"
+  },
   "W87-EEA": {
     "brand": "Crelander",
     "name": "W87-EEA"
@@ -30749,7 +30753,11 @@
   },
   "K6Pro": {
     "brand": "Easymer",
-    "name": "K6Pro"
+    "name": "K6Pro_EEA"
+  },
+  "K6m": {
+    "brand": "Easymer",
+    "name": "K6m"
   },
   "ECHO_HOLI": {
     "brand": "Echo Mobiles",
@@ -54139,6 +54147,10 @@
     "brand": "IAIWAI",
     "name": "A103"
   },
+  "ICE_Board_X": {
+    "brand": "ICE_Board",
+    "name": "ICE_Board_X_2"
+  },
   "CTGED01": {
     "brand": "ICOM",
     "name": "CTGED01"
@@ -55954,6 +55966,10 @@
   "Infinix X6870": {
     "brand": "Infinix",
     "name": "Infinix NOTE 50S 5G"
+  },
+  "Infinix X6879": {
+    "brand": "Infinix",
+    "name": "Infinix NOTE 60"
   },
   "Infinix X656": {
     "brand": "Infinix",
@@ -89171,6 +89187,10 @@
     "brand": "ORCATAB",
     "name": "ORCATAB_WT1_WT1Pro"
   },
+  "ORCATAB_WT1_WT1Pro": {
+    "brand": "ORCATAB",
+    "name": "ORCATAB_WT1_WT1Pro"
+  },
   "Doshisha 2K Smart TV": {
     "brand": "ORION",
     "name": "Doshisha 2K Smart TV"
@@ -95438,6 +95458,10 @@
   "2409FPCC4I": {
     "brand": "POCO",
     "name": "POCO M7 Pro 5G"
+  },
+  "2510EPC8BG": {
+    "brand": "POCO",
+    "name": "POCO M8 Pro 5G"
   },
   "2405CPCFBG": {
     "brand": "POCO",
@@ -106299,6 +106323,10 @@
     "brand": "SALT",
     "name": "SALT A78"
   },
+  "M1039A": {
+    "brand": "SAMA",
+    "name": "M1039A"
+  },
   "S3201": {
     "brand": "SANCO",
     "name": "S3201"
@@ -111862,6 +111890,10 @@
   "SM-E625F": {
     "brand": "Samsung",
     "name": "Galaxy F62"
+  },
+  "SM-E076B": {
+    "brand": "Samsung",
+    "name": "Galaxy F70e 5G"
   },
   "SCH-I629": {
     "brand": "Samsung",
@@ -129611,6 +129643,10 @@
     "brand": "Symphony",
     "name": "INOVA"
   },
+  "MAX 30": {
+    "brand": "Symphony",
+    "name": "MAX 30"
+  },
   "MAX 60": {
     "brand": "Symphony",
     "name": "MAX_60"
@@ -140467,6 +140503,10 @@
     "brand": "Telpo",
     "name": "M10"
   },
+  "Pos terminal": {
+    "brand": "Telpo",
+    "name": "M10B"
+  },
   "M1K": {
     "brand": "Telpo",
     "name": "M1K"
@@ -144251,6 +144291,10 @@
     "brand": "VILLAON",
     "name": "Yas Y60"
   },
+  "VILLAON V6752L": {
+    "brand": "VILLAON",
+    "name": "VILLAON Hyper 100"
+  },
   "VILLAON V501L": {
     "brand": "VILLAON",
     "name": "vibe-10"
@@ -144286,10 +144330,6 @@
   "VILLAON V654L": {
     "brand": "VILLAON",
     "name": "V50s"
-  },
-  "VILLAON V6752L": {
-    "brand": "VILLAON",
-    "name": "VILLAON Hyper 100"
   },
   "VILLAON V30": {
     "brand": "VILLAON",
@@ -151119,6 +151159,10 @@
     "brand": "Walton",
     "name": "Walpad10HProMax"
   },
+  "Walpad 8G Pro": {
+    "brand": "Walton",
+    "name": "Walpad8GPro"
+  },
   "Walton Primo X5": {
     "brand": "Walton",
     "name": "Walton Primo X5"
@@ -152570,6 +152614,10 @@
   "HT10-PRO": {
     "brand": "Wpawa",
     "name": "HT10-PRO"
+  },
+  "HT10_Plus": {
+    "brand": "Wpawa",
+    "name": "HT10_Plus"
   },
   "HT10_Ultra": {
     "brand": "Wpawa",
@@ -160803,6 +160851,10 @@
     "brand": "ZTE",
     "name": "ZTU31"
   },
+  "ZXV10_TCS500B": {
+    "brand": "ZTE",
+    "name": "ZXV10_TCS500B"
+  },
   "ZXY-ZTE_N8010": {
     "brand": "ZTE",
     "name": "ZXY-ZTE_N8010"
@@ -162830,6 +162882,10 @@
   "FIT_G8613TCVR": {
     "brand": "firstIT",
     "name": "Interactive_whiteboard"
+  },
+  "fap5_rk76": {
+    "brand": "fiscat",
+    "name": "fap5_rk76"
   },
   "H166": {
     "brand": "fplus",
@@ -166526,6 +166582,14 @@
   "V2534": {
     "brand": "vivo",
     "name": "Y31 Pro 5G"
+  },
+  "V2543": {
+    "brand": "vivo",
+    "name": "Y31d"
+  },
+  "V2546": {
+    "brand": "vivo",
+    "name": "Y31d"
   },
   "V2455": {
     "brand": "vivo",
