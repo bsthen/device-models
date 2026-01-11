@@ -138811,10 +138811,6 @@
     "brand": "Tecno",
     "name": "PHANTOM V Flip 5G"
   },
-  "TECNO AD10": {
-    "brand": "Tecno",
-    "name": "TECNO PHANTOM V Fold"
-  },
   "TECNO AC8": {
     "brand": "Tecno",
     "name": "PHANTOM X"
@@ -139350,6 +139346,10 @@
   "TECNO AE11": {
     "brand": "Tecno",
     "name": "TECNO PHANTOM V Flip2 5G"
+  },
+  "TECNO AD10": {
+    "brand": "Tecno",
+    "name": "TECNO PHANTOM V Fold"
   },
   "TECNO AE10": {
     "brand": "Tecno",
