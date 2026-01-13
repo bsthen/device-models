@@ -6156,7 +6156,7 @@
     "name": "Eva"
   },
   "S13": {
-    "brand": "NEWSUN",
+    "brand": "i-custom",
     "name": "S13"
   },
   "S14": {
@@ -17751,6 +17751,10 @@
     "brand": "CEPTER",
     "name": "CTABNEXUS8128"
   },
+  "CTABNEXUSG": {
+    "brand": "CEPTER",
+    "name": "CTABNEXUSG"
+  },
   "CTABNEXUSW": {
     "brand": "CEPTER",
     "name": "CTABNEXUSW"
@@ -18708,6 +18712,10 @@
     "name": "Cpad10"
   },
   "Ctab 12": {
+    "brand": "Callsky",
+    "name": "Ctab_12"
+  },
+  "SMART PRO 12": {
     "brand": "Callsky",
     "name": "Ctab_12"
   },
@@ -47930,6 +47938,10 @@
   "Cyber 16 Pro": {
     "brand": "Hotwav",
     "name": "Cyber 16 Pro"
+  },
+  "Cyber 17": {
+    "brand": "Hotwav",
+    "name": "Cyber 17"
   },
   "Cyber 7": {
     "brand": "Hotwav",
@@ -104190,6 +104202,22 @@
   "25098RA98C": {
     "brand": "Redmi",
     "name": "REDMI Note 15"
+  },
+  "2510DRA23E": {
+    "brand": "Redmi",
+    "name": "REDMI Note 15"
+  },
+  "2510DRA23G": {
+    "brand": "Redmi",
+    "name": "REDMI Note 15"
+  },
+  "2510DRA23L": {
+    "brand": "Redmi",
+    "name": "REDMI Note 15"
+  },
+  "25100RA69G": {
+    "brand": "Redmi",
+    "name": "REDMI Note 15 Pro"
   },
   "25080RABDC": {
     "brand": "Redmi",
@@ -166606,6 +166634,10 @@
   "V2516A": {
     "brand": "vivo",
     "name": "Y500 Pro"
+  },
+  "V2531A": {
+    "brand": "vivo",
+    "name": "Y500i AI版"
   },
   "V2443BA": {
     "brand": "vivo",
