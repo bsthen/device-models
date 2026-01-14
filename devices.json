@@ -859,6 +859,10 @@
     "brand": "AIPLUS",
     "name": "AI+ Nova 1 5G"
   },
+  "AI+ NxtFlip 5G": {
+    "brand": "AIPLUS",
+    "name": "AI+ NxtFlip 5G"
+  },
   "AI+ Pulse 1": {
     "brand": "AIPLUS",
     "name": "AI+ Pulse 1"
@@ -10108,8 +10112,8 @@
     "name": "CP20S"
   },
   "CP20_GOLD": {
-    "brand": "Atozee",
-    "name": "CP20_GOLD"
+    "brand": "PEICHENG",
+    "name": "CP20TGOLD_EEA"
   },
   "CP20_MAX": {
     "brand": "Atozee",
@@ -25807,6 +25811,10 @@
     "brand": "Datalogic",
     "name": "Datalogic MEMOR 10"
   },
+  "Joya Smart": {
+    "brand": "Datalogic",
+    "name": "Joya Smart/Smart+"
+  },
   "Joya Touch 22": {
     "brand": "Datalogic",
     "name": "Joya Touch 22"
@@ -30419,6 +30427,10 @@
     "brand": "ETELPREMIUM",
     "name": "Etel P64"
   },
+  "Etel P64 Ultra": {
+    "brand": "ETELPREMIUM",
+    "name": "Etel P64 Ultra"
+  },
   "N2500": {
     "brand": "ETELPREMIUM",
     "name": "NOTE 25 ULTRA"
@@ -30766,6 +30778,10 @@
   "K6m": {
     "brand": "Easymer",
     "name": "K6m"
+  },
+  "X6Pro": {
+    "brand": "Xmobile",
+    "name": "X6_Pro"
   },
   "ECHO_HOLI": {
     "brand": "Echo Mobiles",
@@ -33504,8 +33520,8 @@
     "name": "CP11_J1"
   },
   "EcoTV1 Plus": {
-    "brand": "FPD",
-    "name": "EcoTV1 Plus"
+    "brand": "Hyundai",
+    "name": "HYUNDAI"
   },
   "EcoTV Pro A": {
     "brand": "FPD",
@@ -76307,6 +76323,10 @@
     "brand": "MTC",
     "name": "chile"
   },
+  "H6032": {
+    "brand": "Mobiwire",
+    "name": "H6032"
+  },
   "Alola_Max": {
     "brand": "MTN",
     "name": "Alola_Max"
@@ -81486,10 +81506,6 @@
   "H5112": {
     "brand": "Mobiwire",
     "name": "H5112"
-  },
-  "H6032": {
-    "brand": "Mobiwire",
-    "name": "H6032"
   },
   "H6032 Plus": {
     "brand": "Mobiwire",
@@ -108366,6 +108382,10 @@
   "P10_A": {
     "brand": "SVITOO",
     "name": "P10_A_EEA"
+  },
+  "P10_A1": {
+    "brand": "SVITOO",
+    "name": "P10_A1_EEA"
   },
   "P10_T": {
     "brand": "SVITOO",
@@ -142279,6 +142299,10 @@
     "brand": "URAO",
     "name": "G142L_EEA"
   },
+  "G143A": {
+    "brand": "URAO",
+    "name": "G143A"
+  },
   "G143L": {
     "brand": "URAO",
     "name": "G143L"
@@ -154558,10 +154582,6 @@
   "X10Max": {
     "brand": "Xmobile",
     "name": "X10Max"
-  },
-  "X6Pro": {
-    "brand": "Xmobile",
-    "name": "X6_Pro"
   },
   "XMOBILE X7": {
     "brand": "Xmobile",
