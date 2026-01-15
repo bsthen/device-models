@@ -8807,6 +8807,10 @@
     "brand": "Mobicell",
     "name": "Mobicel GEM"
   },
+  "Halo": {
+    "brand": "XGIMI",
+    "name": "Halo"
+  },
   "Jazz": {
     "brand": "Cell_C",
     "name": "JAZZ"
@@ -30422,6 +30426,10 @@
   "ETEL P29": {
     "brand": "ETELPREMIUM",
     "name": "ETEL P29"
+  },
+  "ETEL-P65": {
+    "brand": "ETELPREMIUM",
+    "name": "ETEL P65"
   },
   "Etel_P64": {
     "brand": "ETELPREMIUM",
@@ -77670,6 +77678,10 @@
   "TAB_MAX_7": {
     "brand": "Maxwest",
     "name": "TAB_MAX_7"
+  },
+  "MAZDA CONNECT": {
+    "brand": "Mazda",
+    "name": "Mazda Connect"
   },
   "M1582C": {
     "brand": "Maze_speed",
@@ -153098,10 +153110,6 @@
   "XR14A": {
     "brand": "XGIMI",
     "name": "HORIZON 20 Pro"
-  },
-  "Halo": {
-    "brand": "XGIMI",
-    "name": "Halo"
   },
   "H0030": {
     "brand": "XGIMI",
