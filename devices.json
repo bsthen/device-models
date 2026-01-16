@@ -1051,6 +1051,10 @@
     "brand": "SPC Mobile",
     "name": "L51 BLITZ"
   },
+  "SP5670": {
+    "brand": "ANS",
+    "name": "SP5670"
+  },
   "H450R": {
     "brand": "ANS",
     "name": "Trailblazer"
@@ -13692,7 +13696,7 @@
     "name": "RP8604"
   },
   "AI PONT PLUS FF": {
-    "brand": "Wansa",
+    "brand": "snowa",
     "name": "Smart TV"
   },
   "BenQ T3": {
@@ -21090,6 +21094,10 @@
   "Stratus C8": {
     "brand": "Cloud_Mobile",
     "name": "Stratus_C8"
+  },
+  "Stratus C9": {
+    "brand": "Cloud_Mobile",
+    "name": "Stratus_C9"
   },
   "Sunshine_T2_Elite": {
     "brand": "Cloud_Mobile",
@@ -44179,6 +44187,10 @@
     "brand": "Hiking",
     "name": "KIDS_1"
   },
+  "P16_TU": {
+    "brand": "Hiking",
+    "name": "P16_TU"
+  },
   "Rugged S2": {
     "brand": "Hiking",
     "name": "Rugged S2"
@@ -45260,6 +45272,10 @@
     "name": "Hisense E77"
   },
   "Hisense Enigma": {
+    "brand": "Hisense",
+    "name": "Hisense Enigma"
+  },
+  "Hisense Enigma SE": {
     "brand": "Hisense",
     "name": "Hisense Enigma"
   },
@@ -54051,6 +54067,10 @@
     "brand": "Hyundai",
     "name": "Seoul_S8"
   },
+  "HYUNDAI Google TV": {
+    "brand": "Hyundai",
+    "name": "Smart TV"
+  },
   "HYUNDAI 2K Smart TV": {
     "brand": "Hyundai",
     "name": "Smart TV"
@@ -60850,6 +60870,10 @@
   "DXA800": {
     "brand": "KEYENCE",
     "name": "DXA800"
+  },
+  "mibot": {
+    "brand": "KGMotors",
+    "name": "mibot"
   },
   "Better10": {
     "brand": "KGTEL",
@@ -103443,6 +103467,18 @@
     "brand": "RIO Mobile",
     "name": "RW8"
   },
+  "RG-TB711-V1": {
+    "brand": "RIRO",
+    "name": "RIRO_X100"
+  },
+  "RIRO Pad": {
+    "brand": "RIRO",
+    "name": "RIRO_X100"
+  },
+  "RIRO X100": {
+    "brand": "RIRO",
+    "name": "RIRO_X100"
+  },
   "Astro_6": {
     "brand": "RIVERSONG",
     "name": "Astro_6"
@@ -137031,6 +137067,10 @@
     "brand": "TSUNAMi",
     "name": "Tablet Tsunami TSTA080D1"
   },
+  "K106": {
+    "brand": "Zonko",
+    "name": "K106"
+  },
   "IT10268": {
     "brand": "TTS-group",
     "name": "IT10268"
@@ -161846,10 +161886,6 @@
   "K105_EEA": {
     "brand": "Zonko",
     "name": "K105_EEA"
-  },
-  "K106": {
-    "brand": "Zonko",
-    "name": "K106"
   },
   "K108_EEA": {
     "brand": "Zonko",
