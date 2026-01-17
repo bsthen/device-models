@@ -1619,13 +1619,13 @@
     "brand": "ATMPC",
     "name": "IT_1001A2_EEA"
   },
-  "IT_701A": {
-    "brand": "Premier",
-    "name": "TAB-7887-32G3GB"
-  },
   "IT_801B": {
     "brand": "ATMPC",
     "name": "IT_801BA4_EEA"
+  },
+  "IT_701A": {
+    "brand": "Premier",
+    "name": "TAB-7887-32G3GB"
   },
   "Smart_Slim_Plus": {
     "brand": "ATOL",
@@ -11194,6 +11194,10 @@
   "lgyuev-T11": {
     "brand": "BDIC",
     "name": "lgyuev-T11"
+  },
+  "lgyuev-T11Pro": {
+    "brand": "BDIC",
+    "name": "lgyuev-T11Pro"
   },
   "Destiny": {
     "brand": "Stylo",
@@ -30793,7 +30797,7 @@
   },
   "K6m": {
     "brand": "Easymer",
-    "name": "K6m"
+    "name": "K6m_EEA"
   },
   "X6Pro": {
     "brand": "Xmobile",
@@ -35994,6 +35998,10 @@
   "GETESA_niebla": {
     "brand": "GETESA",
     "name": "GETESA_niebla"
+  },
+  "StayOnYou-S2": {
+    "brand": "GFF",
+    "name": "S2"
   },
   "Gpad701": {
     "brand": "GFive",
@@ -47956,6 +47964,10 @@
     "name": "A17 Pro Max"
   },
   "A25 Ultra": {
+    "brand": "Hotwav",
+    "name": "A36"
+  },
+  "A26 Ultra": {
     "brand": "Hotwav",
     "name": "A36"
   },
@@ -76503,6 +76515,10 @@
     "brand": "MU (TH)",
     "name": "mu6"
   },
+  "KB10": {
+    "brand": "MUISOO",
+    "name": "KB10"
+  },
   "MULTYNET TV G2K": {
     "brand": "MULTYNET",
     "name": "MULTYNET TV G2K"
@@ -78622,6 +78638,10 @@
   "CP-D403": {
     "brand": "Megahouse",
     "name": "CP-D403"
+  },
+  "MN_AIO_B": {
+    "brand": "Megmeet",
+    "name": "MN_AIO_B"
   },
   "Meitu M4": {
     "brand": "Meitu",
@@ -87283,6 +87303,10 @@
     "brand": "Netmak",
     "name": "NM_VISION"
   },
+  "SMART KIDS A10": {
+    "brand": "Netmak",
+    "name": "NM_VISION"
+  },
   "S611": {
     "brand": "Neusoft",
     "name": "S611"
@@ -88494,6 +88518,10 @@
   "Z2455": {
     "brand": "ZTE",
     "name": "nubia Focus"
+  },
+  "A502ZT": {
+    "brand": "Nubia",
+    "name": "nubia Fold"
   },
   "nubia_NB1001": {
     "brand": "Nubia",
@@ -95523,6 +95551,10 @@
     "brand": "POCO",
     "name": "POCO M7 Pro 5G"
   },
+  "25118PC98G": {
+    "brand": "POCO",
+    "name": "POCO M8 5G"
+  },
   "2510EPC8BG": {
     "brand": "POCO",
     "name": "POCO M8 Pro 5G"
@@ -98056,6 +98088,10 @@
     "name": "Pixus_Line"
   },
   "Pixus Line": {
+    "brand": "Pixus",
+    "name": "Pixus_Line"
+  },
+  "Pixus Line v2": {
     "brand": "Pixus",
     "name": "Pixus_Line"
   },
@@ -104279,6 +104315,18 @@
     "brand": "Redmi",
     "name": "REDMI Note 15"
   },
+  "25098RA98G": {
+    "brand": "Redmi",
+    "name": "REDMI Note 15 5G"
+  },
+  "25098RA98I": {
+    "brand": "Redmi",
+    "name": "REDMI Note 15 5G"
+  },
+  "25098RA98T": {
+    "brand": "Redmi",
+    "name": "REDMI Note 15 5G"
+  },
   "25100RA69G": {
     "brand": "Redmi",
     "name": "REDMI Note 15 Pro"
@@ -104287,6 +104335,18 @@
     "brand": "Redmi",
     "name": "REDMI Note 15 Pro"
   },
+  "25080RABDG": {
+    "brand": "Redmi",
+    "name": "REDMI Note 15 Pro 5G"
+  },
+  "25080RABDI": {
+    "brand": "Redmi",
+    "name": "REDMI Note 15 Pro 5G"
+  },
+  "25080RABDR": {
+    "brand": "Redmi",
+    "name": "REDMI Note 15 Pro 5G"
+  },
   "25104RADAC": {
     "brand": "Redmi",
     "name": "REDMI Note 15 Pro+"
@@ -104294,6 +104354,14 @@
   "2510ERA8BC": {
     "brand": "Redmi",
     "name": "REDMI Note 15 Pro+"
+  },
+  "2510ERA8BG": {
+    "brand": "Redmi",
+    "name": "REDMI Note 15 Pro+5G"
+  },
+  "2510ERA8BI": {
+    "brand": "Redmi",
+    "name": "REDMI Note 15 Pro+5G"
   },
   "25057RA09C": {
     "brand": "Redmi",
@@ -142353,7 +142421,7 @@
   },
   "G143A": {
     "brand": "URAO",
-    "name": "G143A"
+    "name": "G143A_EEA"
   },
   "G143L": {
     "brand": "URAO",
@@ -150622,6 +150690,10 @@
   "W405": {
     "brand": "WINTEK",
     "name": "W405"
+  },
+  "M623-EEA": {
+    "brand": "WITECOR",
+    "name": "M623-EEA"
   },
   "WOM": {
     "brand": "WOM",
@@ -161027,10 +161099,6 @@
     "brand": "ZTE",
     "name": "nubia Focus 5G"
   },
-  "A502ZT": {
-    "brand": "ZTE",
-    "name": "nubia Fold"
-  },
   "Z2353": {
     "brand": "ZTE",
     "name": "nubia Music"
@@ -164355,6 +164423,10 @@
     "brand": "iQOO",
     "name": "iQOO Z10R 5G"
   },
+  "V2536A": {
+    "brand": "iQOO",
+    "name": "iQOO Z11 Turbo"
+  },
   "iQ&T N8": {
     "brand": "iQandT",
     "name": "N8"
@@ -166083,6 +166155,10 @@
     "brand": "realme",
     "name": "真我Neo7x"
   },
+  "RMX8899": {
+    "brand": "realme",
+    "name": "真我Neo8"
+  },
   "RMX3462": {
     "brand": "realme",
     "name": "真我Q3s"
@@ -166545,7 +166621,7 @@
   },
   "V2443A": {
     "brand": "vivo",
-    "name": "Y50s 5G"
+    "name": "Y50s AI版"
   },
   "PA2553": {
     "brand": "vivo",
@@ -166682,6 +166758,10 @@
   "V2546": {
     "brand": "vivo",
     "name": "Y31d"
+  },
+  "V2533": {
+    "brand": "vivo",
+    "name": "Y31e 5G"
   },
   "V2455": {
     "brand": "vivo",
