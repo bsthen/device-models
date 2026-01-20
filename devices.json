@@ -7087,6 +7087,10 @@
     "brand": "Aqua",
     "name": "AQUA MatrixTV FE"
   },
+  "AQUA MatrixTV GE": {
+    "brand": "Aqua",
+    "name": "AQUA MatrixTV GE"
+  },
   "AQUA Android TV": {
     "brand": "Aqua",
     "name": "AQUA android TV"
@@ -42919,13 +42923,25 @@
     "brand": "Haier",
     "name": "CANDY MatrixTV CE"
   },
+  "CANDY MatrixTV DE": {
+    "brand": "Haier",
+    "name": "CANDY MatrixTV DE"
+  },
   "CANDY MatrixTV DR": {
     "brand": "Haier",
     "name": "CANDY MatrixTV DR"
   },
+  "CANDY MatrixTV EE": {
+    "brand": "Haier",
+    "name": "CANDY MatrixTV EE"
+  },
   "CANDY MatrixTV ER": {
     "brand": "Haier",
     "name": "CANDY MatrixTV ER"
+  },
+  "CANDY MatrixTV GE": {
+    "brand": "Haier",
+    "name": "CANDY MatrixTV GE"
   },
   "CDP7TAB4C8": {
     "brand": "Haier",
@@ -43250,6 +43266,10 @@
   "Haier MatrixTV FR": {
     "brand": "Haier",
     "name": "Haier MatrixTV FR"
+  },
+  "Haier MatrixTV GE": {
+    "brand": "Haier",
+    "name": "Haier MatrixTV GE"
   },
   "Haier OLED TV AE": {
     "brand": "Haier",
@@ -48254,6 +48274,10 @@
   "W11": {
     "brand": "Hotwav",
     "name": "W11"
+  },
+  "X100 GT": {
+    "brand": "Hotwav",
+    "name": "X100 GT"
   },
   "1001-G": {
     "brand": "How",
@@ -106107,6 +106131,10 @@
     "brand": "Rockcel",
     "name": "Quartzo_4G"
   },
+  "R67S": {
+    "brand": "Rogue mobile Inc",
+    "name": "R67SA"
+  },
   "RG-station2": {
     "brand": "Rokid",
     "name": "station2"
@@ -112154,26 +112182,6 @@
   "GT-S5670L": {
     "brand": "Samsung",
     "name": "Galaxy Fit"
-  },
-  "SM-F7610": {
-    "brand": "Samsung",
-    "name": "Galaxy Flip7 FE"
-  },
-  "SM-F761B": {
-    "brand": "Samsung",
-    "name": "Galaxy Flip7 FE"
-  },
-  "SM-F761N": {
-    "brand": "Samsung",
-    "name": "Galaxy Flip7 FE"
-  },
-  "SM-F761U": {
-    "brand": "Samsung",
-    "name": "Galaxy Flip7 FE"
-  },
-  "SM-F761U1": {
-    "brand": "Samsung",
-    "name": "Galaxy Flip7 FE"
   },
   "SCV44": {
     "brand": "Samsung",
@@ -120890,6 +120898,26 @@
   "SM-F766Z": {
     "brand": "Samsung",
     "name": "Galaxy Z Flip7"
+  },
+  "SM-F7610": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip7 FE"
+  },
+  "SM-F761B": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip7 FE"
+  },
+  "SM-F761N": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip7 FE"
+  },
+  "SM-F761U": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip7 FE"
+  },
+  "SM-F761U1": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip7 FE"
   },
   "SM-F958N": {
     "brand": "Samsung",
@@ -136910,6 +136938,10 @@
   "SC0802": {
     "brand": "TOPJOY",
     "name": "SC0802"
+  },
+  "TOPNICE_H66": {
+    "brand": "TOPNICE",
+    "name": "H66"
   },
   "TOPNICE-H66": {
     "brand": "TOPNICE",
