@@ -17223,6 +17223,10 @@
     "brand": "BraveTechs",
     "name": "BraveT3Ultra"
   },
+  "T4 Lite": {
+    "brand": "BraveTechs",
+    "name": "BraveT4Lite"
+  },
   "T3 Pro": {
     "brand": "Vernee",
     "name": "T3 Pro"
@@ -24151,6 +24155,10 @@
     "brand": "DEPLAY",
     "name": "PRO4"
   },
+  "DEVOPS_MT9679": {
+    "brand": "DEVOPS",
+    "name": "DEVOPS"
+  },
   "A350": {
     "brand": "INOI",
     "name": "INOI A35 Adventure"
@@ -30446,6 +30454,10 @@
   "ETEL-P65": {
     "brand": "ETELPREMIUM",
     "name": "ETEL P65"
+  },
+  "ETEL-P66": {
+    "brand": "ETELPREMIUM",
+    "name": "ETEL P66"
   },
   "Etel_P64": {
     "brand": "ETELPREMIUM",
@@ -44935,6 +44947,10 @@
     "brand": "Hisense",
     "name": "HLTE243E"
   },
+  "Hisense T55": {
+    "brand": "Hisense",
+    "name": "HLTE243E"
+  },
   "Hisense U967": {
     "brand": "Hisense",
     "name": "HLTE243E"
@@ -47647,6 +47663,10 @@
     "brand": "Honor",
     "name": "PORSCHE DESIGN HONOR Magic7 RSR"
   },
+  "LDY-AN00": {
+    "brand": "Honor",
+    "name": "荣耀Magic8 Pro Air"
+  },
   "DVD-AN00": {
     "brand": "Honor",
     "name": "荣耀Power"
@@ -48018,6 +48038,10 @@
   "Cyber 17": {
     "brand": "Hotwav",
     "name": "Cyber 17"
+  },
+  "Cyber 18": {
+    "brand": "Hotwav",
+    "name": "Cyber 18"
   },
   "Cyber 7": {
     "brand": "Hotwav",
@@ -54239,6 +54263,10 @@
     "brand": "I3-TECHNOLOGIES",
     "name": "i3TOUCH-X3"
   },
+  "IACTIVE": {
+    "brand": "IACTIVE",
+    "name": "lactive_IA75"
+  },
   "A103": {
     "brand": "IAIWAI",
     "name": "A103"
@@ -54778,6 +54806,10 @@
   "IN101": {
     "brand": "INTELITY",
     "name": "IN101"
+  },
+  "int999G": {
+    "brand": "INTOUCH",
+    "name": "Smartboard"
   },
   "INUTAB21": {
     "brand": "INUSUAL",
@@ -60358,6 +60390,10 @@
   "K3I": {
     "brand": "K3I（Indonesia）",
     "name": "K3I"
+  },
+  "K90Pro_ROW": {
+    "brand": "K90Pro",
+    "name": "K90Pro_ROW"
   },
   "KAAN_A1": {
     "brand": "KAAN",
@@ -68911,6 +68947,10 @@
     "brand": "LOGIC",
     "name": "Logic L68M Plus"
   },
+  "Logic L-PAD_PRO": {
+    "brand": "LOGIC",
+    "name": "Logic_L-PAD_PRO"
+  },
   "Logic_LT_IRXXZX": {
     "brand": "LOGIC",
     "name": "ZX_Series"
@@ -69314,6 +69354,10 @@
   "LFi ONE": {
     "brand": "LYOTECH_LABS",
     "name": "LFi_ONE_EEA"
+  },
+  "Z2": {
+    "brand": "iBRIT",
+    "name": "Z2"
   },
   "Z3": {
     "brand": "ZTE",
@@ -76545,7 +76589,7 @@
   },
   "KB10": {
     "brand": "MUISOO",
-    "name": "KB10"
+    "name": "KB10_EEA"
   },
   "MULTYNET TV G2K": {
     "brand": "MULTYNET",
@@ -76642,10 +76686,6 @@
   "P2_Power": {
     "brand": "Mafe",
     "name": "P2_Power"
-  },
-  "Z2": {
-    "brand": "iBRIT",
-    "name": "Z2"
   },
   "MagentaTV ONE": {
     "brand": "MagentaTV",
@@ -80690,6 +80730,10 @@
   "MOT102": {
     "brand": "MobiOcean",
     "name": "MOT102"
+  },
+  "TPS900": {
+    "brand": "MobiOcean",
+    "name": "TPS900Q"
   },
   "MVT-1001": {
     "brand": "MobiVista",
@@ -85214,6 +85258,10 @@
   "TVie 1B": {
     "brand": "MyanmarNet",
     "name": "TVie 1B"
+  },
+  "MyoTab10": {
+    "brand": "MyoTab",
+    "name": "MyoTab10"
   },
   "CityXL": {
     "brand": "Myphone",
@@ -94835,6 +94883,10 @@
     "brand": "PAX (CN)",
     "name": "A99"
   },
+  "L1620": {
+    "brand": "PAX (CN)",
+    "name": "L1620"
+  },
   "M30": {
     "brand": "ZOLON",
     "name": "M30"
@@ -101390,6 +101442,10 @@
   "M10_R07": {
     "brand": "Pritom",
     "name": "M10_R07"
+  },
+  "M10_R07_EEA": {
+    "brand": "Pritom",
+    "name": "M10_R07_EEA"
   },
   "M10_T01": {
     "brand": "Pritom",
@@ -129535,6 +129591,10 @@
     "brand": "Sunmi",
     "name": "V3 MIX"
   },
+  "V3_PLUS": {
+    "brand": "Sunmi",
+    "name": "V3 PlUS"
+  },
   "SN01DNGL300": {
     "brand": "Sunny",
     "name": "SN01DNGL300"
@@ -131455,6 +131515,10 @@
     "brand": "TCL",
     "name": "TCL TAB 10 HD 4G"
   },
+  "8183A": {
+    "brand": "TCL",
+    "name": "TCL TAB 10L LTE Gen 4"
+  },
   "9199S": {
     "brand": "TCL",
     "name": "TCL TAB 10 NXTPAPER 5G"
@@ -131494,10 +131558,6 @@
   "8194A": {
     "brand": "TCL",
     "name": "TCL TAB 10L LTE Gen 3"
-  },
-  "8183A": {
-    "brand": "TCL",
-    "name": "TCL TAB 10L LTE Gen 4"
   },
   "9061": {
     "brand": "TCL",
@@ -136599,6 +136659,10 @@
     "brand": "TENCH",
     "name": "TAB_A10"
   },
+  "TE_8614W": {
+    "brand": "TEROS",
+    "name": "TE8614W"
+  },
   "GPAD702": {
     "brand": "TERRA",
     "name": "GPAD702"
@@ -137170,6 +137234,10 @@
   "MG080D1T": {
     "brand": "TSUNAMi",
     "name": "Tablet Tsunami TSTA080D1"
+  },
+  "K06": {
+    "brand": "TTKIDS",
+    "name": "K06_EEA"
   },
   "K106": {
     "brand": "Zonko",
@@ -140702,6 +140770,10 @@
   "C9D": {
     "brand": "Telpo",
     "name": "C9D"
+  },
+  "C9H": {
+    "brand": "Telpo",
+    "name": "C9H"
   },
   "M1s": {
     "brand": "Telpo",
@@ -144450,6 +144522,10 @@
   "Viewedge Tab 11": {
     "brand": "VIEWEDGE",
     "name": "V11_EEA"
+  },
+  "FB-K6": {
+    "brand": "VIISAN",
+    "name": "FB-K6"
   },
   "V-E5": {
     "brand": "VIKUSHA",
@@ -154938,6 +155014,10 @@
   "Pad6_Plus": {
     "brand": "YIKEMI",
     "name": "pad7_Ultra_EEA"
+  },
+  "S11Ultra": {
+    "brand": "YINBER",
+    "name": "S11Ultra"
   },
   "P6501": {
     "brand": "YINKE",
@@ -166796,6 +166876,10 @@
     "name": "Y31d"
   },
   "V2546": {
+    "brand": "vivo",
+    "name": "Y31d"
+  },
+  "V2582": {
     "brand": "vivo",
     "name": "Y31d"
   },
