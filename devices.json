@@ -22009,7 +22009,7 @@
   },
   "SN512CC": {
     "brand": "ConsumerCellular",
-    "name": "SN512CC"
+    "name": "IRIS Connect II"
   },
   "CDI SMART TV": {
     "brand": "Continental Edison",
@@ -38555,6 +38555,10 @@
     "brand": "Google",
     "name": "Intel Alder Lake Chromebox"
   },
+  "nirva": {
+    "brand": "Google",
+    "name": "Intel Alder Lake-N Chromebook"
+  },
   "nissa": {
     "brand": "Google",
     "name": "Intel Alder Lake-N Chromebook"
@@ -43915,6 +43919,10 @@
     "brand": "Haus",
     "name": "JS550"
   },
+  "HCPxx10": {
+    "brand": "Helgi",
+    "name": "HELGI_C_Series_PRO"
+  },
   "Helgi_HX10": {
     "brand": "Helgi",
     "name": "HXxx10"
@@ -46646,6 +46654,10 @@
   "CTV 4K BOX": {
     "brand": "Homatics",
     "name": "CTV 4K BOX"
+  },
+  "Dongle 4K Plus": {
+    "brand": "Homatics",
+    "name": "Dongle 4K Plus"
   },
   "Dongle Q": {
     "brand": "Homatics",
@@ -54355,6 +54367,10 @@
     "brand": "IIIF150",
     "name": "B2 Ultra"
   },
+  "B2 Ultra 2026": {
+    "brand": "IIIF150",
+    "name": "B2 Ultra"
+  },
   "B3C": {
     "brand": "IIIF150",
     "name": "B3C"
@@ -60990,6 +61006,10 @@
   "TPC_XTE10D": {
     "brand": "KNC (LK)",
     "name": "TPC_XTE10D"
+  },
+  "KOESIO SCREEN ISITOUCH": {
+    "brand": "KOESIO_SCREEN_ISITOUCH",
+    "name": "K_SIT_M2"
   },
   "KD2": {
     "brand": "Mecool",
@@ -88803,6 +88823,10 @@
     "brand": "Nuu",
     "name": "Tab 10 Plus"
   },
+  "T1016X": {
+    "brand": "Nuu",
+    "name": "Tab 10A 5G"
+  },
   "N5005L": {
     "brand": "Nuu",
     "name": "Tab 5"
@@ -94874,10 +94898,6 @@
   "A910S": {
     "brand": "PAX (CN)",
     "name": "A910S"
-  },
-  "A920Pro": {
-    "brand": "PAX (CN)",
-    "name": "A920Pro"
   },
   "A99": {
     "brand": "PAX (CN)",
@@ -139575,6 +139595,14 @@
     "brand": "Tecno",
     "name": "TECNO CAMON 40 Pro"
   },
+  "TECNO CN5": {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 50"
+  },
+  "TECNO CN5c": {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 50 Pro"
+  },
   "TECNO KB2": {
     "brand": "Tecno",
     "name": "TECNO CAMON iACE 2"
@@ -155023,6 +155051,10 @@
     "brand": "YINKE",
     "name": "P6501"
   },
+  "EMEETING_3576": {
+    "brand": "YISHENGTC",
+    "name": "EMEETING_3576"
+  },
   "OPS_3576": {
     "brand": "YISHENGTC",
     "name": "OPS_3576"
@@ -156610,6 +156642,10 @@
   "Blade A3 2019-T": {
     "brand": "ZTE",
     "name": "Blade A3 2019"
+  },
+  "Blade A3 Plus": {
+    "brand": "ZTE",
+    "name": "Blade A3 Plus"
   },
   "Blade A3 SE": {
     "brand": "ZTE",
@@ -159019,6 +159055,10 @@
     "brand": "ZTE",
     "name": "Telenor Touch Plus"
   },
+  "Blade A9 Pro 5G": {
+    "brand": "ZTE",
+    "name": "Telstra T-Elite 2 5G"
+  },
   "A75 Pro 5G": {
     "brand": "ZTE",
     "name": "Telstra T-Elite 5G"
@@ -159801,7 +159841,7 @@
   },
   "Z2465N": {
     "brand": "ZTE",
-    "name": "Z2465N"
+    "name": "nubia Neo 3 GT 5G"
   },
   "Z2575": {
     "brand": "ZTE",
