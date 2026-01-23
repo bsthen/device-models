@@ -2732,7 +2732,7 @@
     "name": "Acer_education_whiteboard"
   },
   "A60": {
-    "brand": "Wintouch",
+    "brand": "XHSM",
     "name": "A60_EEA"
   },
   "A60L": {
@@ -29943,6 +29943,10 @@
     "brand": "ELO Touch",
     "name": "10in-I-Series-5-Value"
   },
+  "14in-E-Series-1": {
+    "brand": "ELO Touch",
+    "name": "14in-E-Series-1"
+  },
   "14in-E-Series-5": {
     "brand": "ELO Touch",
     "name": "14in-E-Series-5"
@@ -30050,6 +30054,14 @@
   "M60C-Pay": {
     "brand": "ELO Touch",
     "name": "M60C-Pay"
+  },
+  "M61": {
+    "brand": "Gionee",
+    "name": "M61"
+  },
+  "M61C": {
+    "brand": "ELO Touch",
+    "name": "M61C"
   },
   "Elo-PP3-15": {
     "brand": "ELO Touch",
@@ -38022,10 +38034,6 @@
   "M6 mirror": {
     "brand": "Gionee",
     "name": "M6 mirror"
-  },
-  "M61": {
-    "brand": "Gionee",
-    "name": "M61"
   },
   "M6SLPlus": {
     "brand": "Gionee",
@@ -56414,6 +56422,14 @@
   "Infinix X6725C": {
     "brand": "Infinix",
     "name": "SMART 10 PLUS"
+  },
+  "Infinix X6840": {
+    "brand": "Infinix",
+    "name": "SMART 20"
+  },
+  "Infinix X6840B": {
+    "brand": "Infinix",
+    "name": "SMART 20"
   },
   "Infinix X657C": {
     "brand": "Infinix",
@@ -78347,6 +78363,10 @@
     "brand": "Mediacom",
     "name": "M-SP8KID"
   },
+  "SmartKid 8": {
+    "brand": "Mediacom",
+    "name": "M-SP8KID2"
+  },
   "M-SP8MXA": {
     "brand": "Mediacom",
     "name": "M-SP8MXA"
@@ -99359,6 +99379,10 @@
     "brand": "Positivo",
     "name": "T810"
   },
+  "TL10": {
+    "brand": "Positivo",
+    "name": "TL10"
+  },
   "Vaio TL10": {
     "brand": "Positivo",
     "name": "TL10"
@@ -99778,6 +99802,10 @@
   "Positivo BGH Ypy L700 Kids": {
     "brand": "Positivo BGH",
     "name": "Ypy Kids"
+  },
+  "SF1560": {
+    "brand": "Poslab",
+    "name": "SF1560"
   },
   "RAISECOM M6511": {
     "brand": "Postef",
@@ -129613,7 +129641,7 @@
   },
   "V3_PLUS": {
     "brand": "Sunmi",
-    "name": "V3 PlUS"
+    "name": "V3 PLUS"
   },
   "SN01DNGL300": {
     "brand": "Sunny",
@@ -165413,7 +165441,7 @@
   },
   "the101loop": {
     "brand": "rainx",
-    "name": "the101loop"
+    "name": "Loop"
   },
   "theloop": {
     "brand": "rainx",
@@ -165522,6 +165550,10 @@
   "RMX5313": {
     "brand": "realme",
     "name": "realme Note 70T"
+  },
+  "RMX8899": {
+    "brand": "realme",
+    "name": "RMX8899"
   },
   "RMX3571": {
     "brand": "realme",
@@ -166314,10 +166346,6 @@
   "RMX5071": {
     "brand": "realme",
     "name": "真我Neo7x"
-  },
-  "RMX8899": {
-    "brand": "realme",
-    "name": "真我Neo8"
   },
   "RMX3462": {
     "brand": "realme",
