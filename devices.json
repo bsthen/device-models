@@ -19779,6 +19779,10 @@
     "brand": "Channel Master",
     "name": "Stream+"
   },
+  "CSAP04011": {
+    "brand": "Chargespot",
+    "name": "Stackable_Unit"
+  },
   "JR_MB603": {
     "brand": "Chemist Warehouse",
     "name": "JR-MB603"
@@ -61379,6 +61383,10 @@
     "brand": "KTCtv",
     "name": "Eco Smart Monitor"
   },
+  "EcoTV1": {
+    "brand": "KTCtv",
+    "name": "EcoTV1"
+  },
   "EcoTV2": {
     "brand": "KTCtv",
     "name": "EcoTV2"
@@ -63206,6 +63214,10 @@
   "KIDS_COLORS_PLUS": {
     "brand": "Krono",
     "name": "KIDS_COLORS_PLUS"
+  },
+  "Krono_Kids_Play": {
+    "brand": "Krono",
+    "name": "Krono_Kids_Play"
   },
   "MATRIX_PRO": {
     "brand": "Krono",
@@ -68795,6 +68807,10 @@
     "brand": "LG_Electronics",
     "name": "TR3DQ-B"
   },
+  "TR3ER-B": {
+    "brand": "LG_Electronics",
+    "name": "TR3ER-B"
+  },
   "TR3PN": {
     "brand": "LG_Electronics",
     "name": "TR3PN"
@@ -72934,6 +72950,10 @@
   "Lenovo YT-X703X": {
     "brand": "Lenovo",
     "name": "Lenovo YOGA Tab 3 Plus"
+  },
+  "TB710FU": {
+    "brand": "Lenovo",
+    "name": "联想小新平板Pro GT"
   },
   "Lenovo YT-J706F": {
     "brand": "Lenovo",
@@ -95894,6 +95914,10 @@
   "Glory_i30": {
     "brand": "PROTON",
     "name": "Glory_i30"
+  },
+  "HyperX": {
+    "brand": "PROTON",
+    "name": "HyperX"
   },
   "Infinity 8": {
     "brand": "PROTON",
@@ -142593,7 +142617,7 @@
   },
   "G143L": {
     "brand": "URAO",
-    "name": "G143L"
+    "name": "G143L_EEA"
   },
   "X107": {
     "brand": "URAO",
@@ -142777,7 +142801,7 @@
   },
   "Armor 34 Pro": {
     "brand": "Ulefone",
-    "name": "Armor 32 Pro"
+    "name": "Armor 34 Pro"
   },
   "Armor 33": {
     "brand": "Ulefone",
@@ -165085,7 +165109,7 @@
   },
   "theloop_ROW": {
     "brand": "loopDL",
-    "name": "theloop_ROW"
+    "name": "Loop"
   },
   "HaierP8B": {
     "brand": "menfop",
@@ -165445,7 +165469,7 @@
   },
   "theloop": {
     "brand": "rainx",
-    "name": "theloop"
+    "name": "Loop"
   },
   "RMX3869": {
     "brand": "realme",
