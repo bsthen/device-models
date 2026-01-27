@@ -519,6 +519,10 @@
     "brand": "ADVAN",
     "name": "ADVANNASAPro"
   },
+  "1202": {
+    "brand": "ADVAN",
+    "name": "ADVAN_SKETSA5"
+  },
   "1013": {
     "brand": "Advan digital",
     "name": "TAB VX"
@@ -898,6 +902,10 @@
   "Albadeel Google TV": {
     "brand": "ALBADEEL",
     "name": "Smart TV"
+  },
+  "PrimeTwo": {
+    "brand": "ALLNET",
+    "name": "PrimeTwo"
   },
   "A1": {
     "brand": "ZTE",
@@ -13547,6 +13555,10 @@
     "brand": "BenQ",
     "name": "BenQ_Digital_Signage_04"
   },
+  "CP05_CM05_series": {
+    "brand": "BenQ",
+    "name": "CP05_CM05_series"
+  },
   "F3": {
     "brand": "MyFon",
     "name": "F3"
@@ -19307,6 +19319,10 @@
     "brand": "Ceibal",
     "name": "Alfard"
   },
+  "Alnilam": {
+    "brand": "Ceibal",
+    "name": "Alnilam"
+  },
   "BETELGEUSE": {
     "brand": "Ceibal",
     "name": "BETELGEUSE"
@@ -23202,6 +23218,14 @@
   "T66": {
     "brand": "Crelander",
     "name": "T66"
+  },
+  "T88-EEA": {
+    "brand": "Crelander",
+    "name": "T88-EEA"
+  },
+  "T88-ROW": {
+    "brand": "Crelander",
+    "name": "T88-ROW"
   },
   "W30": {
     "brand": "Crelander",
@@ -39351,6 +39375,10 @@
     "brand": "Guophone",
     "name": "XP9800"
   },
+  "H_Tab_Lite": {
+    "brand": "H(tab)",
+    "name": "H_Tab_Lite"
+  },
   "H_tab_1": {
     "brand": "H(tab)",
     "name": "H_tab_1"
@@ -39534,6 +39562,10 @@
   "Tab_i_excess": {
     "brand": "HDD SAT",
     "name": "Tab_i_excess"
+  },
+  "HDFocusC8": {
+    "brand": "HDFocus",
+    "name": "Interactive-Board"
   },
   "HD+ IP TV-Stick": {
     "brand": "HD_Plus",
@@ -45648,6 +45680,10 @@
     "name": "Hisense U964"
   },
   "Hisense U607": {
+    "brand": "Hisense",
+    "name": "Hisense U964"
+  },
+  "Hisense U608": {
     "brand": "Hisense",
     "name": "Hisense U964"
   },
@@ -55475,6 +55511,10 @@
     "brand": "ImageMobile",
     "name": "Rio"
   },
+  "Sonato by imagineear": {
+    "brand": "Imagineear",
+    "name": "Sonato_EEA"
+  },
   "M88": {
     "brand": "Imi Tech",
     "name": "M88"
@@ -62947,6 +62987,10 @@
     "brand": "Kogan",
     "name": "KAKT10164SA"
   },
+  "KAKT74128BA": {
+    "brand": "Kogan",
+    "name": "KAKT74128BA"
+  },
   "KATB10128WPA": {
     "brand": "Kogan",
     "name": "KATB10128WPA"
@@ -64382,6 +64426,10 @@
   "M309-EEA": {
     "brand": "LEVIRTU",
     "name": "M309-EEA"
+  },
+  "M893-EEA": {
+    "brand": "LEVIRTU",
+    "name": "M893-EEA"
   },
   "LEXA SMART 2K TV": {
     "brand": "LEXA",
@@ -75755,6 +75803,10 @@
     "brand": "MEIZE",
     "name": "D121"
   },
+  "D121_EEA": {
+    "brand": "MEIZE",
+    "name": "D121_EEA"
+  },
   "D123": {
     "brand": "MEIZE",
     "name": "D123"
@@ -76514,6 +76566,10 @@
   "MTN Smart TV Box": {
     "brand": "MTN",
     "name": "MTN"
+  },
+  "GH67A1": {
+    "brand": "MTN",
+    "name": "MTNsmart Plus"
   },
   "S5012": {
     "brand": "MTN",
@@ -81800,8 +81856,8 @@
     "name": "Pegasus"
   },
   "S26": {
-    "brand": "Mobiwire",
-    "name": "S26"
+    "brand": "Trecfone",
+    "name": "TRECFONE S26"
   },
   "S4040": {
     "brand": "Mobiwire",
@@ -89427,6 +89483,10 @@
     "brand": "ORION",
     "name": "Doshisha 2K Smart TV"
   },
+  "ORION SMART TV": {
+    "brand": "ORION",
+    "name": "ORION"
+  },
   "C20 Pro": {
     "brand": "OSCAL",
     "name": "C20 Pro"
@@ -91355,11 +91415,23 @@
     "brand": "Oppo",
     "name": "A6 5G"
   },
+  "CPH2785": {
+    "brand": "Oppo",
+    "name": "A6 5G"
+  },
+  "CPH2831": {
+    "brand": "Oppo",
+    "name": "A6 5G"
+  },
   "CPH2799": {
     "brand": "Oppo",
     "name": "A6 Pro"
   },
   "PLN110": {
+    "brand": "Oppo",
+    "name": "A6 Pro 5G"
+  },
+  "CPH2827": {
     "brand": "Oppo",
     "name": "A6 Pro 5G"
   },
@@ -91383,6 +91455,10 @@
     "brand": "Oppo",
     "name": "A6t"
   },
+  "CPH2853": {
+    "brand": "Oppo",
+    "name": "A6t 5G"
+  },
   "CPH2849": {
     "brand": "Oppo",
     "name": "A6t Pro"
@@ -91390,6 +91466,10 @@
   "CPH2819": {
     "brand": "Oppo",
     "name": "A6x"
+  },
+  "CPH2783": {
+    "brand": "Oppo",
+    "name": "A6x 5G"
   },
   "CPH2823": {
     "brand": "Oppo",
@@ -97983,6 +98063,10 @@
     "brand": "Philips",
     "name": "T8015"
   },
+  "T8015S": {
+    "brand": "Philips",
+    "name": "T8015S"
+  },
   "TLE732": {
     "brand": "Philips",
     "name": "TLE732"
@@ -101454,6 +101538,10 @@
   "M10_C03_EEA": {
     "brand": "Pritom",
     "name": "M10_C03_EEA"
+  },
+  "M10_C11": {
+    "brand": "Pritom",
+    "name": "M10_C11"
   },
   "M10_Lite": {
     "brand": "Pritom",
@@ -130387,6 +130475,10 @@
     "brand": "Synetech",
     "name": "Gemini"
   },
+  "P7579L": {
+    "brand": "Synetech",
+    "name": "Piscis"
+  },
   "Synetech_T35": {
     "brand": "Synetech",
     "name": "Synetech_Elite_Taurus"
@@ -137231,6 +137323,10 @@
     "brand": "TOXIIK",
     "name": "A7K"
   },
+  "M10_KID": {
+    "brand": "TOXIIK",
+    "name": "M10_KID"
+  },
   "DTC974x": {
     "brand": "TOYA",
     "name": "Poland"
@@ -143613,7 +143709,7 @@
   },
   "AblePad": {
     "brand": "Umidigi",
-    "name": "MT02_ROW"
+    "name": "MT02_EEA"
   },
   "One Max": {
     "brand": "Umidigi",
@@ -150895,6 +150991,10 @@
     "brand": "WOM",
     "name": "WOM"
   },
+  "M226-EEA": {
+    "brand": "WOREGOO",
+    "name": "M226-EEA"
+  },
   "M396-EEA": {
     "brand": "WOREGOO",
     "name": "M396-EEA"
@@ -155938,6 +156038,10 @@
   "M9200": {
     "brand": "ZOLON",
     "name": "M9200_ZLEEA"
+  },
+  "ZONGHENGCA_G8": {
+    "brand": "ZONGHENGCA",
+    "name": "ZONGHENGCA_G8"
   },
   "MX2_EEA": {
     "brand": "ZONMAI",
@@ -164990,6 +165094,10 @@
   "EU": {
     "brand": "innex",
     "name": "Meeting_hub_EU"
+  },
+  "EU15": {
+    "brand": "innex",
+    "name": "innex_Meeting_Hub_EU"
   },
   "Innos4KAndroidTV": {
     "brand": "innos",
