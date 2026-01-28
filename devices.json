@@ -11195,6 +11195,10 @@
     "brand": "BASICS",
     "name": "BT1124FW"
   },
+  "BT1226SS": {
+    "brand": "BASICS",
+    "name": "BT1226SS"
+  },
   "TM-MID1065BT": {
     "brand": "BATMAN",
     "name": "TM-MID1065BT"
@@ -18734,6 +18738,10 @@
   "M5E01": {
     "brand": "CZ Electronics",
     "name": "Mint_Jane"
+  },
+  "StarryHub_Core_50": {
+    "brand": "CZUR",
+    "name": "StarryHub Core 50"
   },
   "CAB_TAB": {
     "brand": "Cablecolor",
@@ -31654,6 +31662,10 @@
   "NGM Vanity Smart": {
     "brand": "Enspert",
     "name": "vanitysmart"
+  },
+  "Entabeni_Tablet": {
+    "brand": "Entabeni",
+    "name": "Entabeni_Tablet"
   },
   "DECO ENTEL": {
     "brand": "Entel",
@@ -55203,6 +55215,10 @@
     "brand": "OwnMobile",
     "name": "SMART 8"
   },
+  "TWBXXX24A": {
+    "brand": "InsGraf_Digital",
+    "name": "TWBXXX24A"
+  },
   "1016TPC": {
     "brand": "IView",
     "name": "1016TPC"
@@ -57150,10 +57166,6 @@
   "S300Pro": {
     "brand": "Inrico",
     "name": "S300Pro"
-  },
-  "TWBXXX24A": {
-    "brand": "InsGraf_Digital",
-    "name": "TWBXXX24A"
   },
   "NS-15T8LTE": {
     "brand": "Insignia",
@@ -75635,6 +75647,10 @@
     "brand": "MAXHUB",
     "name": "E3"
   },
+  "S_Line": {
+    "brand": "MAXHUB",
+    "name": "S_Line"
+  },
   "U30": {
     "brand": "Unionbell",
     "name": "U30"
@@ -91447,6 +91463,10 @@
     "brand": "Oppo",
     "name": "OPPO A60 5G/ A3 5G"
   },
+  "PMC110": {
+    "brand": "Oppo",
+    "name": "A6c"
+  },
   "CPH2815": {
     "brand": "Oppo",
     "name": "A6s"
@@ -94867,6 +94887,10 @@
     "brand": "Ovion",
     "name": "V20_PRO_TR"
   },
+  "V21_Pro": {
+    "brand": "Ovion",
+    "name": "V21_Pro"
+  },
   "V30 Ultra": {
     "brand": "Ovion",
     "name": "V30 Ultra"
@@ -94974,6 +94998,10 @@
   "Y85": {
     "brand": "PAITANRY",
     "name": "Y85"
+  },
+  "Y86": {
+    "brand": "PAITANRY",
+    "name": "Y86_EEA"
   },
   "Smart TV P": {
     "brand": "PANORAMA",
@@ -106922,6 +106950,14 @@
   "EPIC X": {
     "brand": "SEGO",
     "name": "SEGO_EPIC_X"
+  },
+  "NOTE 80": {
+    "brand": "SEGO",
+    "name": "SEGO_NOTE_80"
+  },
+  "NOTE_80": {
+    "brand": "SEGO",
+    "name": "SEGO_NOTE_80"
   },
   "ZERO 50": {
     "brand": "SEGO",
@@ -131451,6 +131487,10 @@
     "brand": "TCL",
     "name": "TCL K11"
   },
+  "T434J": {
+    "brand": "TCL",
+    "name": "TCL K12"
+  },
   "T434W": {
     "brand": "TCL",
     "name": "TCL K23"
@@ -144955,6 +144995,10 @@
     "brand": "VL Wireless Inc",
     "name": "VL68_Lite"
   },
+  "VL68 Pro": {
+    "brand": "VL Wireless Inc",
+    "name": "VL68_Pro"
+  },
   "VNPT SmartBox 3": {
     "brand": "VNPT Technology",
     "name": "VNPT SmartBox"
@@ -146918,6 +146962,10 @@
   "vsi8q_1_coho": {
     "brand": "ViewSonic",
     "name": "ViewPadi8Q"
+  },
+  "ViewSonic smart": {
+    "brand": "ViewSonic",
+    "name": "Viewsonic Technologies  India private Limited"
   },
   "VZ-24IPM": {
     "brand": "ViewZ",
@@ -162447,6 +162495,10 @@
     "brand": "Zuum",
     "name": "Aura M1"
   },
+  "AURA X1": {
+    "brand": "Zuum",
+    "name": "Aura_X1"
+  },
   "COVET": {
     "brand": "Zuum",
     "name": "COVET"
@@ -165662,6 +165714,10 @@
   "RMX5061": {
     "brand": "realme",
     "name": "RMX5061"
+  },
+  "RMX5107": {
+    "brand": "realme",
+    "name": "RMX5107"
   },
   "RMX5111": {
     "brand": "realme",
