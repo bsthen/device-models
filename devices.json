@@ -4503,6 +4503,10 @@
     "brand": "Airtel-Xstream",
     "name": "XstreamIPTV2-SM"
   },
+  "A99": {
+    "brand": "PAX (CN)",
+    "name": "A99"
+  },
   "AT1001": {
     "brand": "Aiuto",
     "name": "AT1001"
@@ -31558,6 +31562,10 @@
   "SMIG_V": {
     "brand": "Enerpres",
     "name": "SMIG_V"
+  },
+  "Digital Signage": {
+    "brand": "Engage",
+    "name": "EN_1DS"
   },
   "4K PA Smart TV": {
     "brand": "imiia",
@@ -95047,10 +95055,6 @@
     "brand": "PAX (CN)",
     "name": "A910S"
   },
-  "A99": {
-    "brand": "PAX (CN)",
-    "name": "A99"
-  },
   "L1620": {
     "brand": "PAX (CN)",
     "name": "L1620"
@@ -104443,6 +104447,10 @@
     "brand": "RebotAi",
     "name": "A11_EEA"
   },
+  "AD11": {
+    "brand": "RebotAi",
+    "name": "AD11"
+  },
   "AF13": {
     "brand": "RebotAi",
     "name": "AF13"
@@ -107710,6 +107718,10 @@
   "LIGHTYEAR PRO 2": {
     "brand": "SPC",
     "name": "LIGHTYEAR-PRO-2"
+  },
+  "LUMACORE_MEETING": {
+    "brand": "SPC",
+    "name": "LUMACORE_MEETING"
   },
   "SMART 2": {
     "brand": "SPC",
@@ -155275,6 +155287,10 @@
     "brand": "YOSATOO",
     "name": "K15"
   },
+  "K15-B": {
+    "brand": "YOSATOO",
+    "name": "K15-B"
+  },
   "KIDS07A": {
     "brand": "YOSATOO",
     "name": "KIDS07A"
@@ -155890,6 +155906,10 @@
   "ZXT-10HL323S": {
     "brand": "ZAMOLXE",
     "name": "ZXT-10HL323S"
+  },
+  "ZH600_Series": {
+    "brand": "ZBOE",
+    "name": "Interactive_Flat_Display"
   },
   "Z108": {
     "brand": "ZCS(SZ)",
@@ -163271,6 +163291,10 @@
     "brand": "eNOVA",
     "name": "TAEI0C13"
   },
+  "T1081": {
+    "brand": "eNOVA",
+    "name": "TAE10N12"
+  },
   "Emerald": {
     "brand": "eSSL",
     "name": "Emerald"
@@ -164527,6 +164551,10 @@
     "brand": "iMin",
     "name": "Falcon 1"
   },
+  "I25T01": {
+    "brand": "iMin",
+    "name": "Falcon 1 Pro"
+  },
   "I24T01": {
     "brand": "iMin",
     "name": "Falcon 2"
@@ -164534,6 +164562,14 @@
   "I24T02": {
     "brand": "iMin",
     "name": "Falcon 2"
+  },
+  "I25S02": {
+    "brand": "iMin",
+    "name": "Heron 1"
+  },
+  "I25S01": {
+    "brand": "iMin",
+    "name": "Heron 1 mini"
   },
   "I24D02": {
     "brand": "iMin",
@@ -164550,6 +164586,10 @@
   "I25M01": {
     "brand": "iMin",
     "name": "Roc 1"
+  },
+  "I25M02": {
+    "brand": "iMin",
+    "name": "Roc 1 Max"
   },
   "I23D02": {
     "brand": "iMin",
