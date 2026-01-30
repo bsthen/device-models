@@ -1559,6 +1559,10 @@
     "brand": "ATEC",
     "name": "ATEC GRANDE"
   },
+  "ABGC": {
+    "brand": "ATEC",
+    "name": "ATEC_GRANDE"
+  },
   "A68EL": {
     "brand": "ATEL",
     "name": "A68EL"
@@ -4398,6 +4402,10 @@
   "KB1004": {
     "brand": "Ainmel",
     "name": "KB1004A_EEA"
+  },
+  "KB1004S": {
+    "brand": "Ainmel",
+    "name": "KB1004S"
   },
   "KB1005": {
     "brand": "Ainmel",
@@ -21130,6 +21138,10 @@
   "OTTTAB2": {
     "brand": "CloudMinds",
     "name": "OTTTAB2"
+  },
+  "Stratus C9 Prime": {
+    "brand": "Cloud_Mobile",
+    "name": "C9 Prime"
   },
   "MC8B654B": {
     "brand": "Cloud_Mobile",
@@ -125687,6 +125699,10 @@
     "brand": "SmartPeak",
     "name": "P3000"
   },
+  "H-Series": {
+    "brand": "SmartSchool",
+    "name": "Interactive_Flat_Panel"
+  },
   "STG_Series": {
     "brand": "Smart_Touch",
     "name": "ST IR13"
@@ -143347,6 +143363,10 @@
     "brand": "Ulefone",
     "name": "RugKing 4 Pro"
   },
+  "RugKing 5 Pro": {
+    "brand": "Ulefone",
+    "name": "RugKing 5 Pro"
+  },
   "RugKing Pad 2 Pro": {
     "brand": "Ulefone",
     "name": "RugKing Pad 2 Pro"
@@ -148914,10 +148934,6 @@
   "V2416": {
     "brand": "Vivo",
     "name": "Y300 5G"
-  },
-  "V2452GA": {
-    "brand": "Vivo",
-    "name": "Y300 GT"
   },
   "V2422": {
     "brand": "Vivo",
@@ -156251,6 +156267,10 @@
     "brand": "ZTE",
     "name": "A504ZT"
   },
+  "A505ZT": {
+    "brand": "ZTE",
+    "name": "A505ZT"
+  },
   "A506ZT": {
     "brand": "ZTE",
     "name": "A506ZT"
@@ -160075,6 +160095,10 @@
     "brand": "ZTE",
     "name": "Z2576"
   },
+  "Z2577": {
+    "brand": "ZTE",
+    "name": "Z2577"
+  },
   "Z3153V": {
     "brand": "ZTE",
     "name": "Z3153V"
@@ -161009,7 +161033,7 @@
   },
   "Z2466": {
     "brand": "ZTE",
-    "name": "ZTE Blade A35s"
+    "name": "ZTE Blade A36e"
   },
   "Z5157V": {
     "brand": "ZTE",
@@ -162770,6 +162794,10 @@
   "KB1002": {
     "brand": "Zynex",
     "name": "KB1002"
+  },
+  "X107L": {
+    "brand": "Zynex",
+    "name": "X107L"
   },
   "abxylute_one": {
     "brand": "abxylute",
@@ -164775,18 +164803,6 @@
     "brand": "iQOO",
     "name": "I40-5_RU"
   },
-  "V2463A": {
-    "brand": "iQOO",
-    "name": "Neo10 Pro+"
-  },
-  "iPA2575": {
-    "brand": "iQOO",
-    "name": "Pad5 Pro"
-  },
-  "V2452A": {
-    "brand": "iQOO",
-    "name": "Z10 Turbo"
-  },
   "I2501": {
     "brand": "iQOO",
     "name": "iQOO 15"
@@ -164803,6 +164819,10 @@
     "brand": "iQOO",
     "name": "iQOO Neo 10"
   },
+  "V2463A": {
+    "brand": "iQOO",
+    "name": "iQOO Neo10 Pro+"
+  },
   "V2520A": {
     "brand": "iQOO",
     "name": "iQOO Neo11"
@@ -164810,6 +164830,10 @@
   "iPA2556": {
     "brand": "iQOO",
     "name": "iQOO Pad5"
+  },
+  "iPA2575": {
+    "brand": "iQOO",
+    "name": "iQOO Pad5 Pro"
   },
   "iPA2537": {
     "brand": "iQOO",
@@ -164822,6 +164846,10 @@
   "I2409": {
     "brand": "iQOO",
     "name": "iQOO Z10 Lite 5G"
+  },
+  "V2452A": {
+    "brand": "iQOO",
+    "name": "iQOO Z10 Turbo"
   },
   "V2507A": {
     "brand": "iQOO",
@@ -165779,10 +165807,6 @@
     "brand": "realme",
     "name": "realme Note 70T"
   },
-  "RMX8899": {
-    "brand": "realme",
-    "name": "RMX8899"
-  },
   "RMX3571": {
     "brand": "realme",
     "name": "realme V23"
@@ -166575,6 +166599,10 @@
     "brand": "realme",
     "name": "真我Neo7x"
   },
+  "RMX8899": {
+    "brand": "realme",
+    "name": "真我Neo8"
+  },
   "RMX3462": {
     "brand": "realme",
     "name": "真我Q3s"
@@ -167071,10 +167099,6 @@
     "brand": "vivo",
     "name": "T4 Ultra"
   },
-  "V2506A": {
-    "brand": "vivo",
-    "name": "V2506A"
-  },
   "V2511": {
     "brand": "vivo",
     "name": "V60"
@@ -167135,6 +167159,30 @@
     "brand": "vivo",
     "name": "Y04e"
   },
+  "V2556": {
+    "brand": "vivo",
+    "name": "Y05"
+  },
+  "V2565": {
+    "brand": "vivo",
+    "name": "Y05"
+  },
+  "V2555": {
+    "brand": "vivo",
+    "name": "Y11d"
+  },
+  "V2578": {
+    "brand": "vivo",
+    "name": "Y11d"
+  },
+  "V2580": {
+    "brand": "vivo",
+    "name": "Y11d"
+  },
+  "V2577": {
+    "brand": "vivo",
+    "name": "Y11e"
+  },
   "V2541": {
     "brand": "vivo",
     "name": "Y19s 5G"
@@ -167158,6 +167206,10 @@
   "V2560": {
     "brand": "vivo",
     "name": "Y21d"
+  },
+  "V2452GA": {
+    "brand": "vivo",
+    "name": "Y300 GT"
   },
   "V2521": {
     "brand": "vivo",
@@ -167194,6 +167246,10 @@
   "V2439": {
     "brand": "vivo",
     "name": "Y400 Pro 5G"
+  },
+  "V2506A": {
+    "brand": "vivo",
+    "name": "Y500"
   },
   "V2516A": {
     "brand": "vivo",
