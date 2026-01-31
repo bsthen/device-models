@@ -55,6 +55,10 @@
     "brand": "3222222 Satelital",
     "name": "G706"
   },
+  "T10-8128": {
+    "brand": "3ATech",
+    "name": "T10-8128"
+  },
   "S3000-T0C08": {
     "brand": "3BBTV",
     "name": "3BBTV"
@@ -1638,6 +1642,10 @@
   "IT_701A": {
     "brand": "Premier",
     "name": "TAB-7887-32G3GB"
+  },
+  "IT_801CA2_EEA": {
+    "brand": "ATMPC",
+    "name": "IT_801CA2_EEA"
   },
   "Smart_Slim_Plus": {
     "brand": "ATOL",
@@ -4405,7 +4413,7 @@
   },
   "KB1004S": {
     "brand": "Ainmel",
-    "name": "KB1004S"
+    "name": "KB1004S_EEA"
   },
   "KB1005": {
     "brand": "Ainmel",
@@ -4538,6 +4546,10 @@
   "A8_LTE": {
     "brand": "Aiwa",
     "name": "A8_LTE"
+  },
+  "AIWA 4K SMART TV": {
+    "brand": "Aiwa",
+    "name": "AIWA"
   },
   "AIWA 4K GOOGLE TV": {
     "brand": "Aiwa",
@@ -7162,6 +7174,10 @@
   "Arcelik Android TV": {
     "brand": "Arçelik",
     "name": "Arçelik Android TV"
+  },
+  "SmarTouch": {
+    "brand": "Archer",
+    "name": "AT8600"
   },
   "ARCHOS 101 CHILDPAD": {
     "brand": "Archos",
@@ -17540,8 +17556,8 @@
     "name": "Spira E2X 5\\'\\'"
   },
   "bytello_edla": {
-    "brand": "CVTE",
-    "name": "general_3576"
+    "brand": "MIRAI_TOUCH",
+    "name": "MXXCE4S"
   },
   "X134": {
     "brand": "Byxsb",
@@ -19350,6 +19366,10 @@
   "CEIBAL_HFP_LT": {
     "brand": "Ceibal",
     "name": "CEIBAL_HFP_LT"
+  },
+  "CEIBAL_HFP_LTH": {
+    "brand": "Ceibal",
+    "name": "CEIBAL_HFP_LTH"
   },
   "GACRUX": {
     "brand": "Ceibal",
@@ -26486,6 +26506,10 @@
   "T Phone 3": {
     "brand": "Deutsche Telekom",
     "name": "T Phone 3"
+  },
+  "T Phone 3 Pro": {
+    "brand": "Deutsche Telekom",
+    "name": "T Phone 3 Pro"
   },
   "T Phone Pro": {
     "brand": "Deutsche Telekom",
@@ -43806,6 +43830,10 @@
   "Iron Va": {
     "brand": "Hammer",
     "name": "Hammer_Iron_Va_EEA"
+  },
+  "Handetec_Tablet": {
+    "brand": "Handetec",
+    "name": "Handetec_Tablet"
   },
   "ALGIZ_RT10": {
     "brand": "Handheld Group",
@@ -76443,6 +76471,10 @@
     "brand": "MSI",
     "name": "Primo81"
   },
+  "MS-NDB2": {
+    "brand": "MSI",
+    "name": "Summit13AI"
+  },
   "Nobby S400": {
     "brand": "MSota",
     "name": "Nobby S400"
@@ -80866,6 +80898,10 @@
   "MobiPrint4_Plus": {
     "brand": "MobiIoT",
     "name": "MobiPrint4_Plus"
+  },
+  "NAT611": {
+    "brand": "MobiIoT",
+    "name": "MobiScan"
   },
   "MobiGo2": {
     "brand": "MobiIoT",
@@ -86474,6 +86510,10 @@
   "AD115_EEA": {
     "brand": "NEOPAD",
     "name": "AD115_EEA"
+  },
+  "SP1068A": {
+    "brand": "NEOTAB",
+    "name": "SP1068A"
   },
   "N810 i7": {
     "brand": "NESO",
@@ -98539,6 +98579,10 @@
     "brand": "Plimpton",
     "name": "Kids10_A15_EEA"
   },
+  "Kids10_A16_JAE": {
+    "brand": "Plimpton",
+    "name": "Kids10_A16_JAE"
+  },
   "Kids20": {
     "brand": "Plimpton",
     "name": "Kids20_EEA"
@@ -101471,6 +101515,10 @@
     "brand": "Pritom",
     "name": "K7Pro_EEA"
   },
+  "K7_A07K": {
+    "brand": "Pritom",
+    "name": "K7_A07K"
+  },
   "K7_A101": {
     "brand": "Pritom",
     "name": "K7_A101_EEA"
@@ -103711,6 +103759,10 @@
     "brand": "RCA",
     "name": "XLD Series"
   },
+  "Pulse_8": {
+    "brand": "RCT",
+    "name": "Pulse_8"
+  },
   "TP802": {
     "brand": "RDP(in)",
     "name": "TP802"
@@ -104662,6 +104714,10 @@
   "25040RP0AC": {
     "brand": "Redmi",
     "name": "REDMI Pad 2"
+  },
+  "25099RP13C": {
+    "brand": "Redmi",
+    "name": "REDMI Pad 2 Pro"
   },
   "24129RT7CC": {
     "brand": "Redmi",
@@ -107432,6 +107488,10 @@
     "name": "Sky Brazil"
   },
   "S1000": {
+    "brand": "SLIDER",
+    "name": "S1000"
+  },
+  "TAB PRO 14": {
     "brand": "SLIDER",
     "name": "S1000"
   },
@@ -123282,6 +123342,10 @@
   "SH-M32": {
     "brand": "Sharp",
     "name": "AQUOS wish5"
+  },
+  "SH-M34": {
+    "brand": "Sharp",
+    "name": "AQUOS wish5s"
   },
   "801SH": {
     "brand": "Sharp",
@@ -146999,6 +147063,10 @@
     "brand": "ViewSonic",
     "name": "Viewsonic Technologies  India private Limited"
   },
+  "ViewSonic Smart": {
+    "brand": "ViewSonic",
+    "name": "Viewsonic Technologies  India private Limited"
+  },
   "VZ-24IPM": {
     "brand": "ViewZ",
     "name": "VZ-24IPM"
@@ -165785,7 +165853,7 @@
   },
   "RMX5107": {
     "brand": "realme",
-    "name": "RMX5107"
+    "name": "realme P4 Power 5G"
   },
   "RMX5111": {
     "brand": "realme",
