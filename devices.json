@@ -64,7 +64,7 @@
     "name": "3BBTV"
   },
   "TBBTV01": {
-    "brand": "3BBTV",
+    "brand": "AIS (Thailand)",
     "name": "TBBTV01"
   },
   "GT10K3IPS": {
@@ -163,9 +163,17 @@
     "brand": "8849",
     "name": "OB-P10"
   },
+  "OB-P12": {
+    "brand": "8849",
+    "name": "OB-P12"
+  },
   "TANK MINI 1": {
     "brand": "8849",
     "name": "TANK MINI 1"
+  },
+  "TANK X": {
+    "brand": "8849",
+    "name": "TANK X"
   },
   "TANK2": {
     "brand": "8849",
@@ -474,6 +482,10 @@
   "buzz Neo 5G": {
     "brand": "ACE France",
     "name": "buzz Neo 5G"
+  },
+  "ALTOS_EZA": {
+    "brand": "ACER_ALTOS",
+    "name": "ALTOS_EZA"
   },
   "V10401": {
     "brand": "ACKEES",
@@ -1162,6 +1174,14 @@
   "P10 Kid": {
     "brand": "POCKAM",
     "name": "P10 Kid"
+  },
+  "P10 Pro": {
+    "brand": "POCKAM",
+    "name": "P10 Pro"
+  },
+  "P11 Pro": {
+    "brand": "POCKAM",
+    "name": "P11 Pro"
   },
   "P13 Pro": {
     "brand": "POCKAM",
@@ -5868,8 +5888,8 @@
     "name": "T1021T"
   },
   "T701": {
-    "brand": "Positivo",
-    "name": "T701 TV"
+    "brand": "Smartfy",
+    "name": "T701"
   },
   "T701_X": {
     "brand": "Alldocube",
@@ -15003,6 +15023,10 @@
     "brand": "Blackview",
     "name": "FORT 2"
   },
+  "FORT 5": {
+    "brand": "Blackview",
+    "name": "FORT 5"
+  },
   "HERO 10": {
     "brand": "Blackview",
     "name": "HERO 10"
@@ -15026,6 +15050,10 @@
   "MEGA 1": {
     "brand": "Blackview",
     "name": "MEGA 1"
+  },
+  "MEGA 12": {
+    "brand": "Blackview",
+    "name": "MEGA 12"
   },
   "MEGA 2": {
     "brand": "Blackview",
@@ -15090,6 +15118,14 @@
   "ROCK 2": {
     "brand": "Blackview",
     "name": "ROCK 2"
+  },
+  "ROCK 2 Pro": {
+    "brand": "Blackview",
+    "name": "ROCK 2 Pro"
+  },
+  "ROCK 3": {
+    "brand": "Blackview",
+    "name": "ROCK 3"
   },
   "SHARK 6": {
     "brand": "Blackview",
@@ -15314,6 +15350,10 @@
   "Tab 7 WiFi": {
     "brand": "Blackview",
     "name": "Tab_7_WiFi_NEU"
+  },
+  "WAVE 10": {
+    "brand": "Blackview",
+    "name": "WAVE 10"
   },
   "WAVE 6C": {
     "brand": "Blackview",
@@ -19930,6 +19970,10 @@
   "Aqua_Infinity": {
     "brand": "Cherry Mobile",
     "name": "Aqua_Infinity"
+  },
+  "Aqua Pad": {
+    "brand": "Cherry Mobile",
+    "name": "Aqua_Pad"
   },
   "A1250": {
     "brand": "Samsonix",
@@ -25875,6 +25919,10 @@
     "brand": "Danew",
     "name": "konnect 601"
   },
+  "Dslide_1095ml": {
+    "brand": "Danew_Talla",
+    "name": "Dslide_1095ml"
+  },
   "DBOD02": {
     "brand": "Dangbei",
     "name": "DBOD02"
@@ -28451,6 +28499,14 @@
     "brand": "Doogee",
     "name": "S200 X"
   },
+  "S300 Plus": {
+    "brand": "Doogee",
+    "name": "S300 Plus"
+  },
+  "S300 Plus Thermal": {
+    "brand": "Doogee",
+    "name": "S300 Plus Thermal"
+  },
   "S35": {
     "brand": "Mobiwire",
     "name": "ALTICE S35"
@@ -28699,6 +28755,10 @@
     "brand": "Ulefone",
     "name": "Tab A9 Pro"
   },
+  "Tab A9 Pro Kid": {
+    "brand": "Doogee",
+    "name": "Tab A9 Pro Kid"
+  },
   "Tab A9 Pro+": {
     "brand": "Doogee",
     "name": "Tab A9 Pro+"
@@ -28763,9 +28823,17 @@
     "brand": "Doogee",
     "name": "U11"
   },
+  "U11 Kid": {
+    "brand": "Doogee",
+    "name": "U11 Kid"
+  },
   "U11 Pro": {
     "brand": "Doogee",
     "name": "U11 Pro"
+  },
+  "U11 Kid Pro": {
+    "brand": "Doogee",
+    "name": "U11 Pro Kid"
   },
   "U12": {
     "brand": "Doogee",
@@ -28798,6 +28866,10 @@
   "V Max": {
     "brand": "Doogee",
     "name": "V Max"
+  },
+  "V Max 2 Pro": {
+    "brand": "Doogee",
+    "name": "V Max 2 Pro"
   },
   "V Max LR": {
     "brand": "Doogee",
@@ -28866,6 +28938,10 @@
   "V40 X": {
     "brand": "Doogee",
     "name": "V40 X"
+  },
+  "V50 Pro": {
+    "brand": "Doogee",
+    "name": "V50 Ultra"
   },
   "DOOGEE X10": {
     "brand": "Doogee",
@@ -35071,6 +35147,14 @@
     "brand": "Freetel",
     "name": "SAMURAI REI 2"
   },
+  "FS-C1": {
+    "brand": "Frekuent",
+    "name": "Frekuent Spot Compact"
+  },
+  "FS-P1": {
+    "brand": "Frekuent",
+    "name": "Frekuent Spot Pro"
+  },
   "Fresh FHD Android TV": {
     "brand": "Fresh",
     "name": "Egypt"
@@ -35946,6 +36030,10 @@
   "T12": {
     "brand": "Veidoo",
     "name": "T12"
+  },
+  "Y": {
+    "brand": "G-Tab",
+    "name": "Y"
   },
   "EX750": {
     "brand": "G-TiDE",
@@ -42866,6 +42954,10 @@
   "E10_A": {
     "brand": "HUIHUANG",
     "name": "E10_A_EEA"
+  },
+  "T3L2": {
+    "brand": "HUIHUANG",
+    "name": "T3L2_EEA"
   },
   "CW-SPCM": {
     "brand": "HUSHIDA",
@@ -64411,6 +64503,10 @@
     "brand": "LARVAND",
     "name": "M863TabH8"
   },
+  "AI_System_EN_P13_03": {
+    "brand": "LAUNCH",
+    "name": "Diagnostic_Device"
+  },
   "AI_System_EN_P10_04_EU": {
     "brand": "LAUNCH",
     "name": "Diagnostic_PDV5"
@@ -75099,6 +75195,14 @@
     "brand": "Zuum",
     "name": "ONIX"
   },
+  "ORION E1": {
+    "brand": "Logicom",
+    "name": "ORION E1"
+  },
+  "ORION E1 PLUS": {
+    "brand": "Logicom",
+    "name": "ORION E1 PLUS"
+  },
   "POWER BOT": {
     "brand": "Logicom",
     "name": "POWER bot"
@@ -75246,6 +75350,10 @@
   "LZ-AA10": {
     "brand": "Logitec",
     "name": "LZ-AA10"
+  },
+  "LZ-AA10MC": {
+    "brand": "Logitec",
+    "name": "LZ-AA10MC"
   },
   "GR0006": {
     "brand": "Logitech",
@@ -84751,6 +84859,10 @@
     "brand": "Mpgio",
     "name": "MTabAir9"
   },
+  "W100": {
+    "brand": "Mpgio",
+    "name": "W100"
+  },
   "MPQC10": {
     "brand": "Mpman",
     "name": "MPQC10"
@@ -87735,6 +87847,10 @@
     "brand": "Nextbook",
     "name": "M-MP7NB3G"
   },
+  "N11A": {
+    "brand": "Nextbook",
+    "name": "N11A"
+  },
   "NX16A10132S": {
     "brand": "Nextbook",
     "name": "NX16A10132S"
@@ -89598,6 +89714,10 @@
   "MARINE 2": {
     "brand": "OSCAL",
     "name": "MARINE 2"
+  },
+  "MARINE 3": {
+    "brand": "OSCAL",
+    "name": "MARINE 3"
   },
   "MODERN 8": {
     "brand": "OSCAL",
@@ -94448,8 +94568,8 @@
     "name": "OT12_ROW"
   },
   "P1095": {
-    "brand": "Oukitel",
-    "name": "OT12_EEA"
+    "brand": "Veidoo",
+    "name": "T30_PLUS"
   },
   "OT13": {
     "brand": "Oukitel",
@@ -95017,7 +95137,7 @@
   },
   "CH10": {
     "brand": "PAITANRY",
-    "name": "CH10"
+    "name": "CH10_ROW"
   },
   "CH10_PRO": {
     "brand": "PAITANRY",
@@ -95639,9 +95759,9 @@
     "brand": "POC",
     "name": "POC2"
   },
-  "P11 Pro": {
-    "brand": "POCKAM",
-    "name": "P11 Pro"
+  "P13": {
+    "brand": "SVITOO",
+    "name": "P11"
   },
   "M2006C3MI": {
     "brand": "POCO",
@@ -98766,10 +98886,6 @@
   "Smart_HD": {
     "brand": "Plusone",
     "name": "Smart HD"
-  },
-  "P13": {
-    "brand": "SVITOO",
-    "name": "P11"
   },
   "PLUZZ_PL4010": {
     "brand": "Pluzz",
@@ -106018,6 +106134,10 @@
   "S23 Pro Max 256GB": {
     "brand": "Reeder",
     "name": "S23 Pro Max 256GB"
+  },
+  "S23 SE": {
+    "brand": "Reeder",
+    "name": "S23 SE"
   },
   "S71 Flip": {
     "brand": "Reeder",
@@ -131606,6 +131726,10 @@
   "T513SP": {
     "brand": "TCL",
     "name": "TCL K33 5G"
+  },
+  "T522E": {
+    "brand": "TCL",
+    "name": "TCL K70 Power 4G"
   },
   "5124J": {
     "brand": "TCL",
@@ -163331,9 +163455,17 @@
     "brand": "dazen",
     "name": "dazen 6E"
   },
+  "TIO_10525_EEA": {
+    "brand": "denver",
+    "name": "TIO_10525_EEA"
+  },
   "TIO-80": {
     "brand": "denver",
     "name": "TIO_80"
+  },
+  "TIO_80115KBUP_EEA": {
+    "brand": "denver",
+    "name": "TIO_80115KBUP_EEA"
   },
   "IPBS9520": {
     "brand": "du (UAE)",
@@ -165754,6 +165886,10 @@
   "prowise": {
     "brand": "prowise",
     "name": "Prowise Touchscreen Ultra"
+  },
+  "TSxG4": {
+    "brand": "prowise",
+    "name": "Prowise_TSxG4"
   },
   "L90": {
     "brand": "raemond",
