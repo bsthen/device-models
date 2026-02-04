@@ -8967,6 +8967,10 @@
     "brand": "Asus",
     "name": "ZenPad 7.0 (Z370KL)"
   },
+  "XG34WCDMTG": {
+    "brand": "Asus",
+    "name": "ASUS_WW_2885"
+  },
   "ASUS Chromebook C202SA": {
     "brand": "Asus",
     "name": "Chromebook C202SA/C300SA/C301SA"
@@ -63639,6 +63643,14 @@
     "brand": "Kruger&Matz",
     "name": "KM0808"
   },
+  "KM0HD FHD": {
+    "brand": "Kruger&Matz",
+    "name": "KM0HD FHD"
+  },
+  "KM0UHD": {
+    "brand": "Kruger&Matz",
+    "name": "KM0UHD"
+  },
   "KM1008": {
     "brand": "Kruger&Matz",
     "name": "KM1008"
@@ -87767,6 +87779,10 @@
     "brand": "Newline",
     "name": "23QA"
   },
+  "newline26Q": {
+    "brand": "Newline",
+    "name": "Newline 26Q"
+  },
   "Newline Q Pro Elite": {
     "brand": "Newline",
     "name": "Newline_Q_Pro_Elite"
@@ -98483,6 +98499,10 @@
     "brand": "Pixus",
     "name": "Pixus_Arena"
   },
+  "Pixus_BigTab": {
+    "brand": "Pixus",
+    "name": "Pixus_BigTab"
+  },
   "Pixus_Blast": {
     "brand": "Pixus",
     "name": "Pixus_Blast"
@@ -101750,6 +101770,10 @@
   "M10_C11": {
     "brand": "Pritom",
     "name": "M10_C11"
+  },
+  "M10_C11_Kids": {
+    "brand": "Pritom",
+    "name": "M10_C11_Kids"
   },
   "M10_Lite": {
     "brand": "Pritom",
@@ -108990,6 +109014,10 @@
   "P10_A1": {
     "brand": "SVITOO",
     "name": "P10_A1_EEA"
+  },
+  "P10_B": {
+    "brand": "SVITOO",
+    "name": "P10_B_EEA"
   },
   "P10_T": {
     "brand": "SVITOO",
@@ -163511,6 +163539,10 @@
     "brand": "eNOVA",
     "name": "N51"
   },
+  "T1081": {
+    "brand": "eNOVA",
+    "name": "TAE10N12"
+  },
   "TAE08N10": {
     "brand": "eNOVA",
     "name": "TAE08N10"
@@ -163518,10 +163550,6 @@
   "TAE10C13": {
     "brand": "eNOVA",
     "name": "TAEI0C13"
-  },
-  "T1081": {
-    "brand": "eNOVA",
-    "name": "TAE10N12"
   },
   "Emerald": {
     "brand": "eSSL",
@@ -165461,11 +165489,11 @@
   },
   "BLK-L03": {
     "brand": "iotapk",
-    "name": "HONOR CHOICE AI Translator"
+    "name": "HONOR CHOICE T10"
   },
   "BLK-L09": {
     "brand": "iotapk",
-    "name": "HONOR CHOICE AI Translator"
+    "name": "HONOR CHOICE T10"
   },
   "L611": {
     "brand": "ioutdoor",
