@@ -6999,6 +6999,10 @@
     "brand": "Apolosign",
     "name": "K103_A"
   },
+  "K103_B": {
+    "brand": "Apolosign",
+    "name": "K103_B"
+  },
   "K106A": {
     "brand": "Apolosign",
     "name": "K106A"
@@ -22058,6 +22062,10 @@
   "TMK715L": {
     "brand": "Condor",
     "name": "TMK715L"
+  },
+  "UTS800": {
+    "brand": "Condor",
+    "name": "UTS800"
   },
   "Speed": {
     "brand": "CongoTelecom",
@@ -96399,6 +96407,10 @@
     "brand": "Packard Bell",
     "name": "TARGA-F11PRO"
   },
+  "TARGA-F13PRO": {
+    "brand": "Packard Bell",
+    "name": "TARGA-F13PRO"
+  },
   "TARGA-F7": {
     "brand": "Packard Bell",
     "name": "TARGA-F7"
@@ -152130,6 +152142,10 @@
   "KT1028": {
     "brand": "Whitedeer",
     "name": "KT1028_EEA"
+  },
+  "X7L": {
+    "brand": "Whitedeer",
+    "name": "X7"
   },
   "WiBox.tv V3": {
     "brand": "Wibox",
