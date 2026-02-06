@@ -17319,6 +17319,10 @@
     "brand": "BraveTechs",
     "name": "BraveT4Lite"
   },
+  "T4 Pro": {
+    "brand": "BraveTechs",
+    "name": "BraveT4Pro"
+  },
   "T3 Pro": {
     "brand": "Vernee",
     "name": "T3 Pro"
@@ -30651,6 +30655,10 @@
     "brand": "ETELPREMIUM",
     "name": "P68"
   },
+  "E68": {
+    "brand": "ETEL_premium",
+    "name": "E68"
+  },
   "E28": {
     "brand": "KENSHI",
     "name": "E28"
@@ -34778,6 +34786,10 @@
   "L206FGN-X2": {
     "brand": "Formovie",
     "name": "Formovie Theater Premium Laser TV"
+  },
+  "Formovie Laser 4K projector": {
+    "brand": "Formovie",
+    "name": "Theater Laser Projector"
   },
   "GTV": {
     "brand": "Formuler",
@@ -60667,6 +60679,10 @@
     "brand": "KAT(AF)",
     "name": "SM1_Tablet"
   },
+  "K101_Plus": {
+    "brand": "KAMON",
+    "name": "K101_Plus"
+  },
   "KTB-168": {
     "brand": "KANSELIR",
     "name": "KTB-168"
@@ -61918,6 +61934,10 @@
   "K-BOOK73G": {
     "brand": "Kalley",
     "name": "K-BOOK73G"
+  },
+  "Kalley TV": {
+    "brand": "Kalley",
+    "name": "Kalley TV"
   },
   "Kalley_FlexTab 11": {
     "brand": "Kalley",
@@ -64506,6 +64526,10 @@
   "M20SE": {
     "brand": "LANDI",
     "name": "M20SE"
+  },
+  "M50SE": {
+    "brand": "LANDI",
+    "name": "M50SEN00"
   },
   "P30 Tablet": {
     "brand": "LANDI",
@@ -78195,6 +78219,10 @@
     "brand": "MeanIT",
     "name": "MeanIt_X30"
   },
+  "PK81": {
+    "brand": "MeanIT",
+    "name": "PK81"
+  },
   "PP101": {
     "brand": "MeanIT",
     "name": "PP101"
@@ -88795,6 +88823,10 @@
     "brand": "Nomu",
     "name": "V58"
   },
+  "NX21EE": {
+    "brand": "Nordalp",
+    "name": "Nordalp-X21-Pro"
+  },
   "X6 Pro": {
     "brand": "Nordalp",
     "name": "X6 Pro"
@@ -97711,6 +97743,10 @@
     "brand": "Pepperl+Fuchs",
     "name": "Tab-IND 10 AND"
   },
+  "oona1W15": {
+    "brand": "Pepperl+Fuchs",
+    "name": "oona1W15"
+  },
   "oona2W22": {
     "brand": "Pepperl+Fuchs",
     "name": "oona22"
@@ -106611,6 +106647,10 @@
     "brand": "Rogue mobile Inc",
     "name": "R67SA"
   },
+  "R67T": {
+    "brand": "Rogue mobile Inc",
+    "name": "R67T"
+  },
   "RG-station2": {
     "brand": "Rokid",
     "name": "station2"
@@ -106830,6 +106870,10 @@
   "S6537G": {
     "brand": "Ruio",
     "name": "S6537G"
+  },
+  "Celtiis Smart 3": {
+    "brand": "Ruio",
+    "name": "S6539Q"
   },
   "Edge X1": {
     "brand": "Ruio",
@@ -137455,6 +137499,10 @@
     "brand": "TOPELOTEK",
     "name": "TOPELOTEK"
   },
+  "ZIDS_701": {
+    "brand": "TOPELOTEK",
+    "name": "ZIDS_701"
+  },
   "PNC450": {
     "brand": "TOPJOY",
     "name": "PNC450"
@@ -144489,7 +144537,7 @@
   },
   "UE020": {
     "brand": "Unnecto",
-    "name": "UE020"
+    "name": "UE020_albssl"
   },
   "HH25": {
     "brand": "Unnion Technologies",
@@ -145242,6 +145290,10 @@
   "VKONEBOX": {
     "brand": "VK DIGITAL",
     "name": "VKONBOX"
+  },
+  "VL10": {
+    "brand": "VL Wireless Inc",
+    "name": "VL10"
   },
   "VL68": {
     "brand": "VL Wireless Inc",
@@ -152145,7 +152197,7 @@
   },
   "X7L": {
     "brand": "Whitedeer",
-    "name": "X7"
+    "name": "X7_EEA"
   },
   "WiBox.tv V3": {
     "brand": "Wibox",
@@ -161559,6 +161611,10 @@
     "brand": "ZTE",
     "name": "ZTE PA01"
   },
+  "X1102N": {
+    "brand": "ZTE",
+    "name": "ZTE Pad X1102N"
+  },
   "ZTE T0801": {
     "brand": "ZTE",
     "name": "ZTE T0801"
@@ -167480,6 +167536,10 @@
     "name": "Y31d"
   },
   "V2582": {
+    "brand": "vivo",
+    "name": "Y31d"
+  },
+  "V2611": {
     "brand": "vivo",
     "name": "Y31d"
   },
