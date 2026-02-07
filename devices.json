@@ -12359,6 +12359,10 @@
     "brand": "BNCF",
     "name": "BPad_13"
   },
+  "BPad_GT": {
+    "brand": "BNCF",
+    "name": "BPad_GT"
+  },
   "BPad_Mini_Ultra": {
     "brand": "BNCF",
     "name": "BPad_Mini_Ultra"
@@ -13142,6 +13146,10 @@
   "QZ1095W_EEA": {
     "brand": "BWJBSW",
     "name": "QZ1095W_EEA"
+  },
+  "BX_D04": {
+    "brand": "BXLIYER",
+    "name": "BX_D04"
   },
   "BYD100F": {
     "brand": "BYD",
@@ -24095,6 +24103,10 @@
     "brand": "DABLIU",
     "name": "E1M"
   },
+  "E1N": {
+    "brand": "DABLIU",
+    "name": "E1N"
+  },
   "L1R": {
     "brand": "DABLIU",
     "name": "L1R"
@@ -30626,6 +30638,10 @@
   "ETEL P27": {
     "brand": "ETELPREMIUM",
     "name": "E27"
+  },
+  "ETEL-E67": {
+    "brand": "ETELPREMIUM",
+    "name": "ETEL E67"
   },
   "ETEL P29": {
     "brand": "ETELPREMIUM",
@@ -47331,14 +47347,6 @@
     "brand": "Honor",
     "name": "Elsa"
   },
-  "MTN-NX1M": {
-    "brand": "Honor",
-    "name": "HONOR Magic8 Lite"
-  },
-  "MTN-NX3": {
-    "brand": "Honor",
-    "name": "HONOR  Magic8 Lite"
-  },
   "MTN-NX1": {
     "brand": "Honor",
     "name": "HONOR  X9d"
@@ -47531,6 +47539,14 @@
     "brand": "Honor",
     "name": "HONOR Magic7 Pro"
   },
+  "MTN-NX1M": {
+    "brand": "Honor",
+    "name": "HONOR Magic8 Lite"
+  },
+  "MTN-NX3": {
+    "brand": "Honor",
+    "name": "HONOR Magic8 Lite"
+  },
   "BKQ-N49": {
     "brand": "Honor",
     "name": "HONOR Magic8 pro"
@@ -47594,6 +47610,18 @@
   "NDL-W09": {
     "brand": "Honor",
     "name": "HONOR Pad X8a"
+  },
+  "NDL2-L03": {
+    "brand": "Honor",
+    "name": "HONOR Pad X8b"
+  },
+  "NDL2-L09": {
+    "brand": "Honor",
+    "name": "HONOR Pad X8b"
+  },
+  "NDL2-W09": {
+    "brand": "Honor",
+    "name": "HONOR Pad X8b"
   },
   "ELN-L03": {
     "brand": "Honor",
@@ -163078,6 +163106,10 @@
   "ZUUM PAD Lightyear": {
     "brand": "Zuum",
     "name": "ZUUM PAD Lightyear"
+  },
+  "G141K": {
+    "brand": "Zynex",
+    "name": "G141K"
   },
   "G141L": {
     "brand": "Zynex",
