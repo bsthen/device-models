@@ -26073,7 +26073,7 @@
   },
   "T84G_OC": {
     "brand": "Datamini",
-    "name": "T84G_OC"
+    "name": "T84G"
   },
   "T84G_T310A14": {
     "brand": "Datamini",
@@ -60302,6 +60302,10 @@
   "X100L": {
     "brand": "Jeazans",
     "name": "X100L_EEA"
+  },
+  "X100PRO": {
+    "brand": "Jeazans",
+    "name": "X100PRO"
   },
   "A94GT_Plus": {
     "brand": "Jenesis",
@@ -143267,10 +143271,6 @@
     "brand": "Ulefone",
     "name": "Armor 31 Pro"
   },
-  "Armor 34 Pro": {
-    "brand": "Ulefone",
-    "name": "Armor 34 Pro"
-  },
   "Armor 33": {
     "brand": "Ulefone",
     "name": "Armor 33"
@@ -143278,6 +143278,10 @@
   "Armor 34": {
     "brand": "Ulefone",
     "name": "Armor 34"
+  },
+  "Armor 34 Pro": {
+    "brand": "Ulefone",
+    "name": "Armor 34 Pro"
   },
   "Armor_6": {
     "brand": "Ulefone",
