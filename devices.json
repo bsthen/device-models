@@ -7201,7 +7201,7 @@
   },
   "SmarTouch": {
     "brand": "Archer",
-    "name": "AT8600"
+    "name": "GB8600G3"
   },
   "ARCHOS 101 CHILDPAD": {
     "brand": "Archos",
@@ -81199,6 +81199,10 @@
     "brand": "SPECTRA",
     "name": "Spectra J2"
   },
+  "SpectraTab2": {
+    "brand": "Mobicel",
+    "name": "SpectraTab2"
+  },
   "VX21": {
     "brand": "Mobicel",
     "name": "VX21"
@@ -95319,6 +95323,10 @@
     "brand": "PAX (CN)",
     "name": "A910S"
   },
+  "E600M": {
+    "brand": "PAX (CN)",
+    "name": "E600M"
+  },
   "L1620": {
     "brand": "PAX (CN)",
     "name": "L1620"
@@ -95629,7 +95637,7 @@
   },
   "CP31M": {
     "brand": "PEICHENG",
-    "name": "CP31M"
+    "name": "CP31T_EEA"
   },
   "CP31U": {
     "brand": "PEICHENG",
@@ -96068,6 +96076,10 @@
     "name": "POCO M7 Pro 5G"
   },
   "25118PC98G": {
+    "brand": "POCO",
+    "name": "POCO M8 5G"
+  },
+  "25118PC98I": {
     "brand": "POCO",
     "name": "POCO M8 5G"
   },
@@ -104738,6 +104750,10 @@
   "AD11": {
     "brand": "RebotAi",
     "name": "AD11"
+  },
+  "AF12": {
+    "brand": "RebotAi",
+    "name": "AF12_EEA"
   },
   "AF13": {
     "brand": "RebotAi",
@@ -140131,6 +140147,10 @@
     "brand": "Tecno",
     "name": "TECNO CAMON 50 Pro"
   },
+  "TECNO CN7c": {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 50 Ultra 5G"
+  },
   "TECNO KB2": {
     "brand": "Tecno",
     "name": "TECNO CAMON iACE 2"
@@ -165150,6 +165170,10 @@
   "V2505A": {
     "brand": "iQOO",
     "name": "iQOO 15"
+  },
+  "V2546A": {
+    "brand": "iQOO",
+    "name": "iQOO 15 Ultra"
   },
   "I2405": {
     "brand": "iQOO",
