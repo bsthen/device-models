@@ -11587,6 +11587,10 @@
     "brand": "BMAX",
     "name": "I10_Plus"
   },
+  "I10_Pro_4G": {
+    "brand": "BMAX",
+    "name": "I10_Pro_4G"
+  },
   "I10_Pro": {
     "brand": "BMAX",
     "name": "I10_Pro_ROW"
@@ -19086,6 +19090,10 @@
   "CASPER_L10_4.5G": {
     "brand": "Casper",
     "name": "CASPER_L10_4_5G"
+  },
+  "CTP300": {
+    "brand": "Casper",
+    "name": "CTP300"
   },
   "Casper 2K Smart TV": {
     "brand": "Casper",
@@ -38858,6 +38866,10 @@
   "geralt": {
     "brand": "Google",
     "name": "Mediatek MT8188G Detachable"
+  },
+  "skywalker": {
+    "brand": "Google",
+    "name": "Mediatek MT8189 Chromebook"
   },
   "asurada": {
     "brand": "Google",
@@ -80384,7 +80396,7 @@
     "name": "P275"
   },
   "P300": {
-    "brand": "Micromax",
+    "brand": "NEXGO",
     "name": "P300"
   },
   "Micromax Q327": {
@@ -86783,6 +86795,14 @@
     "brand": "NEXA",
     "name": "NexaN5a"
   },
+  "P300__Pro": {
+    "brand": "NEXGO",
+    "name": "P300"
+  },
+  "P300__mini": {
+    "brand": "NEXGO",
+    "name": "P300_mini"
+  },
   "NXW_GB86_13UP": {
     "brand": "NEXWIN",
     "name": "interactive flat panel display"
@@ -86898,6 +86918,10 @@
   "Smart5Plus": {
     "brand": "NGM Italia SRL",
     "name": "Smart5Plus"
+  },
+  "NIKAI PRO Google TV": {
+    "brand": "NIKAI_PRO",
+    "name": "Smart TV"
   },
   "N2301": {
     "brand": "NIO",
@@ -95649,7 +95673,7 @@
   },
   "P13Max": {
     "brand": "PEICHENG",
-    "name": "P13Max"
+    "name": "P13TMax_EEA"
   },
   "P13PRO": {
     "brand": "PEICHENG",
@@ -109142,6 +109166,10 @@
   "TAB_P10": {
     "brand": "SVITOO",
     "name": "TAB_P10_ROW"
+  },
+  "TAB_P10_C_EEA": {
+    "brand": "SVITOO",
+    "name": "TAB_P10_C_EEA"
   },
   "TAB_P10_C_ROW": {
     "brand": "SVITOO",
@@ -162275,6 +162303,10 @@
     "brand": "Zebra",
     "name": "Zebra Technologies TC26"
   },
+  "TC501": {
+    "brand": "Zebra",
+    "name": "TC501"
+  },
   "TC51": {
     "brand": "Zebra",
     "name": "TC51"
@@ -162302,6 +162334,10 @@
   "TC58E": {
     "brand": "Zebra",
     "name": "TC58E"
+  },
+  "TC701": {
+    "brand": "Zebra",
+    "name": "TC701"
   },
   "TC70x": {
     "brand": "Zebra",
