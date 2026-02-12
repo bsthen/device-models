@@ -86801,7 +86801,7 @@
   },
   "P300__mini": {
     "brand": "NEXGO",
-    "name": "P300_mini"
+    "name": "P300"
   },
   "NXW_GB86_13UP": {
     "brand": "NEXWIN",
@@ -167526,6 +167526,18 @@
   "V2513": {
     "brand": "vivo",
     "name": "V60e"
+  },
+  "V2538": {
+    "brand": "vivo",
+    "name": "V70"
+  },
+  "V2539": {
+    "brand": "vivo",
+    "name": "V70"
+  },
+  "V2540": {
+    "brand": "vivo",
+    "name": "V70"
   },
   "V2436A": {
     "brand": "vivo",
