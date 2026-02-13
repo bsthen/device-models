@@ -11647,6 +11647,10 @@
     "brand": "BMAX",
     "name": "I11_S_EEA"
   },
+  "I12_A_Power": {
+    "brand": "BMAX",
+    "name": "I12_A_Power"
+  },
   "I8": {
     "brand": "Tech 4u",
     "name": "I8"
@@ -47763,6 +47767,14 @@
     "brand": "Honor",
     "name": "HONOR X6c"
   },
+  "NLA-NX1": {
+    "brand": "Honor",
+    "name": "HONOR X6d 5G"
+  },
+  "NLA-NX3": {
+    "brand": "Honor",
+    "name": "HONOR X6d 5G"
+  },
   "CMA-LX1": {
     "brand": "Honor",
     "name": "HONOR X7"
@@ -55109,7 +55121,7 @@
   },
   "IFP": {
     "brand": "OKView",
-    "name": "IFP"
+    "name": "IFP86A1"
   },
   "VIATABQX1040": {
     "brand": "IQ Touch",
@@ -78266,6 +78278,10 @@
   "MeanIt_X30": {
     "brand": "MeanIT",
     "name": "MeanIt_X30"
+  },
+  "MeanIT PK81": {
+    "brand": "MeanIT",
+    "name": "PK81"
   },
   "PK81": {
     "brand": "MeanIT",
@@ -106691,6 +106707,10 @@
     "brand": "Rizzen",
     "name": "Novatab"
   },
+  "Ultra_26S50": {
+    "brand": "Rizzen",
+    "name": "Rizzen_Ultra_26S50"
+  },
   "X1x": {
     "brand": "Rizzen",
     "name": "X1x"
@@ -110863,6 +110883,34 @@
     "brand": "Samsung",
     "name": "Galaxy A36 5G"
   },
+  "SM-A3760": {
+    "brand": "Samsung",
+    "name": "Galaxy A37 5G"
+  },
+  "SM-A376B": {
+    "brand": "Samsung",
+    "name": "Galaxy A37 5G"
+  },
+  "SM-A376E": {
+    "brand": "Samsung",
+    "name": "Galaxy A37 5G"
+  },
+  "SM-A376U": {
+    "brand": "Samsung",
+    "name": "Galaxy A37 5G"
+  },
+  "SM-A376U1": {
+    "brand": "Samsung",
+    "name": "Galaxy A37 5G"
+  },
+  "SM-A376W": {
+    "brand": "Samsung",
+    "name": "Galaxy A37 5G"
+  },
+  "SM-S376V": {
+    "brand": "Samsung",
+    "name": "Galaxy A37 5G"
+  },
   "SM-A405FM": {
     "brand": "Samsung",
     "name": "Galaxy A40"
@@ -111334,6 +111382,30 @@
   "SM-A566W": {
     "brand": "Samsung",
     "name": "Galaxy A56 5G"
+  },
+  "SM-A5760": {
+    "brand": "Samsung",
+    "name": "Galaxy A57 5G"
+  },
+  "SM-A576B": {
+    "brand": "Samsung",
+    "name": "Galaxy A57 5G"
+  },
+  "SM-A576Q": {
+    "brand": "Samsung",
+    "name": "Galaxy A57 5G"
+  },
+  "SM-A576U1": {
+    "brand": "Samsung",
+    "name": "Galaxy A57 5G"
+  },
+  "SM-A576W": {
+    "brand": "Samsung",
+    "name": "Galaxy A57 5G"
+  },
+  "SM-A576Z": {
+    "brand": "Samsung",
+    "name": "Galaxy A57 5G"
   },
   "SM-A600AZ": {
     "brand": "Samsung",
@@ -167519,6 +167591,10 @@
     "brand": "vivo",
     "name": "V60 Lite"
   },
+  "V2549": {
+    "brand": "vivo",
+    "name": "V60 Lite"
+  },
   "V2529": {
     "brand": "vivo",
     "name": "V60 Lite 5G"
@@ -167538,6 +167614,10 @@
   "V2540": {
     "brand": "vivo",
     "name": "V70"
+  },
+  "V2548": {
+    "brand": "vivo",
+    "name": "V70 Elite"
   },
   "V2436A": {
     "brand": "vivo",
