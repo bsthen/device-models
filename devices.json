@@ -18035,6 +18035,10 @@
     "brand": "CHUBU TELECOMMUNICATIONS CO.,INC",
     "name": "STI6130d353"
   },
+  "AI PONT FF": {
+    "brand": "oboni",
+    "name": "Smart TV"
+  },
   "B610A103A": {
     "brand": "CIBER",
     "name": "B610A103A"
@@ -20910,6 +20914,10 @@
   "STICK 4K": {
     "brand": "Claro",
     "name": "STICK 4K"
+  },
+  "60XX_Nova": {
+    "brand": "ClearTouch",
+    "name": "CTI_60XXNova_UH50"
   },
   "CTI_NEXT_TDED_S10": {
     "brand": "ClearTouch",
@@ -95367,6 +95375,14 @@
     "brand": "PAX (CN)",
     "name": "E600M"
   },
+  "E700M": {
+    "brand": "PAX (CN)",
+    "name": "E700M"
+  },
+  "L1450P": {
+    "brand": "PAX (CN)",
+    "name": "L1450P"
+  },
   "L1620": {
     "brand": "PAX (CN)",
     "name": "L1620"
@@ -156527,6 +156543,10 @@
     "brand": "ZIOVO",
     "name": "Z168_U_US"
   },
+  "SC02-I5": {
+    "brand": "ZKTeco",
+    "name": "Interactive_Whiteboard"
+  },
   "Z_742": {
     "brand": "ZLINE",
     "name": "ZLINE_Z_742"
@@ -165922,10 +165942,6 @@
   "Bonvi Pro": {
     "brand": "novo",
     "name": "Bonvi Pro"
-  },
-  "AI PONT FF": {
-    "brand": "oboni",
-    "name": "Smart TV"
   },
   "TK706": {
     "brand": "okayseamedia",
