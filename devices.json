@@ -38927,6 +38927,10 @@
     "brand": "Google",
     "name": "Pixel 10 Pro XL"
   },
+  "Pixel 10a": {
+    "brand": "Google",
+    "name": "Pixel 10a"
+  },
   "Pixel 2": {
     "brand": "Google",
     "name": "Pixel 2"
@@ -70599,6 +70603,10 @@
     "brand": "Lava",
     "name": "LAVA LXX523"
   },
+  "LAVA LXX524": {
+    "brand": "Lava",
+    "name": "LAVA LXX524"
+  },
   "LXX525": {
     "brand": "Lava",
     "name": "LAVA LXX525"
@@ -73974,6 +73982,10 @@
   "d-52C": {
     "brand": "Lenovo",
     "name": "d-52C"
+  },
+  "d-51F": {
+    "brand": "Lenovo",
+    "name": "dtab d-51F"
   },
   "ideatv S52": {
     "brand": "Lenovo",
