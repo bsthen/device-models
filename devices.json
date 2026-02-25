@@ -39587,6 +39587,10 @@
     "brand": "Guophone",
     "name": "XP9800"
   },
+  "H_Tab_Go": {
+    "brand": "H(tab)",
+    "name": "H_Tab_Go"
+  },
   "H_Tab_Lite": {
     "brand": "H(tab)",
     "name": "H_Tab_Lite"
@@ -44687,10 +44691,6 @@
     "brand": "SSmooth",
     "name": "Vision"
   },
-  "HIDB 4K": {
-    "brand": "Toshiba",
-    "name": "TD-E757TS"
-  },
   "HLTE700T": {
     "brand": "Hisense",
     "name": "700T"
@@ -45118,6 +45118,10 @@
   "Hisense G610M": {
     "brand": "Hisense",
     "name": "G610M"
+  },
+  "HIDB 4K": {
+    "brand": "Toshiba",
+    "name": "TD-E757TS"
   },
   "HiSmart 2K ATV4": {
     "brand": "Toshiba",
@@ -144691,6 +144695,10 @@
     "brand": "UnityWireless",
     "name": "EPIC E55"
   },
+  "Univision S800": {
+    "brand": "Univision",
+    "name": "Univision S800"
+  },
   "Bolt 1U": {
     "brand": "Unnecto",
     "name": "Bolt 1U"
@@ -167650,6 +167658,22 @@
   "V2548": {
     "brand": "vivo",
     "name": "V70 Elite"
+  },
+  "V2550": {
+    "brand": "vivo",
+    "name": "V70 FE"
+  },
+  "V2551": {
+    "brand": "vivo",
+    "name": "V70 FE"
+  },
+  "V2552": {
+    "brand": "vivo",
+    "name": "V70 FE"
+  },
+  "V2558": {
+    "brand": "vivo",
+    "name": "V70 FE"
   },
   "V2436A": {
     "brand": "vivo",
