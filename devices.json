@@ -1315,6 +1315,10 @@
     "brand": "ARISTOGEA",
     "name": "M258"
   },
+  "M832": {
+    "brand": "ARISTOGEA",
+    "name": "M832"
+  },
   "Listo22": {
     "brand": "ARMADILOS",
     "name": "Listo22"
@@ -17695,6 +17699,10 @@
     "brand": "Smart-Tech TV",
     "name": "Aiplus4K"
   },
+  "AOW4KMCTV": {
+    "brand": "CAIXUN",
+    "name": "Columbia"
+  },
   "Caixun Android TV": {
     "brand": "CAIXUN",
     "name": "Europe"
@@ -21499,6 +21507,10 @@
     "brand": "Compaq",
     "name": "CT311T"
   },
+  "COMPAQ TV": {
+    "brand": "Compaq",
+    "name": "Colombia"
+  },
   "Compaq_Q3": {
     "brand": "Compaq",
     "name": "Compaq_Q3"
@@ -21602,6 +21614,10 @@
   "Qtab Ultra": {
     "brand": "Compaq",
     "name": "Qtab_Ultra"
+  },
+  "COMPAQ GOOGLE TV": {
+    "brand": "Compaq",
+    "name": "South Africa"
   },
   "COMPAQ SMART 4K TV": {
     "brand": "Compaq",
@@ -29210,6 +29226,10 @@
   "DP500": {
     "brand": "Doppio",
     "name": "DP500"
+  },
+  "Doppio Capuchino": {
+    "brand": "Doppio",
+    "name": "Doppio Capuchino"
   },
   "SL548": {
     "brand": "Doppio",
@@ -39871,6 +39891,10 @@
     "brand": "Wings",
     "name": "W7_Q_EEA"
   },
+  "W7B": {
+    "brand": "HEADWOLF",
+    "name": "W7B"
+  },
   "JayPad_2_0": {
     "brand": "HEALTHJAY",
     "name": "JayPad_2_0"
@@ -40498,6 +40522,10 @@
   "HP SlateBook 14 PC": {
     "brand": "HP",
     "name": "SlateBook 14"
+  },
+  "HP GOOGLE TV": {
+    "brand": "HP",
+    "name": "South America"
   },
   "HP_10_Tablet": {
     "brand": "HP",
@@ -48590,6 +48618,10 @@
   "TAB R7": {
     "brand": "Hotwav",
     "name": "TAB_R7"
+  },
+  "TAB R9 Pro Max": {
+    "brand": "Hotwav",
+    "name": "TAB_R9_Pro_Max"
   },
   "Venus": {
     "brand": "Mobicell",
@@ -61927,6 +61959,10 @@
     "brand": "Kalley",
     "name": "Black S"
   },
+  "Black Z1": {
+    "brand": "Kalley",
+    "name": "Black Z1"
+  },
   "Black Z2": {
     "brand": "Kalley",
     "name": "Black_Z2"
@@ -63071,6 +63107,10 @@
     "brand": "Kobo",
     "name": "Vox"
   },
+  "KODAK 4K Smart TV": {
+    "brand": "Kodak",
+    "name": "Panama"
+  },
   "D50PRO": {
     "brand": "Kodak",
     "name": "D50PRO"
@@ -63186,10 +63226,6 @@
   "KD50": {
     "brand": "Kodak",
     "name": "Kodak_KD50"
-  },
-  "KODAK 4K Smart TV": {
-    "brand": "Kodak",
-    "name": "Panama"
   },
   "SMARTWAY L2": {
     "brand": "Kodak",
@@ -64442,6 +64478,10 @@
   "KYG03": {
     "brand": "Kyocera",
     "name": "TORQUE G06"
+  },
+  "KYG06": {
+    "brand": "Kyocera",
+    "name": "TORQUE G07"
   },
   "KC-S701": {
     "brand": "Kyocera",
@@ -69590,6 +69630,10 @@
   "LUMOS_TABLET_PRO": {
     "brand": "LUMOS",
     "name": "LUMOS_TABLET_PRO"
+  },
+  "LUMOS_TABLET_ULTRA": {
+    "brand": "LUMOS",
+    "name": "LUMOS_TABLET_ULTRA"
   },
   "INNOSR545": {
     "brand": "LUMUS",
@@ -83749,7 +83793,7 @@
   },
   "moto g - 2025": {
     "brand": "Motorola",
-    "name": "moto g - 2025"
+    "name": "moto g67"
   },
   "moto g play - 2024": {
     "brand": "Motorola",
@@ -84195,13 +84239,17 @@
     "brand": "Motorola",
     "name": "moto g56 5G"
   },
-  "moto g57 power": {
+  "moto g57": {
     "brand": "Motorola",
-    "name": "moto g57 power"
+    "name": "moto g57"
   },
   "motorola edge 60 stylus": {
     "brand": "Motorola",
     "name": "motorola edge 60 stylus"
+  },
+  "moto g57 power": {
+    "brand": "Motorola",
+    "name": "moto g57 power"
   },
   "moto g62 5G": {
     "brand": "Motorola",
@@ -84226,6 +84274,10 @@
   "moto g66y 5G": {
     "brand": "Motorola",
     "name": "moto g66y 5G"
+  },
+  "moto g67": {
+    "brand": "Motorola",
+    "name": "moto g67"
   },
   "XT2533-4": {
     "brand": "Motorola",
@@ -85039,6 +85091,10 @@
     "brand": "Multilaser",
     "name": "Brazil"
   },
+  "Multi smart TV": {
+    "brand": "Multilaser",
+    "name": "Multi smart TV"
+  },
   "DI01_M7_WIFI": {
     "brand": "Multilaser",
     "name": "DI01_M7_WIFI"
@@ -85434,10 +85490,6 @@
   "Multi Google TV": {
     "brand": "Multilaser",
     "name": "Multi Google TV"
-  },
-  "Multi smart TV": {
-    "brand": "Multilaser",
-    "name": "Multi smart TV"
   },
   "Multilaser_E": {
     "brand": "Multilaser",
@@ -87248,6 +87300,10 @@
     "name": "Thailand"
   },
   "Nano 2K SMART TV": {
+    "brand": "Nano",
+    "name": "Thailand"
+  },
+  "Nano 4K Smart TV": {
     "brand": "Nano",
     "name": "Thailand"
   },
@@ -99151,6 +99207,10 @@
     "brand": "Point Mobile",
     "name": "PM84"
   },
+  "PM84P": {
+    "brand": "Point Mobile",
+    "name": "PM84P"
+  },
   "PM84R": {
     "brand": "Point Mobile",
     "name": "PM84R"
@@ -105043,6 +105103,10 @@
     "brand": "Redmi",
     "name": "REDMI Turbo 4 Pro"
   },
+  "2602BRT18C": {
+    "brand": "Redmi",
+    "name": "REDMI Turbo 5 Max"
+  },
   "Redmi 7A": {
     "brand": "Xiaomi",
     "name": "Redmi 7A"
@@ -109254,6 +109318,10 @@
   "V13": {
     "brand": "SVITOO",
     "name": "V13_EEA"
+  },
+  "V13_B": {
+    "brand": "SVITOO",
+    "name": "V13_B_EEA"
   },
   "SWA310": {
     "brand": "SWACONNECT",
@@ -122179,6 +122247,10 @@
     "brand": "Sansui",
     "name": "ETAB S7042G"
   },
+  "SANSUI 4K Smart TV": {
+    "brand": "Sansui",
+    "name": "Europe"
+  },
   "Sansui Fun": {
     "brand": "Sansui",
     "name": "Fun"
@@ -122194,6 +122266,10 @@
   "NGamer": {
     "brand": "Sansui",
     "name": "NGamer"
+  },
+  "AOW4KMNTV": {
+    "brand": "Sansui",
+    "name": "North America"
   },
   "SANSUI 2K Smart TV": {
     "brand": "Sansui",
@@ -123898,6 +123974,10 @@
   "SH-05F": {
     "brand": "Sharp",
     "name": "Disney Mobile on docomo SH-05F"
+  },
+  "Sharp 4K Google 5.0 TV": {
+    "brand": "Sharp",
+    "name": "Dominica"
   },
   "EB-A71GJ": {
     "brand": "Sharp",
@@ -126590,6 +126670,10 @@
   "BRAVIA BF1": {
     "brand": "Sony",
     "name": "BRAVIA_BF1_4K_A"
+  },
+  "BRAVIA CT1": {
+    "brand": "Sony",
+    "name": "BRAVIA_CT1"
   },
   "BRAVIA VU1": {
     "brand": "Sony",
@@ -137627,6 +137711,10 @@
     "brand": "TOKYO",
     "name": "Paraguay"
   },
+  "TOKYO 4K GOOGLE TV": {
+    "brand": "TOKYO",
+    "name": "Paraguay"
+  },
   "TOKYO 2K Google TV": {
     "brand": "TOKYO",
     "name": "TOKYO 2K GOOGLE TV"
@@ -138850,6 +138938,10 @@
   "P30T_ROW": {
     "brand": "Teclast",
     "name": "P30T_ROW"
+  },
+  "P30T_Y": {
+    "brand": "Teclast",
+    "name": "P30T_Y_RUS"
   },
   "P30_EEA": {
     "brand": "Teclast",
@@ -141599,6 +141691,10 @@
     "brand": "Tesla",
     "name": "SMARTPHONE3.5"
   },
+  "Tesla Google TV": {
+    "brand": "Tesla",
+    "name": "SOUTH AMERICA"
+  },
   "Tesla_SP3_4": {
     "brand": "Tesla",
     "name": "Smartphone 3.4"
@@ -144302,6 +144398,10 @@
   "PA3NB16PB": {
     "brand": "Umidigi",
     "name": "UMIDIGI A16 Pro"
+  },
+  "UMIDIGI A75x": {
+    "brand": "Umidigi",
+    "name": "UMIDIGI A75x"
   },
   "MP07": {
     "brand": "Umidigi",
@@ -154050,6 +154150,10 @@
   "XENON ANDROID TV": {
     "brand": "XENON",
     "name": "XENON ANDROID TV"
+  },
+  "XENON TV G4K": {
+    "brand": "XENON",
+    "name": "Philippines"
   },
   "XENON  TV  G2K": {
     "brand": "XENON",
@@ -165327,6 +165431,10 @@
     "brand": "iQOO",
     "name": "iQOO 15 Ultra"
   },
+  "I2508": {
+    "brand": "iQOO",
+    "name": "iQOO 15R"
+  },
   "I2405": {
     "brand": "iQOO",
     "name": "iQOO Neo 10"
@@ -166678,6 +166786,10 @@
   "RMX5020": {
     "brand": "realme",
     "name": "realme C75x"
+  },
+  "RMX5256": {
+    "brand": "realme",
+    "name": "realme C83 5G"
   },
   "RMX5566": {
     "brand": "realme",
