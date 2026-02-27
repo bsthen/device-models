@@ -2735,6 +2735,10 @@
     "brand": "Acer",
     "name": "Acer Iconia Tab iM9-12M"
   },
+  "Acer Iconia iM11-22M5G": {
+    "brand": "Acer",
+    "name": "Acer Iconia iM11-22M5G"
+  },
   "Acer One 10 T4-129L": {
     "brand": "Acer",
     "name": "Acer One 10 T4-129L"
@@ -2770,6 +2774,10 @@
   "Acer One T11-22L": {
     "brand": "Acer",
     "name": "Acer One T11-22L"
+  },
+  "Acer One T11-22L-5G": {
+    "brand": "Acer",
+    "name": "Acer One T11-22L-5G"
   },
   "DT3K_F": {
     "brand": "Acer",
@@ -55879,6 +55887,10 @@
     "brand": "Indurama",
     "name": "Indurama"
   },
+  "Indurama 4K smart TV": {
+    "brand": "Indurama",
+    "name": "Indurama 4K smart TV"
+  },
   "indurama 2K TV": {
     "brand": "Indurama",
     "name": "indurama 2K TV"
@@ -83483,6 +83495,14 @@
     "brand": "Motorola",
     "name": "Motorola Defy 2"
   },
+  "Motorola TV": {
+    "brand": "Motorola",
+    "name": "Motorola TV"
+  },
+  "Motorola TV FF": {
+    "brand": "Motorola",
+    "name": "Motorola TV FF"
+  },
   "motorola one": {
     "brand": "Motorola",
     "name": "motorola one"
@@ -83793,7 +83813,7 @@
   },
   "moto g - 2025": {
     "brand": "Motorola",
-    "name": "moto g67"
+    "name": "moto g77"
   },
   "moto g play - 2024": {
     "brand": "Motorola",
@@ -83865,11 +83885,15 @@
   },
   "moto g power - 2025": {
     "brand": "Motorola",
-    "name": "moto g power - 2025"
+    "name": "moto g power - 2026"
   },
   "moto g power 5G - 2024": {
     "brand": "Motorola",
     "name": "moto g power 5G - 2024"
+  },
+  "moto g power - 2026": {
+    "brand": "Motorola",
+    "name": "moto g power - 2026"
   },
   "moto g power 5G - 2023": {
     "brand": "Motorola",
@@ -84294,6 +84318,10 @@
   "moto g75 5G": {
     "brand": "Motorola",
     "name": "moto g75 5G"
+  },
+  "moto g77": {
+    "brand": "Motorola",
+    "name": "moto g77"
   },
   "XT2169-2": {
     "brand": "Motorola",
@@ -98471,6 +98499,10 @@
     "brand": "Philips",
     "name": "S7220"
   },
+  "S8300": {
+    "brand": "Philips",
+    "name": "S8300"
+  },
   "SWTV": {
     "brand": "Skyworth",
     "name": "Euro"
@@ -104167,6 +104199,10 @@
     "brand": "REDLINE",
     "name": "Space_M10Pro"
   },
+  "NX799J": {
+    "brand": "REDMAGIC",
+    "name": "NX799J"
+  },
   "NX809J": {
     "brand": "ZTE",
     "name": "红魔11 Pro游戏手机"
@@ -104750,6 +104786,14 @@
   "RMX3125": {
     "brand": "Realme",
     "name": "真我V11s 5G"
+  },
+  "Realme TV": {
+    "brand": "Realme Techlife",
+    "name": "Realme TV"
+  },
+  "Realme TV FF": {
+    "brand": "Realme Techlife",
+    "name": "Realme TV FF"
   },
   "RealtekHank": {
     "brand": "Realtek",
@@ -117351,6 +117395,118 @@
     "brand": "Samsung",
     "name": "Galaxy S25+"
   },
+  "SC-51G": {
+    "brand": "Samsung",
+    "name": "Galaxy S26"
+  },
+  "SCG36": {
+    "brand": "Samsung",
+    "name": "Galaxy S26"
+  },
+  "SM-S9420": {
+    "brand": "Samsung",
+    "name": "Galaxy S26"
+  },
+  "SM-S942C": {
+    "brand": "Samsung",
+    "name": "Galaxy S26"
+  },
+  "SM-S942Q": {
+    "brand": "Samsung",
+    "name": "Galaxy S26"
+  },
+  "SM-S942U": {
+    "brand": "Samsung",
+    "name": "Galaxy S26"
+  },
+  "SM-S942U1": {
+    "brand": "Samsung",
+    "name": "Galaxy S26"
+  },
+  "SM-S942W": {
+    "brand": "Samsung",
+    "name": "Galaxy S26"
+  },
+  "SM-S942Z": {
+    "brand": "Samsung",
+    "name": "Galaxy S26"
+  },
+  "SC-53G": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 Ultra"
+  },
+  "SCG37": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 Ultra"
+  },
+  "SM-S9480": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 Ultra"
+  },
+  "SM-S948B": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 Ultra"
+  },
+  "SM-S948C": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 Ultra"
+  },
+  "SM-S948N": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 Ultra"
+  },
+  "SM-S948Q": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 Ultra"
+  },
+  "SM-S948U1": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 Ultra"
+  },
+  "SM-S948W": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 Ultra"
+  },
+  "SM-S948Z": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 Ultra"
+  },
+  "SC-52G": {
+    "brand": "Samsung",
+    "name": "Galaxy S26+"
+  },
+  "SCG38": {
+    "brand": "Samsung",
+    "name": "Galaxy S26+"
+  },
+  "SM-S9470": {
+    "brand": "Samsung",
+    "name": "Galaxy S26+"
+  },
+  "SM-S947C": {
+    "brand": "Samsung",
+    "name": "Galaxy S26+"
+  },
+  "SM-S947Q": {
+    "brand": "Samsung",
+    "name": "Galaxy S26+"
+  },
+  "SM-S947U": {
+    "brand": "Samsung",
+    "name": "Galaxy S26+"
+  },
+  "SM-S947U1": {
+    "brand": "Samsung",
+    "name": "Galaxy S26+"
+  },
+  "SM-S947W": {
+    "brand": "Samsung",
+    "name": "Galaxy S26+"
+  },
+  "SM-S947Z": {
+    "brand": "Samsung",
+    "name": "Galaxy S26+"
+  },
   "SC-03E": {
     "brand": "Samsung",
     "name": "Galaxy S3"
@@ -123898,6 +124054,10 @@
   "AQUOS-TVN23A": {
     "brand": "Sharp",
     "name": "AQUOS-TVN23A"
+  },
+  "AQUOS-TVX26A": {
+    "brand": "Sharp",
+    "name": "AQUOS-TVX26A"
   },
   "SH-A01": {
     "brand": "Sharp",
@@ -161733,7 +161893,7 @@
   },
   "Z2469N": {
     "brand": "ZTE",
-    "name": "ZTE Blade A76 5G"
+    "name": "nubia A76 5G"
   },
   "ZTE Blade A7s": {
     "brand": "ZTE",
