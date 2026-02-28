@@ -26019,6 +26019,10 @@
     "brand": "Daria",
     "name": "huma"
   },
+  "DM-B70204": {
+    "brand": "Daria",
+    "name": "lavan"
+  },
   "DM-B51104": {
     "brand": "Daria",
     "name": "qoqnoos"
@@ -27230,6 +27234,10 @@
   "NOTE 16": {
     "brand": "Digit",
     "name": "NOTE 16"
+  },
+  "Sonic One": {
+    "brand": "Digit",
+    "name": "Sonic_One"
   },
   "Digital2-Deluxe": {
     "brand": "Digital2",
@@ -98539,6 +98547,10 @@
     "brand": "Philips",
     "name": "T8 PI7000"
   },
+  "T8010A": {
+    "brand": "Philips",
+    "name": "T8010A"
+  },
   "T8015": {
     "brand": "Philips",
     "name": "T8015"
@@ -153655,6 +153667,10 @@
     "brand": "Winnovo",
     "name": "WinnovoT5"
   },
+  "Winovo_M50B": {
+    "brand": "Winovo",
+    "name": "Winovo_M50B_EEA"
+  },
   "T730": {
     "brand": "Wintec",
     "name": "T730"
@@ -155171,6 +155187,10 @@
     "brand": "Xiaomi",
     "name": "MiTV"
   },
+  "MiTV-AXFU1": {
+    "brand": "Xiaomi",
+    "name": "MiTV"
+  },
   "MiTV-MOSR0": {
     "brand": "Xiaomi",
     "name": "MiTV"
@@ -155224,6 +155244,10 @@
     "name": "MiTV"
   },
   "MiTV-MZTU0": {
+    "brand": "Xiaomi",
+    "name": "MiTV"
+  },
+  "MiTV-MZTU1": {
     "brand": "Xiaomi",
     "name": "MiTV"
   },
@@ -166583,6 +166607,14 @@
     "brand": "realme",
     "name": "RMX5210"
   },
+  "RMX5250": {
+    "brand": "realme",
+    "name": "RMX5250"
+  },
+  "RMX5253": {
+    "brand": "realme",
+    "name": "realme C85 5G"
+  },
   "RMX5303": {
     "brand": "realme",
     "name": "realme C71"
@@ -166750,10 +166782,6 @@
   "RMX5101": {
     "brand": "realme",
     "name": "realme 15 Pro 5G"
-  },
-  "RMX5250": {
-    "brand": "realme",
-    "name": "realme 15x 5G"
   },
   "RMX5171": {
     "brand": "realme",
@@ -166954,10 +166982,6 @@
   "RMX5566": {
     "brand": "realme",
     "name": "realme C85"
-  },
-  "RMX5253": {
-    "brand": "realme",
-    "name": "realme C85 5G"
   },
   "RMX5555": {
     "brand": "realme",
@@ -167602,6 +167626,10 @@
   "myHome": {
     "brand": "stc myhome",
     "name": "myHome"
+  },
+  "HP44J-stc-tv-3.0": {
+    "brand": "stc myhome",
+    "name": "stc-tv"
   },
   "QPI-1": {
     "brand": "sugar_aums",
