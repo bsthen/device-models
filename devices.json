@@ -2101,7 +2101,7 @@
   },
   "A780G": {
     "brand": "AZPEN",
-    "name": "A780G"
+    "name": "A780G1"
   },
   "A920": {
     "brand": "AZPEN",
@@ -32011,6 +32011,10 @@
     "brand": "Epson",
     "name": "HB35"
   },
+  "HB83": {
+    "brand": "Epson",
+    "name": "HB83"
+  },
   "Axis": {
     "brand": "Equator",
     "name": "Axis"
@@ -47503,6 +47507,14 @@
     "brand": "Honor",
     "name": "HONOR 500"
   },
+  "LNA-NX1": {
+    "brand": "Honor",
+    "name": "HONOR 600 Lite"
+  },
+  "LNA-NX3": {
+    "brand": "Honor",
+    "name": "HONOR 600e"
+  },
   "FNE-NX9": {
     "brand": "Honor",
     "name": "HONOR 70"
@@ -47634,6 +47646,10 @@
   "CGA-W00": {
     "brand": "Honor",
     "name": "MagicPad 3"
+  },
+  "YLE-W09": {
+    "brand": "Honor",
+    "name": "HONOR MagicPad4"
   },
   "HEY3-N09": {
     "brand": "Honor",
@@ -61610,6 +61626,10 @@
   "K55h": {
     "brand": "KRIP",
     "name": "K55h"
+  },
+  "K56": {
+    "brand": "KRIP",
+    "name": "K56"
   },
   "K57": {
     "brand": "KRIP",
@@ -91903,6 +91923,10 @@
     "brand": "Oppo",
     "name": "A6c"
   },
+  "CPH2895": {
+    "brand": "Oppo",
+    "name": "A6c"
+  },
   "CPH2815": {
     "brand": "Oppo",
     "name": "A6s"
@@ -98511,6 +98535,10 @@
     "brand": "Philips",
     "name": "S8300"
   },
+  "S8306": {
+    "brand": "Philips",
+    "name": "S8306"
+  },
   "SWTV": {
     "brand": "Skyworth",
     "name": "Euro"
@@ -98990,6 +99018,10 @@
   "Kids10_A15_EEA": {
     "brand": "Plimpton",
     "name": "Kids10_A15_EEA"
+  },
+  "Kids10_A16_EEA_JAE": {
+    "brand": "Plimpton",
+    "name": "Kids10_A16_EEA_JAE"
   },
   "Kids10_A16_JAE": {
     "brand": "Plimpton",
@@ -108278,6 +108310,10 @@
   "WUUM S PRO": {
     "brand": "SPC",
     "name": "WUUM_S_PRO_EEA"
+  },
+  "WUUM TAB": {
+    "brand": "SPC",
+    "name": "WUUM_TAB_EEA"
   },
   "ZEUS 2": {
     "brand": "SPC",
