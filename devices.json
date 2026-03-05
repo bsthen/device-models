@@ -4311,13 +4311,25 @@
     "brand": "Advantech",
     "name": "DLT-V7310AP"
   },
+  "DLT-V7310AP FL": {
+    "brand": "Advantech",
+    "name": "DLT-V7310AP FL"
+  },
   "DLT-V7312AP": {
     "brand": "Advantech",
     "name": "DLT-V7312AP"
   },
+  "DLT-V7312AP FL": {
+    "brand": "Advantech",
+    "name": "DLT-V7312AP FL"
+  },
   "DLT-V7312AP+": {
     "brand": "Advantech",
     "name": "DLT-V7312AP+"
+  },
+  "DLT-V7312AP+ FL": {
+    "brand": "Advantech",
+    "name": "DLT-V7312AP+ FL"
   },
   "UBX-010RC": {
     "brand": "Advantech",
@@ -6034,6 +6046,10 @@
   "T806MHE": {
     "brand": "Alldocube",
     "name": "iPlay 8 Pro"
+  },
+  "iPlay80miniUltra": {
+    "brand": "Alldocube",
+    "name": "iPlay 80 miniUltra"
   },
   "iPlay_8T": {
     "brand": "Alldocube",
@@ -59894,6 +59910,10 @@
   "V2454": {
     "brand": "JOVI",
     "name": "JOVI Y19s"
+  },
+  "J2503": {
+    "brand": "JOVI",
+    "name": "JOVI Y21"
   },
   "V2445": {
     "brand": "JOVI",
@@ -117623,6 +117643,14 @@
     "brand": "Samsung",
     "name": "Galaxy S26"
   },
+  "SM-S942B": {
+    "brand": "Samsung",
+    "name": "Galaxy S26"
+  },
+  "SM-S942N": {
+    "brand": "Samsung",
+    "name": "Galaxy S26"
+  },
   "SC-53G": {
     "brand": "Samsung",
     "name": "Galaxy S26 Ultra"
@@ -117648,6 +117676,10 @@
     "name": "Galaxy S26 Ultra"
   },
   "SM-S948Q": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 Ultra"
+  },
+  "SM-S948U": {
     "brand": "Samsung",
     "name": "Galaxy S26 Ultra"
   },
@@ -117696,6 +117728,14 @@
     "name": "Galaxy S26+"
   },
   "SM-S947Z": {
+    "brand": "Samsung",
+    "name": "Galaxy S26+"
+  },
+  "SM-S947B": {
+    "brand": "Samsung",
+    "name": "Galaxy S26+"
+  },
+  "SM-S947N": {
     "brand": "Samsung",
     "name": "Galaxy S26+"
   },
@@ -163651,6 +163691,10 @@
     "brand": "Zuum",
     "name": "MAGNO MINI"
   },
+  "MAGNO R": {
+    "brand": "Zuum",
+    "name": "MAGNO R"
+  },
   "MAGNO S": {
     "brand": "Zuum",
     "name": "MAGNO S"
@@ -166839,14 +166883,6 @@
     "brand": "realme",
     "name": "RMX5210"
   },
-  "RMX5250": {
-    "brand": "realme",
-    "name": "RMX5250"
-  },
-  "RMX5253": {
-    "brand": "realme",
-    "name": "realme C85 5G"
-  },
   "RMX5303": {
     "brand": "realme",
     "name": "realme C71"
@@ -167014,6 +167050,10 @@
   "RMX5101": {
     "brand": "realme",
     "name": "realme 15 Pro 5G"
+  },
+  "RMX5250": {
+    "brand": "realme",
+    "name": "realme 15x 5G"
   },
   "RMX5171": {
     "brand": "realme",
@@ -167214,6 +167254,10 @@
   "RMX5566": {
     "brand": "realme",
     "name": "realme C85"
+  },
+  "RMX5253": {
+    "brand": "realme",
+    "name": "realme C85 5G"
   },
   "RMX5555": {
     "brand": "realme",
