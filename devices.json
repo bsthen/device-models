@@ -11707,6 +11707,10 @@
     "brand": "BMAX",
     "name": "I12_A_Power"
   },
+  "I14": {
+    "brand": "BMAX",
+    "name": "I14"
+  },
   "I8": {
     "brand": "Tech 4u",
     "name": "I8"
@@ -25542,6 +25546,10 @@
   "Ocean K10": {
     "brand": "DOMATON",
     "name": "Ocean_K10"
+  },
+  "M90": {
+    "brand": "MOREFUN",
+    "name": "M90"
   },
   "VT502A": {
     "brand": "DOMO",
@@ -70479,6 +70487,10 @@
     "brand": "Laptok",
     "name": "G11L_EEA"
   },
+  "G12L": {
+    "brand": "Laptok",
+    "name": "G12L"
+  },
   "Cumulus_5_HD": {
     "brand": "Lark",
     "name": "Cumulus 5 HD"
@@ -74491,6 +74503,10 @@
     "brand": "LiGHTLIFE",
     "name": "TL10P"
   },
+  "LiGHTLIFE TL11": {
+    "brand": "LiGHTLIFE",
+    "name": "TL11"
+  },
   "W101": {
     "brand": "Libre",
     "name": "W101"
@@ -76802,10 +76818,6 @@
   "Max Play": {
     "brand": "MONOMAX",
     "name": "Max Play"
-  },
-  "M90": {
-    "brand": "MOREFUN",
-    "name": "M90"
   },
   "RS300A": {
     "brand": "MOTREX",
@@ -84654,6 +84666,10 @@
   "motorola edge 70": {
     "brand": "Motorola",
     "name": "motorola edge 70"
+  },
+  "motorola edge 70 fusion": {
+    "brand": "Motorola",
+    "name": "motorola edge 70 fusion"
   },
   "XT2175-2": {
     "brand": "Motorola",
@@ -162881,7 +162897,7 @@
   },
   "HC25": {
     "brand": "Zebra",
-    "name": "HC25"
+    "name": "TC27"
   },
   "HC50": {
     "brand": "Zebra",
@@ -168299,6 +168315,10 @@
     "brand": "vivo",
     "name": "Y05"
   },
+  "V2575": {
+    "brand": "vivo",
+    "name": "Y11 5G"
+  },
   "V2555": {
     "brand": "vivo",
     "name": "Y11d"
@@ -168318,6 +168338,10 @@
   "V2541": {
     "brand": "vivo",
     "name": "Y19s 5G"
+  },
+  "V2553": {
+    "brand": "vivo",
+    "name": "Y21 5G"
   },
   "V2520": {
     "brand": "vivo",
