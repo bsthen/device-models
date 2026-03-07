@@ -12335,6 +12335,10 @@
     "brand": "BMobile",
     "name": "Bmobile_BM65Plus"
   },
+  "COMET_TG06": {
+    "brand": "BMobile",
+    "name": "COMET_TG06"
+  },
   "COSMO_B6": {
     "brand": "BMobile",
     "name": "Cosmo B6"
@@ -22241,7 +22245,7 @@
   },
   "SN512CC": {
     "brand": "ConsumerCellular",
-    "name": "IRIS Connect II"
+    "name": "IRIS Connect 2"
   },
   "CDI SMART TV": {
     "brand": "Continental Edison",
@@ -89235,6 +89239,14 @@
     "brand": "Nothing",
     "name": "Nothing Phone (3a) Pro"
   },
+  "A069": {
+    "brand": "Nothing",
+    "name": "Nothing Phone (4a)"
+  },
+  "A069P": {
+    "brand": "Nothing",
+    "name": "Nothing Phone (4a) Pro"
+  },
   "A001T": {
     "brand": "Nothing",
     "name": "Phone (3a) Lite"
@@ -131635,6 +131647,10 @@
     "brand": "i-Buddie",
     "name": "TA71CA5"
   },
+  "T12 Pro": {
+    "brand": "TABWEE",
+    "name": "T12_Pro_EEA"
+  },
   "T60": {
     "brand": "Wiko",
     "name": "T60"
@@ -168282,6 +168298,10 @@
   "V2505": {
     "brand": "vivo",
     "name": "X200 FE"
+  },
+  "V2561": {
+    "brand": "vivo",
+    "name": "X200T"
   },
   "V2509A": {
     "brand": "vivo",
