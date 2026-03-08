@@ -4051,6 +4051,10 @@
     "brand": "Advance",
     "name": "NP6070"
   },
+  "NP6070_ADV": {
+    "brand": "Advance",
+    "name": "NP6070"
+  },
   "PR5860": {
     "brand": "Advance",
     "name": "PR5860"
@@ -94398,6 +94402,10 @@
   "Orange Nola XL": {
     "brand": "Orange",
     "name": "Orange Nola XL"
+  },
+  "Orange Nola XL 2": {
+    "brand": "Orange",
+    "name": "Orange Nola XL 2"
   },
   "Orange Nola play": {
     "brand": "Orange",
