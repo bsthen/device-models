@@ -36556,8 +36556,8 @@
     "name": "G3_US"
   },
   "G7": {
-    "brand": "Oukitel",
-    "name": "G7_NFC_EEA"
+    "brand": "VOPLLS",
+    "name": "G7"
   },
   "G7_EEA": {
     "brand": "GOODTEL",
@@ -39846,6 +39846,18 @@
   "HBDC-822": {
     "brand": "HAOWEI",
     "name": "HBDC-822"
+  },
+  "D9": {
+    "brand": "KAKTIN",
+    "name": "D9"
+  },
+  "J7Pro": {
+    "brand": "HAPPRUN",
+    "name": "J7Pro"
+  },
+  "K7": {
+    "brand": "Whitedeer",
+    "name": "K7_EEA"
   },
   "HPN-QA15": {
     "brand": "HAPPYNET",
@@ -60931,10 +60943,6 @@
     "brand": "KAKTIN",
     "name": "D08"
   },
-  "D9": {
-    "brand": "KAKTIN",
-    "name": "D9"
-  },
   "SM1": {
     "brand": "KAT(AF)",
     "name": "SM1_Tablet"
@@ -62610,10 +62618,6 @@
   "E61Pro": {
     "brand": "Kenbo",
     "name": "E61Pro"
-  },
-  "K7": {
-    "brand": "Whitedeer",
-    "name": "K7_EEA"
   },
   "K9Pro": {
     "brand": "Kenbo",
@@ -99925,7 +99929,7 @@
   },
   "POLYTRON4K": {
     "brand": "Polytron",
-    "name": "POLYTRON4K"
+    "name": "R10G"
   },
   "POLYTRON_P552": {
     "brand": "Polytron",
@@ -132863,6 +132867,10 @@
     "brand": "TCL",
     "name": "TCL TAB 8 SE"
   },
+  "9445X": {
+    "brand": "TCL",
+    "name": "TCL TAB A1 Plus"
+  },
   "9050S": {
     "brand": "TCL",
     "name": "TCL TAB Disney Edition"
@@ -165286,6 +165294,10 @@
   "SMART L43": {
     "brand": "iGet",
     "name": "SMART_L43"
+  },
+  "SMART RT2": {
+    "brand": "iGet",
+    "name": "SMART_RT2"
   },
   "SMART_W101": {
     "brand": "iGet",
