@@ -2135,6 +2135,10 @@
     "brand": "AZPEN",
     "name": "A780G1"
   },
+  "A780G1": {
+    "brand": "AZPEN",
+    "name": "A780G1"
+  },
   "A920": {
     "brand": "AZPEN",
     "name": "A920"
@@ -56603,6 +56607,10 @@
     "brand": "Infinix",
     "name": "Infinix NOTE 60"
   },
+  "Infinix X6877": {
+    "brand": "Infinix",
+    "name": "Infinix NOTE 60 Ultra"
+  },
   "Infinix X656": {
     "brand": "Infinix",
     "name": "Infinix NOTE 7 Lite"
@@ -92087,6 +92095,14 @@
     "brand": "Oppo",
     "name": "A6s"
   },
+  "CPH2789": {
+    "brand": "Oppo",
+    "name": "A6s 5G"
+  },
+  "CPH2889": {
+    "brand": "Oppo",
+    "name": "A6s 5G"
+  },
   "CPH2847": {
     "brand": "Oppo",
     "name": "A6t"
@@ -92098,6 +92114,10 @@
   "CPH2849": {
     "brand": "Oppo",
     "name": "A6t Pro"
+  },
+  "CPH2851": {
+    "brand": "Oppo",
+    "name": "A6t Pro 5G"
   },
   "CPH2819": {
     "brand": "Oppo",
@@ -92931,6 +92951,14 @@
     "brand": "Oppo",
     "name": "K13x 5G"
   },
+  "CPH2869": {
+    "brand": "Oppo",
+    "name": "K14 5G"
+  },
+  "CPH2871": {
+    "brand": "Oppo",
+    "name": "K14x 5G"
+  },
   "PCGM00": {
     "brand": "Oppo",
     "name": "K3"
@@ -93334,6 +93362,14 @@
   "PLL110": {
     "brand": "Oppo",
     "name": "PLL110"
+  },
+  "PLT120": {
+    "brand": "Oppo",
+    "name": "PLT120"
+  },
+  "PLT130": {
+    "brand": "Oppo",
+    "name": "PLT130"
   },
   "OPD2409": {
     "brand": "Oppo",
@@ -141238,6 +141274,10 @@
   "TECNO KD7": {
     "brand": "Tecno",
     "name": "TECNO SPARK 5 Pro"
+  },
+  "TECNO KN8": {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 50 5G"
   },
   "TECNO KF6": {
     "brand": "Tecno",
