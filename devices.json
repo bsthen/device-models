@@ -96343,6 +96343,10 @@
     "brand": "POCO",
     "name": "POCO C85 5G"
   },
+  "26020PC1AI": {
+    "brand": "POCO",
+    "name": "POCO C85x 5G"
+  },
   "POCO F2 Pro": {
     "brand": "POCO",
     "name": "POCO F2 Pro"
@@ -141975,6 +141979,10 @@
     "brand": "Telia",
     "name": "Telia Nordic STB"
   },
+  "TA810": {
+    "brand": "Telikom",
+    "name": "TA810"
+  },
   "TVB-100": {
     "brand": "Telkom",
     "name": "Telkom"
@@ -166039,6 +166047,10 @@
     "brand": "iQOO",
     "name": "iQOO Z11 Turbo"
   },
+  "I2507": {
+    "brand": "iQOO",
+    "name": "iQOO Z11x 5G"
+  },
   "iQ&T N8": {
     "brand": "iQandT",
     "name": "N8"
@@ -168502,6 +168514,10 @@
   "V2443BA": {
     "brand": "vivo",
     "name": "Y50m 5G"
+  },
+  "V2544": {
+    "brand": "vivo",
+    "name": "Y51 Pro 5G"
   },
   "V2450": {
     "brand": "vivo",
