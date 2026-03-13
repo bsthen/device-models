@@ -70509,7 +70509,7 @@
   },
   "G12L": {
     "brand": "Laptok",
-    "name": "G12L"
+    "name": "G12L_EEA"
   },
   "Cumulus_5_HD": {
     "brand": "Lark",
@@ -106814,6 +106814,10 @@
   "RC608L": {
     "brand": "Reliance",
     "name": "RC608L"
+  },
+  "BPL Smart": {
+    "brand": "Reliance",
+    "name": "Reliance Retail Limited"
   },
   "LS-5010": {
     "brand": "Reliance",
@@ -166995,6 +166999,10 @@
     "brand": "realme",
     "name": "realme Note 70T"
   },
+  "RMX5555": {
+    "brand": "realme",
+    "name": "realme C85 Pro"
+  },
   "RMX3571": {
     "brand": "realme",
     "name": "realme V23"
@@ -167362,10 +167370,6 @@
   "RMX5253": {
     "brand": "realme",
     "name": "realme C85 5G"
-  },
-  "RMX5555": {
-    "brand": "realme",
-    "name": "realme C85 Pro"
   },
   "RMX3312": {
     "brand": "realme",
