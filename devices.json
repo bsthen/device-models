@@ -36155,6 +36155,10 @@
     "brand": "G-Tab",
     "name": "PAD11"
   },
+  "PAD11_1": {
+    "brand": "G-Tab",
+    "name": "PAD11_1"
+  },
   "PAD7": {
     "brand": "G-Tab",
     "name": "PAD7"
@@ -44846,6 +44850,10 @@
   "2K Smart TV": {
     "brand": "Sceptre",
     "name": "Smart TV"
+  },
+  "FollowMe": {
+    "brand": "Hisense",
+    "name": "32S6S"
   },
   "Vision": {
     "brand": "SSmooth",
@@ -141283,6 +141291,14 @@
     "brand": "Tecno",
     "name": "TECNO SPARK 5 Pro"
   },
+  "TECNO KN4": {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 50/50S"
+  },
+  "TECNO KN4n": {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 50"
+  },
   "TECNO KN8": {
     "brand": "Tecno",
     "name": "TECNO SPARK 50 5G"
@@ -148026,6 +148042,10 @@
   "IN03": {
     "brand": "ViewSonic",
     "name": "IN03_Series"
+  },
+  "INxx05": {
+    "brand": "ViewSonic",
+    "name": "IN05_Series"
   },
   "IN21C": {
     "brand": "ViewSonic",
@@ -156008,6 +156028,10 @@
     "name": "Xiaomi 17"
   },
   "25113PN0EG": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 17"
+  },
+  "25113PN0EI": {
     "brand": "Xiaomi",
     "name": "Xiaomi 17"
   },
@@ -166998,6 +167022,10 @@
   "RMX5313": {
     "brand": "realme",
     "name": "realme Note 70T"
+  },
+  "RMX5388": {
+    "brand": "realme",
+    "name": "realme Note 80"
   },
   "RMX5555": {
     "brand": "realme",
