@@ -60327,6 +60327,10 @@
     "brand": "JVC",
     "name": "JVC"
   },
+  "JVC Super TV": {
+    "brand": "JVC",
+    "name": "JVC"
+  },
   "JVC SA 4K Android TV": {
     "brand": "JVC",
     "name": "JVC"
@@ -81371,13 +81375,13 @@
     "brand": "MobiIoT",
     "name": "MobiGo 2+ Pro"
   },
-  "MP5": {
-    "brand": "MobiIoT",
-    "name": "MobiPrint 5"
-  },
   "WM58": {
     "brand": "MobiIoT",
     "name": "WM58"
+  },
+  "MP5": {
+    "brand": "MobiIoT",
+    "name": "MobiPrint 5"
   },
   "MobiPrint4_Plus": {
     "brand": "MobiIoT",
@@ -106824,6 +106828,10 @@
     "name": "RC608L"
   },
   "BPL Smart": {
+    "brand": "Reliance",
+    "name": "Reliance Retail Limited"
+  },
+  "BPL Smart TV": {
     "brand": "Reliance",
     "name": "Reliance Retail Limited"
   },
