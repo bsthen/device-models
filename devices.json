@@ -1699,6 +1699,10 @@
     "brand": "Premier",
     "name": "TAB-7887-32G3GB"
   },
+  "IT_801C": {
+    "brand": "ATMPC",
+    "name": "IT_801CA2_EEA"
+  },
   "IT_801CA2_EEA": {
     "brand": "ATMPC",
     "name": "IT_801CA2_EEA"
@@ -17955,9 +17959,17 @@
     "brand": "CEPTER",
     "name": "CTABERA101"
   },
+  "CTABERAV2": {
+    "brand": "CEPTER",
+    "name": "CTABERAV2"
+  },
   "CTABEVOP12": {
     "brand": "CEPTER",
     "name": "CTABEVOP12"
+  },
+  "CTABLOTUSV2": {
+    "brand": "CEPTER",
+    "name": "CTABLOTUSV2"
   },
   "CTABNEXUS": {
     "brand": "CEPTER",
@@ -18606,6 +18618,10 @@
   "COSMIQ_IFP_Series": {
     "brand": "COSMIQ",
     "name": "COSMIQ IFP Series"
+  },
+  "COSMIQ_GLIDE_SERIES": {
+    "brand": "COSMIQ",
+    "name": "GLIDE_SERIES"
   },
   "M16": {
     "brand": "COSTEL",
@@ -25971,6 +25987,10 @@
     "brand": "Danew",
     "name": "Dslide_115_EEA"
   },
+  "Dslide_116": {
+    "brand": "Danew",
+    "name": "Dslide_116_EEA"
+  },
   "Dslide_809": {
     "brand": "Danew",
     "name": "Dslide_809"
@@ -29929,7 +29949,7 @@
   },
   "C5Pro": {
     "brand": "ECOPAD",
-    "name": "C5Pro"
+    "name": "C5Pro_EEA"
   },
   "K12L1": {
     "brand": "ECOPAD",
@@ -36210,6 +36230,10 @@
   "T13": {
     "brand": "PAWBO",
     "name": "T13"
+  },
+  "T14": {
+    "brand": "RUGLINE",
+    "name": "T14_EEA"
   },
   "T9": {
     "brand": "Performance",
@@ -55579,6 +55603,10 @@
     "brand": "IRIS_OHYAMA",
     "name": "TM153M6"
   },
+  "TM15F1Q74": {
+    "brand": "IRIS_OHYAMA",
+    "name": "TM15F1Q74"
+  },
   "ISCEDTAB21": {
     "brand": "ISCED",
     "name": "ISCEDTAB21"
@@ -57982,6 +58010,10 @@
   "NOTE 12P": {
     "brand": "Invens",
     "name": "NOTE_12P"
+  },
+  "NOTE 15P": {
+    "brand": "Invens",
+    "name": "NOTE_15P_EEA"
   },
   "NOTE 5G": {
     "brand": "Invens",
@@ -100759,6 +100791,10 @@
     "brand": "Premier",
     "name": "TAB-7888-32G3GB"
   },
+  "TAB-9440-128G4G": {
+    "brand": "Premier",
+    "name": "TAB-9440-128G4G"
+  },
   "185FT5050231": {
     "brand": "Premio",
     "name": "185FT5050231"
@@ -104622,10 +104658,6 @@
   "popper2": {
     "brand": "RT Project",
     "name": "popper2"
-  },
-  "T14": {
-    "brand": "RUGLINE",
-    "name": "T14_EEA"
   },
   "UA100": {
     "brand": "RUGSTORM",
@@ -131411,6 +131443,10 @@
     "brand": "Symphony",
     "name": "Z45"
   },
+  "Z47": {
+    "brand": "Symphony",
+    "name": "Z47"
+  },
   "Z55": {
     "brand": "Symphony",
     "name": "Z55"
@@ -144935,14 +144971,6 @@
     "brand": "Umidigi",
     "name": "UMIDIGI A16 Pro"
   },
-  "UMIDIGI A71C": {
-    "brand": "Umidigi",
-    "name": "UMIDIGI A71C"
-  },
-  "UMIDIGI A75": {
-    "brand": "Umidigi",
-    "name": "UMIDIGI A75"
-  },
   "UMIDIGI A75x": {
     "brand": "Umidigi",
     "name": "UMIDIGI A75x"
@@ -144950,10 +144978,6 @@
   "UMIDIGI A76": {
     "brand": "Umidigi",
     "name": "UMIDIGI A76"
-  },
-  "UMIDIGI A78C": {
-    "brand": "Umidigi",
-    "name": "UMIDIGI A78C"
   },
   "MP07": {
     "brand": "Umidigi",
@@ -152807,6 +152831,10 @@
     "brand": "Walton",
     "name": "WALPAD 8G"
   },
+  "WALPAD 11G": {
+    "brand": "Walton",
+    "name": "WALPAD_11G"
+  },
   "WALPAD_9G": {
     "brand": "Walton",
     "name": "WALPAD_9G"
@@ -152842,6 +152870,10 @@
   "Walpad10HProMax": {
     "brand": "Walton",
     "name": "Walpad10HProMax"
+  },
+  "Walpad11G": {
+    "brand": "Walton",
+    "name": "Walpad11G"
   },
   "Walpad 8G Pro": {
     "brand": "Walton",
@@ -168549,13 +168581,17 @@
   },
   "V2531A": {
     "brand": "vivo",
-    "name": "Y500i AI版"
+    "name": "Y500s"
   },
   "V2443BA": {
     "brand": "vivo",
     "name": "Y50m 5G"
   },
   "V2544": {
+    "brand": "vivo",
+    "name": "Y51 Pro 5G"
+  },
+  "V2613": {
     "brand": "vivo",
     "name": "Y51 Pro 5G"
   },
