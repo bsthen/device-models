@@ -2191,6 +2191,10 @@
     "brand": "Aaztec",
     "name": "THAZ-65/75/86/98/110 PD"
   },
+  "Abans": {
+    "brand": "Abans",
+    "name": "65E-L3576C-E7"
+  },
   "A08S": {
     "brand": "Abocom",
     "name": "A08SM"
@@ -2802,6 +2806,10 @@
   "Acer One 8 T4-82L": {
     "brand": "Acer",
     "name": "Acer One 8 T4-82L"
+  },
+  "AcerOne8T4-82L-G2": {
+    "brand": "Acer",
+    "name": "Acer One 8 T4-82L-G2"
   },
   "Acer One 8 T9-422L": {
     "brand": "Acer",
@@ -18894,6 +18902,10 @@
   "CX9011": {
     "brand": "CX Argentina",
     "name": "CX9011"
+  },
+  "EDU-AI251": {
+    "brand": "CX Argentina",
+    "name": "EDU-AI"
   },
   "A7008": {
     "brand": "CYX Group",
@@ -37278,6 +37290,10 @@
   "GMT-08QA-2301": {
     "brand": "GeoMax",
     "name": "GeoMax Zenius08"
+  },
+  "Geo S7": {
+    "brand": "GeoPhone",
+    "name": "geo_s7"
   },
   "P9IV": {
     "brand": "Geoelectron",
@@ -60572,8 +60588,8 @@
     "name": "A20Pro_EEA"
   },
   "A20Plus_ROW": {
-    "brand": "Jckkcfug",
-    "name": "A20Pro_ROW"
+    "brand": "Rebecco",
+    "name": "X30"
   },
   "A20Pro_ROW": {
     "brand": "Jckkcfug",
@@ -99303,6 +99319,10 @@
     "brand": "Plimpton",
     "name": "Kids20_EEA"
   },
+  "Kids20_A16_EEA_JAE": {
+    "brand": "Plimpton",
+    "name": "Kids20_A16_EEA_JAE"
+  },
   "Kids20_A16_JAE": {
     "brand": "Plimpton",
     "name": "Kids20_A16_JAE"
@@ -99334,6 +99354,10 @@
   "P1A15_EEA": {
     "brand": "Plimpton",
     "name": "P1A15_EEA"
+  },
+  "P1_A16_EEA_JAE": {
+    "brand": "Plimpton",
+    "name": "P1_A16_EEA_JAE"
   },
   "P1_A16_JAE": {
     "brand": "Plimpton",
