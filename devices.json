@@ -14067,6 +14067,10 @@
     "brand": "Biegedy",
     "name": "B22-U-EEA"
   },
+  "B22-U-EEA": {
+    "brand": "Biegedy",
+    "name": "B22-U-EEA"
+  },
   "B22-US": {
     "brand": "Biegedy",
     "name": "B22-U-US"
@@ -18662,6 +18666,10 @@
   "Crown Mustang 4K Android TV": {
     "brand": "CROWN MUSTANG",
     "name": "Argentina"
+  },
+  "Crown Mustang 2K TV": {
+    "brand": "CROWN MUSTANG",
+    "name": "Crown Mustang 2K TV"
   },
   "UGE013AM": {
     "brand": "CTOUCH",
@@ -26003,6 +26011,10 @@
     "brand": "Danew",
     "name": "Dslide_116_EEA"
   },
+  "Dslide_117": {
+    "brand": "Danew",
+    "name": "Dslide_117"
+  },
   "Dslide_809": {
     "brand": "Danew",
     "name": "Dslide_809"
@@ -29763,6 +29775,10 @@
     "brand": "Hisense",
     "name": "W2"
   },
+  "DWSUMMUS Smart TV": {
+    "brand": "Dwsummus",
+    "name": "Korea"
+  },
   "QK6535P": {
     "brand": "Dwsummus",
     "name": "DWsummus"
@@ -29774,10 +29790,6 @@
   "QK8635P": {
     "brand": "Dwsummus",
     "name": "DWsummus"
-  },
-  "DWSUMMUS Smart TV": {
-    "brand": "Dwsummus",
-    "name": "Korea"
   },
   "DL-GT18": {
     "brand": "Dynalink",
@@ -32327,6 +32339,10 @@
     "brand": "Estar",
     "name": "MID7399_WW"
   },
+  "eSTAR 2K Smart TV": {
+    "brand": "Estar",
+    "name": "eSTAR 2K Smart TV"
+  },
   "eSTAR_PAD_B8": {
     "brand": "Estar",
     "name": "eSTAR_PAD_B8"
@@ -33057,7 +33073,7 @@
   },
   "FU Smart TV": {
     "brand": "F&U (Fandu)",
-    "name": "Europe"
+    "name": "FU Smart TV"
   },
   "FU 2K SMART TV": {
     "brand": "F&U (Fandu)",
@@ -34049,7 +34065,7 @@
   },
   "FUEGO Smart TV": {
     "brand": "FUEGO",
-    "name": "Europe"
+    "name": "FUEGO Smart TV"
   },
   "FUEGO 2K SMART TV": {
     "brand": "FUEGO",
@@ -40565,7 +40581,7 @@
   },
   "HP TV": {
     "brand": "HP",
-    "name": "Columbia"
+    "name": "HP TV"
   },
   "HP BRIDGE": {
     "brand": "HP",
@@ -40594,6 +40610,14 @@
   "HP Engage One Pro AIO System": {
     "brand": "HP",
     "name": "HP Engage One Pro AIO System"
+  },
+  "HP GOOGLE TV": {
+    "brand": "HP",
+    "name": "South America"
+  },
+  "HP SMART TV": {
+    "brand": "HP",
+    "name": "HP SMART TV"
   },
   "HP OMEN 32x": {
     "brand": "HP",
@@ -40690,10 +40714,6 @@
   "HP SlateBook 14 PC": {
     "brand": "HP",
     "name": "SlateBook 14"
-  },
-  "HP GOOGLE TV": {
-    "brand": "HP",
-    "name": "South America"
   },
   "HP_10_Tablet": {
     "brand": "HP",
@@ -45428,6 +45448,10 @@
     "name": "HLTE243E"
   },
   "Hisense T2 Pro": {
+    "brand": "Hisense",
+    "name": "HLTE243E"
+  },
+  "Hisense T3": {
     "brand": "Hisense",
     "name": "HLTE243E"
   },
@@ -64338,6 +64362,10 @@
   "KC-S205": {
     "brand": "Kyocera",
     "name": "DIGNO SX4 Wi-Fi"
+  },
+  "KYG07": {
+    "brand": "Kyocera",
+    "name": "DIGNO SX5"
   },
   "302KC": {
     "brand": "Kyocera",
@@ -96643,6 +96671,14 @@
     "brand": "POCO",
     "name": "POCO X7 Pro"
   },
+  "2511FPC34G": {
+    "brand": "POCO",
+    "name": "POCO X8 Pro"
+  },
+  "2511FPC34I": {
+    "brand": "POCO",
+    "name": "POCO X8 Pro"
+  },
   "25053PC47G": {
     "brand": "POCO",
     "name": "Poco F7"
@@ -108239,6 +108275,10 @@
     "brand": "SKYEGG",
     "name": "K13-U-EEA"
   },
+  "K13-U-US": {
+    "brand": "SKYEGG",
+    "name": "K13-U-US"
+  },
   "K13-US": {
     "brand": "SKYEGG",
     "name": "K13-U-US"
@@ -108302,6 +108342,10 @@
   "Smartplus": {
     "brand": "SMART +",
     "name": "S40_PLUS"
+  },
+  "Airpro4KS": {
+    "brand": "SMART TECHNOLOGY",
+    "name": "Airpro4KS"
   },
   "Google TV": {
     "brand": "biolux",
@@ -108370,6 +108414,10 @@
   "SK5502": {
     "brand": "SMART_KASSEL",
     "name": "SK5502"
+  },
+  "SMART_VISSION": {
+    "brand": "SMART_VISSION",
+    "name": "SMART_VISSION_IFP_Series"
   },
   "SMB8112BK": {
     "brand": "SMB Gadgets",
@@ -142575,6 +142623,10 @@
     "brand": "Tibuta",
     "name": "A10_M_EU"
   },
+  "A70W_A_EU": {
+    "brand": "Tibuta",
+    "name": "A70W_A_EU"
+  },
   "E100_25EU": {
     "brand": "Tibuta",
     "name": "E100_25EU"
@@ -152314,6 +152366,10 @@
   "Cintiq Companion Hybrid 13HD": {
     "brand": "Wacom",
     "name": "Cintiq Companion Hybrid 13HD"
+  },
+  "DTHA116": {
+    "brand": "Wacom",
+    "name": "DTHA116"
   },
   "F803YM": {
     "brand": "Waf",
@@ -167078,6 +167134,10 @@
   "RMX5210": {
     "brand": "realme",
     "name": "RMX5210"
+  },
+  "RMX5261": {
+    "brand": "realme",
+    "name": "RMX5261"
   },
   "RMX5303": {
     "brand": "realme",
