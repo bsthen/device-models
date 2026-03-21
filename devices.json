@@ -56563,6 +56563,10 @@
     "brand": "Infinix",
     "name": "Infinix HOT 7 pro"
   },
+  "Infinix X6895B": {
+    "brand": "Infinix",
+    "name": "Infinix HOT 70"
+  },
   "Infinix X655": {
     "brand": "Infinix",
     "name": "Infinix HOT 9"
@@ -105314,6 +105318,10 @@
   "AD11": {
     "brand": "RebotAi",
     "name": "AD11"
+  },
+  "AD11_EEA": {
+    "brand": "RebotAi",
+    "name": "AD11_EEA"
   },
   "AF12": {
     "brand": "RebotAi",
@@ -166195,6 +166203,10 @@
     "brand": "iQOO",
     "name": "iQOO Z11 Turbo"
   },
+  "V2532A": {
+    "brand": "iQOO",
+    "name": "iQOO Z11x"
+  },
   "I2507": {
     "brand": "iQOO",
     "name": "iQOO Z11x 5G"
@@ -168454,6 +168466,10 @@
   "V2504": {
     "brand": "vivo",
     "name": "T4 Ultra"
+  },
+  "V2545": {
+    "brand": "vivo",
+    "name": "T5x 5G"
   },
   "V2511": {
     "brand": "vivo",
