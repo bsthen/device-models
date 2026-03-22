@@ -1559,6 +1559,10 @@
     "brand": "AT&T",
     "name": "AT&T RADIANT™ Max 5G"
   },
+  "SN515AR": {
+    "brand": "AT&T",
+    "name": "AT&T Trek™"
+  },
   "SL219A": {
     "brand": "AT&T",
     "name": "AT&T Verge™"
@@ -56563,6 +56567,10 @@
     "brand": "Infinix",
     "name": "Infinix HOT 7 pro"
   },
+  "Infinix X6895": {
+    "brand": "Infinix",
+    "name": "Infinix HOT 70"
+  },
   "Infinix X6895B": {
     "brand": "Infinix",
     "name": "Infinix HOT 70"
@@ -60022,6 +60030,10 @@
   "V2440": {
     "brand": "vivo",
     "name": "vivo V50 Lite 5G"
+  },
+  "J2507": {
+    "brand": "JOVI",
+    "name": "JOVI V70 5G"
   },
   "V2425": {
     "brand": "Vivo",
@@ -92838,6 +92850,18 @@
   "PKH120": {
     "brand": "Oppo",
     "name": "Find N5 卫星通信版"
+  },
+  "PLP110": {
+    "brand": "Oppo",
+    "name": "Find N6"
+  },
+  "CPH2765": {
+    "brand": "Oppo",
+    "name": "Find N6"
+  },
+  "PLP120": {
+    "brand": "Oppo",
+    "name": "Find N6 卫星通信版"
   },
   "CPH1871": {
     "brand": "Oppo",
