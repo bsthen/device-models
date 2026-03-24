@@ -45983,6 +45983,10 @@
     "brand": "Hisense",
     "name": "Hisense Infinity H60 5G"
   },
+  "Hisense H73": {
+    "brand": "Hisense",
+    "name": "Hisense Infinity H72 Pro"
+  },
   "Hisense Infinity H72 Pro": {
     "brand": "Hisense",
     "name": "Hisense Infinity H72 Pro"
@@ -90879,6 +90883,10 @@
     "brand": "OnePlus",
     "name": "OnePlus 15R"
   },
+  "PLZ110": {
+    "brand": "OnePlus",
+    "name": "OnePlus 15T"
+  },
   "ONEPLUS A6000": {
     "brand": "OnePlus",
     "name": "OnePlus 6"
@@ -103836,6 +103844,10 @@
     "name": "Elise_T65"
   },
   "Elise T65V": {
+    "brand": "Quantum",
+    "name": "Elise_T65V"
+  },
+  "Elise T80P": {
     "brand": "Quantum",
     "name": "Elise_T65V"
   },
