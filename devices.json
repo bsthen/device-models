@@ -84963,6 +84963,10 @@
     "brand": "Motorola",
     "name": "motorola razr 60s"
   },
+  "motorola razr fold": {
+    "brand": "Motorola",
+    "name": "motorola razr fold"
+  },
   "motorola razr plus 2023": {
     "brand": "Motorola",
     "name": "motorola razr plus 2024"
@@ -152414,6 +152418,10 @@
   "DTHA116": {
     "brand": "Wacom",
     "name": "DTHA116"
+  },
+  "DTHA140": {
+    "brand": "Wacom",
+    "name": "DTHA140"
   },
   "F803YM": {
     "brand": "Waf",
