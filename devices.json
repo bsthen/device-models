@@ -15371,6 +15371,10 @@
     "brand": "Blackview",
     "name": "Tab11SE_RU"
   },
+  "Tab 11 RU": {
+    "brand": "Blackview",
+    "name": "Tab11SE_RU"
+  },
   "Tab11WiFi_EEA": {
     "brand": "Blackview",
     "name": "Tab11WiFi_EEA"
@@ -21694,6 +21698,10 @@
   "QTAB_NOTE": {
     "brand": "Compaq",
     "name": "QTAB_NOTE"
+  },
+  "QTAB_PLUS_LTE": {
+    "brand": "Compaq",
+    "name": "QTAB_PLUS_LTE"
   },
   "QTab10_LTE": {
     "brand": "Compaq",
@@ -32448,8 +32456,8 @@
     "name": "M6A"
   },
   "M70": {
-    "brand": "Rebecco",
-    "name": "M70_US"
+    "brand": "raemond",
+    "name": "M70_EEA_A"
   },
   "M80": {
     "brand": "Evercoss",
@@ -107315,6 +107323,10 @@
     "brand": "RockTek",
     "name": "RT-G1"
   },
+  "RT-G2": {
+    "brand": "RockTek",
+    "name": "RT-G2"
+  },
   "Quartzo UP": {
     "brand": "Rockcel",
     "name": "Quartzo UP"
@@ -157467,6 +157479,10 @@
     "brand": "ZOLON",
     "name": "M9200_ZLEEA"
   },
+  "MP1x": {
+    "brand": "ZOLON",
+    "name": "MP1x"
+  },
   "ZONGHENGCA_G8": {
     "brand": "ZONGHENGCA",
     "name": "ZONGHENGCA_G8"
@@ -161430,6 +161446,10 @@
   "Z2465N": {
     "brand": "ZTE",
     "name": "nubia Neo 3 GT 5G"
+  },
+  "Z2570N": {
+    "brand": "ZTE",
+    "name": "Z2570N"
   },
   "Z2575": {
     "brand": "ZTE",
@@ -168738,6 +168758,14 @@
   "V2613": {
     "brand": "vivo",
     "name": "Y51 Pro 5G"
+  },
+  "V2559A": {
+    "brand": "vivo",
+    "name": "Y60"
+  },
+  "V2559BA": {
+    "brand": "vivo",
+    "name": "Y60m"
   },
   "V2450": {
     "brand": "vivo",
