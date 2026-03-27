@@ -47991,6 +47991,14 @@
     "brand": "Honor",
     "name": "HONOR X5c Plus"
   },
+  "NAA-LX2": {
+    "brand": "Honor",
+    "name": "HONOR X5d"
+  },
+  "NAA-LX2P": {
+    "brand": "Honor",
+    "name": "HONOR X5d  Plus"
+  },
   "VNE-LX1": {
     "brand": "Honor",
     "name": "HONOR X6"
@@ -105471,10 +105479,6 @@
     "brand": "Redmi",
     "name": "REDMI 15C"
   },
-  "2508CRN2BI": {
-    "brand": "Redmi",
-    "name": "REDMI 15C 5G"
-  },
   "25079RPDCC": {
     "brand": "Redmi",
     "name": "REDMI K Pad"
@@ -105824,6 +105828,10 @@
     "name": "Redmi 15 5G"
   },
   "2508CRN2BE": {
+    "brand": "Redmi",
+    "name": "Redmi 15C 5G"
+  },
+  "2508CRN2BI": {
     "brand": "Redmi",
     "name": "Redmi 15C 5G"
   },
@@ -145015,6 +145023,10 @@
     "brand": "Umidigi",
     "name": "G5 Mecha RU"
   },
+  "3Q-3": {
+    "brand": "Umidigi",
+    "name": "G5_Tab"
+  },
   "A3-Pro": {
     "brand": "Umidigi",
     "name": "G5_Tab"
@@ -157481,7 +157493,7 @@
   },
   "MP1x": {
     "brand": "ZOLON",
-    "name": "MP1x"
+    "name": "MP1x_EEA"
   },
   "ZONGHENGCA_G8": {
     "brand": "ZONGHENGCA",
