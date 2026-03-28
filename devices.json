@@ -37859,6 +37859,10 @@
     "brand": "Gigabyte",
     "name": "mexico"
   },
+  "GIG-X14": {
+    "brand": "Gigaset",
+    "name": "GIG-X14"
+  },
   "GP20": {
     "brand": "Gigaset",
     "name": "GP20"
@@ -60673,7 +60677,7 @@
   },
   "X100PRO": {
     "brand": "Jeazans",
-    "name": "X100PRO"
+    "name": "X100PRO_EEA"
   },
   "A94GT_Plus": {
     "brand": "Jenesis",
@@ -89995,6 +89999,10 @@
     "brand": "OLAX",
     "name": "Ocean_F8"
   },
+  "Ocean K11 Pro Plus": {
+    "brand": "OLAX",
+    "name": "Ocean_K11_Pro_Plus"
+  },
   "Ocean K8 Pro": {
     "brand": "OLAX",
     "name": "Ocean_K8_Pro"
@@ -92223,6 +92231,10 @@
     "brand": "Oppo",
     "name": "A6c"
   },
+  "CPH2891": {
+    "brand": "Oppo",
+    "name": "A6k"
+  },
   "CPH2815": {
     "brand": "Oppo",
     "name": "A6s"
@@ -93102,6 +93114,14 @@
   "CPH2871": {
     "brand": "Oppo",
     "name": "K14x 5G"
+  },
+  "PMH110": {
+    "brand": "Oppo",
+    "name": "K15 Pro"
+  },
+  "PMG110": {
+    "brand": "Oppo",
+    "name": "K15 Pro+"
   },
   "PCGM00": {
     "brand": "Oppo",
@@ -105479,6 +105499,14 @@
     "brand": "Redmi",
     "name": "REDMI 15C"
   },
+  "2508CRN2BI": {
+    "brand": "Redmi",
+    "name": "REDMI 15C 5G"
+  },
+  "25128RN17A": {
+    "brand": "Redmi",
+    "name": "REDMI A7 Pro"
+  },
   "25079RPDCC": {
     "brand": "Redmi",
     "name": "REDMI K Pad"
@@ -105828,10 +105856,6 @@
     "name": "Redmi 15 5G"
   },
   "2508CRN2BE": {
-    "brand": "Redmi",
-    "name": "Redmi 15C 5G"
-  },
-  "2508CRN2BI": {
     "brand": "Redmi",
     "name": "Redmi 15C 5G"
   },
@@ -132659,14 +132683,6 @@
     "brand": "TCL",
     "name": "TCL 60 SE NXTPAPER 5G"
   },
-  "T951K": {
-    "brand": "TCL",
-    "name": "TCL 60 Ultra NXTPAPER 5G"
-  },
-  "T951P": {
-    "brand": "TCL",
-    "name": "TCL NXTPAPER 60 Ultra"
-  },
   "T705M": {
     "brand": "TCL",
     "name": "TCL 60 XE NXTPAPER 5G"
@@ -132774,6 +132790,10 @@
   "T522E": {
     "brand": "TCL",
     "name": "TCL K70 Power 4G"
+  },
+  "T453D": {
+    "brand": "TCL",
+    "name": "TCL K70 SE"
   },
   "5124J": {
     "brand": "TCL",
@@ -132890,6 +132910,14 @@
   "9463A1": {
     "brand": "TCL",
     "name": "TCL NXTPAPER 14 Pro"
+  },
+  "T951K": {
+    "brand": "TCL",
+    "name": "TCL NXTPAPER 60 Ultra"
+  },
+  "T951P": {
+    "brand": "TCL",
+    "name": "TCL NXTPAPER 60 Ultra"
   },
   "T807D": {
     "brand": "TCL",
@@ -145698,6 +145726,10 @@
   "DT610": {
     "brand": "Urovo",
     "name": "DT610"
+  },
+  "DT630": {
+    "brand": "Urovo",
+    "name": "DT630"
   },
   "DT66": {
     "brand": "Urovo",
@@ -167491,6 +167523,10 @@
     "brand": "realme",
     "name": "realme 9i"
   },
+  "RMX5258": {
+    "brand": "realme",
+    "name": "realme C100 5G"
+  },
   "RMX3263": {
     "brand": "realme",
     "name": "realme C21-Y"
@@ -168757,7 +168793,7 @@
   },
   "V2531A": {
     "brand": "vivo",
-    "name": "Y500s"
+    "name": "Y500s AI版"
   },
   "V2443BA": {
     "brand": "vivo",
@@ -168773,7 +168809,7 @@
   },
   "V2559A": {
     "brand": "vivo",
-    "name": "Y60"
+    "name": "Y60 AI版"
   },
   "V2559BA": {
     "brand": "vivo",
