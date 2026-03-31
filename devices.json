@@ -13847,6 +13847,10 @@
     "brand": "BenQ",
     "name": "RE04_series"
   },
+  "RE05A_series": {
+    "brand": "BenQ",
+    "name": "RE05A_series"
+  },
   "RM05_series": {
     "brand": "BenQ",
     "name": "RM05_series"
@@ -33470,6 +33474,10 @@
   "D118_EEA": {
     "brand": "FEONAL",
     "name": "D118_EEA"
+  },
+  "D122_EEA": {
+    "brand": "FEONAL",
+    "name": "D122_EEA"
   },
   "D123_EEA": {
     "brand": "FEONAL",
@@ -87103,6 +87111,10 @@
     "brand": "Vortex",
     "name": "V22S"
   },
+  "G99": {
+    "brand": "SVITOO",
+    "name": "G99_EEA"
+  },
   "N16": {
     "brand": "NEMO",
     "name": "N16"
@@ -109795,10 +109807,6 @@
     "brand": "SVD (Sun Vision Display)",
     "name": "SunBook"
   },
-  "G99": {
-    "brand": "SVITOO",
-    "name": "G99_EEA"
-  },
   "MOMO8": {
     "brand": "SVITOO",
     "name": "MOMO8-EEA"
@@ -131925,7 +131933,7 @@
   },
   "T12 Pro": {
     "brand": "TABWEE",
-    "name": "T12_Pro_EEA"
+    "name": "T12_Pro_NEU"
   },
   "T60": {
     "brand": "Wiko",
