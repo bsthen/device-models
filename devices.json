@@ -39507,6 +39507,10 @@
     "brand": "GreenLion",
     "name": "G-30_ULTRA"
   },
+  "Max Tab22": {
+    "brand": "GreenLion",
+    "name": "G-30_ULTRA"
+  },
   "G-8 PRO": {
     "brand": "GreenLion",
     "name": "G-8_PRO"
@@ -40426,6 +40430,10 @@
   "XULTRAPLUS3": {
     "brand": "HOLO",
     "name": "XULTRAPLUS3"
+  },
+  "X_Play_Ultra": {
+    "brand": "HOLO",
+    "name": "X_Play_Ultra"
   },
   "XBOOK": {
     "brand": "HOMII",
@@ -48013,7 +48021,7 @@
   },
   "NAA-LX2P": {
     "brand": "Honor",
-    "name": "HONOR X5d  Plus"
+    "name": "HONOR X5d Plus"
   },
   "VNE-LX1": {
     "brand": "Honor",
@@ -60083,6 +60091,10 @@
     "brand": "JOVI",
     "name": "JOVI Y21"
   },
+  "J2508": {
+    "brand": "JOVI",
+    "name": "JOVI Y21 5G"
+  },
   "V2445": {
     "brand": "JOVI",
     "name": "JOVI Y29"
@@ -64414,6 +64426,10 @@
   "KC-S205": {
     "brand": "Kyocera",
     "name": "DIGNO SX4 Wi-Fi"
+  },
+  "KC-S306": {
+    "brand": "Kyocera",
+    "name": "DIGNO SX5"
   },
   "KYG07": {
     "brand": "Kyocera",
@@ -96771,6 +96787,14 @@
     "brand": "POCO",
     "name": "POCO X8 Pro"
   },
+  "2602BPC18G": {
+    "brand": "POCO",
+    "name": "POCO X8 Pro Max"
+  },
+  "2602BPC18I": {
+    "brand": "POCO",
+    "name": "POCO X8 Pro Max"
+  },
   "25053PC47G": {
     "brand": "POCO",
     "name": "Poco F7"
@@ -105499,22 +105523,6 @@
     "brand": "Redmi",
     "name": "MiTV"
   },
-  "25078RA3EA": {
-    "brand": "Redmi",
-    "name": "REDMI 15C"
-  },
-  "25078RA3EE": {
-    "brand": "Redmi",
-    "name": "REDMI 15C"
-  },
-  "25078RA3EL": {
-    "brand": "Redmi",
-    "name": "REDMI 15C"
-  },
-  "25078RA3EY": {
-    "brand": "Redmi",
-    "name": "REDMI 15C"
-  },
   "2508CRN2BI": {
     "brand": "Redmi",
     "name": "REDMI 15C 5G"
@@ -105870,6 +105878,22 @@
   "A501XM": {
     "brand": "Redmi",
     "name": "Redmi 15 5G"
+  },
+  "25078RA3EA": {
+    "brand": "Redmi",
+    "name": "Redmi 15C"
+  },
+  "25078RA3EE": {
+    "brand": "Redmi",
+    "name": "Redmi 15C"
+  },
+  "25078RA3EL": {
+    "brand": "Redmi",
+    "name": "Redmi 15C"
+  },
+  "25078RA3EY": {
+    "brand": "Redmi",
+    "name": "Redmi 15C"
   },
   "2508CRN2BE": {
     "brand": "Redmi",
@@ -155347,6 +155371,10 @@
     "brand": "Xiaomi",
     "name": "K30 pro"
   },
+  "2512BPNDAG": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 17 Ultra"
+  },
   "MI 8 Explorer Edition": {
     "brand": "Xiaomi",
     "name": "MI  8  Explorer  Edition"
@@ -156284,10 +156312,6 @@
     "name": "Xiaomi 17 Pro Max"
   },
   "2512BPNDAC": {
-    "brand": "Xiaomi",
-    "name": "Xiaomi 17 Ultra"
-  },
-  "2512BPNDAG": {
     "brand": "Xiaomi",
     "name": "Xiaomi 17 Ultra"
   },
@@ -168691,6 +168715,10 @@
     "brand": "vivo",
     "name": "X300 Pro 卫星通信版"
   },
+  "V2548A": {
+    "brand": "vivo",
+    "name": "X300s"
+  },
   "V2532": {
     "brand": "vivo",
     "name": "Y04e"
@@ -168728,6 +168756,10 @@
     "name": "Y19s 5G"
   },
   "V2553": {
+    "brand": "vivo",
+    "name": "Y21 5G"
+  },
+  "V2554": {
     "brand": "vivo",
     "name": "Y21 5G"
   },
