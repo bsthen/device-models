@@ -62095,6 +62095,10 @@
     "brand": "KTCtv",
     "name": "SIERA"
   },
+  "EcoPro": {
+    "brand": "KTCtv",
+    "name": "VAMVO"
+  },
   "STAR-TRACK 4K SMART TV": {
     "brand": "KTCtv",
     "name": "STAR-TRACK"
@@ -62106,10 +62110,6 @@
   "4K Siera SMART TV": {
     "brand": "KTCtv",
     "name": "Siera"
-  },
-  "EcoPro": {
-    "brand": "KTCtv",
-    "name": "VAMVO"
   },
   "VIMEEL GOOGLE TV 4K": {
     "brand": "KTCtv",
@@ -97123,6 +97123,10 @@
     "brand": "Packard Bell",
     "name": "TARGA-F13PRO"
   },
+  "TARGA-F14PRO": {
+    "brand": "Packard Bell",
+    "name": "TARGA-F14PRO"
+  },
   "TARGA-F7": {
     "brand": "Packard Bell",
     "name": "TARGA-F7"
@@ -107350,6 +107354,10 @@
   "R550": {
     "brand": "Rinno",
     "name": "R550"
+  },
+  "RK882": {
+    "brand": "Riotouch",
+    "name": "RK882"
   },
   "Rivian": {
     "brand": "Rivian",
@@ -139689,7 +139697,7 @@
   },
   "P30T": {
     "brand": "Teclast",
-    "name": "P30T_ROW"
+    "name": "P30T_Y_ROW"
   },
   "P30T_EEA": {
     "brand": "Teclast",
@@ -146385,7 +146393,7 @@
   },
   "VL68": {
     "brand": "VL Wireless Inc",
-    "name": "VL68"
+    "name": "VL68_Lite"
   },
   "VL68 Lite": {
     "brand": "VL Wireless Inc",
@@ -167303,6 +167311,10 @@
     "brand": "realme",
     "name": "RMX5210"
   },
+  "RMX5258": {
+    "brand": "realme",
+    "name": "realme C100 5G"
+  },
   "RMX5261": {
     "brand": "realme",
     "name": "RMX5261"
@@ -167570,10 +167582,6 @@
   "RMX3493": {
     "brand": "realme",
     "name": "realme 9i"
-  },
-  "RMX5258": {
-    "brand": "realme",
-    "name": "realme C100 5G"
   },
   "RMX3263": {
     "brand": "realme",
@@ -168603,6 +168611,10 @@
     "brand": "vivo",
     "name": "Pad5e"
   },
+  "PA2671": {
+    "brand": "vivo",
+    "name": "Pad6 Pro"
+  },
   "V2464A": {
     "brand": "vivo",
     "name": "S30"
@@ -168726,6 +168738,14 @@
   "V2502DA": {
     "brand": "vivo",
     "name": "X300 Pro 卫星通信版"
+  },
+  "V2547A": {
+    "brand": "vivo",
+    "name": "X300 Ultra"
+  },
+  "V2547DA": {
+    "brand": "vivo",
+    "name": "X300 Ultra 卫星通信版"
   },
   "V2548A": {
     "brand": "vivo",
@@ -168890,6 +168910,10 @@
   "waipu.tv Stick (G2)": {
     "brand": "waiputv",
     "name": "waipu.tv Stick (G2)"
+  },
+  "Vali1 Pro": {
+    "brand": "wanbo",
+    "name": "Vali1 Pro"
   },
   "WC-F11": {
     "brand": "wancheng",
