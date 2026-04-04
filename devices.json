@@ -14611,6 +14611,10 @@
     "brand": "Blackshark",
     "name": "Pad7_WiFi"
   },
+  "Pad_7_Pro_UE": {
+    "brand": "Blackshark",
+    "name": "Pad_7_Pro_UE"
+  },
   "SHARK KSR-A0": {
     "brand": "Blackshark",
     "name": "SHARK KSR-A0"
@@ -21415,6 +21419,10 @@
     "brand": "REBEOSOII",
     "name": "G11"
   },
+  "K1196": {
+    "brand": "Clover",
+    "name": "K1196"
+  },
   "KD101": {
     "brand": "Clover",
     "name": "KD101"
@@ -23036,7 +23044,7 @@
     "name": "Coolpad C1-U02"
   },
   "K11": {
-    "brand": "DEXP",
+    "brand": "Winny",
     "name": "K11"
   },
   "COL-A0": {
@@ -59019,6 +59027,10 @@
     "brand": "Itel",
     "name": "itel A18"
   },
+  "itel A515W": {
+    "brand": "Itel",
+    "name": "A515W"
+  },
   "itel A52B": {
     "brand": "Itel",
     "name": "A52B"
@@ -59170,6 +59182,10 @@
   "itel P671LN": {
     "brand": "Itel",
     "name": "itel P65"
+  },
+  "itel P685L": {
+    "brand": "Itel",
+    "name": "POWER 80"
   },
   "IKP-31": {
     "brand": "Itel",
@@ -87239,6 +87255,10 @@
     "brand": "NEWORK",
     "name": "Interactive Smart Display"
   },
+  "NB_65P1D_WW_X": {
+    "brand": "NEWORK",
+    "name": "NewBoard"
+  },
   "NB_XXPXX_XX_X": {
     "brand": "NEWORK",
     "name": "NewBoard"
@@ -105535,6 +105555,14 @@
     "brand": "Redmi",
     "name": "REDMI A7 Pro"
   },
+  "25128RN17L": {
+    "brand": "Redmi",
+    "name": "REDMI A7 Pro"
+  },
+  "25128RN17Y": {
+    "brand": "Redmi",
+    "name": "REDMI A7 Pro"
+  },
   "25079RPDCC": {
     "brand": "Redmi",
     "name": "REDMI K Pad"
@@ -107386,6 +107414,10 @@
   "Ultra_26S50": {
     "brand": "Rizzen",
     "name": "Rizzen_Ultra_26S50"
+  },
+  "Rizzen_X_26X2": {
+    "brand": "Rizzen",
+    "name": "Rizzen_X_26X2"
   },
   "X1x": {
     "brand": "Rizzen",
@@ -127243,6 +127275,10 @@
     "brand": "Softlogic",
     "name": "MaxAiPlus"
   },
+  "S67": {
+    "brand": "Sohar",
+    "name": "S67"
+  },
   "SOL07": {
     "brand": "Solinftec",
     "name": "SOL07"
@@ -138442,6 +138478,10 @@
   "TM9S775": {
     "brand": "TMAX",
     "name": "TM9S775"
+  },
+  "T1185S4RT-TMEE": {
+    "brand": "TMEE",
+    "name": "T1185S4RT-TMEE"
   },
   "TNT PANALO PHONE 5G": {
     "brand": "TNT (Panalo)",
@@ -167326,6 +167366,10 @@
   "RMX5313": {
     "brand": "realme",
     "name": "realme Note 70T"
+  },
+  "RMX5377": {
+    "brand": "realme",
+    "name": "realme C100i"
   },
   "RMX5388": {
     "brand": "realme",
