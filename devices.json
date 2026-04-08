@@ -91247,6 +91247,14 @@
     "brand": "OnePlus",
     "name": "OnePlus Nord 5"
   },
+  "CPH2793": {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord 6"
+  },
+  "CPH2795": {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord 6"
+  },
   "IV2201": {
     "brand": "OnePlus",
     "name": "OnePlus Nord CE 2"
@@ -99243,6 +99251,10 @@
     "brand": "Pitney Bowes",
     "name": "SendPro C Series"
   },
+  "121-1001P02": {
+    "brand": "Pixcase",
+    "name": "Pixcase2"
+  },
   "PIX-SMB400": {
     "brand": "Pixela",
     "name": "PIX-SMB400"
@@ -105546,6 +105558,10 @@
   "MiTV-AXFR0": {
     "brand": "Redmi",
     "name": "MiTV"
+  },
+  "2602BRNA4I": {
+    "brand": "Redmi",
+    "name": "REDMI 15A 5G"
   },
   "2508CRN2BI": {
     "brand": "Redmi",
@@ -146283,6 +146299,10 @@
     "brand": "VILLAON",
     "name": "VILLAON V30"
   },
+  "VILLAON-VP1002L": {
+    "brand": "VILLAON",
+    "name": "VP1002L-OP"
+  },
   "VIMOQ A512WS": {
     "brand": "VIMOQ",
     "name": "itel A18"
@@ -167626,6 +167646,10 @@
   "RMX3493": {
     "brand": "realme",
     "name": "realme 9i"
+  },
+  "RMX5353": {
+    "brand": "realme",
+    "name": "realme C100"
   },
   "RMX3263": {
     "brand": "realme",
