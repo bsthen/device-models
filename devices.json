@@ -16091,6 +16091,10 @@
     "brand": "VIOS",
     "name": "C9"
   },
+  "C9 MAX": {
+    "brand": "Blu",
+    "name": "C9 MAX"
+  },
   "D10": {
     "brand": "ZOFYWNAS",
     "name": "D10_EEA"
@@ -102447,6 +102451,10 @@
     "brand": "Pritom",
     "name": "Benton_M10"
   },
+  "New kids tablet": {
+    "brand": "Pritom",
+    "name": "K7Pro"
+  },
   "TOUCH 7": {
     "brand": "Pritom",
     "name": "K7Pro_EEA"
@@ -133023,6 +133031,10 @@
     "brand": "TCL",
     "name": "TCL NXTPAPER 70 Pro"
   },
+  "T807W": {
+    "brand": "TCL",
+    "name": "TCL NXTPAPER 70 Pro"
+  },
   "T780H": {
     "brand": "TCL",
     "name": "TCL PLEX"
@@ -145582,6 +145594,10 @@
   "EA520_US": {
     "brand": "Unitech",
     "name": "EA520_US"
+  },
+  "EA530": {
+    "brand": "Unitech",
+    "name": "EA530"
   },
   "EA630": {
     "brand": "Unitech",
