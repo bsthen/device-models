@@ -47203,6 +47203,10 @@
     "brand": "Homatics",
     "name": "SEI600HM"
   },
+  "Box R 4K": {
+    "brand": "Homatics",
+    "name": "Box R 4K"
+  },
   "Box R 4K Plus": {
     "brand": "Homatics",
     "name": "Box R 4K Plus"
@@ -47250,6 +47254,10 @@
   "TG STREAM 2": {
     "brand": "Homatics",
     "name": "TG STREAM 2"
+  },
+  "Box R Lite 4K": {
+    "brand": "Homatics",
+    "name": "Test"
   },
   "XR Theater G": {
     "brand": "Homatics",
@@ -153110,6 +153118,10 @@
   "RX7 Mini": {
     "brand": "Walton",
     "name": "RX7 Mini"
+  },
+  "WALTON GOOGLE TV FF": {
+    "brand": "Walton",
+    "name": "Smart TV"
   },
   "WALTON UHD GOOGLE TV 5.0": {
     "brand": "Walton",
