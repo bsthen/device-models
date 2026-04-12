@@ -24291,6 +24291,10 @@
     "brand": "DABLIU",
     "name": "L1R"
   },
+  "T1B": {
+    "brand": "DABLIU",
+    "name": "T1B"
+  },
   "Daiichi 2K SMART TV": {
     "brand": "DAIICHI",
     "name": "Vietnam"
@@ -33742,6 +33746,10 @@
   "F105": {
     "brand": "Gionee",
     "name": "F105"
+  },
+  "F105 Pro": {
+    "brand": "FOSSiBOT",
+    "name": "F105_Pro_EEA"
   },
   "F106 Pro": {
     "brand": "FOSSiBOT",
@@ -61811,6 +61819,10 @@
     "brand": "KONKA",
     "name": "KONKA 4K OLED Google TV"
   },
+  "KONKA U4K Google TV": {
+    "brand": "KONKA",
+    "name": "KONKA U4K Google TV"
+  },
   "KONKA Android TV 4K": {
     "brand": "KONKA",
     "name": "Konka android tv"
@@ -82503,6 +82515,10 @@
     "brand": "Mobiwire",
     "name": "H6682_VDC_TZ"
   },
+  "H6733 Pro": {
+    "brand": "Mobiwire",
+    "name": "H6733 Pro"
+  },
   "H67A1": {
     "brand": "Mobiwire",
     "name": "H67A1"
@@ -86819,6 +86835,14 @@
     "brand": "NEC",
     "name": "LAVIE Tab 102K1"
   },
+  "LAVIE Tab 11QHD3": {
+    "brand": "NEC",
+    "name": "LAVIE Tab 11QHD3"
+  },
+  "LAVIETab11QHD3": {
+    "brand": "NEC",
+    "name": "LAVIE Tab 11QHD3"
+  },
   "PC-TE410JAW": {
     "brand": "NEC",
     "name": "LAVIE Tab E"
@@ -86866,14 +86890,6 @@
   "LAVIE Tab 11QHD2": {
     "brand": "NEC",
     "name": "LAVIE Tab T11"
-  },
-  "LAVIE Tab 11QHD3": {
-    "brand": "NEC",
-    "name": "LAVIE Tab T11Nd"
-  },
-  "LAVIETab11QHD3": {
-    "brand": "NEC",
-    "name": "LAVIE Tab T11Nd"
   },
   "LAVIE Tab 143K1": {
     "brand": "NEC",
@@ -112146,6 +112162,10 @@
   "SM-A566W": {
     "brand": "Samsung",
     "name": "Galaxy A56 5G"
+  },
+  "SC-54G": {
+    "brand": "Samsung",
+    "name": "Galaxy A57 5G"
   },
   "SM-A5760": {
     "brand": "Samsung",
@@ -164362,6 +164382,10 @@
   "G141L": {
     "brand": "Zynex",
     "name": "G141L"
+  },
+  "G16L": {
+    "brand": "Zynex",
+    "name": "G16L"
   },
   "KB1002": {
     "brand": "Zynex",
