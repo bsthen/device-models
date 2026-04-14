@@ -13815,6 +13815,10 @@
     "brand": "BenQ",
     "name": "Kogan Agora 4G Lite"
   },
+  "NE001A_series": {
+    "brand": "BenQ",
+    "name": "NE001A_series"
+  },
   "NE001_series": {
     "brand": "BenQ",
     "name": "NE001_series"
@@ -48327,6 +48331,10 @@
     "brand": "Honor",
     "name": "荣耀X70"
   },
+  "LNA-AN00": {
+    "brand": "Honor",
+    "name": "荣耀X80i"
+  },
   "HEY3-W10": {
     "brand": "Honor",
     "name": "荣耀平板10"
@@ -69702,6 +69710,10 @@
   "D4_Interactive_Display": {
     "brand": "LOFT",
     "name": "D4xx"
+  },
+  "LT-IR65EX": {
+    "brand": "LOGIC",
+    "name": "EX_Series"
   },
   "Logic_LT_IRXXHX": {
     "brand": "LOGIC",
@@ -139799,6 +139811,10 @@
     "brand": "Teclast",
     "name": "P30S_W_ROW"
   },
+  "bnd": {
+    "brand": "Teclast",
+    "name": "P30_ROW"
+  },
   "P30T": {
     "brand": "Teclast",
     "name": "P30T_Y_ROW"
@@ -139820,10 +139836,6 @@
     "name": "P30_EEA"
   },
   "P30_ROW": {
-    "brand": "Teclast",
-    "name": "P30_ROW"
-  },
-  "bnd": {
     "brand": "Teclast",
     "name": "P30_ROW"
   },
