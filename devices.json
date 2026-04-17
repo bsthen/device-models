@@ -1163,6 +1163,10 @@
     "brand": "AOC",
     "name": "AOC Smart Gaming Monitor"
   },
+  "M10_EEA": {
+    "brand": "Pritom",
+    "name": "PRITOM"
+  },
   "M10": {
     "brand": "UAUU",
     "name": "M10"
@@ -10959,6 +10963,10 @@
     "brand": "Azeyou",
     "name": "M87QF6-4G"
   },
+  "T12E": {
+    "brand": "Azeyou",
+    "name": "T12E"
+  },
   "Azumi A4": {
     "brand": "Azumi",
     "name": "A4"
@@ -13382,6 +13390,10 @@
   "A10_M_US": {
     "brand": "BYYBUO",
     "name": "A10_M_US"
+  },
+  "A70W_A_UK": {
+    "brand": "BYYBUO",
+    "name": "A70W_A_UK"
   },
   "BYYBUO_SmartPad_A10": {
     "brand": "BYYBUO",
@@ -17563,6 +17575,10 @@
     "brand": "Briotouch",
     "name": "IFP_ADPM"
   },
+  "BrioTouch_BR": {
+    "brand": "Briotouch",
+    "name": "Interactive_Flat_Panel_ADPM"
+  },
   "ULTRA-PLUS-BR": {
     "brand": "Briotouch",
     "name": "ULTRA-PLUS-BR"
@@ -17786,6 +17802,10 @@
   "AiPlus2K": {
     "brand": "Smart-Tech TV",
     "name": "France"
+  },
+  "AiPro2K": {
+    "brand": "Smart-Tech TV",
+    "name": "AiPro2K"
   },
   "Amstrong": {
     "brand": "CAIXUN",
@@ -32185,7 +32205,7 @@
   },
   "ERGOGS": {
     "brand": "Ergo",
-    "name": "GHS55"
+    "name": "Smart TV"
   },
   "B502 Basic": {
     "brand": "Ergo",
@@ -32485,7 +32505,7 @@
   },
   "M70": {
     "brand": "raemond",
-    "name": "M70_EEA_A"
+    "name": "M70_ROW_A"
   },
   "M80": {
     "brand": "Evercoss",
@@ -55603,6 +55623,10 @@
     "brand": "IRA (explore more)",
     "name": "T1021"
   },
+  "T1021M": {
+    "brand": "IRA (explore more)",
+    "name": "T1021M"
+  },
   "T1030A": {
     "brand": "IRA (explore more)",
     "name": "T1030A"
@@ -76847,6 +76871,10 @@
     "brand": "MLAB",
     "name": "MB8992"
   },
+  "MLAB 9786 STUDIO SUITE PRO 12": {
+    "brand": "MLAB",
+    "name": "MLAB9786"
+  },
   "MLAB_GLOWY7": {
     "brand": "MLAB",
     "name": "MLAB_GLOWY7"
@@ -91443,6 +91471,10 @@
     "brand": "OnePlus",
     "name": "OnePlus Watch 3"
   },
+  "OPWWE261": {
+    "brand": "OnePlus",
+    "name": "OnePlus Watch 4"
+  },
   "ONEPLUS A5000": {
     "brand": "OnePlus",
     "name": "OnePlus5"
@@ -93163,6 +93195,18 @@
     "brand": "Oppo",
     "name": "Find X9 Pro 卫星通信版"
   },
+  "PMA110": {
+    "brand": "Oppo",
+    "name": "Find X9 Ultra"
+  },
+  "PMA120": {
+    "brand": "Oppo",
+    "name": "Find X9 Ultra 卫星通信版"
+  },
+  "PME110": {
+    "brand": "Oppo",
+    "name": "Find X9s Pro"
+  },
   "X909T": {
     "brand": "Oppo",
     "name": "X909"
@@ -93647,6 +93691,10 @@
     "brand": "Oppo",
     "name": "Pad 4 Pro"
   },
+  "OPD2511": {
+    "brand": "Oppo",
+    "name": "Pad 5 Pro"
+  },
   "OPD2501": {
     "brand": "Oppo",
     "name": "Pad Air5"
@@ -93654,6 +93702,10 @@
   "OPD2510": {
     "brand": "Oppo",
     "name": "Pad Air5"
+  },
+  "OPD2515": {
+    "brand": "Oppo",
+    "name": "Pad Mini"
   },
   "OPD2417": {
     "brand": "Oppo",
@@ -95895,6 +95947,10 @@
     "brand": "Oysters",
     "name": "Universal Phone 1"
   },
+  "FONDATION_ORANGE_2026": {
+    "brand": "PACTGROUP",
+    "name": "B10_RO7_EEA"
+  },
   "C40": {
     "brand": "PAITANRY",
     "name": "C40"
@@ -95914,6 +95970,10 @@
   "CH10PROMAX": {
     "brand": "PAITANRY",
     "name": "CH10PROMAX"
+  },
+  "H40_EEA": {
+    "brand": "PAITANRY",
+    "name": "H40_EEA"
   },
   "R16": {
     "brand": "PAITANRY",
@@ -96326,6 +96386,10 @@
   "CP31U": {
     "brand": "PEICHENG",
     "name": "CP31U"
+  },
+  "CP31W": {
+    "brand": "PEICHENG",
+    "name": "CP31W"
   },
   "CP81S_PRO": {
     "brand": "PEICHENG",
@@ -97202,6 +97266,10 @@
   "TARGA-F14PRO": {
     "brand": "Packard Bell",
     "name": "TARGA-F14PRO"
+  },
+  "TARGA-F14PROX": {
+    "brand": "Packard Bell",
+    "name": "TARGA-F14PROX"
   },
   "TARGA-F7": {
     "brand": "Packard Bell",
@@ -102727,10 +102795,6 @@
     "brand": "Pritom",
     "name": "P7_EEA"
   },
-  "M10_EEA": {
-    "brand": "Pritom",
-    "name": "PRITOM"
-  },
   "Pritom_M10_EEA": {
     "brand": "Pritom",
     "name": "Pritom_M10_EEA"
@@ -104006,6 +104070,10 @@
   "CM4806": {
     "brand": "Quantic",
     "name": "CM4806"
+  },
+  "CM4861": {
+    "brand": "Quantic",
+    "name": "CM4861"
   },
   "Elise_T65": {
     "brand": "Quantum",
@@ -105631,6 +105699,10 @@
     "brand": "Redmi",
     "name": "REDMI A7 Pro"
   },
+  "26020RN1AI": {
+    "brand": "Redmi",
+    "name": "REDMI A7 Pro 5G"
+  },
   "25079RPDCC": {
     "brand": "Redmi",
     "name": "REDMI K Pad"
@@ -105722,6 +105794,10 @@
   "2510ERA8BI": {
     "brand": "Redmi",
     "name": "REDMI Note 15 Pro+5G"
+  },
+  "26022PCACI": {
+    "brand": "Redmi",
+    "name": "REDMI Note 15 SE 5G"
   },
   "25057RA09C": {
     "brand": "Redmi",
@@ -107486,6 +107562,10 @@
   "Rizzen_X_26X2": {
     "brand": "Rizzen",
     "name": "Rizzen_X_26X2"
+  },
+  "S1_pro_26501": {
+    "brand": "Rizzen",
+    "name": "S1_pro_26501"
   },
   "X1x": {
     "brand": "Rizzen",
@@ -123058,10 +123138,6 @@
   "TS7K": {
     "brand": "Sansei",
     "name": "TS7K"
-  },
-  "AiPro2K": {
-    "brand": "Smart-Tech TV",
-    "name": "AiPro2K"
   },
   "AiPro2KN": {
     "brand": "Sansui",
@@ -147035,9 +147111,17 @@
     "brand": "Veidoo",
     "name": "Veidoo_S10"
   },
+  "Veidoo_S10_PLUS": {
+    "brand": "Veidoo",
+    "name": "Veidoo_S10_PLUS"
+  },
   "Veidoo_S10_Pro": {
     "brand": "Veidoo",
     "name": "Veidoo_S10_Pro"
+  },
+  "Veidoo_S20_Pro": {
+    "brand": "Veidoo",
+    "name": "Veidoo_S20_Pro"
   },
   "SXX01G": {
     "brand": "Veld",
@@ -164411,6 +164495,10 @@
     "brand": "Zynex",
     "name": "KB1002"
   },
+  "KB1006": {
+    "brand": "Zynex",
+    "name": "KB1006"
+  },
   "X107L": {
     "brand": "Zynex",
     "name": "X107L"
@@ -168887,6 +168975,10 @@
     "brand": "vivo",
     "name": "X300 Ultra 卫星通信版"
   },
+  "V2562": {
+    "brand": "vivo",
+    "name": "X300 Ultra"
+  },
   "V2548A": {
     "brand": "vivo",
     "name": "X300s"
@@ -169025,7 +169117,7 @@
   },
   "V2559A": {
     "brand": "vivo",
-    "name": "Y60 AI版"
+    "name": "Y6t"
   },
   "V2559BA": {
     "brand": "vivo",
