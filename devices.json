@@ -6155,6 +6155,10 @@
     "brand": "Alldocube",
     "name": "iPlay70_mini_Turbo"
   },
+  "iPlay80miniTurbo": {
+    "brand": "Alldocube",
+    "name": "iPlay80miniTurbo"
+  },
   "iPlay9T": {
     "brand": "Alldocube",
     "name": "iPlay9T"
@@ -18391,6 +18395,10 @@
     "brand": "COLORROOM",
     "name": "K07-pro_EEA"
   },
+  "TC70W": {
+    "brand": "COLORROOM",
+    "name": "K07-pro"
+  },
   "K08": {
     "brand": "COLORROOM",
     "name": "K08"
@@ -19626,6 +19634,10 @@
   "Kil-82WFDC": {
     "brand": "Ceibal",
     "name": "Kil-82WFDC"
+  },
+  "bnd": {
+    "brand": "Teclast",
+    "name": "P30_ROW"
   },
   "RIGEL": {
     "brand": "Ceibal",
@@ -21454,6 +21466,10 @@
   "KD101": {
     "brand": "Clover",
     "name": "KD101"
+  },
+  "gama_alta_6_128G": {
+    "brand": "Clover",
+    "name": "gama_alta_6_128G"
   },
   "CP101P": {
     "brand": "Cobalt",
@@ -23758,6 +23774,10 @@
   "Trekker-X4": {
     "brand": "Crosscall",
     "name": "Trekker- X4"
+  },
+  "CROWNTAB8": {
+    "brand": "CrownHeights",
+    "name": "8inchDigitalTablet"
   },
   "EVO": {
     "brand": "HTC",
@@ -47783,9 +47803,17 @@
     "brand": "Honor",
     "name": "HONOR 500"
   },
+  "VKJ-NX9": {
+    "brand": "Honor",
+    "name": "HONOR 600"
+  },
   "LNA-NX1": {
     "brand": "Honor",
     "name": "HONOR 600 Lite"
+  },
+  "VKP-NX9": {
+    "brand": "Honor",
+    "name": "HONOR 600 Pro"
   },
   "LNA-NX3": {
     "brand": "Honor",
@@ -85099,6 +85127,10 @@
     "brand": "Motorola",
     "name": "motorola razr fold"
   },
+  "motorola razr fold 2026": {
+    "brand": "Motorola",
+    "name": "motorola razr fold 2026"
+  },
   "motorola razr plus 2023": {
     "brand": "Motorola",
     "name": "motorola razr plus 2024"
@@ -93199,9 +93231,17 @@
     "brand": "Oppo",
     "name": "Find X9 Ultra"
   },
+  "CPH2841": {
+    "brand": "Oppo",
+    "name": "Find X9 Ultra"
+  },
   "PMA120": {
     "brand": "Oppo",
     "name": "Find X9 Ultra 卫星通信版"
+  },
+  "CPH2873": {
+    "brand": "Oppo",
+    "name": "Find X9s"
   },
   "PME110": {
     "brand": "Oppo",
@@ -96374,6 +96414,10 @@
   "AT74K": {
     "brand": "PEICHENG",
     "name": "AT74K"
+  },
+  "CP10S_Pro": {
+    "brand": "PEICHENG",
+    "name": "CP10S_Pro"
   },
   "CP31-4T": {
     "brand": "PEICHENG",
@@ -139887,10 +139931,6 @@
     "brand": "Teclast",
     "name": "P30S_W_ROW"
   },
-  "bnd": {
-    "brand": "Teclast",
-    "name": "P30_ROW"
-  },
   "P30T": {
     "brand": "Teclast",
     "name": "P30T_Y_ROW"
@@ -165035,6 +165075,10 @@
     "brand": "eNOVA",
     "name": "TAEI0C13"
   },
+  "TAE10N12": {
+    "brand": "eNOVA",
+    "name": "TAE10N12"
+  },
   "Emerald": {
     "brand": "eSSL",
     "name": "Emerald"
@@ -169072,6 +169116,10 @@
     "name": "Y31d"
   },
   "V2611": {
+    "brand": "vivo",
+    "name": "Y31d"
+  },
+  "V2636": {
     "brand": "vivo",
     "name": "Y31d"
   },
