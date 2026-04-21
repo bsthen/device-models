@@ -2691,6 +2691,10 @@
     "brand": "Acer",
     "name": "AS10WF"
   },
+  "AS10WF NEO": {
+    "brand": "Acer",
+    "name": "AS10WF_NEO_EEA"
+  },
   "AS8W": {
     "brand": "Acer",
     "name": "AS8W"
@@ -11490,6 +11494,10 @@
   "Phenix XT": {
     "brand": "BIT Mobile",
     "name": "Phenix XT"
+  },
+  "KST-BT-11-PRO": {
+    "brand": "BITTAP",
+    "name": "BITTAP-KST11PRO-M8775"
   },
   "B2017": {
     "brand": "BKAV",
@@ -30050,6 +30058,10 @@
   "A30Pro_A": {
     "brand": "ECOPAD",
     "name": "A30Pro_A_EEA"
+  },
+  "C30plus": {
+    "brand": "ECOPAD",
+    "name": "C30plus_EEA"
   },
   "C5Pro": {
     "brand": "ECOPAD",
@@ -55647,6 +55659,10 @@
     "brand": "IRA (explore more)",
     "name": "T1015"
   },
+  "T1015": {
+    "brand": "IRA (explore more)",
+    "name": "T1015"
+  },
   "T1021": {
     "brand": "IRA (explore more)",
     "name": "T1021"
@@ -69771,6 +69787,10 @@
     "brand": "LOGIC",
     "name": "Online Instruments India Pvt. Ltd."
   },
+  "Logic_L-PAD_PRO": {
+    "brand": "LOGIC",
+    "name": "L-PAD-PRO-BK"
+  },
   "L65E": {
     "brand": "LOGIC",
     "name": "L65E"
@@ -70206,6 +70226,10 @@
   "LFi ONE": {
     "brand": "LYOTECH_LABS",
     "name": "LFi_ONE_EEA"
+  },
+  "Z1A": {
+    "brand": "LZF(shenzhen)",
+    "name": "Z1A"
   },
   "Z2": {
     "brand": "iBRIT",
@@ -127371,6 +127395,10 @@
     "brand": "Smartfren",
     "name": "NC36B1G"
   },
+  "T701S": {
+    "brand": "Smartfy",
+    "name": "T701S"
+  },
   "T702": {
     "brand": "Xgody",
     "name": "T702"
@@ -148979,10 +149007,6 @@
     "brand": "Vivo",
     "name": "I2202"
   },
-  "I2306": {
-    "brand": "Vivo",
-    "name": "I2306"
-  },
   "vivo NEX A": {
     "brand": "Vivo",
     "name": "vivo NEX A"
@@ -163239,6 +163263,10 @@
     "brand": "ZTE",
     "name": "nubia Neo 3 5G"
   },
+  "Z2571N": {
+    "brand": "ZTE",
+    "name": "nubia Neo 5 5G"
+  },
   "nubia 8150N": {
     "brand": "ZTE",
     "name": "nubia Neo 5G"
@@ -166643,6 +166671,10 @@
     "brand": "iQOO",
     "name": "iQOO Z11x 5G"
   },
+  "I2306": {
+    "brand": "iQOO",
+    "name": "iQOO Z9 Lite"
+  },
   "iQ&T N8": {
     "brand": "iQandT",
     "name": "N8"
@@ -167462,6 +167494,10 @@
   "prowise": {
     "brand": "prowise",
     "name": "Prowise Touchscreen Ultra"
+  },
+  "Prowise": {
+    "brand": "prowise",
+    "name": "ProwiseTouchscreenTen"
   },
   "TSxG4": {
     "brand": "prowise",
