@@ -38999,6 +38999,10 @@
     "brand": "Wiko",
     "name": "View Prime"
   },
+  "TWGP8": {
+    "brand": "Good_Planning",
+    "name": "TWGP8"
+  },
   "guybrush": {
     "brand": "Google",
     "name": "AMD FP6 Chromebook"
@@ -76171,6 +76175,10 @@
     "brand": "M-Horse",
     "name": "Note 50 Pro Max"
   },
+  "Pad_17ProMax": {
+    "brand": "M-Horse",
+    "name": "Pad_17ProMax_RU"
+  },
   "Pure 2": {
     "brand": "M-Horse",
     "name": "Pure 2"
@@ -90170,6 +90178,10 @@
   "Magic Q1": {
     "brand": "OLAX",
     "name": "Magic_Q1"
+  },
+  "Magic Q8 Pro Plus": {
+    "brand": "OLAX",
+    "name": "Magic_Q8_Pro_Plus"
   },
   "Ocean K8": {
     "brand": "OLAX",
@@ -146475,6 +146487,10 @@
     "brand": "VILLAON",
     "name": "vibe-10"
   },
+  "VILLAON V671N": {
+    "brand": "VILLAON",
+    "name": "F30"
+  },
   "VILLAON V651L": {
     "brand": "VILLAON",
     "name": "V40s"
@@ -165207,6 +165223,10 @@
     "brand": "enGo",
     "name": "SmartPad"
   },
+  "FT75RK3588OB": {
+    "brand": "faytech",
+    "name": "faytech"
+  },
   "F10_EEA": {
     "brand": "fezawio",
     "name": "F10_EEA"
@@ -168950,6 +168970,10 @@
   "V2504": {
     "brand": "vivo",
     "name": "T4 Ultra"
+  },
+  "V2568": {
+    "brand": "vivo",
+    "name": "T5 Pro 5G"
   },
   "V2545": {
     "brand": "vivo",
