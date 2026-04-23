@@ -2695,6 +2695,10 @@
     "brand": "Acer",
     "name": "AS10WF_NEO_EEA"
   },
+  "AS20WF": {
+    "brand": "Acer",
+    "name": "Sospiro AS20WF"
+  },
   "AS8W": {
     "brand": "Acer",
     "name": "AS8W"
@@ -3458,10 +3462,6 @@
   "R4G": {
     "brand": "TCL",
     "name": "R4_GTV"
-  },
-  "AS20WF": {
-    "brand": "Acer",
-    "name": "Sospiro AS20WF"
   },
   "TA272HUL": {
     "brand": "Acer",
@@ -43931,6 +43931,10 @@
     "brand": "Haier",
     "name": "I6_Infinity"
   },
+  "E30ID": {
+    "brand": "Haier",
+    "name": "IFPD"
+  },
   "INGO-TAB": {
     "brand": "Haier",
     "name": "INGO-TAB"
@@ -58231,6 +58235,10 @@
     "brand": "Invens",
     "name": "ULTRA 13P"
   },
+  "ULTRA S25": {
+    "brand": "Invens",
+    "name": "ULTRA_S25_EEA"
+  },
   "UNO": {
     "brand": "Invens",
     "name": "UNO"
@@ -60107,6 +60115,10 @@
     "brand": "JCB_Phone",
     "name": "ToughPhone_E10_EEA"
   },
+  "Toughphone E50": {
+    "brand": "JCB_Phone",
+    "name": "Toughphone_E50_EEA"
+  },
   "JCB TP231": {
     "brand": "JCB_UK",
     "name": "JCB_TP231"
@@ -60194,6 +60206,10 @@
   "J2507": {
     "brand": "JOVI",
     "name": "JOVI V70 5G"
+  },
+  "J2510": {
+    "brand": "JOVI",
+    "name": "JOVI X300 Ultra"
   },
   "V2425": {
     "brand": "Vivo",
@@ -70031,6 +70047,10 @@
     "brand": "LT_Mobile",
     "name": "LT_mobile_C27"
   },
+  "LT C28": {
+    "brand": "LT_Mobile",
+    "name": "LT_mobile_C28"
+  },
   "LT C60": {
     "brand": "LT_Mobile",
     "name": "LT_mobile_C60"
@@ -76171,9 +76191,17 @@
     "brand": "M-Horse",
     "name": "MHORSE M"
   },
+  "M26": {
+    "brand": "M-Horse",
+    "name": "M_HORSE_M26"
+  },
   "Note 50 Pro Max": {
     "brand": "M-Horse",
     "name": "Note 50 Pro Max"
+  },
+  "Pad_17": {
+    "brand": "M-Horse",
+    "name": "Pad_17"
   },
   "Pad_17ProMax": {
     "brand": "M-Horse",
@@ -93619,6 +93647,10 @@
     "brand": "Oppo",
     "name": "OPPO Watch X2 Mini"
   },
+  "OWWE261": {
+    "brand": "Oppo",
+    "name": "OPPO Watch X3"
+  },
   "OPWE242": {
     "brand": "Oppo",
     "name": "OnePlus Watch 3 43mm"
@@ -105791,6 +105823,10 @@
     "brand": "Redmi",
     "name": "REDMI K Pad"
   },
+  "26048RP6AC": {
+    "brand": "Redmi",
+    "name": "REDMI K Pad 2"
+  },
   "24117RK2CC": {
     "brand": "Redmi",
     "name": "REDMI K80"
@@ -109094,6 +109130,10 @@
   "ZEUS 2 PRO": {
     "brand": "SPC",
     "name": "ZEUS 2 PRO"
+  },
+  "ZEUS 2 ELITE": {
+    "brand": "SPC",
+    "name": "ZEUS_2_ELITE_EEA"
   },
   "APOLO": {
     "brand": "SPC Mobile",
@@ -138371,6 +138411,10 @@
     "brand": "TECHLIFE",
     "name": "TLPADP04"
   },
+  "TLPADP05": {
+    "brand": "TECHLIFE",
+    "name": "TLPADP05"
+  },
   "TLPADPLUS": {
     "brand": "TECHLIFE",
     "name": "TLPADPLUS"
@@ -146487,10 +146531,6 @@
     "brand": "VILLAON",
     "name": "vibe-10"
   },
-  "VILLAON V671N": {
-    "brand": "VILLAON",
-    "name": "F30"
-  },
   "VILLAON V651L": {
     "brand": "VILLAON",
     "name": "V40s"
@@ -146523,9 +146563,17 @@
     "brand": "VILLAON",
     "name": "V50s"
   },
+  "VILLAON V671N": {
+    "brand": "VILLAON",
+    "name": "VILLAON F30"
+  },
   "VILLAON V30": {
     "brand": "VILLAON",
     "name": "VILLAON V30"
+  },
+  "VILLAON V671NP": {
+    "brand": "VILLAON",
+    "name": "VILLAON X50"
   },
   "VILLAON-VP1002L": {
     "brand": "VILLAON",
@@ -152517,7 +152565,7 @@
   },
   "VU TV FFM": {
     "brand": "Vu Televisions",
-    "name": "ULED"
+    "name": "VU SMART TV"
   },
   "VU 4K": {
     "brand": "Vu Televisions",
