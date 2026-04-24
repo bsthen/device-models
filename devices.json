@@ -30327,6 +30327,10 @@
     "brand": "EL(elongmobile)",
     "name": "Pad_S7"
   },
+  "CF-TBC103S": {
+    "brand": "EL(elongmobile)",
+    "name": "Pad_S8"
+  },
   "Pad_S8": {
     "brand": "EL(elongmobile)",
     "name": "Pad_S8"
@@ -64315,6 +64319,10 @@
     "brand": "Kruger&Matz",
     "name": "MOVE9"
   },
+  "DRIVE 11": {
+    "brand": "Kruger_Matz",
+    "name": "DRIVE_11_EEA"
+  },
   "KM1077": {
     "brand": "Kruger_Matz",
     "name": "EAGLE_1077"
@@ -84945,7 +84953,7 @@
   },
   "motorola edge 2025": {
     "brand": "Motorola",
-    "name": "motorola edge 2025"
+    "name": "motorola edge 70 pro"
   },
   "motorola edge 30": {
     "brand": "Motorola",
@@ -85022,6 +85030,10 @@
   "motorola edge 70 fusion": {
     "brand": "Motorola",
     "name": "motorola edge 70 fusion"
+  },
+  "motorola edge 70 pro": {
+    "brand": "Motorola",
+    "name": "motorola edge 70 pro"
   },
   "XT2175-2": {
     "brand": "Motorola",
@@ -156823,6 +156835,10 @@
     "brand": "Xiaomi",
     "name": "Xiaomi Watch 2 Pro"
   },
+  "Xiaomi Watch 5": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Watch 5"
+  },
   "23046PNC9C": {
     "brand": "Xiaomi",
     "name": "Xiaomi civi 3"
@@ -165311,6 +165327,10 @@
     "brand": "fezawio",
     "name": "F8_EEA"
   },
+  "fibwi": {
+    "brand": "fibwi",
+    "name": "fibwi"
+  },
   "FIT_Series": {
     "brand": "firstIT",
     "name": "FIRSTIT_IFPD"
@@ -166546,6 +166566,10 @@
   "IM-B101H": {
     "brand": "iMuz",
     "name": "IM-B101H"
+  },
+  "IM-B102": {
+    "brand": "iMuz",
+    "name": "IM-B102"
   },
   "IM-H031": {
     "brand": "iMuz",
