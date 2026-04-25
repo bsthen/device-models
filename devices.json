@@ -14637,7 +14637,7 @@
   },
   "BSM4": {
     "brand": "Blackshark",
-    "name": "Pad7_WiFi"
+    "name": "Pad_Air7"
   },
   "Pad_7_Pro_UE": {
     "brand": "Blackshark",
@@ -20942,6 +20942,10 @@
   "RK95": {
     "brand": "Cipherlab",
     "name": "RK95"
+  },
+  "RK96": {
+    "brand": "Cipherlab",
+    "name": "RK96"
   },
   "RS10": {
     "brand": "Cipherlab",
@@ -39603,6 +39607,10 @@
     "brand": "Greentel",
     "name": "A10Pro"
   },
+  "A10_Pro": {
+    "brand": "Greentel",
+    "name": "A10_Pro"
+  },
   "A10_premium": {
     "brand": "Greentel",
     "name": "A10_premium"
@@ -40226,6 +40234,10 @@
   "TAB8": {
     "brand": "Vortex",
     "name": "TAB8"
+  },
+  "BH1002H": {
+    "brand": "HEROFUN",
+    "name": "BH1002H"
   },
   "BH502G": {
     "brand": "HEROFUN",
@@ -47977,7 +47989,7 @@
   },
   "YLE-W09": {
     "brand": "Honor",
-    "name": "HONOR MagicPad4"
+    "name": "荣耀MagicPad3 Pro 12.3"
   },
   "HEY3-N09": {
     "brand": "Honor",
@@ -76815,6 +76827,10 @@
     "brand": "MIRAI_TOUCH",
     "name": "MXXCE3XE"
   },
+  "MXXCE4X": {
+    "brand": "MIRAI_TOUCH",
+    "name": "MXXCE4X"
+  },
   "PE4S_Series": {
     "brand": "MIRAI_TOUCH",
     "name": "PE4S"
@@ -76966,6 +76982,10 @@
   "MB8992": {
     "brand": "MLAB",
     "name": "MB8992"
+  },
+  "MLAB 9785 STUDIO COVER PRO 10": {
+    "brand": "MLAB",
+    "name": "MLAB9785"
   },
   "MLAB 9786 STUDIO SUITE PRO 12": {
     "brand": "MLAB",
@@ -84443,6 +84463,14 @@
     "brand": "Motorola",
     "name": "moto g stylus (2023)"
   },
+  "moto g stylus - 2025": {
+    "brand": "Motorola",
+    "name": "moto g stylus 5G - 2025"
+  },
+  "moto g stylus - 2026": {
+    "brand": "Motorola",
+    "name": "moto g stylus - 2026"
+  },
   "moto g stylus 5G": {
     "brand": "Motorola",
     "name": "moto g stylus 5G"
@@ -84462,10 +84490,6 @@
   "moto g stylus 5G - 2024": {
     "brand": "Motorola",
     "name": "moto g stylus 5G - 2024"
-  },
-  "moto g stylus - 2025": {
-    "brand": "Motorola",
-    "name": "moto g stylus 5G - 2025"
   },
   "motorola edge 50 fusion": {
     "brand": "Motorola",
@@ -85030,6 +85054,10 @@
   "motorola edge 70 fusion": {
     "brand": "Motorola",
     "name": "motorola edge 70 fusion"
+  },
+  "motorola edge 70 fusion plus": {
+    "brand": "Motorola",
+    "name": "motorola edge 70 fusion +"
   },
   "motorola edge 70 pro": {
     "brand": "Motorola",
@@ -105943,6 +105971,10 @@
     "brand": "Redmi",
     "name": "REDMI Pad 2 Pro"
   },
+  "2603ARP14C": {
+    "brand": "Redmi",
+    "name": "REDMI Pad 2 SE"
+  },
   "24129RT7CC": {
     "brand": "Redmi",
     "name": "REDMI Turbo 4"
@@ -113262,6 +113294,10 @@
   "SM-A166L": {
     "brand": "Samsung",
     "name": "Galaxy Buddy4"
+  },
+  "SM-A176L": {
+    "brand": "Samsung",
+    "name": "Galaxy Buddy5"
   },
   "SM-C5000": {
     "brand": "Samsung",
@@ -139882,6 +139918,10 @@
   "M50S": {
     "brand": "Teclast",
     "name": "M50S_ROW"
+  },
+  "M50T_EEA": {
+    "brand": "Teclast",
+    "name": "M50T_EEA"
   },
   "M50_EU": {
     "brand": "Teclast",
