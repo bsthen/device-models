@@ -515,6 +515,10 @@
     "brand": "ADOC",
     "name": "ADOC TCAT10"
   },
+  "Adoc_T20": {
+    "brand": "ADOC",
+    "name": "Adoc_T20"
+  },
   "D30": {
     "brand": "ADOC",
     "name": "D30"
@@ -36327,6 +36331,10 @@
     "brand": "G-Tab",
     "name": "GTab_X"
   },
+  "MEGA13": {
+    "brand": "G-Tab",
+    "name": "MEGA13"
+  },
   "N271": {
     "brand": "G-Tab",
     "name": "N271"
@@ -37470,6 +37478,10 @@
   "Geo S7": {
     "brand": "GeoPhone",
     "name": "geo_s7"
+  },
+  "Geo S9": {
+    "brand": "GeoPhone",
+    "name": "geo_s9"
   },
   "P9IV": {
     "brand": "Geoelectron",
@@ -91475,6 +91487,10 @@
     "brand": "OnePlus",
     "name": "OnePlus Ace 6"
   },
+  "PMB110": {
+    "brand": "OnePlus",
+    "name": "OnePlus Ace 6 至尊版"
+  },
   "PGZ110": {
     "brand": "OnePlus",
     "name": "OnePlus Ace 竞速版"
@@ -96643,6 +96659,10 @@
     "brand": "PEICHENG",
     "name": "Q8S_Pro"
   },
+  "YQ10SC_MAX": {
+    "brand": "PEICHENG",
+    "name": "YQ10SC_MAX"
+  },
   "YQ11M": {
     "brand": "PEICHENG",
     "name": "YQ11M"
@@ -96882,6 +96902,10 @@
   "24116PCC1I": {
     "brand": "POCO",
     "name": "POCO C75 5G"
+  },
+  "26020PCB4I": {
+    "brand": "POCO",
+    "name": "POCO C81x"
   },
   "25078PC3EE": {
     "brand": "POCO",
@@ -102991,6 +103015,10 @@
     "brand": "YOTOPT",
     "name": "M60_EEA"
   },
+  "P10MAX": {
+    "brand": "ZTLEKE",
+    "name": "P10MAX"
+  },
   "P7PLUS": {
     "brand": "Pritom",
     "name": "P7PLUS_EEA"
@@ -105903,7 +105931,15 @@
     "brand": "Redmi",
     "name": "REDMI 15C 5G"
   },
+  "26020RNB4I": {
+    "brand": "Redmi",
+    "name": "REDMI A7"
+  },
   "25128RN17A": {
+    "brand": "Redmi",
+    "name": "REDMI A7 Pro"
+  },
+  "25128RN17I": {
     "brand": "Redmi",
     "name": "REDMI A7 Pro"
   },
@@ -106022,6 +106058,10 @@
   "25057RA09C": {
     "brand": "Redmi",
     "name": "REDMI Note 15R"
+  },
+  "24094RAD4C": {
+    "brand": "Redmi",
+    "name": "Redmi Note 14 5G"
   },
   "25040RP0AC": {
     "brand": "Redmi",
@@ -106910,10 +106950,6 @@
   "24117RN76O": {
     "brand": "Redmi",
     "name": "Redmi Note 14"
-  },
-  "24094RAD4C": {
-    "brand": "Redmi",
-    "name": "Redmi Note 14 5G"
   },
   "24094RAD4I": {
     "brand": "Redmi",
@@ -126435,6 +126471,10 @@
     "brand": "SinoGNSS",
     "name": "R60 Data Collector"
   },
+  "TA-L": {
+    "brand": "Sinoeview",
+    "name": "TA_IFPD"
+  },
   "SINTEL-X1": {
     "brand": "Sintel",
     "name": "SINTEL-X1"
@@ -127570,6 +127610,10 @@
   "T702": {
     "brand": "Xgody",
     "name": "T702"
+  },
+  "T702S": {
+    "brand": "Smartfy",
+    "name": "T702S"
   },
   "Smarti T2 plus": {
     "brand": "Smarti",
@@ -139142,6 +139186,10 @@
   "MI_1": {
     "brand": "TOUMAI",
     "name": "MI_1"
+  },
+  "TOXIIK_A30": {
+    "brand": "TOXIIK",
+    "name": "A30"
   },
   "A7K": {
     "brand": "TOXIIK",
@@ -163559,10 +163607,6 @@
     "brand": "ZTE",
     "name": "中兴远航41"
   },
-  "P10MAX": {
-    "brand": "ZTLEKE",
-    "name": "P10MAX"
-  },
   "P10MAX2": {
     "brand": "ZTLEKE",
     "name": "P10MAX2"
@@ -164714,6 +164758,10 @@
   "STELLAR P8": {
     "brand": "Zuum",
     "name": "STELLAR_P8"
+  },
+  "Sens G Ultra": {
+    "brand": "Zuum",
+    "name": "Sens_G_Ultra"
   },
   "Stellar Max": {
     "brand": "Zuum",
@@ -169409,7 +169457,7 @@
   },
   "V2531A": {
     "brand": "vivo",
-    "name": "Y500s AI版"
+    "name": "Y6"
   },
   "V2443BA": {
     "brand": "vivo",
@@ -169426,6 +169474,10 @@
   "V2559A": {
     "brand": "vivo",
     "name": "Y6t"
+  },
+  "V2561A": {
+    "brand": "vivo",
+    "name": "Y600 Pro AI版"
   },
   "V2559BA": {
     "brand": "vivo",
