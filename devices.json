@@ -2689,7 +2689,7 @@
   },
   "AS10L": {
     "brand": "Acer",
-    "name": "AS10L"
+    "name": "AS10L_A16"
   },
   "AS10W": {
     "brand": "Acer",
@@ -19674,6 +19674,10 @@
   "Kil-82WFDC": {
     "brand": "Ceibal",
     "name": "Kil-82WFDC"
+  },
+  "Minchir": {
+    "brand": "Ceibal",
+    "name": "Minchir"
   },
   "bnd": {
     "brand": "Teclast",
@@ -109211,6 +109215,10 @@
     "brand": "SPC",
     "name": "GRAVITY_6_SE_11_EEA"
   },
+  "GRAVITY_PRO": {
+    "brand": "SPC",
+    "name": "GRAVITY_7_PRO_11_EEA"
+  },
   "Gravity Max": {
     "brand": "SPC Universe",
     "name": "Gravity_Max"
@@ -139871,6 +139879,10 @@
     "brand": "Techview",
     "name": "S1000Pro"
   },
+  "S15Pro": {
+    "brand": "Techview",
+    "name": "S15Pro"
+  },
   "S17Pro": {
     "brand": "Techview",
     "name": "S17Pro"
@@ -165618,6 +165630,10 @@
   "T30A": {
     "brand": "hitabt",
     "name": "T30A_SY07PC01"
+  },
+  "hoco_A15": {
+    "brand": "hoco",
+    "name": "hoco_A15"
   },
   "A523 PRO": {
     "brand": "hoco",
