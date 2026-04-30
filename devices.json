@@ -96907,6 +96907,10 @@
     "brand": "POCO",
     "name": "POCO C75 5G"
   },
+  "25128PC17I": {
+    "brand": "POCO",
+    "name": "POCO C81"
+  },
   "26020PCB4I": {
     "brand": "POCO",
     "name": "POCO C81x"
@@ -141854,6 +141858,10 @@
   "TECNO LJ9": {
     "brand": "Tecno",
     "name": "TECNO POVA 7 Ultra 5G"
+  },
+  "TECNO LK6": {
+    "brand": "Tecno",
+    "name": "TECNO POVA 8 5G"
   },
   "TECNO LK7k": {
     "brand": "Tecno",
