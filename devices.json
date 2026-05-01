@@ -10973,7 +10973,7 @@
   },
   "M17T11": {
     "brand": "Azeyou",
-    "name": "M17T11"
+    "name": "M17T11_US"
   },
   "M87QF6-4G": {
     "brand": "Azeyou",
@@ -30125,7 +30125,7 @@
   },
   "C30plus": {
     "brand": "ECOPAD",
-    "name": "C30plus_EEA"
+    "name": "C30plus_US"
   },
   "C5Pro": {
     "brand": "ECOPAD",
@@ -60283,6 +60283,10 @@
     "brand": "JMTMEDIA",
     "name": "e_Smart"
   },
+  "J2502": {
+    "brand": "JOVI",
+    "name": "JOVI T1 5G"
+  },
   "V2440": {
     "brand": "vivo",
     "name": "vivo V50 Lite 5G"
@@ -70341,7 +70345,7 @@
   },
   "Z1A": {
     "brand": "LZF(shenzhen)",
-    "name": "Z1A"
+    "name": "Z1A_US"
   },
   "Z2": {
     "brand": "iBRIT",
@@ -96675,6 +96679,10 @@
     "brand": "PEICHENG",
     "name": "YQ11MK"
   },
+  "ZB10A": {
+    "brand": "PEICHENG",
+    "name": "ZB10A"
+  },
   "ZB31": {
     "brand": "PEICHENG",
     "name": "ZB31"
@@ -104339,6 +104347,10 @@
     "brand": "Quantum",
     "name": "Elise_T65V"
   },
+  "Elise T90A": {
+    "brand": "Quantum",
+    "name": "Elise_T65V"
+  },
   "Quantum Fly": {
     "brand": "Quantum",
     "name": "FLY"
@@ -105866,6 +105878,10 @@
   "D101": {
     "brand": "RebotAi",
     "name": "D101_EEA"
+  },
+  "D101_PRO": {
+    "brand": "RebotAi",
+    "name": "D101"
   },
   "D101_EEA": {
     "brand": "RebotAi",
@@ -110338,6 +110354,10 @@
   "P11_pro_EEA": {
     "brand": "SVITOO",
     "name": "P11_pro_EEA"
+  },
+  "P12_A": {
+    "brand": "SVITOO",
+    "name": "P12_A_US"
   },
   "TAB_P10": {
     "brand": "SVITOO",
@@ -144267,6 +144287,10 @@
     "brand": "TrueIDTV",
     "name": "T3AMX3"
   },
+  "SGG-06": {
+    "brand": "TrumpMobile",
+    "name": "T1"
+  },
   "PS01": {
     "brand": "TrustKernel",
     "name": "PS01"
@@ -145902,6 +145926,10 @@
   "unifi-TV": {
     "brand": "Unifi-TV",
     "name": "unifi-TV"
+  },
+  "Q6511Y": {
+    "brand": "Unifone",
+    "name": "Q6511Y"
   },
   "U5_Breeze": {
     "brand": "Unifone",
@@ -169239,6 +169267,10 @@
     "brand": "vivo",
     "name": "T4 Ultra"
   },
+  "V2602": {
+    "brand": "vivo",
+    "name": "T5 Pro"
+  },
   "V2568": {
     "brand": "vivo",
     "name": "T5 Pro 5G"
@@ -169302,6 +169334,10 @@
   "V2558": {
     "brand": "vivo",
     "name": "V70 FE"
+  },
+  "V2615": {
+    "brand": "vivo",
+    "name": "V70 Lite 5G"
   },
   "V2436A": {
     "brand": "vivo",
