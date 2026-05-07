@@ -7137,7 +7137,7 @@
   },
   "AP2718T": {
     "brand": "Apolosign",
-    "name": "Packgo"
+    "name": "PackgoAP2718T"
   },
   "SW3299T": {
     "brand": "Apolosign",
@@ -18074,6 +18074,10 @@
   "CTABLOTUSV2": {
     "brand": "CEPTER",
     "name": "CTABLOTUSV2"
+  },
+  "CTABNEXT10S": {
+    "brand": "CEPTER",
+    "name": "CTABNEXT10S"
   },
   "CTABNEXUS": {
     "brand": "CEPTER",
@@ -47383,6 +47387,10 @@
     "brand": "Homatics",
     "name": "Global"
   },
+  "G Series": {
+    "brand": "Homatics",
+    "name": "G Series"
+  },
   "Dongle G 4K": {
     "brand": "Homatics",
     "name": "Global"
@@ -55606,6 +55614,10 @@
   "WH2-9832": {
     "brand": "INSYS",
     "name": "WH2-9832"
+  },
+  "YP-10": {
+    "brand": "INStaD",
+    "name": "YP-10"
   },
   "IN101": {
     "brand": "INTELITY",
@@ -73883,6 +73895,18 @@
     "brand": "Lenovo",
     "name": "Lenovo Tab6"
   },
+  "TB353FU": {
+    "brand": "Lenovo",
+    "name": "Lenovo ThinkTab X11 Gen 1 / Lenovo ThinkTab X11 (EG)"
+  },
+  "TB353ZA": {
+    "brand": "Lenovo",
+    "name": "Lenovo ThinkTab X11 Gen 1 / Lenovo ThinkTab X11 (EG)"
+  },
+  "TB353ZU": {
+    "brand": "Lenovo",
+    "name": "Lenovo ThinkTab X11 Gen 1 / Lenovo ThinkTab X11 (EG)"
+  },
   "Lenovo X2-CU": {
     "brand": "Lenovo",
     "name": "Lenovo X2-CU/VIBE X2"
@@ -91591,6 +91615,14 @@
     "brand": "OnePlus",
     "name": "OnePlus Nord CE4 Lite 5G"
   },
+  "CPH2807": {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord CE6"
+  },
+  "CPH2943": {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord CE6 Lite"
+  },
   "BE2026": {
     "brand": "OnePlus",
     "name": "OnePlus Nord N10 5G"
@@ -96611,6 +96643,10 @@
     "brand": "PEICHENG",
     "name": "AT74K"
   },
+  "CP10SPro": {
+    "brand": "PEICHENG",
+    "name": "CP10SPro"
+  },
   "CP10S_Pro": {
     "brand": "PEICHENG",
     "name": "CP10S_Pro"
@@ -96918,6 +96954,10 @@
   "25128PC17I": {
     "brand": "POCO",
     "name": "POCO C81"
+  },
+  "25128PC17G": {
+    "brand": "POCO",
+    "name": "POCO C81 Pro"
   },
   "26020PCB4I": {
     "brand": "POCO",
@@ -102778,6 +102818,10 @@
   "L1108": {
     "brand": "Pretech",
     "name": "1108A"
+  },
+  "L1008": {
+    "brand": "Pretech",
+    "name": "L1008"
   },
   "P301_L1108": {
     "brand": "Pretech",
@@ -110401,7 +110445,7 @@
   },
   "V13_B": {
     "brand": "SVITOO",
-    "name": "V13_B_EEA"
+    "name": "V13_B_US"
   },
   "SWA310": {
     "brand": "SWACONNECT",
@@ -132473,7 +132517,7 @@
   },
   "T12 Pro": {
     "brand": "TABWEE",
-    "name": "T12_Pro_NEU"
+    "name": "T12_Pro_RU"
   },
   "T60": {
     "brand": "Wiko",
@@ -144290,10 +144334,6 @@
   "T3AMX3": {
     "brand": "TrueIDTV",
     "name": "T3AMX3"
-  },
-  "SGG-06": {
-    "brand": "TrumpMobile",
-    "name": "T1"
   },
   "PS01": {
     "brand": "TrustKernel",
@@ -167951,6 +167991,10 @@
     "brand": "realme",
     "name": "realme Note 70T"
   },
+  "RMX5366": {
+    "brand": "realme",
+    "name": "realme C100x"
+  },
   "RMX5377": {
     "brand": "realme",
     "name": "realme C100i"
@@ -169340,6 +169384,10 @@
     "name": "V70 FE"
   },
   "V2615": {
+    "brand": "vivo",
+    "name": "V70 Lite 5G"
+  },
+  "V2637": {
     "brand": "vivo",
     "name": "V70 Lite 5G"
   },
