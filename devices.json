@@ -10963,6 +10963,10 @@
     "brand": "Azeyou",
     "name": "AT_701B"
   },
+  "F27E": {
+    "brand": "Azeyou",
+    "name": "F27E"
+  },
   "F8": {
     "brand": "Telego",
     "name": "F8"
@@ -40582,6 +40586,10 @@
   "XPLAY3": {
     "brand": "HOLO",
     "name": "XPLAY3"
+  },
+  "A510 4G": {
+    "brand": "HOLO",
+    "name": "XULTRA2"
   },
   "XULTRA2": {
     "brand": "HOLO",
@@ -107575,6 +107583,10 @@
     "brand": "Relndoo",
     "name": "P60_EUR"
   },
+  "P60_U": {
+    "brand": "Relndoo",
+    "name": "P60_U"
+  },
   "P60_US": {
     "brand": "Relndoo",
     "name": "P60_US"
@@ -169418,6 +169430,18 @@
   "V2515": {
     "brand": "vivo",
     "name": "X300"
+  },
+  "V2537": {
+    "brand": "vivo",
+    "name": "X300 FE"
+  },
+  "V2542": {
+    "brand": "vivo",
+    "name": "X300 FE"
+  },
+  "V2633": {
+    "brand": "vivo",
+    "name": "X300 FE"
   },
   "V2502A": {
     "brand": "vivo",
