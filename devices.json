@@ -18075,6 +18075,10 @@
     "brand": "CEPTER",
     "name": "CTABEVOP12"
   },
+  "CTABLOTUS11KB": {
+    "brand": "CEPTER",
+    "name": "CTABLOTUS11KB"
+  },
   "CTABLOTUSV2": {
     "brand": "CEPTER",
     "name": "CTABLOTUSV2"
@@ -18584,8 +18588,8 @@
     "name": "CP10"
   },
   "CP20": {
-    "brand": "COOPERS",
-    "name": "CP20"
+    "brand": "PEICHENG",
+    "name": "CP20SA"
   },
   "CP20_EEA": {
     "brand": "COOPERS",
@@ -47379,6 +47383,10 @@
     "brand": "Homatics",
     "name": "Box R 4K Plus"
   },
+  "Box R Lite 4K": {
+    "brand": "Homatics",
+    "name": "Box R Lite 4K"
+  },
   "CTV 4K BOX": {
     "brand": "Homatics",
     "name": "CTV 4K BOX"
@@ -47426,10 +47434,6 @@
   "TG STREAM 2": {
     "brand": "Homatics",
     "name": "TG STREAM 2"
-  },
-  "Box R Lite 4K": {
-    "brand": "Homatics",
-    "name": "Test"
   },
   "XR Theater G": {
     "brand": "Homatics",
@@ -48219,6 +48223,10 @@
     "brand": "Honor",
     "name": "HONOR X5d"
   },
+  "NAA-LX3": {
+    "brand": "Honor",
+    "name": "HONOR X5d"
+  },
   "NAA-LX2P": {
     "brand": "Honor",
     "name": "HONOR X5d Plus"
@@ -48346,6 +48354,10 @@
   "LGN-LX3": {
     "brand": "Honor",
     "name": "HONOR X7d"
+  },
+  "LAB-LX2": {
+    "brand": "Honor",
+    "name": "HONOR X7e"
   },
   "TFY-LX1": {
     "brand": "Honor",
@@ -84459,6 +84471,10 @@
     "brand": "Motorola",
     "name": "motorola edge 60 pro"
   },
+  "moto g - 2026": {
+    "brand": "Motorola",
+    "name": "moto g - 2026"
+  },
   "moto g 5G": {
     "brand": "Motorola",
     "name": "moto g 5G"
@@ -84495,6 +84511,14 @@
     "brand": "Motorola",
     "name": "moto g fast"
   },
+  "moto g max": {
+    "brand": "Motorola",
+    "name": "moto g87"
+  },
+  "moto g67": {
+    "brand": "Motorola",
+    "name": "moto g87"
+  },
   "moto g play (2021)": {
     "brand": "Motorola",
     "name": "moto g play (2021)"
@@ -84506,6 +84530,10 @@
   "motorola edge 40 pro": {
     "brand": "Motorola",
     "name": "motorola edge 50 ultra"
+  },
+  "moto g play - 2026": {
+    "brand": "Motorola",
+    "name": "moto g play - 2026"
   },
   "moto g power": {
     "brand": "Motorola",
@@ -84943,10 +84971,6 @@
     "brand": "Motorola",
     "name": "moto g66y 5G"
   },
-  "moto g67": {
-    "brand": "Motorola",
-    "name": "moto g67"
-  },
   "XT2533-4": {
     "brand": "Motorola",
     "name": "moto g67 power 5G"
@@ -85002,6 +85026,10 @@
   "moto g86 power 5G": {
     "brand": "Motorola",
     "name": "moto g86 power 5G"
+  },
+  "moto g87": {
+    "brand": "Motorola",
+    "name": "moto g87"
   },
   "moto g96 5G": {
     "brand": "Motorola",
@@ -85334,6 +85362,10 @@
   "motorola razr 60s": {
     "brand": "Motorola",
     "name": "motorola razr 60s"
+  },
+  "motorola razr 70 plus": {
+    "brand": "Motorola",
+    "name": "motorola razr 70 plus"
   },
   "motorola razr fold": {
     "brand": "Motorola",
@@ -91706,6 +91738,10 @@
   "OPD2407": {
     "brand": "OnePlus",
     "name": "OnePlus Pad"
+  },
+  "OPD2514": {
+    "brand": "OnePlus",
+    "name": "OnePlus Pad 4"
   },
   "OPD2304": {
     "brand": "OnePlus",
@@ -99430,6 +99466,10 @@
   "S8306": {
     "brand": "Philips",
     "name": "S8306"
+  },
+  "S8308": {
+    "brand": "Philips",
+    "name": "S8308"
   },
   "SWTV": {
     "brand": "Skyworth",
@@ -108157,11 +108197,11 @@
   },
   "Orange Kova one": {
     "brand": "Ruio",
-    "name": "S5521"
+    "name": "S5521Q"
   },
   "S5521": {
     "brand": "Ruio",
-    "name": "S5521"
+    "name": "S5521Q"
   },
   "S6506": {
     "brand": "Ruio",
@@ -110670,6 +110710,10 @@
   "SWTV-25TGL-4K": {
     "brand": "SWTV",
     "name": "SWTV-25TGL-4K"
+  },
+  "SWTV-26AE-4K": {
+    "brand": "SWTV",
+    "name": "SWTV-26AE-4K"
   },
   "SLTDVD1024": {
     "brand": "SYLVANIA",
@@ -125837,7 +125881,7 @@
   },
   "SHARP 2K Smart TV": {
     "brand": "Sharp",
-    "name": "SHARP 2K Smart TV"
+    "name": "SHARP PH 2K Smart TV"
   },
   "SHARP 2K TV": {
     "brand": "Sharp",
@@ -132627,6 +132671,10 @@
     "brand": "TCL",
     "name": "AQUOS V6 plus"
   },
+  "8189K": {
+    "brand": "TCL",
+    "name": "AT&T amiGO™ Jr. Tab 2"
+  },
   "5033E": {
     "brand": "TCL",
     "name": "GO5c"
@@ -133726,6 +133774,10 @@
   "9032": {
     "brand": "TCT (Alcatel)",
     "name": "alcatel 3T8 WIFI"
+  },
+  "8189R": {
+    "brand": "TCL",
+    "name": "TCL TAB 8 NXTPAPER 5G"
   },
   "8189S": {
     "brand": "TCL",
@@ -143631,6 +143683,10 @@
     "brand": "Topsand",
     "name": "N8_Plus"
   },
+  "SK-315": {
+    "brand": "Topwise",
+    "name": "SK-315"
+  },
   "SK210": {
     "brand": "Topwise",
     "name": "SK210"
@@ -144346,6 +144402,10 @@
   "T3AMX3": {
     "brand": "TrueIDTV",
     "name": "T3AMX3"
+  },
+  "SGG-06": {
+    "brand": "TrumpMobile",
+    "name": "T1"
   },
   "PS01": {
     "brand": "TrustKernel",
@@ -169327,6 +169387,10 @@
     "brand": "vivo",
     "name": "T4 Ultra"
   },
+  "V2583": {
+    "brand": "vivo",
+    "name": "T5"
+  },
   "V2602": {
     "brand": "vivo",
     "name": "T5 Pro"
@@ -169549,7 +169613,7 @@
   },
   "V2543": {
     "brand": "vivo",
-    "name": "Y31d"
+    "name": "Y31d Pro"
   },
   "V2546": {
     "brand": "vivo",
