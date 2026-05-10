@@ -17099,6 +17099,10 @@
     "brand": "Blu",
     "name": "X5 PLUS"
   },
+  "C8": {
+    "brand": "SGIN",
+    "name": "C8"
+  },
   "D1": {
     "brand": "kozen",
     "name": "D1"
@@ -17610,10 +17614,6 @@
   "KS_T01": {
     "brand": "Brightside",
     "name": "KS_T01"
-  },
-  "C8": {
-    "brand": "SGIN",
-    "name": "C8"
   },
   "M8047IU": {
     "brand": "Brightstar",
@@ -84863,6 +84863,10 @@
     "brand": "Motorola",
     "name": "moto g35 5G"
   },
+  "moto g37": {
+    "brand": "Motorola",
+    "name": "moto g37"
+  },
   "moto g(40) fusion": {
     "brand": "Motorola",
     "name": "moto g40 fusion"
@@ -85353,7 +85357,7 @@
   },
   "motorola razr 60 ultra": {
     "brand": "Motorola",
-    "name": "motorola razr 60 ultra"
+    "name": "motorola razr 70 ultra"
   },
   "M-51F": {
     "brand": "Motorola",
@@ -85366,6 +85370,10 @@
   "motorola razr 70 plus": {
     "brand": "Motorola",
     "name": "motorola razr 70 plus"
+  },
+  "motorola razr 70 ultra": {
+    "brand": "Motorola",
+    "name": "motorola razr 70 ultra"
   },
   "motorola razr fold": {
     "brand": "Motorola",
