@@ -17707,6 +17707,10 @@
     "brand": "Bubblegum",
     "name": "Junior_7"
   },
+  "Junior_7_LTE": {
+    "brand": "Bubblegum",
+    "name": "Junior_7_LTE"
+  },
   "P3": {
     "brand": "Oale",
     "name": "P3"
@@ -32214,6 +32218,10 @@
   "ENTG1011": {
     "brand": "Entity",
     "name": "ENTG1011"
+  },
+  "ENTITY_ERA_TAB_8": {
+    "brand": "Entity",
+    "name": "ENTITY_ERA_TAB_8"
   },
   "ENTITY_G102IN1HARDKB": {
     "brand": "Entity",
@@ -59691,6 +59699,10 @@
     "brand": "Itel",
     "name": "itel A04s"
   },
+  "itel A669W": {
+    "brand": "Itel",
+    "name": "itel A06"
+  },
   "itel A673L": {
     "brand": "Itel",
     "name": "itel A100"
@@ -59849,7 +59861,7 @@
   },
   "itel A669L": {
     "brand": "Itel",
-    "name": "itel A50C"
+    "name": "itel-A669L"
   },
   "itel A510W": {
     "brand": "Itel",
@@ -59949,7 +59961,7 @@
   },
   "itel C681LN": {
     "brand": "Itel",
-    "name": "itel CITY 200"
+    "name": "itel CITY 200s"
   },
   "itel C672L": {
     "brand": "Itel",
@@ -61166,6 +61178,10 @@
   "Joystar J6": {
     "brand": "JoyStar",
     "name": "J6"
+  },
+  "A310 4G": {
+    "brand": "JoyStar",
+    "name": "JoyStar_J10"
   },
   "JoyStar_J10": {
     "brand": "JoyStar",
@@ -76342,6 +76358,10 @@
   "Pad_17": {
     "brand": "M-Horse",
     "name": "Pad_17"
+  },
+  "Pad_17Pro": {
+    "brand": "M-Horse",
+    "name": "Pad_17Pro"
   },
   "Pad_17ProMax": {
     "brand": "M-Horse",
@@ -96691,6 +96711,10 @@
     "brand": "SABA",
     "name": "Smart TV"
   },
+  "PLPro": {
+    "brand": "PEEPandLEARN",
+    "name": "PLPro"
+  },
   "AT74K": {
     "brand": "PEICHENG",
     "name": "AT74K"
@@ -108586,6 +108610,10 @@
   "NOTE_80": {
     "brand": "SEGO",
     "name": "SEGO_NOTE_80"
+  },
+  "Smart_20_HD": {
+    "brand": "SEGO",
+    "name": "SEGO_Smart_20_HD"
   },
   "ZERO 50": {
     "brand": "SEGO",
