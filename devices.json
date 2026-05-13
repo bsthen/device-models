@@ -2831,6 +2831,10 @@
     "brand": "Acer",
     "name": "Acer One 8 T4-82L"
   },
+  "Acer One 8 T4-82L-G2": {
+    "brand": "Acer",
+    "name": "Acer One 8 T4-82L-G2"
+  },
   "AcerOne8T4-82L-G2": {
     "brand": "Acer",
     "name": "Acer One 8 T4-82L-G2"
@@ -18095,6 +18099,10 @@
     "brand": "CEPTER",
     "name": "CTABNEXUS"
   },
+  "CTABNEXUS6128": {
+    "brand": "CEPTER",
+    "name": "CTABNEXUS6128"
+  },
   "CTABNEXUS8128": {
     "brand": "CEPTER",
     "name": "CTABNEXUS8128"
@@ -24590,6 +24598,10 @@
   "PRO4": {
     "brand": "DEPLAY",
     "name": "PRO4"
+  },
+  "DEPLAY_SMART5PLUS": {
+    "brand": "DEPLAY",
+    "name": "SMART5PLUS_B"
   },
   "DEVOPS_MT9679": {
     "brand": "DEVOPS",
@@ -91875,6 +91887,10 @@
     "brand": "OnePlus",
     "name": "一加平板 2 Pro"
   },
+  "OPD2513": {
+    "brand": "OnePlus",
+    "name": "一加平板 3 Pro"
+  },
   "OPD2404": {
     "brand": "OnePlus",
     "name": "一加平板Pro"
@@ -122507,6 +122523,10 @@
     "brand": "Samsung",
     "name": "Galaxy Wide8"
   },
+  "SM-M176S": {
+    "brand": "Samsung",
+    "name": "Galaxy Wide9"
+  },
   "GT-I8558": {
     "brand": "Samsung",
     "name": "Galaxy Win"
@@ -138960,6 +138980,10 @@
     "name": "TIM BOX"
   },
   "TIMVISION Box": {
+    "brand": "TIM",
+    "name": "TIMVISION Box"
+  },
+  "TIMVISION Crystal": {
     "brand": "TIM",
     "name": "TIMVISION Box"
   },
