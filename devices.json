@@ -257,7 +257,7 @@
   },
   "T90": {
     "brand": "TABWEE",
-    "name": "T90_NEU"
+    "name": "T90_US"
   },
   "T_50": {
     "brand": "AAUW",
@@ -76373,7 +76373,7 @@
   },
   "Pad_17Pro": {
     "brand": "M-Horse",
-    "name": "Pad_17Pro"
+    "name": "Pad_17Pro_RU"
   },
   "Pad_17ProMax": {
     "brand": "M-Horse",
@@ -93311,6 +93311,10 @@
     "brand": "Oppo",
     "name": "F31 Pro+ 5G"
   },
+  "CPH2777": {
+    "brand": "Oppo",
+    "name": "F33 5G"
+  },
   "CPH2835": {
     "brand": "Oppo",
     "name": "F33 Pro 5G"
@@ -105535,6 +105539,10 @@
     "brand": "Realix",
     "name": "RxIS202"
   },
+  "RxIS203": {
+    "brand": "Realix",
+    "name": "RxIS203"
+  },
   "RMX2020": {
     "brand": "Realme",
     "name": "realme C3"
@@ -106235,6 +106243,14 @@
     "brand": "Redmi",
     "name": "REDMI Pad 2"
   },
+  "2603ARP14G": {
+    "brand": "Redmi",
+    "name": "REDMI Pad 2 9.7"
+  },
+  "2604ERP4DG": {
+    "brand": "Redmi",
+    "name": "REDMI Pad 2 9.7 4G"
+  },
   "25099RP13C": {
     "brand": "Redmi",
     "name": "REDMI Pad 2 Pro"
@@ -106242,6 +106258,10 @@
   "2603ARP14C": {
     "brand": "Redmi",
     "name": "REDMI Pad 2 SE"
+  },
+  "2604ERP4DC": {
+    "brand": "Redmi",
+    "name": "REDMI Pad 2 SE 4G"
   },
   "24129RT7CC": {
     "brand": "Redmi",
