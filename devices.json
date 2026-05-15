@@ -31111,6 +31111,10 @@
     "brand": "FUSE4K",
     "name": "FUSE 4K"
   },
+  "FUSE4K-Armstrong": {
+    "brand": "EVO FUSE 4K",
+    "name": "EVOFUSE4K-AS"
+  },
   "FUSE4K-Bluestream": {
     "brand": "EVO FUSE 4K",
     "name": "EVOFUSE4K-BS"
@@ -37557,7 +37561,7 @@
   },
   "66896": {
     "brand": "Get",
-    "name": "66896"
+    "name": "72839"
   },
   "Get boX": {
     "brand": "Get",
@@ -60956,8 +60960,8 @@
     "name": "X30"
   },
   "A20Pro_ROW": {
-    "brand": "Jckkcfug",
-    "name": "A20Pro_ROW"
+    "brand": "Rebecco",
+    "name": "X30"
   },
   "A20_ROW": {
     "brand": "Jckkcfug",
@@ -128375,6 +128379,30 @@
     "brand": "Sony",
     "name": "Xperia 1 VII"
   },
+  "A601SO": {
+    "brand": "Sony",
+    "name": "Xperia 1 VIII"
+  },
+  "SO-51G": {
+    "brand": "Sony",
+    "name": "Xperia 1 VIII"
+  },
+  "SOG17": {
+    "brand": "Sony",
+    "name": "Xperia 1 VIII"
+  },
+  "XQ-GE44": {
+    "brand": "Sony",
+    "name": "Xperia 1 VIII"
+  },
+  "XQ-GE54": {
+    "brand": "Sony",
+    "name": "Xperia 1 VIII"
+  },
+  "XQ-GE74": {
+    "brand": "Sony",
+    "name": "Xperia 1 VIII"
+  },
   "I3113": {
     "brand": "Sony",
     "name": "Xperia 10"
@@ -167166,6 +167194,10 @@
   "I2505": {
     "brand": "iQOO",
     "name": "iQOO Z10R 5G"
+  },
+  "I2512": {
+    "brand": "iQOO",
+    "name": "iQOO Z11 5G"
   },
   "V2536A": {
     "brand": "iQOO",
