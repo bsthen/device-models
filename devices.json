@@ -20983,6 +20983,10 @@
     "brand": "Ciontek",
     "name": "CS50C"
   },
+  "CS50S": {
+    "brand": "Ciontek",
+    "name": "CS50S"
+  },
   "RK25": {
     "brand": "Cipherlab",
     "name": "RK25"
@@ -85365,7 +85369,7 @@
   },
   "motorola razr 50": {
     "brand": "Motorola",
-    "name": "motorola razr 60"
+    "name": "motorola razr 70"
   },
   "motorola razr 50 ultra": {
     "brand": "Motorola",
@@ -85402,6 +85406,10 @@
   "motorola razr 60s": {
     "brand": "Motorola",
     "name": "motorola razr 60s"
+  },
+  "motorola razr 70": {
+    "brand": "Motorola",
+    "name": "motorola razr 70"
   },
   "motorola razr 70 plus": {
     "brand": "Motorola",
@@ -90626,6 +90634,10 @@
   "ONIDA 4K Android TV": {
     "brand": "ONIDA",
     "name": "ONIDA 4K Android TV"
+  },
+  "Luxon": {
+    "brand": "ONPAD",
+    "name": "Luxon"
   },
   "Vexon": {
     "brand": "ONPAD",
@@ -100011,6 +100023,10 @@
     "brand": "Plimpton",
     "name": "Kids10_A15_EEA"
   },
+  "Kids10_A15_US": {
+    "brand": "Plimpton",
+    "name": "Kids10_A15_US"
+  },
   "Kids10_A16_EEA_JAE": {
     "brand": "Plimpton",
     "name": "Kids10_A16_EEA_JAE"
@@ -106016,6 +106032,10 @@
     "name": "AD11_EEA"
   },
   "AF12": {
+    "brand": "RebotAi",
+    "name": "AF12_EEA"
+  },
+  "AF12_EEA": {
     "brand": "RebotAi",
     "name": "AF12_EEA"
   },
@@ -133546,6 +133566,10 @@
   "T522A": {
     "brand": "TCL",
     "name": "TCL K70 4G"
+  },
+  "T523H": {
+    "brand": "TCL",
+    "name": "TCL K70 5G"
   },
   "T522E": {
     "brand": "TCL",
