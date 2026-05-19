@@ -30161,7 +30161,7 @@
   },
   "C5Pro": {
     "brand": "ECOPAD",
-    "name": "C5Pro_EEA"
+    "name": "C5Pro_US"
   },
   "K12L1": {
     "brand": "ECOPAD",
@@ -34329,7 +34329,7 @@
   },
   "Fairphone 6": {
     "brand": "Fairphone",
-    "name": "The Fairphone (Gen. 6)"
+    "name": "The Fairphone (Gen. 6+)"
   },
   "Famous Red 5+": {
     "brand": "Famous Fones",
@@ -35462,6 +35462,10 @@
   "Foxtel Now box": {
     "brand": "Foxtel",
     "name": "Foxtel Now box"
+  },
+  "H6573": {
+    "brand": "Franko",
+    "name": "Franko A03"
   },
   "Free_Liberty_Plus": {
     "brand": "Free",
@@ -95019,13 +95023,13 @@
     "brand": "Opticon",
     "name": "H-35"
   },
-  "SXXSRK": {
-    "brand": "Optoma",
-    "name": "IFP3Gen3"
-  },
   "UXXSRK": {
     "brand": "Optoma",
     "name": "IFP5Gen3"
+  },
+  "SXXSRK": {
+    "brand": "Optoma",
+    "name": "IFP3Gen3"
   },
   "ACONZZ": {
     "brand": "Optoma",
@@ -124247,6 +124251,14 @@
     "brand": "Sharp",
     "name": "401SH"
   },
+  "AQUOS-4KTVJ26-2": {
+    "brand": "Sharp",
+    "name": "4T-**S7A/X7A"
+  },
+  "AQUOS-4KTVJ26-1": {
+    "brand": "Sharp",
+    "name": "4T-**S9A/X9A"
+  },
   "AQUOS-TVJ18": {
     "brand": "Sharp",
     "name": "4T-C**AM1/AN1/AL1,8T-C**AX1/AW1"
@@ -131674,6 +131686,10 @@
   "EZ 2": {
     "brand": "Sun_King",
     "name": "EZ 2"
+  },
+  "EZ 3 Pro": {
+    "brand": "Sun_King",
+    "name": "EZ 3 Pro"
   },
   "EZ 1": {
     "brand": "Sun_King",
@@ -169572,6 +169588,10 @@
     "name": "V70"
   },
   "V2540": {
+    "brand": "vivo",
+    "name": "V70"
+  },
+  "V2588": {
     "brand": "vivo",
     "name": "V70"
   },
