@@ -33619,6 +33619,10 @@
     "brand": "FCNT",
     "name": "arrows We2 Plus M06"
   },
+  "M09": {
+    "brand": "FCNT",
+    "name": "arrows We3 M09"
+  },
   "F100": {
     "brand": "Gionee",
     "name": "F100"
@@ -35463,6 +35467,10 @@
     "brand": "Foxtel",
     "name": "Foxtel Now box"
   },
+  "H6733": {
+    "brand": "Mobiwire",
+    "name": "GH6733"
+  },
   "H6573": {
     "brand": "Franko",
     "name": "Franko A03"
@@ -36474,6 +36482,10 @@
   "T13": {
     "brand": "PAWBO",
     "name": "T13"
+  },
+  "T13_PRO": {
+    "brand": "G-Tab",
+    "name": "T13_PRO"
   },
   "T14": {
     "brand": "RUGLINE",
@@ -43494,6 +43506,10 @@
   "T3L2": {
     "brand": "HUIHUANG",
     "name": "T3L2_EEA"
+  },
+  "X10S": {
+    "brand": "XMART",
+    "name": "X10S"
   },
   "CW-SPCM": {
     "brand": "HUSHIDA",
@@ -60382,6 +60398,10 @@
   "J2508": {
     "brand": "JOVI",
     "name": "JOVI Y21 5G"
+  },
+  "J2601": {
+    "brand": "JOVI",
+    "name": "JOVI Y21e"
   },
   "V2445": {
     "brand": "JOVI",
@@ -82783,10 +82803,6 @@
     "brand": "Mobiwire",
     "name": "Cygnus mini"
   },
-  "H6733": {
-    "brand": "Mobiwire",
-    "name": "GH6733"
-  },
   "Halona": {
     "brand": "Mobiwire",
     "name": "MobiWire Halona"
@@ -85410,6 +85426,10 @@
   "motorola razr 60s": {
     "brand": "Motorola",
     "name": "motorola razr 60s"
+  },
+  "motorola razr 2026": {
+    "brand": "Motorola",
+    "name": "motorola razr 70"
   },
   "motorola razr 70": {
     "brand": "Motorola",
@@ -108007,6 +108027,10 @@
     "brand": "Rinno",
     "name": "R550"
   },
+  "RK88": {
+    "brand": "Riotouch",
+    "name": "RK88"
+  },
   "RK882": {
     "brand": "Riotouch",
     "name": "RK882"
@@ -124026,6 +124050,10 @@
   "T50PRO": {
     "brand": "SenlinTech",
     "name": "S30-Pro"
+  },
+  "hoco_A15": {
+    "brand": "hoco",
+    "name": "hoco_A15"
   },
   "pad6_EEA": {
     "brand": "SenlinTech",
@@ -155919,10 +155947,6 @@
     "brand": "XL Axiata",
     "name": "XL Home Pow"
   },
-  "X10S": {
-    "brand": "XMART",
-    "name": "X10S"
-  },
   "MegaPAD 1333 Pro 2": {
     "brand": "XORO",
     "name": "MegaPAD_1333_Pro_2"
@@ -165931,10 +165955,6 @@
     "brand": "hitabt",
     "name": "T30A_SY07PC01"
   },
-  "hoco_A15": {
-    "brand": "hoco",
-    "name": "hoco_A15"
-  },
   "A523 PRO": {
     "brand": "hoco",
     "name": "hoco_HI10"
@@ -169087,6 +169107,10 @@
     "brand": "redbeat",
     "name": "redbeatA2"
   },
+  "A2L": {
+    "brand": "redbeat",
+    "name": "redbeatA2L"
+  },
   "redbeatC1": {
     "brand": "redbeat",
     "name": "redbeatC1"
@@ -169791,6 +169815,10 @@
     "brand": "vivo",
     "name": "Y31e 5G"
   },
+  "V2614": {
+    "brand": "vivo",
+    "name": "Y31s 5G"
+  },
   "V2455": {
     "brand": "vivo",
     "name": "Y400"
@@ -169837,7 +169865,7 @@
   },
   "V2559BA": {
     "brand": "vivo",
-    "name": "Y60m"
+    "name": "Y60s m版"
   },
   "V2450": {
     "brand": "vivo",
