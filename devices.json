@@ -60976,8 +60976,8 @@
     "name": "A20Pro_EEA"
   },
   "A20Pro_EEA": {
-    "brand": "Jckkcfug",
-    "name": "A20Pro_EEA"
+    "brand": "Rebecco",
+    "name": "X30_EEA"
   },
   "A20_EEA": {
     "brand": "Jckkcfug",
@@ -69983,13 +69983,13 @@
     "brand": "LOFT",
     "name": "D4xx"
   },
-  "LT-IR65EX": {
-    "brand": "LOGIC",
-    "name": "EX_Series"
-  },
   "Logic_LT_IRXXHX": {
     "brand": "LOGIC",
     "name": "Online Instruments India Pvt. Ltd."
+  },
+  "LT-IR65EX": {
+    "brand": "LOGIC",
+    "name": "EX_Series"
   },
   "Logic_L-PAD_PRO": {
     "brand": "LOGIC",
@@ -73222,6 +73222,10 @@
   "Lenovo K8 Plus": {
     "brand": "Lenovo",
     "name": "Lenovo K8 Plus"
+  },
+  "TB323FU": {
+    "brand": "Lenovo",
+    "name": "平板拯救者Y700 五代"
   },
   "TB321FU": {
     "brand": "Lenovo",
@@ -95660,8 +95664,8 @@
     "name": "C63_Pro_EEA"
   },
   "C65": {
-    "brand": "Oukitel",
-    "name": "C65_EEA"
+    "brand": "Rhino",
+    "name": "supernova"
   },
   "C65 Pro": {
     "brand": "Oukitel",
