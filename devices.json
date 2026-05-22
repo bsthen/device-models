@@ -19339,6 +19339,10 @@
     "brand": "Casper",
     "name": "CTP300"
   },
+  "CTP900": {
+    "brand": "Casper",
+    "name": "CTP900"
+  },
   "Casper 2K Smart TV": {
     "brand": "Casper",
     "name": "Casper 2K Smart TV"
@@ -25971,6 +25975,10 @@
     "brand": "KTCtv",
     "name": "EcoTV Plus A"
   },
+  "DAHUA 2K SMART TV": {
+    "brand": "Dahua",
+    "name": "DAHUA"
+  },
   "EcoTV FHD": {
     "brand": "KTCtv",
     "name": "Smart TV"
@@ -28985,7 +28993,7 @@
   },
   "S90Pro": {
     "brand": "HUIHUANG",
-    "name": "S90Pro_EEA"
+    "name": "S90Pro_US"
   },
   "S95": {
     "brand": "Doogee",
@@ -40178,6 +40186,10 @@
   "PJ209APlus": {
     "brand": "HAVIT",
     "name": "PJ209APlus"
+  },
+  "TUF-1": {
+    "brand": "HAZARD_TALK",
+    "name": "TUF-1"
   },
   "HL_1068_A133": {
     "brand": "HBESTORE",
@@ -57081,7 +57093,7 @@
   },
   "Infinix X1302": {
     "brand": "Infinix",
-    "name": "Infinix XPAD 20 Slim"
+    "name": "Infinix XPAD Edge"
   },
   "Infinix X6821": {
     "brand": "Infinix",
@@ -62306,6 +62318,10 @@
   "EcoTV": {
     "brand": "KTC",
     "name": "EcoTVISDB"
+  },
+  "Eco Smart Display Pro": {
+    "brand": "KTC",
+    "name": "Pisces"
   },
   "Eco Smart Display": {
     "brand": "KTC",
@@ -73186,6 +73202,10 @@
   "TB373FU": {
     "brand": "Lenovo",
     "name": "Lenovo Idea Tab Pro"
+  },
+  "TB390FU": {
+    "brand": "Lenovo",
+    "name": "Lenovo Idea Tab Pro Gen 2"
   },
   "Lenovo L38083": {
     "brand": "Lenovo",
@@ -85119,6 +85139,10 @@
     "brand": "Motorola",
     "name": "moto pad 60 neo"
   },
+  "XT2575-4": {
+    "brand": "Motorola",
+    "name": "moto pad – 2026"
+  },
   "XT2323-3": {
     "brand": "Motorola",
     "name": "moto razr 40"
@@ -85377,7 +85401,11 @@
   },
   "motorola razr 2025": {
     "brand": "Motorola",
-    "name": "motorola razr 2025"
+    "name": "motorola razr 2026"
+  },
+  "motorola razr 2026": {
+    "brand": "Motorola",
+    "name": "motorola razr 70"
   },
   "motorola razr 40 ultra": {
     "brand": "Motorola",
@@ -85430,10 +85458,6 @@
   "motorola razr 60s": {
     "brand": "Motorola",
     "name": "motorola razr 60s"
-  },
-  "motorola razr 2026": {
-    "brand": "Motorola",
-    "name": "motorola razr 70"
   },
   "motorola razr 70": {
     "brand": "Motorola",
@@ -88846,6 +88870,10 @@
   "Mi438S": {
     "brand": "Nexian",
     "name": "journey one"
+  },
+  "NEXT SMART TV": {
+    "brand": "Next",
+    "name": "NEXT"
   },
   "GO7BSC": {
     "brand": "Next Technologies",
@@ -143871,6 +143899,10 @@
     "brand": "Topwise",
     "name": "SK210"
   },
+  "SK315": {
+    "brand": "Topwise",
+    "name": "SK315"
+  },
   "Torex8plus": {
     "brand": "Torex",
     "name": "Rugged_tablets"
@@ -167007,6 +167039,10 @@
     "brand": "iMin",
     "name": "Swan1Pro"
   },
+  "I25D04": {
+    "brand": "iMin",
+    "name": "Swan 3 Pro"
+  },
   "I24D06": {
     "brand": "iMin",
     "name": "Swan1Gen2"
@@ -167022,6 +167058,10 @@
   "I24D04": {
     "brand": "iMin",
     "name": "Swan2Scale"
+  },
+  "I25D03": {
+    "brand": "iMin",
+    "name": "Swan3"
   },
   "I22M01": {
     "brand": "iMin",
@@ -167210,6 +167250,10 @@
   "I2508": {
     "brand": "iQOO",
     "name": "iQOO 15R"
+  },
+  "V2564A": {
+    "brand": "iQOO",
+    "name": "iQOO 15T"
   },
   "I2405": {
     "brand": "iQOO",
@@ -168431,6 +168475,10 @@
     "brand": "realme",
     "name": "realme 16 Pro+ 5G"
   },
+  "RMX5268": {
+    "brand": "realme",
+    "name": "realme 16T 5G"
+  },
   "realme 2K G Smart TV": {
     "brand": "realme",
     "name": "realme 2K G Smart TV"
@@ -169553,7 +169601,7 @@
   },
   "V2528A": {
     "brand": "vivo",
-    "name": "S50"
+    "name": "S50t"
   },
   "V2527A": {
     "brand": "vivo",
