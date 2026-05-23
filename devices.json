@@ -487,6 +487,10 @@
     "brand": "ACER_ALTOS",
     "name": "ALTOS_EZA"
   },
+  "ALTOS_EZAA": {
+    "brand": "ACER_ALTOS",
+    "name": "ALTOS_EZAA"
+  },
   "V10401": {
     "brand": "ACKEES",
     "name": "V10401"
@@ -22520,8 +22524,8 @@
     "name": "K4"
   },
   "K80": {
-    "brand": "Contixo",
-    "name": "K80"
+    "brand": "raemond",
+    "name": "K80_US_BND"
   },
   "K81": {
     "brand": "ZTE",
@@ -24038,6 +24042,10 @@
   "KINGKONG ES 3": {
     "brand": "Cubot",
     "name": "KINGKONG ES 3"
+  },
+  "KINGKONG ES 5": {
+    "brand": "Cubot",
+    "name": "KINGKONG ES 5"
   },
   "KINGKONG MINI 3": {
     "brand": "Cubot",
@@ -25763,6 +25771,14 @@
     "brand": "MOREFUN",
     "name": "M90"
   },
+  "Slate": {
+    "brand": "DOMO",
+    "name": "Slate"
+  },
+  "T115G": {
+    "brand": "Datamini",
+    "name": "T115G"
+  },
   "VT502A": {
     "brand": "DOMO",
     "name": "VT502A"
@@ -26382,10 +26398,6 @@
   "T104G_T610": {
     "brand": "Datamini",
     "name": "T104G_T610"
-  },
-  "T115G": {
-    "brand": "Datamini",
-    "name": "T115G"
   },
   "T74G": {
     "brand": "Datamini",
@@ -47899,6 +47911,10 @@
     "brand": "Honeywell",
     "name": "Thor VM3A"
   },
+  "HL-1012A-333U": {
+    "brand": "HonlinBook",
+    "name": "HL-1012A-333U"
+  },
   "ELA-LX2": {
     "brand": "Honor",
     "name": "Elsa"
@@ -61368,7 +61384,7 @@
     "name": "K3"
   },
   "L5": {
-    "brand": "K-Touch",
+    "brand": "Telpo",
     "name": "L5"
   },
   "K-Touch L930i": {
@@ -85155,6 +85171,10 @@
     "brand": "Motorola",
     "name": "moto razr 50"
   },
+  "XT2655-4": {
+    "brand": "Motorola",
+    "name": "moto razr 70 ultra"
+  },
   "moto tab g20": {
     "brand": "Motorola",
     "name": "moto tab g20"
@@ -85449,7 +85469,7 @@
   },
   "motorola razr 60 ultra": {
     "brand": "Motorola",
-    "name": "motorola razr 70 ultra"
+    "name": "motorola razr ultra 2026"
   },
   "M-51F": {
     "brand": "Motorola",
@@ -85494,6 +85514,10 @@
   "motorola razr ultra 2025": {
     "brand": "Motorola",
     "name": "motorola razr ultra 2025"
+  },
+  "motorola razr ultra 2026": {
+    "brand": "Motorola",
+    "name": "motorola razr ultra 2026"
   },
   "motorola signature": {
     "brand": "Motorola",
@@ -88866,6 +88890,10 @@
   "N90": {
     "brand": "Nexall",
     "name": "N90_NEU"
+  },
+  "Infinity_Lite": {
+    "brand": "Nexel",
+    "name": "Infinity_Lite"
   },
   "Mi438S": {
     "brand": "Nexian",
@@ -94794,6 +94822,10 @@
   "PMD110": {
     "brand": "Oppo",
     "name": "Reno15c"
+  },
+  "PMM110": {
+    "brand": "Oppo",
+    "name": "Reno16"
   },
   "CPH1945": {
     "brand": "Oppo",
