@@ -32665,7 +32665,7 @@
   },
   "M70": {
     "brand": "raemond",
-    "name": "M70_ROW_A"
+    "name": "M70_US_A"
   },
   "M80": {
     "brand": "Evercoss",
@@ -70271,6 +70271,10 @@
     "brand": "LT_Mobile",
     "name": "LT_mobile_C60"
   },
+  "LT E101": {
+    "brand": "LT_Mobile",
+    "name": "LT_mobile_E101"
+  },
   "LT E16": {
     "brand": "LT_Mobile",
     "name": "LT_mobile_E16"
@@ -93918,6 +93922,10 @@
   "OPD2506": {
     "brand": "Oppo",
     "name": "OPPO Pad 5"
+  },
+  "OPD2601": {
+    "brand": "Oppo",
+    "name": "OPPO Pad 6"
   },
   "OPD2102": {
     "brand": "Oppo",
@@ -140591,6 +140599,10 @@
     "brand": "Teclast",
     "name": "P30T_Y_ROW"
   },
+  "P30T_BN_ROW": {
+    "brand": "Teclast",
+    "name": "P30T_BN_ROW"
+  },
   "P30T_EEA": {
     "brand": "Teclast",
     "name": "P30T_EEA"
@@ -142050,6 +142062,10 @@
   "TECNO T1102W": {
     "brand": "Tecno",
     "name": "TECNO MEGAPAD  SE"
+  },
+  "TECNO T1103": {
+    "brand": "Tecno",
+    "name": "TECNO MEGAPAD 2"
   },
   "TECNO T1101": {
     "brand": "Tecno",
