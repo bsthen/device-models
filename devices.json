@@ -940,8 +940,8 @@
     "name": "PrimeTwo"
   },
   "A1": {
-    "brand": "ZTE",
-    "name": "A1R"
+    "brand": "myAvro",
+    "name": "myAvro A1"
   },
   "A2": {
     "brand": "ZTE",
@@ -17722,6 +17722,10 @@
   "P3": {
     "brand": "Oale",
     "name": "P3"
+  },
+  "DIW253V": {
+    "brand": "BudgetThuis",
+    "name": "BTV"
   },
   "KALOS": {
     "brand": "Bunbungame",
@@ -48595,6 +48599,18 @@
     "brand": "Honor",
     "name": "荣耀平板10"
   },
+  "HEY4-AN00": {
+    "brand": "Honor",
+    "name": "荣耀平板20"
+  },
+  "HEY4-W09": {
+    "brand": "Honor",
+    "name": "荣耀平板20"
+  },
+  "HEY4-W19": {
+    "brand": "Honor",
+    "name": "荣耀平板20 柔光版"
+  },
   "ROL-W60": {
     "brand": "Honor",
     "name": "荣耀平板GT"
@@ -62240,8 +62256,8 @@
     "name": "K4m"
   },
   "K50": {
-    "brand": "KRIP",
-    "name": "K50"
+    "brand": "raemond",
+    "name": "K50_US_C"
   },
   "K55g": {
     "brand": "KRIP",
@@ -94847,6 +94863,10 @@
     "brand": "Oppo",
     "name": "Reno16"
   },
+  "PMK110": {
+    "brand": "Oppo",
+    "name": "Reno16 Pro"
+  },
   "CPH1945": {
     "brand": "Oppo",
     "name": "Reno2 Z"
@@ -97358,6 +97378,10 @@
   "2405CPCFBG": {
     "brand": "POCO",
     "name": "POCO Pad"
+  },
+  "2603APC14G": {
+    "brand": "POCO",
+    "name": "POCO Pad C1"
   },
   "2509ARPBDG": {
     "brand": "POCO",
@@ -106154,6 +106178,10 @@
   "AF13_EEA": {
     "brand": "RebotAi",
     "name": "AF13_EEA"
+  },
+  "AG11": {
+    "brand": "RebotAi",
+    "name": "AG11"
   },
   "B11_EEA": {
     "brand": "RebotAi",
@@ -132831,6 +132859,10 @@
     "brand": "Wiko",
     "name": "T60"
   },
+  "T60 Pro": {
+    "brand": "TABWEE",
+    "name": "T60_Pro_US"
+  },
   "W90": {
     "brand": "TABWEE",
     "name": "W90_RU"
@@ -157255,6 +157287,10 @@
     "brand": "Xiaomi",
     "name": "Xiaomi 17"
   },
+  "2605EPN8EC": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 17 Max"
+  },
   "25098PN5AC": {
     "brand": "Xiaomi",
     "name": "Xiaomi 17 Pro"
@@ -160148,8 +160184,8 @@
     "name": "Jasper LTE"
   },
   "K70": {
-    "brand": "Zonko",
-    "name": "k70"
+    "brand": "raemond",
+    "name": "K70_US_C"
   },
   "K75": {
     "brand": "ZTE",
@@ -168334,6 +168370,10 @@
   "RMX5261": {
     "brand": "realme",
     "name": "RMX5261"
+  },
+  "RMX5266": {
+    "brand": "realme",
+    "name": "RMX5266"
   },
   "RMX5303": {
     "brand": "realme",
