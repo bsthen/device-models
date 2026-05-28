@@ -16748,8 +16748,8 @@
     "name": "R2_3G"
   },
   "S5": {
-    "brand": "Turbopad",
-    "name": "S5"
+    "brand": "URANYX",
+    "name": "S5_BR"
   },
   "S91": {
     "brand": "Premio",
@@ -37707,6 +37707,10 @@
     "brand": "Ghia",
     "name": "GA7333"
   },
+  "GA826M": {
+    "brand": "Ghia",
+    "name": "GA826M"
+  },
   "GA8N": {
     "brand": "Ghia",
     "name": "GA8N"
@@ -56018,6 +56022,10 @@
   "TM15F1Q74": {
     "brand": "IRIS_OHYAMA",
     "name": "TM15F1Q74"
+  },
+  "TM15F1W74": {
+    "brand": "IRIS_OHYAMA",
+    "name": "TM15F1W74"
   },
   "ISCEDTAB21": {
     "brand": "ISCED",
@@ -76554,6 +76562,10 @@
   "M3SL25": {
     "brand": "M3 Mobile",
     "name": "M3SL25"
+  },
+  "M3SM24": {
+    "brand": "M3 Mobile",
+    "name": "M3SM24"
   },
   "M3SM30": {
     "brand": "M3 Mobile",
@@ -157735,6 +157747,10 @@
     "brand": "YOSATOO",
     "name": "Y102"
   },
+  "YOTECH_YP": {
+    "brand": "YOTECH",
+    "name": "YOTECH_YP"
+  },
   "Q11-EEA": {
     "brand": "YOTOPT",
     "name": "Q11-EEA"
@@ -169719,6 +169735,10 @@
     "brand": "vivo",
     "name": "T5"
   },
+  "V2557": {
+    "brand": "vivo",
+    "name": "T5 Lite 44W 5G"
+  },
   "V2602": {
     "brand": "vivo",
     "name": "T5 Pro"
@@ -170018,6 +170038,10 @@
   "V2559BA": {
     "brand": "vivo",
     "name": "Y60s m版"
+  },
+  "V2532BA": {
+    "brand": "vivo",
+    "name": "Y6m"
   },
   "V2450": {
     "brand": "vivo",
