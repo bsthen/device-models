@@ -64303,6 +64303,10 @@
     "brand": "Krono",
     "name": "NET_R7"
   },
+  "NET_S": {
+    "brand": "Krono",
+    "name": "NET_S"
+  },
   "NET_TITAN": {
     "brand": "Krono",
     "name": "NET_TITAN"
@@ -77515,6 +77519,10 @@
     "brand": "MPman",
     "name": "MPDC706"
   },
+  "MS-5575": {
+    "brand": "MSI",
+    "name": "MS-5575"
+  },
   "MS-NDB3": {
     "brand": "MSI",
     "name": "MS-NDB3"
@@ -82915,6 +82923,10 @@
     "brand": "Mobiwire",
     "name": "H6032 Plus"
   },
+  "H6033": {
+    "brand": "Mobiwire",
+    "name": "H6033"
+  },
   "H6511": {
     "brand": "Mobiwire",
     "name": "H6511"
@@ -87242,6 +87254,10 @@
   "Warrior": {
     "brand": "NASCO",
     "name": "Warrior"
+  },
+  "N803S": {
+    "brand": "NAUIX",
+    "name": "N803S"
   },
   "NAV X1": {
     "brand": "NAV Global",
@@ -97563,6 +97579,10 @@
     "brand": "POWMUS",
     "name": "L30"
   },
+  "PRAMA_3576": {
+    "brand": "PRAMA",
+    "name": "PRAMA_3576"
+  },
   "PT10EduPad21": {
     "brand": "PRAZteck",
     "name": "2-IN-1_Tablet_PC"
@@ -99730,6 +99750,10 @@
   "T8015S": {
     "brand": "Philips",
     "name": "T8015S"
+  },
+  "T8520": {
+    "brand": "Philips",
+    "name": "T8520"
   },
   "TLE732": {
     "brand": "Philips",
@@ -110646,6 +110670,10 @@
   "S66": {
     "brand": "SUPOIN",
     "name": "S66"
+  },
+  "HS_IFPD08": {
+    "brand": "SURWISE",
+    "name": "HUAKETEK"
   },
   "SUXI I11": {
     "brand": "SUXI",
@@ -128243,6 +128271,10 @@
     "brand": "Sony",
     "name": "BRAVIA AE2"
   },
+  "BRAVIA 4K AE3": {
+    "brand": "Sony",
+    "name": "BRAVIA AE3"
+  },
   "NSZ-GU1": {
     "brand": "Sony",
     "name": "BRAVIA Smart Stick"
@@ -133083,10 +133115,6 @@
     "brand": "TCL",
     "name": "TCL TAB 10 5G"
   },
-  "T510D": {
-    "brand": "TCL",
-    "name": "TCL"
-  },
   "T790B": {
     "brand": "TCL",
     "name": "TCL 10 5G"
@@ -133520,6 +133548,10 @@
     "name": "TCL 50 5G"
   },
   "T510WS": {
+    "brand": "TCL",
+    "name": "TCL 50 LE"
+  },
+  "T510D": {
     "brand": "TCL",
     "name": "TCL 50 LE"
   },
@@ -139023,6 +139055,10 @@
     "brand": "TECHLIFE",
     "name": "TLPADPLUS"
   },
+  "TLPADM04": {
+    "brand": "TECHLIFE",
+    "name": "TechLife  TLPADM04"
+  },
   "TLPADPRO1": {
     "brand": "TECHLIFE",
     "name": "TechLife Pad Pro 12\""
@@ -142090,6 +142126,10 @@
   "TECNO CN7c": {
     "brand": "Tecno",
     "name": "TECNO CAMON 50 Ultra 5G"
+  },
+  "TECNO CN6c": {
+    "brand": "Tecno",
+    "name": "TECNO CAMON Slim/Air"
   },
   "TECNO KB2": {
     "brand": "Tecno",
