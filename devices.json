@@ -11679,6 +11679,10 @@
     "brand": "BLUEWORLD",
     "name": "TM12"
   },
+  "10_Pro": {
+    "brand": "BMAX",
+    "name": "10_Pro"
+  },
   "BMAX_I9": {
     "brand": "BMAX",
     "name": "BMAX_I9"
@@ -60391,6 +60395,10 @@
     "brand": "JMGO",
     "name": "C62A"
   },
+  "H93A": {
+    "brand": "OnePlus",
+    "name": "H93A"
+  },
   "K62A": {
     "brand": "JMGO",
     "name": "K62A"
@@ -73253,7 +73261,7 @@
   },
   "TB390FU": {
     "brand": "Lenovo",
-    "name": "Lenovo Idea Tab Pro Gen 2"
+    "name": "Lenovo Idea Tab Pro Gen 2 / Lenovo Tab K13"
   },
   "Lenovo L38083": {
     "brand": "Lenovo",
@@ -77014,6 +77022,10 @@
   "86SG1": {
     "brand": "METZ",
     "name": "86SG1"
+  },
+  "V6M": {
+    "brand": "METZ",
+    "name": "V6M"
   },
   "TR10CS2": {
     "brand": "MG series",
@@ -91335,10 +91347,6 @@
     "brand": "OnePlus",
     "name": "E00"
   },
-  "H93A": {
-    "brand": "OnePlus",
-    "name": "H93A"
-  },
   "S70A": {
     "brand": "OnePlus",
     "name": "N1"
@@ -92038,6 +92046,14 @@
   "PLR110": {
     "brand": "OnePlus",
     "name": "一加 Ace 6T"
+  },
+  "PYS110": {
+    "brand": "OnePlus",
+    "name": "一加 Turbo 6X"
+  },
+  "PYR110": {
+    "brand": "OnePlus",
+    "name": "一加 Turbo 6X Pro"
   },
   "OPD2508": {
     "brand": "OnePlus",
@@ -157359,6 +157375,22 @@
     "brand": "Xiaomi",
     "name": "Xiaomi 17 Ultra"
   },
+  "2602DPT53G": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 17T"
+  },
+  "2602DPT53I": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 17T"
+  },
+  "2602EPTC0G": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 17T Pro"
+  },
+  "2602EPTC0R": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 17T Pro"
+  },
   "2109119BC": {
     "brand": "Xiaomi",
     "name": "Xiaomi Civi 1S"
@@ -169762,6 +169794,10 @@
   "V2527A": {
     "brand": "vivo",
     "name": "S50 Pro mini"
+  },
+  "V2572A": {
+    "brand": "vivo",
+    "name": "S60 元气版"
   },
   "V2510": {
     "brand": "vivo",
