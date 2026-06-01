@@ -80443,6 +80443,10 @@
     "brand": "MicroTouch",
     "name": "M1_IC1_N700_4G"
   },
+  "MACH_POS": {
+    "brand": "MicroTouch",
+    "name": "MACH_POS"
+  },
   "Micromax A110": {
     "brand": "Micromax",
     "name": "A110"
