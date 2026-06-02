@@ -27319,6 +27319,10 @@
     "brand": "Leotec",
     "name": "mid1016_mk_64"
   },
+  "M10AA": {
+    "brand": "DigiLand",
+    "name": "M10AA"
+  },
   "mid8006_mk_32": {
     "brand": "DigiLand",
     "name": "MID8006_Digiland"
@@ -57135,6 +57139,10 @@
     "brand": "Infinix",
     "name": "X572"
   },
+  "Infinix X1103": {
+    "brand": "Infinix",
+    "name": "Infinix XPAD 30 pro"
+  },
   "Infinix X1302": {
     "brand": "Infinix",
     "name": "Infinix XPAD Edge"
@@ -81714,6 +81722,10 @@
   "P25+": {
     "brand": "Mintt",
     "name": "P25+"
+  },
+  "Mintt P26": {
+    "brand": "Mintt",
+    "name": "P26"
   },
   "CoolMintt Rival 2": {
     "brand": "Mintt",
@@ -108827,6 +108839,10 @@
     "brand": "SED Wireless",
     "name": "GPH-650R"
   },
+  "Hot 100": {
+    "brand": "SEGO",
+    "name": "Hot_100"
+  },
   "MATE 10": {
     "brand": "SEGO",
     "name": "MATE_10"
@@ -108890,6 +108906,10 @@
   "Smart 10": {
     "brand": "SEGO",
     "name": "Smart_10"
+  },
+  "Smart_20x": {
+    "brand": "SEGO",
+    "name": "Smart_20x"
   },
   "s-tron": {
     "brand": "SEGO",
@@ -110722,6 +110742,10 @@
   "P108": {
     "brand": "SVITOO",
     "name": "P108_EEA"
+  },
+  "P108_S": {
+    "brand": "SVITOO",
+    "name": "P108_S_EEA"
   },
   "P108_T": {
     "brand": "SVITOO",
