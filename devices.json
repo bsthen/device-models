@@ -2027,6 +2027,10 @@
     "brand": "AWOW",
     "name": "P12_US"
   },
+  "P13A": {
+    "brand": "AWOW",
+    "name": "P13A_US"
+  },
   "UTBook": {
     "brand": "AWOW",
     "name": "UTBook"
@@ -13903,6 +13907,10 @@
     "brand": "BenQ",
     "name": "RE04_series"
   },
+  "RE05AC_series": {
+    "brand": "BenQ",
+    "name": "RE05AC_series"
+  },
   "RE05A_series": {
     "brand": "BenQ",
     "name": "RE05A_series"
@@ -16503,6 +16511,10 @@
     "brand": "Blu",
     "name": "G95"
   },
+  "G96": {
+    "brand": "Blu",
+    "name": "G96"
+  },
   "BLU GRAND 5.5 HD": {
     "brand": "Blu",
     "name": "GRAND 5.5 HD"
@@ -18046,6 +18058,10 @@
   "HS29779-18": {
     "brand": "CEM Global",
     "name": "HS29779-18"
+  },
+  "6769-4G": {
+    "brand": "CENAVA",
+    "name": "6769-4G"
   },
   "A10ST-5G": {
     "brand": "CENAVA",
@@ -20090,6 +20106,10 @@
   "K6": {
     "brand": "Pokini",
     "name": "K6"
+  },
+  "Q7": {
+    "brand": "X-View",
+    "name": "Q7"
   },
   "Centric CM3331": {
     "brand": "Centric",
@@ -33655,6 +33675,10 @@
     "brand": "FCNT",
     "name": "arrows We3 M09"
   },
+  "XX-X15X": {
+    "brand": "FEC",
+    "name": "XX-X15X"
+  },
   "F100": {
     "brand": "Gionee",
     "name": "F100"
@@ -35501,7 +35525,7 @@
   },
   "H6733": {
     "brand": "Mobiwire",
-    "name": "GH6733"
+    "name": "H6733"
   },
   "H6573": {
     "brand": "Franko",
@@ -36483,10 +36507,6 @@
     "brand": "G-Tab",
     "name": "Q69"
   },
-  "Q7": {
-    "brand": "X-View",
-    "name": "Q7"
-  },
   "S30_1": {
     "brand": "G-Tab",
     "name": "S30_1"
@@ -36622,6 +36642,10 @@
   "GABA 2K Android TV": {
     "brand": "GABA",
     "name": "GABA"
+  },
+  "GAOKEview_3576": {
+    "brand": "GAOKEview",
+    "name": "GAOKEview_3576"
   },
   "GC-AA1": {
     "brand": "GC(TECH)",
@@ -43628,8 +43652,8 @@
     "name": "HAFURY UMAX"
   },
   "K30": {
-    "brand": "Hafury",
-    "name": "K30"
+    "brand": "raemond",
+    "name": "K30_US_C"
   },
   "K30 PRO": {
     "brand": "Hafury",
@@ -48078,6 +48102,10 @@
   "MBH-N49": {
     "brand": "Honor",
     "name": "HONOR Magic V5"
+  },
+  "PNM-N49": {
+    "brand": "Honor",
+    "name": "HONOR Magic V6"
   },
   "FRI-NX9": {
     "brand": "Honor",
@@ -81423,6 +81451,10 @@
     "brand": "Micromax",
     "name": "Yutopia"
   },
+  "D2": {
+    "brand": "Mobicell",
+    "name": "D2"
+  },
   "ETL101A_EEA": {
     "brand": "Microtech",
     "name": "ETL101A_EEA"
@@ -82231,10 +82263,6 @@
     "brand": "Mobicell",
     "name": "Cosmo LTE_1"
   },
-  "D2": {
-    "brand": "Mobicell",
-    "name": "D2"
-  },
   "D3": {
     "brand": "Sunmi",
     "name": "D3"
@@ -82953,7 +82981,7 @@
   },
   "H6033": {
     "brand": "Mobiwire",
-    "name": "H6033"
+    "name": "eNOVA"
   },
   "H6511": {
     "brand": "Mobiwire",
@@ -97025,7 +97053,7 @@
   },
   "ZB32": {
     "brand": "PEICHENG",
-    "name": "ZB32A"
+    "name": "ZB32UA"
   },
   "ZB32A": {
     "brand": "PEICHENG",
@@ -106251,6 +106279,10 @@
     "brand": "RebotAi",
     "name": "AG11"
   },
+  "B11Air": {
+    "brand": "RebotAi",
+    "name": "B11Air_EEA"
+  },
   "B11_EEA": {
     "brand": "RebotAi",
     "name": "B11_EEA"
@@ -110745,7 +110777,7 @@
   },
   "P108_S": {
     "brand": "SVITOO",
-    "name": "P108_S_EEA"
+    "name": "P108_S_US"
   },
   "P108_T": {
     "brand": "SVITOO",
@@ -124182,6 +124214,10 @@
   "BrailleSensePolaris": {
     "brand": "Selvas",
     "name": "BrailleSense Polaris"
+  },
+  "H732B": {
+    "brand": "Selvas",
+    "name": "BrailleSense7_EEA"
   },
   "H620B": {
     "brand": "Selvas",
@@ -139246,6 +139282,10 @@
   "TERRA_PAD_1201": {
     "brand": "TERRA",
     "name": "TERRA_PAD_1201"
+  },
+  "TBX_200": {
+    "brand": "TES (Touch Embedded Solutions)",
+    "name": "TBX_200"
   },
   "igs-series": {
     "brand": "TES (Touch Embedded Solutions)",
@@ -157807,6 +157847,10 @@
     "brand": "YINBER",
     "name": "S11Ultra"
   },
+  "S12PLUS": {
+    "brand": "YINBER",
+    "name": "S12PLUS"
+  },
   "P6501": {
     "brand": "YINKE",
     "name": "P6501"
@@ -165375,6 +165419,10 @@
     "brand": "Zuum",
     "name": "ZUUM PAD Lightyear"
   },
+  "G13R": {
+    "brand": "Zynex",
+    "name": "G13R"
+  },
   "G141K": {
     "brand": "Zynex",
     "name": "G141K"
@@ -167787,6 +167835,10 @@
     "brand": "iYOU",
     "name": "iYOU_M1"
   },
+  "ISA_AN15": {
+    "brand": "i_smart",
+    "name": "i_smart_Interactive_Whiteboard"
+  },
   "M130s": {
     "brand": "ibowin",
     "name": "M10ES11"
@@ -170016,6 +170068,10 @@
     "name": "Y11d"
   },
   "V2580": {
+    "brand": "vivo",
+    "name": "Y11d"
+  },
+  "V2646": {
     "brand": "vivo",
     "name": "Y11d"
   },
