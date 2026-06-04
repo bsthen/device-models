@@ -21571,6 +21571,10 @@
     "brand": "REBEOSOII",
     "name": "G11"
   },
+  "G17": {
+    "brand": "Clover",
+    "name": "G17_3_32"
+  },
   "K1196": {
     "brand": "Clover",
     "name": "K1196"
@@ -21578,6 +21582,10 @@
   "KD101": {
     "brand": "Clover",
     "name": "KD101"
+  },
+  "RWT-NE-RGPH5-12812": {
+    "brand": "Clover",
+    "name": "RWT-NE-RGPH5-12812"
   },
   "gama_alta_6_128G": {
     "brand": "Clover",
@@ -22526,6 +22534,10 @@
   "A1-64G": {
     "brand": "Contixo",
     "name": "A1-64G"
+  },
+  "A8_B": {
+    "brand": "Contixo",
+    "name": "A8_B"
   },
   "V8": {
     "brand": "X-TIGI",
@@ -44735,6 +44747,10 @@
     "brand": "Haus",
     "name": "JS550"
   },
+  "KiddoPad_K2": {
+    "brand": "Heco",
+    "name": "KiddoPad_K2"
+  },
   "HCPxx10": {
     "brand": "Helgi",
     "name": "HELGI_C_Series_PRO"
@@ -60443,6 +60459,14 @@
     "brand": "JMGO",
     "name": "K80A"
   },
+  "S70A": {
+    "brand": "OnePlus",
+    "name": "N1"
+  },
+  "H80A": {
+    "brand": "OnePlus",
+    "name": "N1 Pro"
+  },
   "K92A": {
     "brand": "JMGO",
     "name": "N1S Infinity"
@@ -65106,6 +65130,10 @@
   "KC-01": {
     "brand": "Kyocera",
     "name": "KC-01"
+  },
+  "SZJ-JS204": {
+    "brand": "Kyocera",
+    "name": "KC-T207DT"
   },
   "KC-T302DT": {
     "brand": "Kyocera",
@@ -91391,14 +91419,6 @@
     "brand": "OnePlus",
     "name": "E00"
   },
-  "S70A": {
-    "brand": "OnePlus",
-    "name": "N1"
-  },
-  "H80A": {
-    "brand": "OnePlus",
-    "name": "N1 Pro"
-  },
   "CPH2717": {
     "brand": "OnePlus",
     "name": "Nord CE5"
@@ -104132,8 +104152,8 @@
     "name": "VIEW PRO"
   },
   "W80": {
-    "brand": "QMobile",
-    "name": "W80"
+    "brand": "TABWEE",
+    "name": "W80_NEU"
   },
   "Noir X1S": {
     "brand": "QMobile",
@@ -106293,7 +106313,7 @@
   },
   "D101_PRO": {
     "brand": "RebotAi",
-    "name": "D101"
+    "name": "D101_EEA"
   },
   "D101_EEA": {
     "brand": "RebotAi",
@@ -143313,7 +143333,7 @@
   },
   "TL-9": {
     "brand": "Teletab",
-    "name": "TL-9"
+    "name": "TL_9_ROW"
   },
   "MH700": {
     "brand": "Telev8",
@@ -157838,6 +157858,10 @@
   "Pad6 PLUS": {
     "brand": "YIKEMI",
     "name": "Pad6_Plus_EEA"
+  },
+  "S7P": {
+    "brand": "YIKEMI",
+    "name": "S7P_EEA"
   },
   "Pad6_Plus": {
     "brand": "YIKEMI",
