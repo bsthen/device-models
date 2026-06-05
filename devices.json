@@ -15380,8 +15380,8 @@
     "name": "Tab 18"
   },
   "Tab 20 Kids": {
-    "brand": "Blackview",
-    "name": "Tab 20 Kids"
+    "brand": "CRONIC",
+    "name": "Tab_20_Kids"
   },
   "Tab 20 WiFi": {
     "brand": "Blackview",
@@ -18629,7 +18629,7 @@
   },
   "CP20": {
     "brand": "PEICHENG",
-    "name": "CP20SA"
+    "name": "CP20UA"
   },
   "CP20_EEA": {
     "brand": "COOPERS",
@@ -18750,6 +18750,10 @@
   "T12Pro": {
     "brand": "CORN",
     "name": "T12Pro"
+  },
+  "The Leader Kids 4G": {
+    "brand": "CORN",
+    "name": "The_Leader_Kids_4G"
   },
   "Tronik 13S": {
     "brand": "CORN",
@@ -30219,6 +30223,10 @@
     "brand": "ECOPAD",
     "name": "A30Pro_A_EEA"
   },
+  "A30Pro_A_US": {
+    "brand": "ECOPAD",
+    "name": "A30Pro_A_US"
+  },
   "C30plus": {
     "brand": "ECOPAD",
     "name": "C30plus_US"
@@ -32018,6 +32026,10 @@
   "E6mini": {
     "brand": "Emporia",
     "name": "E6mini"
+  },
+  "E8-5G-v1": {
+    "brand": "Emporia",
+    "name": "E8-5G-v1_EEA"
   },
   "S3mini": {
     "brand": "Emporia",
@@ -44791,6 +44803,10 @@
     "brand": "Helio",
     "name": "helio_55"
   },
+  "helio 62": {
+    "brand": "Helio",
+    "name": "helio_62"
+  },
   "PK81R": {
     "brand": "HelloPro",
     "name": "PK81R"
@@ -48621,7 +48637,7 @@
   },
   "SER-AN00": {
     "brand": "Honor",
-    "name": "荣耀Power2"
+    "name": "荣耀WIN Turbo"
   },
   "VCA-AN00": {
     "brand": "Honor",
@@ -60498,10 +60514,6 @@
   "J2507": {
     "brand": "JOVI",
     "name": "JOVI V70 5G"
-  },
-  "J2510": {
-    "brand": "JOVI",
-    "name": "JOVI X300 Ultra"
   },
   "V2425": {
     "brand": "Vivo",
@@ -106301,7 +106313,7 @@
   },
   "B11Air": {
     "brand": "RebotAi",
-    "name": "B11Air_EEA"
+    "name": "B11Air_US"
   },
   "B11_EEA": {
     "brand": "RebotAi",
@@ -110833,7 +110845,7 @@
   },
   "TAB_P10": {
     "brand": "SVITOO",
-    "name": "TAB_P10_ROW"
+    "name": "TAB_P10_USA"
   },
   "TAB_P10_C_EEA": {
     "brand": "SVITOO",
@@ -133125,7 +133137,7 @@
   },
   "Smart TV Pro": {
     "brand": "TCL",
-    "name": "G16_4K_US"
+    "name": "G17_4K_US"
   },
   "BeyondTV5": {
     "brand": "TCL",
@@ -165994,6 +166006,10 @@
   "T1081": {
     "brand": "eNOVA",
     "name": "TAE10N12"
+  },
+  "T1081NE": {
+    "brand": "eNOVA",
+    "name": "T1081NE"
   },
   "TAE08N10": {
     "brand": "eNOVA",
