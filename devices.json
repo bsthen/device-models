@@ -30243,6 +30243,10 @@
     "brand": "RAINBOX",
     "name": "K90"
   },
+  "T60": {
+    "brand": "Wiko",
+    "name": "T60"
+  },
   "RealPad MA7BX2": {
     "brand": "ECS",
     "name": "RealPad MA7BX2"
@@ -36465,7 +36469,7 @@
   },
   "X": {
     "brand": "G-Tab",
-    "name": "GTab_X"
+    "name": "X_PRO_AI"
   },
   "MEGA13": {
     "brand": "G-Tab",
@@ -43589,7 +43593,7 @@
   },
   "E10_A": {
     "brand": "HUIHUANG",
-    "name": "E10_A_EEA"
+    "name": "E10_A_US"
   },
   "T3L2": {
     "brand": "HUIHUANG",
@@ -91399,6 +91403,10 @@
     "brand": "Olympia",
     "name": "TREK"
   },
+  "New10": {
+    "brand": "Omniphone",
+    "name": "New10"
+  },
   "C2 pro": {
     "brand": "OneClick",
     "name": "C2 Pro"
@@ -96959,6 +96967,10 @@
     "brand": "PEAQ",
     "name": "PET-882-H232S"
   },
+  "PET-10180-H428S": {
+    "brand": "PEAQ",
+    "name": "PET_10180_H428S_EEA"
+  },
   "PET_10180_H464S": {
     "brand": "PEAQ",
     "name": "PET_10180_H464S"
@@ -97316,6 +97328,10 @@
     "name": "POCO C81"
   },
   "25128PC17G": {
+    "brand": "POCO",
+    "name": "POCO C81 Pro"
+  },
+  "25128PC17L": {
     "brand": "POCO",
     "name": "POCO C81 Pro"
   },
@@ -100630,6 +100646,10 @@
   "PM452": {
     "brand": "PointMobile",
     "name": "PM452"
+  },
+  "PS32": {
+    "brand": "PointMobile",
+    "name": "PS32"
   },
   "Polar M600": {
     "brand": "Polar",
@@ -104165,7 +104185,7 @@
   },
   "W80": {
     "brand": "TABWEE",
-    "name": "W80_NEU"
+    "name": "W80_US"
   },
   "Noir X1S": {
     "brand": "QMobile",
@@ -110678,6 +110698,10 @@
   "Sky 8244B 3G SS8263PG": {
     "brand": "SUNWIND",
     "name": "Sky_8244B_3G_SS8263PG"
+  },
+  "SEITWD13CA": {
+    "brand": "SUN_EAGLE_INDONESIA",
+    "name": "SUN EAGLE IFPD"
   },
   "SC-2109": {
     "brand": "SUPERSONIC",
@@ -133010,10 +133034,6 @@
   "T12 Pro": {
     "brand": "TABWEE",
     "name": "T12_Pro_RU"
-  },
-  "T60": {
-    "brand": "Wiko",
-    "name": "T60"
   },
   "T60 Pro": {
     "brand": "TABWEE",
@@ -169915,6 +169935,10 @@
     "brand": "vivo",
     "name": "S50 Pro mini"
   },
+  "V2571A": {
+    "brand": "vivo",
+    "name": "S60"
+  },
   "V2572A": {
     "brand": "vivo",
     "name": "S60 元气版"
@@ -170006,6 +170030,10 @@
   "V2558": {
     "brand": "vivo",
     "name": "V70 FE"
+  },
+  "V2604": {
+    "brand": "vivo",
+    "name": "V70 Lite"
   },
   "V2615": {
     "brand": "vivo",
@@ -170207,6 +170235,26 @@
     "brand": "vivo",
     "name": "Y500"
   },
+  "V2570": {
+    "brand": "vivo",
+    "name": "Y500"
+  },
+  "V2584": {
+    "brand": "vivo",
+    "name": "Y500"
+  },
+  "V2627": {
+    "brand": "vivo",
+    "name": "Y500"
+  },
+  "V2634": {
+    "brand": "vivo",
+    "name": "Y500"
+  },
+  "V2635": {
+    "brand": "vivo",
+    "name": "Y500"
+  },
   "V2516A": {
     "brand": "vivo",
     "name": "Y500 Pro"
@@ -170234,6 +170282,10 @@
   "V2561A": {
     "brand": "vivo",
     "name": "Y600 Pro AI版"
+  },
+  "V2553A": {
+    "brand": "vivo",
+    "name": "Y600 Turbo"
   },
   "V2559BA": {
     "brand": "vivo",
