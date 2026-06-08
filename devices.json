@@ -148735,6 +148735,10 @@
     "brand": "Vertu",
     "name": "Ti"
   },
+  "VTL-202403": {
+    "brand": "Vertu",
+    "name": "VERTU AGENT Q"
+  },
   "VTL-202101": {
     "brand": "Vertu",
     "name": "VTL-202101"
@@ -158927,6 +158931,10 @@
     "brand": "ZTE",
     "name": "A506ZT"
   },
+  "A601ZT": {
+    "brand": "ZTE",
+    "name": "A601ZT"
+  },
   "ZTE A880": {
     "brand": "ZTE",
     "name": "A880"
@@ -162739,6 +162747,10 @@
     "brand": "ZTE",
     "name": "nubia Neo 3 GT 5G"
   },
+  "Z2466": {
+    "brand": "ZTE",
+    "name": "ZTE Blade A36e"
+  },
   "Z2570N": {
     "brand": "ZTE",
     "name": "Z2570N"
@@ -163686,10 +163698,6 @@
   "ZTE Blade A35 Lite": {
     "brand": "ZTE",
     "name": "ZTE Blade A35 Lite"
-  },
-  "Z2466": {
-    "brand": "ZTE",
-    "name": "ZTE Blade A36e"
   },
   "Z5157V": {
     "brand": "ZTE",
