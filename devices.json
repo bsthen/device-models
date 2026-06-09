@@ -3603,6 +3603,10 @@
     "brand": "AcerPure",
     "name": "Acer Acerpure"
   },
+  "Acerone Liquid S262F5": {
+    "brand": "AcerPure",
+    "name": "Acer Acerpure"
+  },
   "R726": {
     "brand": "Express Gifts Limited",
     "name": "R726"
@@ -30217,7 +30221,7 @@
   },
   "A30L1": {
     "brand": "ECOPAD",
-    "name": "A30L1_EEA"
+    "name": "A30L1_US"
   },
   "A30Pro_A": {
     "brand": "ECOPAD",
@@ -31154,6 +31158,10 @@
   "D2861": {
     "brand": "ETOE",
     "name": "D2861"
+  },
+  "D2G": {
+    "brand": "ETOE",
+    "name": "D2G"
   },
   "E10Pro": {
     "brand": "EUDORA",
@@ -90519,6 +90527,14 @@
     "brand": "OASYS",
     "name": "TEG9300-M"
   },
+  "Minions3": {
+    "brand": "OBE(CN)",
+    "name": "Minisons3"
+  },
+  "X7D Ultra": {
+    "brand": "OBE(CN)",
+    "name": "X7D Ultra"
+  },
   "OBOX4k.20": {
     "brand": "OBOX",
     "name": "OBOX4K.20"
@@ -108386,6 +108402,10 @@
   "Remoter": {
     "brand": "Rotai",
     "name": "Remoter"
+  },
+  "R-TP10": {
+    "brand": "Rovos",
+    "name": "R-TP10_EEA"
   },
   "FGAD": {
     "brand": "Royaltek",
