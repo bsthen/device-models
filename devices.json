@@ -18759,6 +18759,10 @@
     "brand": "CORN",
     "name": "The_Leader_Kids_4G"
   },
+  "The Leader Tab8 4G": {
+    "brand": "CORN",
+    "name": "The_Leader_Tab8_4G"
+  },
   "Tronik 13S": {
     "brand": "CORN",
     "name": "Tronik 13S"
@@ -142503,6 +142507,10 @@
     "brand": "Tecno",
     "name": "TECNO POVA 8 5G"
   },
+  "TECNO LK7": {
+    "brand": "Tecno",
+    "name": "TECNO POVA 8 Pro 5G"
+  },
   "TECNO LK7k": {
     "brand": "Tecno",
     "name": "TECNO POVA Curve 2 5G"
@@ -157527,11 +157535,19 @@
     "brand": "Xiaomi",
     "name": "Xiaomi 17T"
   },
+  "M531DA": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 17T"
+  },
   "2602EPTC0G": {
     "brand": "Xiaomi",
     "name": "Xiaomi 17T Pro"
   },
   "2602EPTC0R": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 17T Pro"
+  },
+  "M025EC": {
     "brand": "Xiaomi",
     "name": "Xiaomi 17T Pro"
   },
@@ -167583,6 +167599,10 @@
     "brand": "iQOO",
     "name": "I40-5_RU"
   },
+  "I2510": {
+    "brand": "iQOO",
+    "name": "iQOO Z11 Lite 44W 5G"
+  },
   "I2501": {
     "brand": "iQOO",
     "name": "iQOO 15"
@@ -167654,6 +167674,10 @@
   "I2512": {
     "brand": "iQOO",
     "name": "iQOO Z11 5G"
+  },
+  "I2515": {
+    "brand": "iQOO",
+    "name": "iQOO Z11 Lite 44W 5G"
   },
   "V2536A": {
     "brand": "iQOO",
