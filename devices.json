@@ -24575,6 +24575,10 @@
     "brand": "DEA Factory",
     "name": "KTAB"
   },
+  "DB6621": {
+    "brand": "DECIBELL",
+    "name": "DB6621"
+  },
   "DC-WT15": {
     "brand": "DEED",
     "name": "DC-WT15"
@@ -31538,6 +31542,10 @@
   "EP-A100": {
     "brand": "Ecopower",
     "name": "EP-A100"
+  },
+  "EdPro_Series_S": {
+    "brand": "EdPro",
+    "name": "EdPro_Series_S"
   },
   "MotionE11": {
     "brand": "Edcon",
@@ -90169,7 +90177,7 @@
   },
   "NX779J": {
     "brand": "Nubia",
-    "name": "REDMAGIC 10 Air"
+    "name": "红魔10 Air"
   },
   "Z2472": {
     "brand": "ZTE",
@@ -105597,7 +105605,7 @@
   },
   "NX799J": {
     "brand": "REDMAGIC",
-    "name": "NX799J"
+    "name": "红魔11 Air"
   },
   "NX809J": {
     "brand": "ZTE",
@@ -144179,6 +144187,10 @@
     "brand": "Topicon",
     "name": "mdt865_row"
   },
+  "mdt880": {
+    "brand": "Topicon",
+    "name": "mdt880"
+  },
   "G12": {
     "brand": "Topsand",
     "name": "G12"
@@ -148748,7 +148760,7 @@
     "name": "METAFLIP"
   },
   "VTL-202301": {
-    "brand": "Vertu",
+    "brand": "ZTE",
     "name": "METAVERTU 2"
   },
   "Signature Touch": {
@@ -158953,7 +158965,7 @@
   },
   "NX732J": {
     "brand": "ZTE",
-    "name": "nubia Flip 2 5G"
+    "name": "nubia Flip2"
   },
   "A504ZT": {
     "brand": "ZTE",
@@ -164330,6 +164342,10 @@
   "ZTE 1020L": {
     "brand": "ZTE",
     "name": "中兴畅行40"
+  },
+  "ZTE 7661N": {
+    "brand": "ZTE",
+    "name": "中兴畅行60 Ultra"
   },
   "ZTE 7541N": {
     "brand": "ZTE",
