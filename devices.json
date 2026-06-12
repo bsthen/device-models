@@ -1643,6 +1643,10 @@
     "brand": "ATEC",
     "name": "ATEC_GRANDE"
   },
+  "A8KD": {
+    "brand": "ATECcomputer",
+    "name": "A8KD"
+  },
   "A68EL": {
     "brand": "ATEL",
     "name": "A68EL"
@@ -13919,6 +13923,10 @@
     "brand": "BenQ",
     "name": "RE05A_series"
   },
+  "RE98_110_series": {
+    "brand": "BenQ",
+    "name": "RE98_110_series"
+  },
   "RM05_series": {
     "brand": "BenQ",
     "name": "RM05_series"
@@ -24673,7 +24681,7 @@
   },
   "DEPLAY_SMART5PLUS": {
     "brand": "DEPLAY",
-    "name": "SMART5PLUS_B"
+    "name": "SMART5PLUS_P"
   },
   "DEVOPS_MT9679": {
     "brand": "DEVOPS",
@@ -56070,6 +56078,10 @@
   "TE10D2M64": {
     "brand": "IRIS_OHYAMA",
     "name": "TE10D2M64"
+  },
+  "TE11F5W64": {
+    "brand": "IRIS_OHYAMA",
+    "name": "TE11F5W64"
   },
   "TM082M4": {
     "brand": "IRIS_OHYAMA",
@@ -140555,6 +140567,10 @@
     "brand": "Teclast",
     "name": "ArtPadPro_ROW"
   },
+  "ArtPad_ROW": {
+    "brand": "Teclast",
+    "name": "ArtPad_ROW"
+  },
   "M20_4G": {
     "brand": "Teclast",
     "name": "M20_4G"
@@ -164327,6 +164343,10 @@
     "brand": "ZTE",
     "name": "tmn smart a7"
   },
+  "W216DS": {
+    "brand": "ZTE",
+    "name": "uSmart Cloud Terminal"
+  },
   "zBOX 2": {
     "brand": "ZTE",
     "name": "zBOX 2"
@@ -169198,6 +169218,10 @@
   "RMX5116": {
     "brand": "realme",
     "name": "realme P4 Pro 5G"
+  },
+  "RMX5367": {
+    "brand": "realme",
+    "name": "realme P4x"
   },
   "RMX5108": {
     "brand": "realme",
