@@ -3603,6 +3603,10 @@
     "brand": "thehaam",
     "name": "vileparle"
   },
+  "ACP65P": {
+    "brand": "AcerPure",
+    "name": "ACERPURE INDIA CE PRIVATE LIMITED"
+  },
   "Acerone Liquid S162E4": {
     "brand": "AcerPure",
     "name": "Acer Acerpure"
@@ -12347,6 +12351,10 @@
     "brand": "BMobile",
     "name": "BL62"
   },
+  "BL62B": {
+    "brand": "BMobile",
+    "name": "BL62B"
+  },
   "BL63": {
     "brand": "BMobile",
     "name": "BL63"
@@ -18750,6 +18758,10 @@
   "Star8_3G": {
     "brand": "CORN",
     "name": "Star8_3G"
+  },
+  "Star9 4G": {
+    "brand": "CORN",
+    "name": "Star9_4G"
   },
   "Star9_Max": {
     "brand": "CORN",
@@ -33726,6 +33738,10 @@
   "M06": {
     "brand": "FCNT",
     "name": "arrows We2 Plus M06"
+  },
+  "F-52G": {
+    "brand": "FCNT",
+    "name": "arrows We3"
   },
   "M09": {
     "brand": "FCNT",
@@ -57185,7 +57201,7 @@
   },
   "Infinix X6725": {
     "brand": "Infinix",
-    "name": "Infinix SMART 10"
+    "name": "SMART Series"
   },
   "Infinix X6725D": {
     "brand": "Infinix",
@@ -61127,6 +61143,10 @@
     "brand": "Jawwy TV",
     "name": "JAWWY-TV-2.0"
   },
+  "A10 PLUS": {
+    "brand": "Jckkcfug",
+    "name": "A10_PLUS_ROW"
+  },
   "A10Pro_EEA": {
     "brand": "Jckkcfug",
     "name": "A10Pro_EEA"
@@ -61134,10 +61154,6 @@
   "A10Pro_ROW": {
     "brand": "Jckkcfug",
     "name": "A10Pro_ROW"
-  },
-  "A10 PLUS": {
-    "brand": "Jckkcfug",
-    "name": "A10_PLUS_ROW"
   },
   "A20Plus_EEA": {
     "brand": "Jckkcfug",
@@ -94850,6 +94866,10 @@
   "CPH2607": {
     "brand": "Oppo",
     "name": "Reno 11 Pro"
+  },
+  "CPH2859": {
+    "brand": "Oppo",
+    "name": "Reno 16c 5G"
   },
   "PCKM00": {
     "brand": "Oppo",
@@ -142739,6 +142759,10 @@
     "brand": "Tecno",
     "name": "TECNO SPARK 50 5G"
   },
+  "TECNO KO5": {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 50T"
+  },
   "TECNO KF6": {
     "brand": "Tecno",
     "name": "TECNO SPARK 7"
@@ -169215,6 +169239,10 @@
     "brand": "realme",
     "name": "realme P4 5G"
   },
+  "RMX5378": {
+    "brand": "realme",
+    "name": "realme P4 Lite"
+  },
   "RMX5116": {
     "brand": "realme",
     "name": "realme P4 Pro 5G"
@@ -170353,7 +170381,7 @@
   },
   "V2531A": {
     "brand": "vivo",
-    "name": "Y6"
+    "name": "Y6a"
   },
   "V2443BA": {
     "brand": "vivo",
