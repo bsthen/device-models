@@ -1191,6 +1191,10 @@
     "brand": "AOC",
     "name": "Q8108L-ME"
   },
+  "SRK_SERIES": {
+    "brand": "AORA",
+    "name": "SRK_SERIES"
+  },
   "P10": {
     "brand": "iRulu",
     "name": "P10"
@@ -18355,6 +18359,10 @@
     "brand": "CIRKUIT PLANET (ESPANA)",
     "name": "SMARTLIFE"
   },
+  "CZ701": {
+    "brand": "CITZEN",
+    "name": "CZ701"
+  },
   "GX-CJ680CL": {
     "brand": "CJHelloVision",
     "name": "CJ680CL"
@@ -18778,6 +18786,10 @@
   "The Leader Kids 4G": {
     "brand": "CORN",
     "name": "The_Leader_Kids_4G"
+  },
+  "The_Leader_Kids_Pro": {
+    "brand": "CORN",
+    "name": "The_Leader_Kids_Pro"
   },
   "The Leader Tab8 4G": {
     "brand": "CORN",
@@ -71507,6 +71519,10 @@
     "brand": "Lava",
     "name": "LAVA LXX516"
   },
+  "LAVA LXX520": {
+    "brand": "Lava",
+    "name": "LAVA LXX520"
+  },
   "LAVA LXX521": {
     "brand": "Lava",
     "name": "LAVA LXX521"
@@ -71638,6 +71654,10 @@
   "R2": {
     "brand": "Lava",
     "name": "R2"
+  },
+  "LAVA LXX528": {
+    "brand": "Lava",
+    "name": "Shark 2 5G"
   },
   "LTN10RT": {
     "brand": "Lava",
@@ -90923,6 +90943,10 @@
     "brand": "ONERugged",
     "name": "MT50CE"
   },
+  "ONI65P": {
+    "brand": "ONIDA",
+    "name": "MIRC Electronics Ltd."
+  },
   "ONI41F": {
     "brand": "ONIDA",
     "name": "MIRC Electronics Ltd."
@@ -97071,6 +97095,10 @@
     "brand": "PEEPandLEARN",
     "name": "PLPro"
   },
+  "A3_MAX": {
+    "brand": "PEICHENG",
+    "name": "A3_MAX"
+  },
   "AT74K": {
     "brand": "PEICHENG",
     "name": "AT74K"
@@ -97744,8 +97772,8 @@
     "name": "L211-EEA"
   },
   "L30": {
-    "brand": "POWMUS",
-    "name": "L30"
+    "brand": "raemond",
+    "name": "L30_US_YK"
   },
   "PRAMA_3576": {
     "brand": "PRAMA",
@@ -106223,6 +106251,10 @@
     "brand": "Realme",
     "name": "真我V11s 5G"
   },
+  "Realme Smart TV": {
+    "brand": "Realme Techlife",
+    "name": "Flipkart India Private Limited"
+  },
   "Realme TV": {
     "brand": "Realme Techlife",
     "name": "Realme TV"
@@ -106382,6 +106414,10 @@
   "AF13": {
     "brand": "RebotAi",
     "name": "AF13"
+  },
+  "AF13Air": {
+    "brand": "RebotAi",
+    "name": "AF13Air"
   },
   "AF13_EEA": {
     "brand": "RebotAi",
@@ -108090,6 +108126,10 @@
   "T88": {
     "brand": "YOBANSE",
     "name": "T88"
+  },
+  "T901_US": {
+    "brand": "Relndoo",
+    "name": "T901_US"
   },
   "TAB10_US": {
     "brand": "Relndoo",
@@ -156247,6 +156287,14 @@
     "brand": "XGIMI",
     "name": "AURA 2 (New)"
   },
+  "XM03U": {
+    "brand": "XGIMI",
+    "name": "Elfin Flip 4K"
+  },
+  "WM03R": {
+    "brand": "XGIMI",
+    "name": "Elfin Flip Laser"
+  },
   "WK03C": {
     "brand": "XGIMI",
     "name": "Elfin Flip Plus"
@@ -168155,13 +168203,13 @@
     "brand": "intelkom",
     "name": "meanIT_X2"
   },
-  "BLK-L03": {
-    "brand": "iotapk",
-    "name": "HONOR CHOICE T10"
-  },
   "BLK-L09": {
     "brand": "iotapk",
     "name": "HONOR CHOICE T10"
+  },
+  "BLK-L03": {
+    "brand": "iotapk",
+    "name": "T10"
   },
   "L611": {
     "brand": "ioutdoor",
