@@ -36523,6 +36523,10 @@
     "brand": "G-Tab",
     "name": "F8X"
   },
+  "S": {
+    "brand": "G-Tab",
+    "name": "GTab_S"
+  },
   "X": {
     "brand": "G-Tab",
     "name": "X_PRO_AI"
@@ -54895,6 +54899,10 @@
     "brand": "Hyundai",
     "name": "HYUNDAI"
   },
+  "EcoTV Ultra": {
+    "brand": "Philips",
+    "name": "PHILIPS"
+  },
   "HYUNDAI 2K Android TV-A": {
     "brand": "Hyundai",
     "name": "HYUNDAI 2K Android TV-A"
@@ -71619,6 +71627,10 @@
     "brand": "Lava",
     "name": "LN9820"
   },
+  "LT4900": {
+    "brand": "Lava",
+    "name": "LT4900"
+  },
   "LAVA LXX519": {
     "brand": "Lava",
     "name": "LXX519"
@@ -76506,6 +76518,10 @@
   "Lunnen Ground 11": {
     "brand": "Lunnen",
     "name": "TL85611B01"
+  },
+  "Lunnen Ground 12.2": {
+    "brand": "Lunnen",
+    "name": "TL85612L01"
   },
   "LYF_LS-4006": {
     "brand": "Lyf",
@@ -99580,10 +99596,6 @@
     "name": "PHILIPS"
   },
   "2K SMART TV PH": {
-    "brand": "Philips",
-    "name": "PHILIPS"
-  },
-  "EcoTV Ultra": {
     "brand": "Philips",
     "name": "PHILIPS"
   },
@@ -148207,6 +148219,10 @@
     "brand": "Veld",
     "name": "Veld Board"
   },
+  "Velox 10X Pro": {
+    "brand": "Velox",
+    "name": "Velox_10X_Pro"
+  },
   "CX-508": {
     "brand": "Venso",
     "name": "CX-508"
@@ -168270,6 +168286,10 @@
   "P18": {
     "brand": "kozen",
     "name": "P18"
+  },
+  "Mini_Tab8": {
+    "brand": "leaderhub",
+    "name": "Mini_Tab8"
   },
   "S18PRO-H": {
     "brand": "leaderhub",
