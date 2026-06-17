@@ -6955,6 +6955,34 @@
     "brand": "Anydata",
     "name": "iCraig CMP749"
   },
+  "Note56 Plus": {
+    "brand": "Doogee",
+    "name": "Note56 Plus"
+  },
+  "Note56 Pro": {
+    "brand": "Doogee",
+    "name": "Note56 Pro"
+  },
+  "Note56X Pro": {
+    "brand": "Doogee",
+    "name": "Note56X Pro"
+  },
+  "U13": {
+    "brand": "Workmate",
+    "name": "U13"
+  },
+  "U11 Pro": {
+    "brand": "Doogee",
+    "name": "U11 Pro"
+  },
+  "Tab A9": {
+    "brand": "Doogee",
+    "name": "Tab A9"
+  },
+  "Tab G5": {
+    "brand": "Doogee",
+    "name": "Tab G5"
+  },
   "AoGo1": {
     "brand": "AoGo",
     "name": "AoGo1"
@@ -18707,6 +18735,10 @@
     "brand": "CORN",
     "name": "CORN_X55"
   },
+  "CPhone17 Pro Max 4G": {
+    "brand": "CORN",
+    "name": "CPhone17ProMax4G"
+  },
   "Coco10_Ultra_4G": {
     "brand": "CORN",
     "name": "Coco10_Ultra_4G"
@@ -24571,6 +24603,10 @@
     "brand": "DAMASCO",
     "name": "TAB-T863-3"
   },
+  "RTC_M82": {
+    "brand": "DARVEEN",
+    "name": "RTC_M82"
+  },
   "SURF1000": {
     "brand": "DBM Maroc",
     "name": "ACCENT SURF 1000"
@@ -28883,18 +28919,6 @@
     "brand": "Doogee",
     "name": "Note 59"
   },
-  "Note56 Plus": {
-    "brand": "Doogee",
-    "name": "Note56 Plus"
-  },
-  "Note56 Pro": {
-    "brand": "Doogee",
-    "name": "Note56 Pro"
-  },
-  "Note56X Pro": {
-    "brand": "Doogee",
-    "name": "Note56X Pro"
-  },
   "Note59 Pro": {
     "brand": "Doogee",
     "name": "Note59 Pro"
@@ -29235,10 +29259,6 @@
     "brand": "Doogee",
     "name": "T5S"
   },
-  "Tab A9": {
-    "brand": "Doogee",
-    "name": "Tab A9"
-  },
   "Tab A9 Pro": {
     "brand": "Ulefone",
     "name": "Tab A9 Pro"
@@ -29270,10 +29290,6 @@
   "Tab E3+": {
     "brand": "Doogee",
     "name": "Tab E3+"
-  },
-  "Tab G5": {
-    "brand": "Doogee",
-    "name": "Tab G5"
   },
   "Tab G6": {
     "brand": "Doogee",
@@ -29315,10 +29331,6 @@
     "brand": "Doogee",
     "name": "U11 Kid"
   },
-  "U11 Pro": {
-    "brand": "Doogee",
-    "name": "U11 Pro"
-  },
   "U11 Kid Pro": {
     "brand": "Doogee",
     "name": "U11 Pro Kid"
@@ -29326,10 +29338,6 @@
   "U12": {
     "brand": "Doogee",
     "name": "U12"
-  },
-  "U13": {
-    "brand": "Workmate",
-    "name": "U13"
   },
   "U8": {
     "brand": "Doogee",
@@ -32370,6 +32378,10 @@
   "ENTG1011": {
     "brand": "Entity",
     "name": "ENTG1011"
+  },
+  "ENTITY_ERA_TAB_12": {
+    "brand": "Entity",
+    "name": "ENTITY_ERA_TAB_12"
   },
   "ENTITY_ERA_TAB_8": {
     "brand": "Entity",
@@ -97704,8 +97716,8 @@
     "name": "POCO X8 Pro"
   },
   "2511FPC34I": {
-    "brand": "POCO",
-    "name": "POCO X8 Pro"
+    "brand": "Redmi",
+    "name": "REDMI Turbo 5"
   },
   "2602BPC18G": {
     "brand": "POCO",
@@ -106691,6 +106703,10 @@
     "brand": "Redmi",
     "name": "REDMI Turbo 4 Pro"
   },
+  "2606FRT34I": {
+    "brand": "Redmi",
+    "name": "REDMI Turbo 5"
+  },
   "2602BRT18C": {
     "brand": "Redmi",
     "name": "REDMI Turbo 5 Max"
@@ -108501,7 +108517,7 @@
   },
   "R-TP10": {
     "brand": "Rovos",
-    "name": "R-TP10_EEA"
+    "name": "R-TP10_US"
   },
   "FGAD": {
     "brand": "Royaltek",
@@ -109047,6 +109063,10 @@
     "brand": "SEGO",
     "name": "MATE_10"
   },
+  "Note 80 Ultra": {
+    "brand": "SEGO",
+    "name": "Note 80 Ultra"
+  },
   "Note 70": {
     "brand": "SEGO",
     "name": "Note_70"
@@ -109334,6 +109354,10 @@
   "SA08_310": {
     "brand": "SINAL",
     "name": "SA08_310"
+  },
+  "SINAT_TOUCH_ST": {
+    "brand": "SINAT",
+    "name": "SINAT TOUCH ST"
   },
   "SITIH3455N": {
     "brand": "SITI_Playtop",
@@ -132479,6 +132503,10 @@
     "brand": "Swisstone",
     "name": "swisstone SD 530"
   },
+  "S515": {
+    "brand": "Swissvoice",
+    "name": "S515"
+  },
   "VS700": {
     "brand": "Switel",
     "name": "VS700"
@@ -141410,6 +141438,10 @@
   "T65_ROW": {
     "brand": "Teclast",
     "name": "T65_ROW"
+  },
+  "T70Pro_ROW": {
+    "brand": "Teclast",
+    "name": "T70Pro_ROW"
   },
   "T70_EEA": {
     "brand": "Teclast",
@@ -170474,6 +170506,10 @@
   "V2553A": {
     "brand": "vivo",
     "name": "Y600 Turbo"
+  },
+  "V2542A": {
+    "brand": "vivo",
+    "name": "Y60i"
   },
   "V2559BA": {
     "brand": "vivo",
