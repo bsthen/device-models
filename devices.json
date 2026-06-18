@@ -2859,6 +2859,10 @@
     "brand": "Acer",
     "name": "Acer One 8 T9-422L"
   },
+  "Acer One Pro 87": {
+    "brand": "Acer",
+    "name": "Acer One Pro 87"
+  },
   "Acer One T10-22L": {
     "brand": "Acer",
     "name": "Acer One T10-22L"
@@ -16083,6 +16087,10 @@
     "brand": "Blu",
     "name": "BOLD K10"
   },
+  "BOLD K12": {
+    "brand": "Blu",
+    "name": "BOLD K12"
+  },
   "BOLD K22": {
     "brand": "Blu",
     "name": "BOLD K22"
@@ -25466,6 +25474,10 @@
   "DG101SVCB": {
     "brand": "DGTEC",
     "name": "DG101SVCB"
+  },
+  "DG101SVGB6MB": {
+    "brand": "DGTEC",
+    "name": "DG101SVGB6MB"
   },
   "DG101TBIPS": {
     "brand": "DGTEC",
@@ -48155,6 +48167,10 @@
     "brand": "Honor",
     "name": "HONOR 600"
   },
+  "MRK-NX3": {
+    "brand": "Honor",
+    "name": "HONOR 600 Elite"
+  },
   "LNA-NX1": {
     "brand": "Honor",
     "name": "HONOR 600 Lite"
@@ -48162,6 +48178,10 @@
   "VKP-NX9": {
     "brand": "Honor",
     "name": "HONOR 600 Pro"
+  },
+  "MRK-NX1": {
+    "brand": "Honor",
+    "name": "HONOR 600 Smart 5G"
   },
   "LNA-NX3": {
     "brand": "Honor",
@@ -99271,6 +99291,10 @@
     "brand": "Partner",
     "name": "S70PCI"
   },
+  "CLEO_SERIES": {
+    "brand": "Partner",
+    "name": "CLEO_SERIES"
+  },
   "E15 Pro": {
     "brand": "Partner",
     "name": "E15 Pro"
@@ -111387,6 +111411,10 @@
     "brand": "Safaricom",
     "name": "Neon_Smarta_2"
   },
+  "Neon Smarta 3": {
+    "brand": "Safaricom",
+    "name": "Neon_Smarta_3"
+  },
   "Neon Ultra 2 M": {
     "brand": "Safaricom",
     "name": "Neon_Ultra_2_M"
@@ -112410,6 +112438,26 @@
   "SM-A266M": {
     "brand": "Samsung",
     "name": "Galaxy A26 5G"
+  },
+  "SM-A2760": {
+    "brand": "Samsung",
+    "name": "Galaxy A27 5G"
+  },
+  "SM-A276B": {
+    "brand": "Samsung",
+    "name": "Galaxy A27 5G"
+  },
+  "SM-A276U": {
+    "brand": "Samsung",
+    "name": "Galaxy A27 5G"
+  },
+  "SM-A276U1": {
+    "brand": "Samsung",
+    "name": "Galaxy A27 5G"
+  },
+  "SM-S276V": {
+    "brand": "Samsung",
+    "name": "Galaxy A27 5G"
   },
   "SM-A300H": {
     "brand": "Samsung",
@@ -116042,6 +116090,10 @@
   "SM-M366K": {
     "brand": "Samsung",
     "name": "Galaxy Jump4"
+  },
+  "SM-A276K": {
+    "brand": "Samsung",
+    "name": "Galaxy Jump5"
   },
   "SHW-M130K": {
     "brand": "Samsung",
@@ -144555,6 +144607,10 @@
     "brand": "Touch plus",
     "name": "AS1000"
   },
+  "TBP_V6_PRO": {
+    "brand": "TouchBoard",
+    "name": "TBP_V6_PRO"
+  },
   "TM-MID1010": {
     "brand": "Touchmate",
     "name": "TM-MID1010"
@@ -167022,6 +167078,10 @@
   "Uzbekistan": {
     "brand": "iDevice",
     "name": "Uzbekistan"
+  },
+  "AI_Board_Ultra": {
+    "brand": "iFLYTEK",
+    "name": "AI_Board_Ultra"
   },
   "GOV-AI251": {
     "brand": "iFLYTEK",
