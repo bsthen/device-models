@@ -100191,6 +100191,10 @@
     "brand": "Pitney Bowes",
     "name": "SendPro C Series"
   },
+  "MP1231001P": {
+    "brand": "PixFrame",
+    "name": "PixFrame"
+  },
   "121-1001P02": {
     "brand": "Pixcase",
     "name": "Pixcase2"
@@ -133341,7 +133345,7 @@
   },
   "T451A": {
     "brand": "TCT (Alcatel)",
-    "name": "Alcatel A31 Pro"
+    "name": "Alcatel A33"
   },
   "BeyondTV": {
     "brand": "TCL",
@@ -134095,6 +134099,14 @@
     "brand": "TCL",
     "name": "TCL K33 5G"
   },
+  "T523V": {
+    "brand": "TCL",
+    "name": "TCL K70"
+  },
+  "T523SP": {
+    "brand": "TCL",
+    "name": "TCL K70"
+  },
   "T522A": {
     "brand": "TCL",
     "name": "TCL K70 4G"
@@ -134240,6 +134252,10 @@
     "name": "TCL NXTPAPER 70 Pro"
   },
   "T807E": {
+    "brand": "TCL",
+    "name": "TCL NXTPAPER 70 Pro"
+  },
+  "T807M": {
     "brand": "TCL",
     "name": "TCL NXTPAPER 70 Pro"
   },
@@ -134454,6 +134470,10 @@
   "9136R": {
     "brand": "TCL",
     "name": "TCL TAB 8 SE"
+  },
+  "9425X": {
+    "brand": "TCL",
+    "name": "TCL TAB A1"
   },
   "9445X": {
     "brand": "TCL",
@@ -137101,7 +137121,7 @@
   },
   "T450A": {
     "brand": "TCT (Alcatel)",
-    "name": "Alcatel 3L"
+    "name": "Alcatel A33"
   },
   "6056A": {
     "brand": "TCT (Alcatel)",
@@ -168750,6 +168770,10 @@
   "K70_PRO": {
     "brand": "raemond",
     "name": "M70_A"
+  },
+  "K70_PRO_ROW_A": {
+    "brand": "raemond",
+    "name": "K70_PRO_ROW_A"
   },
   "L90": {
     "brand": "raemond",
