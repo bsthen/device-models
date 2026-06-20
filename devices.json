@@ -10348,8 +10348,8 @@
     "name": "CP10_Pro"
   },
   "CP10_Pro": {
-    "brand": "Atozee",
-    "name": "CP10_Pro"
+    "brand": "PEICHENG",
+    "name": "CP10R_Pro"
   },
   "CP20S": {
     "brand": "Atozee",
@@ -21758,6 +21758,10 @@
   "TF10EA2": {
     "brand": "Mecer",
     "name": "TF10EA2"
+  },
+  "conference_aio": {
+    "brand": "Colorlight",
+    "name": "conference_aio"
   },
   "P40_Pride_1": {
     "brand": "ColorsMobile",
@@ -57123,6 +57127,10 @@
     "brand": "Infinix",
     "name": "Infinix HOT 70"
   },
+  "Infinix X6896": {
+    "brand": "Infinix",
+    "name": "Infinix HOT 70 Pro 5G"
+  },
   "Infinix X655": {
     "brand": "Infinix",
     "name": "Infinix HOT 9"
@@ -77294,6 +77302,10 @@
   "MXXCE3XE": {
     "brand": "MIRAI_TOUCH",
     "name": "MXXCE3XE"
+  },
+  "CE4S_Series": {
+    "brand": "MIRAI_TOUCH",
+    "name": "MXXCE4S"
   },
   "MXXCE4X": {
     "brand": "MIRAI_TOUCH",
@@ -133233,7 +133245,7 @@
   },
   "T12 Pro": {
     "brand": "TABWEE",
-    "name": "T12_Pro_RU"
+    "name": "T12_Pro_US"
   },
   "T60 Pro": {
     "brand": "TABWEE",
@@ -134122,6 +134134,10 @@
   "T453D": {
     "brand": "TCL",
     "name": "TCL K70 SE"
+  },
+  "T524J": {
+    "brand": "TCL",
+    "name": "TCL K70 XE"
   },
   "5124J": {
     "brand": "TCL",
@@ -142510,6 +142526,10 @@
   "TECNO T1103": {
     "brand": "Tecno",
     "name": "TECNO MEGAPAD 2"
+  },
+  "TECNO T1002": {
+    "brand": "Tecno",
+    "name": "TECNO MEGAPAD SE 2"
   },
   "TECNO T1101": {
     "brand": "Tecno",
