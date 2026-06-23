@@ -2667,6 +2667,10 @@
     "brand": "Acer",
     "name": "ACTAB10KB24"
   },
+  "ACTAB10KB26": {
+    "brand": "Acer",
+    "name": "ACTAB10KB26"
+  },
   "ACTAB1123": {
     "brand": "Acer",
     "name": "ACTAB1123"
@@ -2858,6 +2862,10 @@
   "Acer One 8 T9-422L": {
     "brand": "Acer",
     "name": "Acer One 8 T9-422L"
+  },
+  "Acer One Pro 11": {
+    "brand": "Acer",
+    "name": "Acer One Pro 11"
   },
   "Acer One Pro 87": {
     "brand": "Acer",
@@ -11827,6 +11835,10 @@
     "brand": "BMAX",
     "name": "I12_A_Power"
   },
+  "I13_LTE": {
+    "brand": "BMAX",
+    "name": "I13_LTE"
+  },
   "I14": {
     "brand": "BMAX",
     "name": "I14"
@@ -13471,6 +13483,14 @@
     "brand": "BYYBUO",
     "name": "104S"
   },
+  "A10_A16_UK": {
+    "brand": "BYYBUO",
+    "name": "A10_A16_UK"
+  },
+  "A10_A16_US": {
+    "brand": "BYYBUO",
+    "name": "A10_A16_US"
+  },
   "A10_EU": {
     "brand": "BYYBUO",
     "name": "A10_EU"
@@ -14310,6 +14330,10 @@
   "BW10RS": {
     "brand": "BioRugged",
     "name": "BW10RS_EEA"
+  },
+  "BioWolf_8RS": {
+    "brand": "BioRugged",
+    "name": "BioWolf_8RS"
   },
   "BioWolf_C": {
     "brand": "BioRugged",
@@ -17063,6 +17087,10 @@
     "brand": "Blu",
     "name": "T5 Plus"
   },
+  "T500B": {
+    "brand": "Blu",
+    "name": "T500B"
+  },
   "T6": {
     "brand": "IkuMobile",
     "name": "T6"
@@ -18178,6 +18206,10 @@
   "CTABLOTUSV2": {
     "brand": "CEPTER",
     "name": "CTABLOTUSV2"
+  },
+  "CTABNEXA10V2": {
+    "brand": "CEPTER",
+    "name": "CTABNEXA10V2"
   },
   "CTABNEXT10S": {
     "brand": "CEPTER",
@@ -21671,6 +21703,10 @@
     "brand": "Clover",
     "name": "RWT-NE-RGPH5-12812"
   },
+  "RWT-NE-RGPH5-25612": {
+    "brand": "Clover",
+    "name": "RWT-NE-RGPH5-25612"
+  },
   "gama_alta_6_128G": {
     "brand": "Clover",
     "name": "gama_alta_6_128G"
@@ -24163,6 +24199,10 @@
     "brand": "Cubot",
     "name": "KINGKONG ACE 3"
   },
+  "KINGKONG Dura": {
+    "brand": "Cubot",
+    "name": "KINGKONG Dura"
+  },
   "KINGKONG_ES": {
     "brand": "Cubot",
     "name": "KINGKONG ES"
@@ -25750,6 +25790,10 @@
   "Tablet_DL_3910": {
     "brand": "DL",
     "name": "i-Player_KIDS"
+  },
+  "DLSI-86CJC": {
+    "brand": "DLSYS",
+    "name": "IFPD_86"
   },
   "D11_EEA": {
     "brand": "DMOAO",
@@ -27482,6 +27526,10 @@
   "R11": {
     "brand": "DigiLand",
     "name": "R11"
+  },
+  "R11pro": {
+    "brand": "DigiLand",
+    "name": "R11pro"
   },
   "SLTDVD1023": {
     "brand": "DigiLand",
@@ -30298,6 +30346,10 @@
   "C30plus": {
     "brand": "ECOPAD",
     "name": "C30plus_US"
+  },
+  "C5L1": {
+    "brand": "ECOPAD",
+    "name": "C5L1_US"
   },
   "C5Pro": {
     "brand": "ECOPAD",
@@ -33867,6 +33919,10 @@
     "brand": "FFFSMARTLIFE",
     "name": "F3T10WD4"
   },
+  "F3T11-WG4": {
+    "brand": "FFFSMARTLIFE",
+    "name": "F3T11-WG4"
+  },
   "F3T7B1": {
     "brand": "FFFSMARTLIFE",
     "name": "F3T7B1"
@@ -34085,7 +34141,7 @@
   },
   "F105 Pro": {
     "brand": "FOSSiBOT",
-    "name": "F105_Pro_EEA"
+    "name": "F105_Pro_ROW"
   },
   "F106 Pro": {
     "brand": "FOSSiBOT",
@@ -40211,6 +40267,14 @@
     "brand": "H(tab)",
     "name": "H_Tab_Lite"
   },
+  "H_Tab_Mini": {
+    "brand": "H(tab)",
+    "name": "H_Tab_Mini"
+  },
+  "H_Tab_Mini_Plus": {
+    "brand": "H(tab)",
+    "name": "H_Tab_Mini_Plus"
+  },
   "H_tab_1": {
     "brand": "H(tab)",
     "name": "H_tab_1"
@@ -40555,6 +40619,10 @@
     "brand": "HEROFUN",
     "name": "BH805G"
   },
+  "MO137G": {
+    "brand": "HEROFUN",
+    "name": "MO137G"
+  },
   "G15": {
     "brand": "HIGRACE",
     "name": "G15_EEA"
@@ -40834,6 +40902,10 @@
   "XULTRAPLUS3": {
     "brand": "HOLO",
     "name": "XULTRAPLUS3"
+  },
+  "X_PLAY_3": {
+    "brand": "HOLO",
+    "name": "X_PLAY_3"
   },
   "X_Play_Ultra": {
     "brand": "HOLO",
@@ -58635,6 +58707,10 @@
     "brand": "Inves",
     "name": "Europe"
   },
+  "TK02": {
+    "brand": "Invens",
+    "name": "TK02_EEA"
+  },
   "ULTRA 13P": {
     "brand": "Invens",
     "name": "ULTRA 13P"
@@ -59610,6 +59686,10 @@
   "Orange Nola fun 3": {
     "brand": "Orange",
     "name": "Orange Nola fun 3"
+  },
+  "itel P10006L": {
+    "brand": "Itel",
+    "name": "P10006L-OP"
   },
   "itel P11": {
     "brand": "Itel",
@@ -61514,6 +61594,10 @@
   "EZpad M11 Pro": {
     "brand": "Jumper",
     "name": "EZpad_M11_Pro"
+  },
+  "Z3": {
+    "brand": "ZTE",
+    "name": "Ukraine, Kazakhstan, Azerbaijan"
   },
   "Cedar CT8": {
     "brand": "Juniper Systems",
@@ -70703,10 +70787,6 @@
     "brand": "iBRIT",
     "name": "Z2"
   },
-  "Z3": {
-    "brand": "ZTE",
-    "name": "Ukraine, Kazakhstan, Azerbaijan"
-  },
   "D113": {
     "brand": "LZU_lzu",
     "name": "D113"
@@ -75398,6 +75478,10 @@
   "X1Lite": {
     "brand": "LinkNet",
     "name": "X1Lite"
+  },
+  "CP90": {
+    "brand": "Linkvil",
+    "name": "CP90"
   },
   "Linsar 4K Android TV": {
     "brand": "Linsar",
@@ -80558,6 +80642,10 @@
   "M_Q59": {
     "brand": "Mengdash",
     "name": "M_Q59"
+  },
+  "MES-B": {
+    "brand": "Meswao",
+    "name": "MES-B"
   },
   "MES-B3": {
     "brand": "Meswao",
@@ -97135,6 +97223,10 @@
     "brand": "PEAQ",
     "name": "PET_11080_H428S"
   },
+  "PET 11080-H656S": {
+    "brand": "PEAQ",
+    "name": "PET_11080_H656S_EEA"
+  },
   "PET_11081_H428S": {
     "brand": "PEAQ",
     "name": "PET_11081_H428S_EEA"
@@ -99999,6 +100091,10 @@
     "brand": "Philips",
     "name": "T8010A"
   },
+  "T8010P": {
+    "brand": "Philips",
+    "name": "T8010P"
+  },
   "T8015": {
     "brand": "Philips",
     "name": "T8015"
@@ -102059,6 +102155,10 @@
     "brand": "Premio",
     "name": "Premio P620"
   },
+  "Premio Aura": {
+    "brand": "Premio",
+    "name": "Premio_Aura"
+  },
   "Premio P451": {
     "brand": "Premio",
     "name": "Premio_P451"
@@ -103602,6 +103702,10 @@
   "M10_R06": {
     "brand": "Pritom",
     "name": "M10_R06"
+  },
+  "M10_R06_Kids_EEA": {
+    "brand": "Pritom",
+    "name": "M10_R06_Kids_EEA"
   },
   "M10_R07": {
     "brand": "Pritom",
@@ -111030,6 +111134,10 @@
   "P10_B": {
     "brand": "SVITOO",
     "name": "P10_B_EEA"
+  },
+  "P10_D": {
+    "brand": "SVITOO",
+    "name": "P10_D_EEA"
   },
   "P10_T": {
     "brand": "SVITOO",
@@ -128375,6 +128483,10 @@
     "brand": "Smartfren",
     "name": "NC36B1G"
   },
+  "T101S": {
+    "brand": "Smartfy",
+    "name": "T101S"
+  },
   "T701S": {
     "brand": "Smartfy",
     "name": "T701S"
@@ -133391,6 +133503,10 @@
     "brand": "TCL",
     "name": "Jitterbug Smart4"
   },
+  "T513G": {
+    "brand": "TCL",
+    "name": "Jitterbug Smart5"
+  },
   "movo_la": {
     "brand": "TCL",
     "name": "L55E6700UDS"
@@ -134489,7 +134605,7 @@
   },
   "9425X": {
     "brand": "TCL",
-    "name": "TCL TAB A1"
+    "name": "TCL TAB A1 NXTPAPER"
   },
   "9445X": {
     "brand": "TCL",
@@ -140227,6 +140343,10 @@
     "brand": "TVPLUS",
     "name": "TVPLUS BOX"
   },
+  "TVT-T10": {
+    "brand": "TVT VIET NAM",
+    "name": "TVT-T10"
+  },
   "TVT-T108": {
     "brand": "TVT(A)",
     "name": "TVT-T108"
@@ -140566,6 +140686,14 @@
   "UP10_SH36LAG": {
     "brand": "Technopc",
     "name": "UP10_SH36LAG"
+  },
+  "Signtech 12NS": {
+    "brand": "Technopc",
+    "name": "Zircon_12NS"
+  },
+  "Zircon 12NS": {
+    "brand": "Technopc",
+    "name": "Zircon_12NS"
   },
   "1016S": {
     "brand": "Techpad",
@@ -144138,6 +144266,10 @@
   "TiVo Stream 4K": {
     "brand": "eSTREAM 4K",
     "name": "TiVo Stream 4K"
+  },
+  "A10_A16_EU": {
+    "brand": "Tibuta",
+    "name": "A10_A16_EU"
   },
   "A10_M_EU": {
     "brand": "Tibuta",
@@ -167507,6 +167639,10 @@
     "brand": "iHunt",
     "name": "iHunt_S60_Discovery_Pro_2020"
   },
+  "MindOne": {
+    "brand": "iKKO",
+    "name": "MindOne"
+  },
   "E1 Plus": {
     "brand": "iLa Mobile",
     "name": "E1 Plus"
@@ -167625,7 +167761,7 @@
   },
   "I24T02": {
     "brand": "iMin",
-    "name": "Falcon 2"
+    "name": "Falcon2"
   },
   "I25S02": {
     "brand": "iMin",
