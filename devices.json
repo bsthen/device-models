@@ -6380,8 +6380,8 @@
     "name": "S23"
   },
   "S24": {
-    "brand": "SEGO",
-    "name": "SEGO_S24"
+    "brand": "TWL",
+    "name": "S24"
   },
   "S25": {
     "brand": "SEGO",
@@ -77215,6 +77215,10 @@
     "brand": "MEFERI",
     "name": "ME74"
   },
+  "Multimedia_Megaaudio": {
+    "brand": "MEGAAUDIO",
+    "name": "Multimedia_Megaaudio"
+  },
   "D105": {
     "brand": "Zonko",
     "name": "D105"
@@ -92086,6 +92090,10 @@
   "PGZ110": {
     "brand": "OnePlus",
     "name": "OnePlus Ace 竞速版"
+  },
+  "CPH2955": {
+    "brand": "OnePlus",
+    "name": "OnePlus N6"
   },
   "AC2001": {
     "brand": "OnePlus",
@@ -111137,7 +111145,7 @@
   },
   "P10_D": {
     "brand": "SVITOO",
-    "name": "P10_D_EEA"
+    "name": "P10_D_US"
   },
   "P10_T": {
     "brand": "SVITOO",
@@ -125311,6 +125319,18 @@
     "brand": "Sharp",
     "name": "AQUOS R10"
   },
+  "A602SH": {
+    "brand": "Sharp",
+    "name": "AQUOS R11"
+  },
+  "SH-51G": {
+    "brand": "Sharp",
+    "name": "AQUOS R11"
+  },
+  "SH-M35": {
+    "brand": "Sharp",
+    "name": "AQUOS R11"
+  },
   "706SH": {
     "brand": "Sharp",
     "name": "AQUOS R2"
@@ -134243,6 +134263,10 @@
     "brand": "TCL",
     "name": "TCL K70 5G"
   },
+  "T523P": {
+    "brand": "TCL",
+    "name": "TCL K70 5G"
+  },
   "T522E": {
     "brand": "TCL",
     "name": "TCL K70 Power 4G"
@@ -141278,6 +141302,10 @@
   "P50T_E_ROW": {
     "brand": "Teclast",
     "name": "P50T_E_ROW"
+  },
+  "P50T": {
+    "brand": "Teclast",
+    "name": "P50T_Y_EEA"
   },
   "P50_B": {
     "brand": "Teclast",
@@ -170427,6 +170455,10 @@
     "brand": "vivo",
     "name": "T5 Pro 5G"
   },
+  "V2628": {
+    "brand": "vivo",
+    "name": "T5e"
+  },
   "V2545": {
     "brand": "vivo",
     "name": "T5x 5G"
@@ -170582,6 +170614,10 @@
   "V2565": {
     "brand": "vivo",
     "name": "Y05"
+  },
+  "V2606": {
+    "brand": "vivo",
+    "name": "Y05e"
   },
   "V2575": {
     "brand": "vivo",
