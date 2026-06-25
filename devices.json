@@ -16117,7 +16117,7 @@
   },
   "BOLD K22": {
     "brand": "Blu",
-    "name": "BOLD K22"
+    "name": "BOLD_K22"
   },
   "BOLD K50": {
     "brand": "Blu",
@@ -40720,6 +40720,10 @@
     "name": "Google TV"
   },
   "4K SA Google TV": {
+    "brand": "HKC Elec",
+    "name": "Google TV"
+  },
+  "2K 9216L Google TV": {
     "brand": "HKC Elec",
     "name": "Google TV"
   },
@@ -95207,6 +95211,14 @@
     "brand": "Oppo",
     "name": "Reno15 5G"
   },
+  "A601OP": {
+    "brand": "Oppo",
+    "name": "Reno15 A"
+  },
+  "OPG08": {
+    "brand": "Oppo",
+    "name": "Reno15 A"
+  },
   "CPH2801": {
     "brand": "Oppo",
     "name": "Reno15 FS 5G/Reno15 F 5G"
@@ -141305,7 +141317,7 @@
   },
   "P50T": {
     "brand": "Teclast",
-    "name": "P50T_Y_EEA"
+    "name": "P50T_Y_US"
   },
   "P50_B": {
     "brand": "Teclast",
@@ -143770,6 +143782,10 @@
   "TL-5": {
     "brand": "Teletab",
     "name": "TL-5"
+  },
+  "TL-5_ROW": {
+    "brand": "Teletab",
+    "name": "TL-5_ROW"
   },
   "TL-9": {
     "brand": "Teletab",
@@ -158350,6 +158366,10 @@
   "S12PLUS": {
     "brand": "YINBER",
     "name": "S12PLUS"
+  },
+  "matepadpro": {
+    "brand": "YINBER",
+    "name": "matepadpro"
   },
   "P6501": {
     "brand": "YINKE",
