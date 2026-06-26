@@ -48839,6 +48839,10 @@
     "brand": "Honor",
     "name": "荣耀X70"
   },
+  "BSN-AN00": {
+    "brand": "Honor",
+    "name": "荣耀X80 Pro Max"
+  },
   "LNA-AN00": {
     "brand": "Honor",
     "name": "荣耀X80i"
@@ -56226,6 +56230,10 @@
   "TE10D2M64": {
     "brand": "IRIS_OHYAMA",
     "name": "TE10D2M64"
+  },
+  "TE10F3W64": {
+    "brand": "IRIS_OHYAMA",
+    "name": "TE10F3W64"
   },
   "TE11F5W64": {
     "brand": "IRIS_OHYAMA",
@@ -170805,7 +170813,7 @@
   },
   "V2542A": {
     "brand": "vivo",
-    "name": "Y60i"
+    "name": "Y6t m版"
   },
   "V2559BA": {
     "brand": "vivo",
