@@ -11743,6 +11743,10 @@
     "brand": "BMAX",
     "name": "10_Pro"
   },
+  "11_Pro_WLAN": {
+    "brand": "BMAX",
+    "name": "11_Pro_WLAN"
+  },
   "BMAX_I9": {
     "brand": "BMAX",
     "name": "BMAX_I9"
@@ -21454,6 +21458,10 @@
   "LUX_Mini_Module": {
     "brand": "Clevertouch",
     "name": "Clevertouch LUX Mini"
+  },
+  "FOCUS": {
+    "brand": "Clevertouch",
+    "name": "Clevertouch_Focus"
   },
   "Impact_Lux_Display": {
     "brand": "Clevertouch",
@@ -56206,6 +56214,10 @@
   "TE08D2M64": {
     "brand": "IRIS_OHYAMA",
     "name": "TE08D2M64"
+  },
+  "TE08F5W64": {
+    "brand": "IRIS_OHYAMA",
+    "name": "TE08F5W64"
   },
   "TE101": {
     "brand": "IRIS_OHYAMA",
@@ -94563,9 +94575,21 @@
     "brand": "Oppo",
     "name": "PLT130"
   },
+  "PLT140": {
+    "brand": "Oppo",
+    "name": "PLT140"
+  },
   "OPD2409": {
     "brand": "Oppo",
     "name": "Pad 4 Pro"
+  },
+  "OPD2502": {
+    "brand": "Oppo",
+    "name": "Pad 5"
+  },
+  "OPD2503": {
+    "brand": "Oppo",
+    "name": "Pad 5"
   },
   "OPD2511": {
     "brand": "Oppo",
@@ -95059,10 +95083,6 @@
     "brand": "Oppo",
     "name": "Reno 11 Pro"
   },
-  "CPH2859": {
-    "brand": "Oppo",
-    "name": "Reno 16c 5G"
-  },
   "PCKM00": {
     "brand": "Oppo",
     "name": "Reno 2 中国版"
@@ -95251,9 +95271,21 @@
     "brand": "Oppo",
     "name": "Reno16"
   },
+  "CPH2865": {
+    "brand": "Oppo",
+    "name": "Reno16 5G"
+  },
+  "CPH2859": {
+    "brand": "Oppo",
+    "name": "Reno16c 5G"
+  },
   "PMK110": {
     "brand": "Oppo",
     "name": "Reno16 Pro"
+  },
+  "CPH2863": {
+    "brand": "Oppo",
+    "name": "Reno16 Pro 5G"
   },
   "CPH1945": {
     "brand": "Oppo",
@@ -147671,6 +147703,10 @@
     "brand": "VID(CN)",
     "name": "GQ3129RH1"
   },
+  "GQ3131RF1": {
+    "brand": "VID(CN)",
+    "name": "GQ3131RF1"
+  },
   "GQ5007AF2": {
     "brand": "VID(CN)",
     "name": "GQ5007AF2"
@@ -168131,6 +168167,10 @@
     "brand": "iQOO",
     "name": "iQOO Z11 Turbo"
   },
+  "V2559UA": {
+    "brand": "iQOO",
+    "name": "iQOO Z11i"
+  },
   "V2532A": {
     "brand": "iQOO",
     "name": "iQOO Z11x"
@@ -170423,6 +170463,10 @@
     "brand": "vivo",
     "name": "Y50s AI版"
   },
+  "V2531A": {
+    "brand": "vivo",
+    "name": "Y6a"
+  },
   "PA2553": {
     "brand": "vivo",
     "name": "Pad5"
@@ -170782,10 +170826,6 @@
   "V2516A": {
     "brand": "vivo",
     "name": "Y500 Pro"
-  },
-  "V2531A": {
-    "brand": "vivo",
-    "name": "Y6a"
   },
   "V2443BA": {
     "brand": "vivo",
