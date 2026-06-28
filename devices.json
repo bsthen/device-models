@@ -10803,6 +10803,10 @@
     "brand": "Vankyo",
     "name": "S30"
   },
+  "S30Pro": {
+    "brand": "AvidPad",
+    "name": "S30Pro"
+  },
   "S80": {
     "brand": "Premio",
     "name": "S80"
@@ -16068,8 +16072,8 @@
     "name": "B160V"
   },
   "B3": {
-    "brand": "IIIF150",
-    "name": "B3_EEA"
+    "brand": "Meswao",
+    "name": "B3-EEA"
   },
   "G71": {
     "brand": "Blu",
@@ -17542,6 +17546,10 @@
   "BboxTV-4A": {
     "brand": "Bouygues Telecom",
     "name": "BboxTV-4A"
+  },
+  "BboxTV-4B": {
+    "brand": "Bouygues Telecom",
+    "name": "BboxTV-4B"
   },
   "Bs 451": {
     "brand": "Bouygues Telecom",
@@ -34147,6 +34155,10 @@
     "brand": "Gionee",
     "name": "F105"
   },
+  "F125": {
+    "brand": "FOSSiBOT",
+    "name": "F105"
+  },
   "F105 Pro": {
     "brand": "FOSSiBOT",
     "name": "F105_Pro_ROW"
@@ -45980,6 +45992,10 @@
     "name": "HLTE243E"
   },
   "Hisense M72 Pro": {
+    "brand": "Hisense",
+    "name": "HLTE243E"
+  },
+  "Hisense M73 Pro": {
     "brand": "Hisense",
     "name": "HLTE243E"
   },
@@ -100619,6 +100635,10 @@
     "brand": "Plimpton",
     "name": "Kids10_A16_JAE"
   },
+  "Kids10_A16_US_JAE": {
+    "brand": "Plimpton",
+    "name": "Kids10_A16_US_JAE"
+  },
   "Kids20": {
     "brand": "Plimpton",
     "name": "Kids20_EEA"
@@ -143830,6 +143850,10 @@
   "TL-9": {
     "brand": "Teletab",
     "name": "TL_9_ROW"
+  },
+  "TL_4_ROW": {
+    "brand": "Teletab",
+    "name": "TL_4_ROW"
   },
   "MH700": {
     "brand": "Telev8",
