@@ -18855,6 +18855,10 @@
     "brand": "CORN",
     "name": "Star9_4G"
   },
+  "Star9_4G": {
+    "brand": "CORN",
+    "name": "Star9_4G"
+  },
   "Star9_Max": {
     "brand": "CORN",
     "name": "Star9_Max"
@@ -26259,6 +26263,10 @@
     "brand": "Danew",
     "name": "DSlide 750"
   },
+  "DSlide_1096": {
+    "brand": "Danew",
+    "name": "DSlide_1096"
+  },
   "Dbook112_EEA": {
     "brand": "Danew",
     "name": "Dbook112_EEA"
@@ -32462,6 +32470,10 @@
   "ENTG1011": {
     "brand": "Entity",
     "name": "ENTG1011"
+  },
+  "ENTITY_ERA_TAB_10": {
+    "brand": "Entity",
+    "name": "ENTITY_ERA_TAB_10"
   },
   "ENTITY_ERA_TAB_12": {
     "brand": "Entity",
@@ -48999,6 +49011,10 @@
     "brand": "Hoozo",
     "name": "MZS10"
   },
+  "W56": {
+    "brand": "Hoozo",
+    "name": "W56_US"
+  },
   "YK_P30": {
     "brand": "Hoozo",
     "name": "YK_P30"
@@ -60756,6 +60772,10 @@
     "name": "JOVI Y19s"
   },
   "J2503": {
+    "brand": "JOVI",
+    "name": "JOVI Y21"
+  },
+  "J2609": {
     "brand": "JOVI",
     "name": "JOVI Y21"
   },
@@ -76907,6 +76927,10 @@
     "brand": "M3 Mobile",
     "name": "M3SM24"
   },
+  "M3SM25": {
+    "brand": "M3 Mobile",
+    "name": "M3SM25"
+  },
   "M3SM30": {
     "brand": "M3 Mobile",
     "name": "M3SM30"
@@ -85023,6 +85047,10 @@
     "brand": "Motorola",
     "name": "moto g87"
   },
+  "moto g87": {
+    "brand": "Motorola",
+    "name": "moto g87"
+  },
   "moto g play (2021)": {
     "brand": "Motorola",
     "name": "moto g play (2021)"
@@ -85542,10 +85570,6 @@
   "moto g86 power 5G": {
     "brand": "Motorola",
     "name": "moto g86 power 5G"
-  },
-  "moto g87": {
-    "brand": "Motorola",
-    "name": "moto g87"
   },
   "moto g96 5G": {
     "brand": "Motorola",
@@ -134709,7 +134733,7 @@
   },
   "9445X": {
     "brand": "TCL",
-    "name": "TCL TAB A1 Plus"
+    "name": "TCL TAB A1 Plus NXTPAPER"
   },
   "9050S": {
     "brand": "TCL",
@@ -147790,6 +147814,10 @@
   "GQ8000BF2": {
     "brand": "VID(CN)",
     "name": "GQ8000BF2"
+  },
+  "GQ8002RH1": {
+    "brand": "VID(CN)",
+    "name": "GQ8002RH1"
   },
   "GR1000BF4": {
     "brand": "VID(CN)",
@@ -169055,6 +169083,10 @@
     "brand": "raemond",
     "name": "K70_PRO_ROW_A"
   },
+  "K90Pro_EEA_BND": {
+    "brand": "raemond",
+    "name": "K90Pro_EEA_BND"
+  },
   "L90": {
     "brand": "raemond",
     "name": "L90_ROW"
@@ -170642,6 +170674,10 @@
   "V2429": {
     "brand": "vivo",
     "name": "X Fold5"
+  },
+  "V2545A": {
+    "brand": "vivo",
+    "name": "X Fold6"
   },
   "V2503": {
     "brand": "vivo",
