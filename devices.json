@@ -14172,8 +14172,8 @@
     "name": "Benten_T20"
   },
   "T30": {
-    "brand": "Veidoo",
-    "name": "T30_EEA"
+    "brand": "raemond",
+    "name": "T30_ROW"
   },
   "T8": {
     "brand": "Winnovo",
@@ -24722,6 +24722,10 @@
   "DC-WT15": {
     "brand": "DEED",
     "name": "DC-WT15"
+  },
+  "M686-EEA": {
+    "brand": "DEEMWOLF",
+    "name": "M686-EEA"
   },
   "E10_EEA": {
     "brand": "VIVIMAGE",
@@ -77323,6 +77327,10 @@
     "brand": "MEIZE",
     "name": "D126_EEA"
   },
+  "D126_PRO_US": {
+    "brand": "MEIZE",
+    "name": "D126_PRO_US"
+  },
   "D126_TAB": {
     "brand": "MEIZE",
     "name": "D126_TAB"
@@ -89333,7 +89341,7 @@
   },
   "N90": {
     "brand": "Nexall",
-    "name": "N90_NEU"
+    "name": "N90_US"
   },
   "Infinity_Lite": {
     "brand": "Nexel",
@@ -109354,6 +109362,10 @@
   "NOTE_80": {
     "brand": "SEGO",
     "name": "SEGO_NOTE_80"
+  },
+  "Smart 20 HD": {
+    "brand": "SEGO",
+    "name": "SEGO_Smart_20_HD"
   },
   "Smart_20_HD": {
     "brand": "SEGO",
@@ -131990,6 +132002,10 @@
   "DVK87 Orion 8 Tab": {
     "brand": "Stylo",
     "name": "DVK87_Orion 8_Tab"
+  },
+  "ECLIPSE TAB 8": {
+    "brand": "Stylo",
+    "name": "ECLIPSE_TAB_8"
   },
   "EOA39-STYLO AXIS": {
     "brand": "Stylo",
@@ -168210,6 +168226,10 @@
   "I2505": {
     "brand": "iQOO",
     "name": "iQOO Z10R 5G"
+  },
+  "V2551A": {
+    "brand": "iQOO",
+    "name": "iQOO Z11"
   },
   "I2512": {
     "brand": "iQOO",
