@@ -18867,6 +18867,10 @@
     "brand": "CORN",
     "name": "Star9_Pro"
   },
+  "P98": {
+    "brand": "CORN",
+    "name": "T12Pro"
+  },
   "T12Pro": {
     "brand": "CORN",
     "name": "T12Pro"
@@ -18880,6 +18884,10 @@
     "name": "The_Leader_Kids_Pro"
   },
   "The Leader Tab8 4G": {
+    "brand": "CORN",
+    "name": "The_Leader_Tab8_4G"
+  },
+  "The_Leader_Tab8_4G": {
     "brand": "CORN",
     "name": "The_Leader_Tab8_4G"
   },
@@ -24303,6 +24311,10 @@
     "brand": "Symphony",
     "name": "MAX_5"
   },
+  "MegaPad": {
+    "brand": "Cubot",
+    "name": "MegaPad"
+  },
   "NOTE 20": {
     "brand": "Digit",
     "name": "NOTE 20"
@@ -27754,6 +27766,10 @@
   "Sonic One": {
     "brand": "Digit",
     "name": "Sonic_One"
+  },
+  "Titan 5G": {
+    "brand": "Digit",
+    "name": "Titan_5G"
   },
   "Digital2-Deluxe": {
     "brand": "Digital2",
@@ -48727,6 +48743,10 @@
     "brand": "Honor",
     "name": "HONOR X7e"
   },
+  "LAB-LX3": {
+    "brand": "Honor",
+    "name": "HONOR X7e"
+  },
   "TFY-LX1": {
     "brand": "Honor",
     "name": "HONOR X8"
@@ -56314,6 +56334,14 @@
   "TM103M4": {
     "brand": "IRIS_OHYAMA",
     "name": "TM103"
+  },
+  "TM11F6W74": {
+    "brand": "IRIS_OHYAMA",
+    "name": "TM11F6W74"
+  },
+  "TM11F7W74": {
+    "brand": "IRIS_OHYAMA",
+    "name": "TM11F7W74"
   },
   "TM12E2W74": {
     "brand": "IRIS_OHYAMA",
@@ -103595,6 +103623,10 @@
     "brand": "Pretech",
     "name": "L1108"
   },
+  "L1208": {
+    "brand": "Pretech",
+    "name": "L1208"
+  },
   "WP101": {
     "brand": "Pretech",
     "name": "WP101"
@@ -109418,6 +109450,10 @@
   "TW102": {
     "brand": "SENSE",
     "name": "TW102"
+  },
+  "RK3576": {
+    "brand": "SENSES",
+    "name": "EDGE_PRO"
   },
   "SE_9679": {
     "brand": "SENSES",
@@ -133501,7 +133537,7 @@
   },
   "W90": {
     "brand": "TABWEE",
-    "name": "W90_RU"
+    "name": "W90_US"
   },
   "TADI_TOUCH_1": {
     "brand": "TADI",
@@ -141178,6 +141214,10 @@
   "M50_RUS": {
     "brand": "Teclast",
     "name": "M50_RUS"
+  },
+  "M50_W_ROW": {
+    "brand": "Teclast",
+    "name": "M50_W_ROW"
   },
   "M50mini_ROW": {
     "brand": "Teclast",
