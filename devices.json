@@ -21675,6 +21675,10 @@
     "brand": "CloudMinds",
     "name": "OTTTAB2"
   },
+  "Stratus C9": {
+    "brand": "Cloud_Mobile",
+    "name": "Stratus_C9"
+  },
   "Stratus C9 Prime": {
     "brand": "Cloud_Mobile",
     "name": "C9 Prime"
@@ -21686,10 +21690,6 @@
   "Stratus C8": {
     "brand": "Cloud_Mobile",
     "name": "Stratus_C8"
-  },
-  "Stratus C9": {
-    "brand": "Cloud_Mobile",
-    "name": "Stratus_C9"
   },
   "Sunshine_T2_Elite": {
     "brand": "Cloud_Mobile",
@@ -30382,10 +30382,6 @@
   "A30Pro_A": {
     "brand": "ECOPAD",
     "name": "A30Pro_A_EEA"
-  },
-  "A30Pro_A_US": {
-    "brand": "ECOPAD",
-    "name": "A30Pro_A_US"
   },
   "C30plus": {
     "brand": "ECOPAD",
@@ -49314,6 +49310,10 @@
   "Hyper 8 Ultra": {
     "brand": "Hotwav",
     "name": "Hyper 8 Ultra"
+  },
+  "Hyper 8E": {
+    "brand": "Hotwav",
+    "name": "Hyper 8E"
   },
   "M5 2021": {
     "brand": "Hotwav",
@@ -97391,6 +97391,10 @@
     "brand": "PEICHENG",
     "name": "AT74K"
   },
+  "BG-7": {
+    "brand": "PEICHENG",
+    "name": "AT74K"
+  },
   "CP10SPro": {
     "brand": "PEICHENG",
     "name": "CP10SPro"
@@ -100090,6 +100094,10 @@
   "Philips S6320T": {
     "brand": "Philips",
     "name": "Philips S6320T"
+  },
+  "Philips S706P": {
+    "brand": "Philips",
+    "name": "Philips S706P"
   },
   "Philips S8310": {
     "brand": "Philips",
@@ -109626,6 +109634,10 @@
   "SWA8E2": {
     "brand": "SILVERWIN",
     "name": "SWA8E2"
+  },
+  "SWA8F1K": {
+    "brand": "SILVERWIN",
+    "name": "SWA8F1K"
   },
   "COOL2": {
     "brand": "SIMI",
