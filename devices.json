@@ -18003,6 +18003,14 @@
     "brand": "CAIXUN",
     "name": "CAIXUN SMART TV"
   },
+  "Caixun 4K Google TV": {
+    "brand": "CAIXUN",
+    "name": "Caixun 4K Google TV"
+  },
+  "Caixun 4K TV": {
+    "brand": "CAIXUN",
+    "name": "Caixun 4K TV"
+  },
   "Caixun TV": {
     "brand": "CAIXUN",
     "name": "Caixun TV"
@@ -30187,6 +30195,10 @@
     "brand": "Hisense",
     "name": "W2"
   },
+  "DWSUMMUS Google TV": {
+    "brand": "Dwsummus",
+    "name": "DWSUMMUS Google TV"
+  },
   "DWSUMMUS Smart TV": {
     "brand": "Dwsummus",
     "name": "Korea"
@@ -30376,6 +30388,10 @@
     "name": "SQ126G"
   },
   "A30L1": {
+    "brand": "ECOPAD",
+    "name": "A30L1_US"
+  },
+  "A30L2": {
     "brand": "ECOPAD",
     "name": "A30L1_US"
   },
@@ -40839,6 +40855,10 @@
     "brand": "HKT",
     "name": "eye3"
   },
+  "HK-M01": {
+    "brand": "HK_HUAHONG",
+    "name": "HK-M01"
+  },
   "HMD ARC": {
     "brand": "HMD",
     "name": "HMD ARC"
@@ -43814,6 +43834,10 @@
   "X10S": {
     "brand": "XMART",
     "name": "X10S"
+  },
+  "XC90_US": {
+    "brand": "HUIHUANG",
+    "name": "XC90_US"
   },
   "CW-SPCM": {
     "brand": "HUSHIDA",
@@ -48734,6 +48758,10 @@
   "LGN-LX3": {
     "brand": "Honor",
     "name": "HONOR X7d"
+  },
+  "LAB-LX1": {
+    "brand": "Honor",
+    "name": "HONOR X7e"
   },
   "LAB-LX2": {
     "brand": "Honor",
@@ -55739,6 +55767,10 @@
     "brand": "INGSCREEN",
     "name": "IS_6518_Pro"
   },
+  "IS-Series": {
+    "brand": "INGSCREEN",
+    "name": "Interactive_Panel"
+  },
   "IMA301": {
     "brand": "INMO",
     "name": "IMA301"
@@ -56350,6 +56382,10 @@
   "TM12E3W74": {
     "brand": "IRIS_OHYAMA",
     "name": "TM12E3W74"
+  },
+  "TM12F8W74": {
+    "brand": "IRIS_OHYAMA",
+    "name": "TM12F8W74"
   },
   "TM153": {
     "brand": "IRIS_OHYAMA",
@@ -62591,6 +62627,10 @@
     "brand": "KONKA",
     "name": "sp6"
   },
+  "KONVO 4K GOOGLE TV": {
+    "brand": "KONVO",
+    "name": "KONVO 4K GOOGLE TV"
+  },
   "GEMINI": {
     "brand": "KOOLMAAX",
     "name": "GEMINI"
@@ -64333,7 +64373,7 @@
   },
   "Kogan G6": {
     "brand": "Kogan",
-    "name": "Australia, New Zealand"
+    "name": "Kogan G6"
   },
   "KAKT10164SA": {
     "brand": "Kogan",
@@ -91139,6 +91179,10 @@
     "brand": "ONERugged",
     "name": "M86XE"
   },
+  "M87XE": {
+    "brand": "ONERugged",
+    "name": "M87XE"
+  },
   "M89T": {
     "brand": "ONERugged",
     "name": "M89T"
@@ -108422,6 +108466,10 @@
   "RLP8T": {
     "brand": "Relink",
     "name": "RLP8T"
+  },
+  "P60-U1": {
+    "brand": "Relndoo",
+    "name": "P60-U1"
   },
   "P60_EUR": {
     "brand": "Relndoo",
@@ -128471,6 +128519,10 @@
     "brand": "SmartLabs",
     "name": "SML-5442TW"
   },
+  "SMA16X65M": {
+    "brand": "SmartMedia",
+    "name": "SMA16X65M"
+  },
   "SM181301": {
     "brand": "SmartPad",
     "name": "SM181301"
@@ -131622,6 +131674,10 @@
   "TE_YL_PRO": {
     "brand": "StarBoard",
     "name": "TE_YL_PRO"
+  },
+  "TE_YL_SE": {
+    "brand": "StarBoard",
+    "name": "TE_YL_SE"
   },
   "YL": {
     "brand": "StarBoard",
@@ -155106,6 +155162,10 @@
   "Widevu UHD Android TV": {
     "brand": "Widevu",
     "name": "Korea"
+  },
+  "WIDEVU Google TV": {
+    "brand": "Widevu",
+    "name": "WIDEVU_4K_ATV5S"
   },
   "WIDEVU Smart TV": {
     "brand": "Widevu",
