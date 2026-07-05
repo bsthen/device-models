@@ -16121,7 +16121,7 @@
   },
   "BOLD K12": {
     "brand": "Blu",
-    "name": "BOLD K12"
+    "name": "BOLD_K12"
   },
   "BOLD K22": {
     "brand": "Blu",
@@ -24239,6 +24239,10 @@
     "brand": "Cubot",
     "name": "KINGKONG Dura"
   },
+  "KINGKONG E1": {
+    "brand": "Cubot",
+    "name": "KINGKONG E1"
+  },
   "KINGKONG_ES": {
     "brand": "Cubot",
     "name": "KINGKONG ES"
@@ -24250,6 +24254,10 @@
   "KINGKONG ES 5": {
     "brand": "Cubot",
     "name": "KINGKONG ES 5"
+  },
+  "KINGKONG ES PRO": {
+    "brand": "Cubot",
+    "name": "KINGKONG ES PRO"
   },
   "KINGKONG MINI 3": {
     "brand": "Cubot",
@@ -34350,6 +34358,10 @@
   "A67L": {
     "brand": "FOXXD",
     "name": "A67L"
+  },
+  "A67L Gen2": {
+    "brand": "FOXXD",
+    "name": "A67L Gen2"
   },
   "A67U": {
     "brand": "FOXXD",
@@ -44994,6 +45006,10 @@
   "JS420": {
     "brand": "Haus",
     "name": "JS420"
+  },
+  "JS430_Wave": {
+    "brand": "Haus",
+    "name": "JS430 _Wave"
   },
   "JS550": {
     "brand": "Haus",
@@ -78350,6 +78366,10 @@
   "COMEK Pad 10": {
     "brand": "MYCOM",
     "name": "COMEK_Pad_10"
+  },
+  "COMEK_Smart20": {
+    "brand": "MYCOM",
+    "name": "COMEK_Smart20"
   },
   "COMEK Tab 10": {
     "brand": "MYCOM",
@@ -156431,6 +156451,10 @@
     "brand": "X-Age",
     "name": "G1LITE"
   },
+  "X-AGE": {
+    "brand": "X-Age",
+    "name": "Leap_Plus"
+  },
   "Tab40": {
     "brand": "X-Age",
     "name": "Tab40"
@@ -170378,6 +170402,10 @@
   "Seeker": {
     "brand": "solanamobile",
     "name": "Seeker"
+  },
+  "SPECTRA GO": {
+    "brand": "spectramobile",
+    "name": "SPECTRA GO"
   },
   "Spectra J1": {
     "brand": "spectramobile",
