@@ -39863,6 +39863,10 @@
     "brand": "Google",
     "name": "emulator"
   },
+  "gambit": {
+    "brand": "Google",
+    "name": "gambit"
+  },
   "Automotive SDK built for x86_64": {
     "brand": "Google",
     "name": "gcar emulator"
@@ -40745,7 +40749,7 @@
   },
   "T901": {
     "brand": "Relndoo",
-    "name": "T901_U"
+    "name": "T901_Y_US"
   },
   "TAB10_EEA": {
     "brand": "HISORL",
@@ -56318,6 +56322,10 @@
   "TE08D2M64": {
     "brand": "IRIS_OHYAMA",
     "name": "TE08D2M64"
+  },
+  "TE08F3W64": {
+    "brand": "IRIS_OHYAMA",
+    "name": "TE08F3W64"
   },
   "TE08F5W64": {
     "brand": "IRIS_OHYAMA",
@@ -92346,6 +92354,10 @@
   "CPH2621": {
     "brand": "OnePlus",
     "name": "OnePlus Nord CE4 Lite 5G"
+  },
+  "CPH2805": {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord CE6"
   },
   "CPH2807": {
     "brand": "OnePlus",
@@ -169246,6 +169258,10 @@
   "L90": {
     "brand": "raemond",
     "name": "L90_ROW"
+  },
+  "M90_MAX": {
+    "brand": "raemond",
+    "name": "M90_MAX_EEA"
   },
   "the101loop": {
     "brand": "rainx",
