@@ -1587,10 +1587,6 @@
     "brand": "AT&T",
     "name": "AT&T Verge™"
   },
-  "SN333A": {
-    "brand": "AT&T",
-    "name": "AT&T Verge™ 2 5G"
-  },
   "WTATTRW2": {
     "brand": "Attila",
     "name": "WTATTRW2"
@@ -1602,6 +1598,10 @@
   "QS5509A": {
     "brand": "AT&T",
     "name": "QS5509A"
+  },
+  "SN333A": {
+    "brand": "AT&T",
+    "name": "SN333A"
   },
   "U202AA": {
     "brand": "AT&T",
@@ -2022,6 +2022,10 @@
   "MID_1089IPS_EEA": {
     "brand": "AWOW",
     "name": "MID_1089IPS_EEA"
+  },
+  "P10A": {
+    "brand": "AWOW",
+    "name": "P10A_US"
   },
   "P11_EEA": {
     "brand": "Hyjoy",
@@ -17095,10 +17099,6 @@
     "brand": "Blu",
     "name": "T5 Plus"
   },
-  "T500B": {
-    "brand": "Blu",
-    "name": "T500B"
-  },
   "T6": {
     "brand": "IkuMobile",
     "name": "T6"
@@ -17110,6 +17110,10 @@
   "BLU TOUCHBOOK M7": {
     "brand": "Blu",
     "name": "TOUCHBOOK M7"
+  },
+  "T500B": {
+    "brand": "Blu",
+    "name": "Tab One 5G"
   },
   "Tank Xtreme 4.0": {
     "brand": "Blu",
@@ -23875,10 +23879,6 @@
     "brand": "Cricket",
     "name": "Cricket Debut S2™"
   },
-  "SN333C": {
-    "brand": "Cricket",
-    "name": "Cricket Icon® Plus - 2026"
-  },
   "SL219C": {
     "brand": "Cricket",
     "name": "Cricket Icon™6"
@@ -23930,6 +23930,10 @@
   "SN304AE": {
     "brand": "Cricket",
     "name": "SN304AE"
+  },
+  "SN333C": {
+    "brand": "Cricket",
+    "name": "SN333C"
   },
   "U304AC": {
     "brand": "Cricket",
@@ -26202,6 +26206,10 @@
   "DAEWOO 2K SA Smart TV": {
     "brand": "Daewoo",
     "name": "Smart TV"
+  },
+  "DAE75P": {
+    "brand": "Daewoo",
+    "name": "THINK EBIKEGO PRIVATE LIMITED"
   },
   "X7": {
     "brand": "USA111",
@@ -57532,6 +57540,10 @@
     "name": "X572"
   },
   "Infinix X1103": {
+    "brand": "Infinix",
+    "name": "Infinix XPAD 30 pro"
+  },
+  "Infinix X1103B": {
     "brand": "Infinix",
     "name": "Infinix XPAD 30 pro"
   },
@@ -90986,6 +90998,10 @@
   "HSD-215": {
     "brand": "OFD(Display)",
     "name": "HSD-215"
+  },
+  "HSD-M03": {
+    "brand": "OFD(Display)",
+    "name": "HSD-M03"
   },
   "HSD01": {
     "brand": "OFD(Display)",
@@ -134499,6 +134515,10 @@
     "brand": "TCL",
     "name": "TCL K33 5G"
   },
+  "T522A": {
+    "brand": "TCL",
+    "name": "TCL K70 4G"
+  },
   "T523V": {
     "brand": "TCL",
     "name": "TCL K70"
@@ -134507,10 +134527,6 @@
     "brand": "TCL",
     "name": "TCL K70"
   },
-  "T522A": {
-    "brand": "TCL",
-    "name": "TCL K70 4G"
-  },
   "T523H": {
     "brand": "TCL",
     "name": "TCL K70 5G"
@@ -134518,6 +134534,10 @@
   "T523P": {
     "brand": "TCL",
     "name": "TCL K70 5G"
+  },
+  "T624J": {
+    "brand": "TCL",
+    "name": "TCL K70 NXTPAPER"
   },
   "T522E": {
     "brand": "TCL",
@@ -140253,7 +140273,7 @@
   },
   "KIDS710": {
     "brand": "zcobro",
-    "name": "KIDS710"
+    "name": "KIDS710_EEA"
   },
   "KIDS720": {
     "brand": "TOPELOTEK",
@@ -155187,6 +155207,10 @@
     "brand": "Whitedeer",
     "name": "X7_EEA"
   },
+  "X7K": {
+    "brand": "Whitedeer",
+    "name": "X7K_E"
+  },
   "WiBox.tv V3": {
     "brand": "Wibox",
     "name": "WiBox.tv V3"
@@ -156899,6 +156923,14 @@
     "brand": "XGIMI",
     "name": "MoGo 4 Laser"
   },
+  "XP03C": {
+    "brand": "XGIMI",
+    "name": "MIRA"
+  },
+  "XP06C": {
+    "brand": "XGIMI",
+    "name": "MIRA Pro"
+  },
   "MoGo": {
     "brand": "XGIMI",
     "name": "MoGo"
@@ -157006,6 +157038,10 @@
   "X4000": {
     "brand": "XREAL",
     "name": "Beam Pro"
+  },
+  "XTCTR_201": {
+    "brand": "XTRAGEN",
+    "name": "XTCTR_201"
   },
   "X8MT16": {
     "brand": "Xtratech",
