@@ -6987,6 +6987,10 @@
     "brand": "Workmate",
     "name": "U13"
   },
+  "Tab G6 Max": {
+    "brand": "Doogee",
+    "name": "Tab G6 Max"
+  },
   "U11 Pro": {
     "brand": "Doogee",
     "name": "U11 Pro"
@@ -6998,6 +7002,10 @@
   "Tab G5": {
     "brand": "Doogee",
     "name": "Tab G5"
+  },
+  "U13 Pro": {
+    "brand": "Doogee",
+    "name": "VPad Pro"
   },
   "AoGo1": {
     "brand": "AoGo",
@@ -18007,6 +18015,18 @@
     "brand": "CAIXUN",
     "name": "CAIXUN SMART TV"
   },
+  "Caixun 2K": {
+    "brand": "CAIXUN",
+    "name": "Caixun 2K"
+  },
+  "Caixun 2K Smart TV": {
+    "brand": "CAIXUN",
+    "name": "Caixun 2K Smart TV"
+  },
+  "Caixun 2K Smart TV": {
+    "brand": "CAIXUN",
+    "name": "Caixun 2K Smart TV"
+  },
   "Caixun 4K Google TV": {
     "brand": "CAIXUN",
     "name": "Caixun 4K Google TV"
@@ -18014,6 +18034,10 @@
   "Caixun 4K TV": {
     "brand": "CAIXUN",
     "name": "Caixun 4K TV"
+  },
+  "Caixun Google TV": {
+    "brand": "CAIXUN",
+    "name": "Caixun Google TV"
   },
   "Caixun TV": {
     "brand": "CAIXUN",
@@ -18062,6 +18086,10 @@
   "Sgamer": {
     "brand": "CAIXUN",
     "name": "Sgamer"
+  },
+  "Smart TV 2K": {
+    "brand": "SYLVOX",
+    "name": "Smart TV 2K"
   },
   "AiPro4K TV": {
     "brand": "CAIXUN",
@@ -21943,9 +21971,17 @@
     "brand": "Compal",
     "name": "TANK 4.5"
   },
+  "COMPAQ GOOGLE TV": {
+    "brand": "Compaq",
+    "name": "South Africa"
+  },
   "COMPAQ SMART TV": {
     "brand": "Compaq",
     "name": "COMPAQ SMART TV"
+  },
+  "COMPAQ TV": {
+    "brand": "Compaq",
+    "name": "Colombia"
   },
   "CT101": {
     "brand": "Compaq",
@@ -21966,10 +22002,6 @@
   "CT311T": {
     "brand": "Compaq",
     "name": "CT311T"
-  },
-  "COMPAQ TV": {
-    "brand": "Compaq",
-    "name": "Colombia"
   },
   "Compaq_Q3": {
     "brand": "Compaq",
@@ -22078,10 +22110,6 @@
   "Qtab Ultra": {
     "brand": "Compaq",
     "name": "Qtab_Ultra"
-  },
-  "COMPAQ GOOGLE TV": {
-    "brand": "Compaq",
-    "name": "South Africa"
   },
   "COMPAQ SMART 4K TV": {
     "brand": "Compaq",
@@ -28820,7 +28848,7 @@
     "name": "F10S"
   },
   "Blade10 Pro Energy": {
-    "brand": "Doogee",
+    "brand": "Stargorilla",
     "name": "Blade10 Pro Energy"
   },
   "Blade10 Ultra": {
@@ -29427,10 +29455,6 @@
     "brand": "Doogee",
     "name": "Tab G6"
   },
-  "Tab G6 Max": {
-    "brand": "Doogee",
-    "name": "Tab G6 Max"
-  },
   "Tab G6 Pro": {
     "brand": "Doogee",
     "name": "Tab G6 Pro"
@@ -29574,10 +29598,6 @@
   "V50 Pro": {
     "brand": "Doogee",
     "name": "V50 Ultra"
-  },
-  "U13 Pro": {
-    "brand": "Doogee",
-    "name": "VPad Pro"
   },
   "DOOGEE X10": {
     "brand": "Doogee",
@@ -31214,6 +31234,10 @@
   "SE 2K Android Monitor": {
     "brand": "EQUINOXE",
     "name": "Europe"
+  },
+  "SE 2K Google TV": {
+    "brand": "EQUINOXE",
+    "name": "SE 2K Google TV"
   },
   "Movix Pro Voice": {
     "brand": "ER-Telecom",
@@ -41230,6 +41254,10 @@
   "HP OMEN 32x": {
     "brand": "HP",
     "name": "HP_WW_2885"
+  },
+  "OmniPad 12": {
+    "brand": "HP",
+    "name": "OmniPad 12"
   },
   "HP Pro 8 Tablet with Voice": {
     "brand": "HP",
@@ -55771,6 +55799,10 @@
     "brand": "INFINITON",
     "name": "INFINITON 2K SMART TV"
   },
+  "INFINITON Google TV": {
+    "brand": "INFINITON",
+    "name": "INFINITON Google TV"
+  },
   "INFINITON 4K Smart TV": {
     "brand": "INFINITON",
     "name": "INITON 4K SMART TV"
@@ -60799,6 +60831,10 @@
     "brand": "JLC ELECTRONICS",
     "name": "Colombia"
   },
+  "JLC 2K GOOGLE TV": {
+    "brand": "JLC ELECTRONICS",
+    "name": "JLC 2K GOOGLE TV"
+  },
   "JLT6012A": {
     "brand": "JLT Mobile",
     "name": "JLT6012A"
@@ -62663,6 +62699,10 @@
     "brand": "KONKA",
     "name": "sp6"
   },
+  "KONVO 2K SMART TV": {
+    "brand": "KONVO",
+    "name": "KONVO 2K SMART TV"
+  },
   "KONVO 4K GOOGLE TV": {
     "brand": "KONVO",
     "name": "KONVO 4K GOOGLE TV"
@@ -63037,7 +63077,7 @@
   },
   "KYDOS Smart TV": {
     "brand": "KYDOS",
-    "name": "Europe"
+    "name": "KYDOS Smart TV"
   },
   "KARAxKARA": {
     "brand": "KYODO-TV",
@@ -63238,6 +63278,10 @@
   "KANJI 4K TV": {
     "brand": "Kanji",
     "name": "ARGENTINA"
+  },
+  "KANJI 2K TV": {
+    "brand": "Kanji",
+    "name": "KANJI 2K TV"
   },
   "KJ-AC05": {
     "brand": "Kanji",
@@ -64291,6 +64335,14 @@
     "brand": "Kodak",
     "name": "KODAK"
   },
+  "KODAK 2K Smart TV": {
+    "brand": "Kodak",
+    "name": "KODAK 2K Smart TV"
+  },
+  "KODAK Google TV": {
+    "brand": "Kodak",
+    "name": "KODAK Google TV"
+  },
   "KODAK SMARTWAY L1 PRO": {
     "brand": "Kodak",
     "name": "KODAK SMARTWAY L1 PRO"
@@ -64298,6 +64350,10 @@
   "KODAK SMARTWAY T3": {
     "brand": "Kodak",
     "name": "KODAK SMARTWAY T3"
+  },
+  "KODAK Smart TV": {
+    "brand": "Kodak",
+    "name": "South America"
   },
   "KODAK_SMARTWAY_L1": {
     "brand": "Kodak",
@@ -64382,10 +64438,6 @@
   "Smartway_T1": {
     "brand": "Kodak",
     "name": "Smartway_T1"
-  },
-  "KODAK Smart TV": {
-    "brand": "Kodak",
-    "name": "South America"
   },
   "Kogan Agora 6Plus": {
     "brand": "Kogan",
@@ -74467,6 +74519,10 @@
     "brand": "Lenovo",
     "name": "Lenovo Tab Plus"
   },
+  "TB355FU": {
+    "brand": "Lenovo",
+    "name": "Lenovo Tab Plus Gen 2"
+  },
   "Lenovo TB-J6C6F": {
     "brand": "Lenovo",
     "name": "Lenovo Tab QT K11"
@@ -75578,6 +75634,10 @@
   "LifeWatch V": {
     "brand": "LifeWatch",
     "name": "V , FGL-00004"
+  },
+  "LIGHTWAVE Google 2K TV": {
+    "brand": "Lightwave",
+    "name": "LIGHTWAVE Google 2K TV"
   },
   "LIGHTWAVE Google 4K TV": {
     "brand": "Lightwave",
@@ -78466,6 +78526,18 @@
   "MMP848": {
     "brand": "Magnavox",
     "name": "MMP848"
+  },
+  "Magnavox Google TV": {
+    "brand": "Magnavox",
+    "name": "Magnavox Google TV"
+  },
+  "Magnavox Smart TV": {
+    "brand": "Magnavox",
+    "name": "Magnavox Smart TV"
+  },
+  "Magnavox TV": {
+    "brand": "Magnavox",
+    "name": "Magnavox TV"
   },
   "JACK": {
     "brand": "Majestic",
@@ -82363,10 +82435,6 @@
     "brand": "Miramage",
     "name": "Miramage AndroidTV"
   },
-  "Smart TV 2K": {
-    "brand": "SYLVOX",
-    "name": "Smart TV 2K"
-  },
   "Miramage AndroidTV": {
     "brand": "Miramage",
     "name": "TV5023UHDA11SMARTG"
@@ -85707,6 +85775,10 @@
     "brand": "Motorola",
     "name": "moto pad 60 neo"
   },
+  "XT2675-1": {
+    "brand": "Motorola",
+    "name": "moto pad 70 groove"
+  },
   "XT2575-4": {
     "brand": "Motorola",
     "name": "moto pad – 2026"
@@ -87770,6 +87842,10 @@
   "NID-7011": {
     "brand": "NAXA",
     "name": "NID-7011"
+  },
+  "NCE Google Smart TV": {
+    "brand": "NCE TV",
+    "name": "NCE Google Smart TV"
   },
   "KSTB2020": {
     "brand": "NCTC",
@@ -90487,6 +90563,10 @@
     "brand": "Nothing",
     "name": "Nothing Phone (4a) Pro"
   },
+  "A009P": {
+    "brand": "Nothing",
+    "name": "Nothing Phone (4b)"
+  },
   "A001T": {
     "brand": "Nothing",
     "name": "Phone (3a) Lite"
@@ -91309,7 +91389,7 @@
   },
   "ONVO TV": {
     "brand": "ONVO",
-    "name": "EMEA"
+    "name": "ONVO TV"
   },
   "Model A": {
     "brand": "ONYX",
@@ -98179,6 +98259,10 @@
     "brand": "PRAZteck",
     "name": "PT7EduPad"
   },
+  "RC_Series": {
+    "brand": "PRIMA",
+    "name": "Interactive_Screens"
+  },
   "PRIMA 2K Android TV": {
     "brand": "PRIMA",
     "name": "PRIMA 2K Android TV"
@@ -99171,6 +99255,10 @@
     "brand": "Panasonic",
     "name": "Panasonic T70"
   },
+  "Panasonic_LH_GT1ND": {
+    "brand": "Panasonic",
+    "name": "Panasonic_LH_GT1ND"
+  },
   "2KTV-2TH": {
     "brand": "Panasonic",
     "name": "R3"
@@ -99338,6 +99426,10 @@
   "WSCU3": {
     "brand": "Panasonic",
     "name": "WSCU"
+  },
+  "PANAVOX Google TV": {
+    "brand": "Panavox",
+    "name": "PANAVOX Google TV"
   },
   "Panavox Android TV": {
     "brand": "Panavox",
@@ -109287,6 +109379,10 @@
     "brand": "SAKAISIO",
     "name": "FP-U320-711-WWAN"
   },
+  "SALORA": {
+    "brand": "SALORA",
+    "name": "SALORA"
+  },
   "SALT A78": {
     "brand": "SALT",
     "name": "SALT A78"
@@ -109707,6 +109803,10 @@
     "brand": "SHOWNIC",
     "name": "EMEA"
   },
+  "SHOWNIC 2K Google TV": {
+    "brand": "SHOWNIC",
+    "name": "SHOWNIC 2K Google TV"
+  },
   "M5855": {
     "brand": "SIAFU",
     "name": "M5855"
@@ -110002,6 +110102,10 @@
   "Google TV": {
     "brand": "biolux",
     "name": "Smart TV"
+  },
+  "Smarttech TV": {
+    "brand": "SMART TECHNOLOGY",
+    "name": "Smarttech TV"
   },
   "AM60 series": {
     "brand": "SMART Technologies",
@@ -144297,7 +144401,7 @@
   },
   "Tesla Google TV": {
     "brand": "Tesla",
-    "name": "SOUTH AMERICA"
+    "name": "Tesla Google TV"
   },
   "Tesla_SP3_4": {
     "brand": "Tesla",
@@ -144390,6 +144494,10 @@
   "HDJN": {
     "brand": "TheNudge",
     "name": "Smartboard_Ai"
+  },
+  "Theros 2K Google TV": {
+    "brand": "Theros",
+    "name": "Theros 2K Google TV"
   },
   "TH805": {
     "brand": "Thinpad",
@@ -145634,6 +145742,10 @@
   "Fire_II_WiFi": {
     "brand": "Turbo-X",
     "name": "Turbo-X Fire II (2GB) Tablet 10.1\" WIFI"
+  },
+  "Turbo-X Smart TV": {
+    "brand": "Turbo-X",
+    "name": "Turbo-X Smart TV"
   },
   "Turbo_X8": {
     "brand": "Turbo-X",
@@ -155219,13 +155331,13 @@
     "brand": "Widevu",
     "name": "Korea"
   },
-  "WIDEVU Google TV": {
-    "brand": "Widevu",
-    "name": "WIDEVU_4K_ATV5S"
-  },
   "WIDEVU Smart TV": {
     "brand": "Widevu",
     "name": "korea"
+  },
+  "WIDEVU Google TV": {
+    "brand": "Widevu",
+    "name": "WIDEVU_4K_ATV5S"
   },
   "Wieppo E1": {
     "brand": "Wieppo",
