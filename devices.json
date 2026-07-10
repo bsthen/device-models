@@ -14007,6 +14007,10 @@
     "brand": "BenQ",
     "name": "RE05A_series"
   },
+  "RE05_series": {
+    "brand": "BenQ",
+    "name": "RE05_series"
+  },
   "RE98_110_series": {
     "brand": "BenQ",
     "name": "RE98_110_series"
@@ -23826,6 +23830,14 @@
   "Calendar2_32": {
     "brand": "Cozyla",
     "name": "Calendar2_32"
+  },
+  "Calendar3_32": {
+    "brand": "Cozyla",
+    "name": "Calendar3_32"
+  },
+  "CalendarPlus3_24": {
+    "brand": "Cozyla",
+    "name": "CalendarPlus3_24"
   },
   "Calendar_Go": {
     "brand": "Cozyla",
@@ -39843,6 +39855,10 @@
     "brand": "Google",
     "name": "Pixel Watch 4"
   },
+  "Pixel Watch 5": {
+    "brand": "Google",
+    "name": "Pixel Watch 5"
+  },
   "Pixel XL": {
     "brand": "Google",
     "name": "Pixel XL"
@@ -40426,6 +40442,10 @@
   "SP104Ex": {
     "brand": "HAEXC",
     "name": "SP104Ex"
+  },
+  "HJD-TM54-1612H": {
+    "brand": "HAJUND",
+    "name": "HJD-TM54-1612H"
   },
   "HAKO Pro": {
     "brand": "HAKO",
@@ -56474,6 +56494,10 @@
   "QA3O_M110": {
     "brand": "ISCS",
     "name": "QA3O_M110"
+  },
+  "IFP-3576": {
+    "brand": "ISONIC",
+    "name": "CT-Splus"
   },
   "ITAB_X40L_Plus": {
     "brand": "ITAB",
@@ -77018,6 +77042,10 @@
   "M-KOPA M10": {
     "brand": "M-KOPA",
     "name": "M-KOPA M10"
+  },
+  "X4e": {
+    "brand": "M-KOPA",
+    "name": "X4e"
   },
   "EROS Power": {
     "brand": "M-tech",
@@ -134857,7 +134885,7 @@
   },
   "8483A": {
     "brand": "TCL",
-    "name": "TCL TAB 10 Gen4"
+    "name": "TCL TAB 10L Gen 4"
   },
   "9160G1": {
     "brand": "TCL",
