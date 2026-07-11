@@ -555,6 +555,10 @@
     "brand": "iYOU",
     "name": "A10"
   },
+  "ADVAN_V11": {
+    "brand": "ADVAN",
+    "name": "ADVAN_V11"
+  },
   "6781": {
     "brand": "ADVAN",
     "name": "ADVAN_X1"
@@ -3624,6 +3628,10 @@
     "name": "vileparle"
   },
   "ACP65P": {
+    "brand": "AcerPure",
+    "name": "ACERPURE INDIA CE PRIVATE LIMITED"
+  },
+  "ACP65PAV": {
     "brand": "AcerPure",
     "name": "ACERPURE INDIA CE PRIVATE LIMITED"
   },
@@ -10384,8 +10392,8 @@
     "name": "CP20_MAX"
   },
   "CP20_PRO": {
-    "brand": "Atozee",
-    "name": "CP20_PRO"
+    "brand": "PEICHENG",
+    "name": "CP20UR"
   },
   "CP30": {
     "brand": "Atozee",
@@ -23889,7 +23897,7 @@
   },
   "W30": {
     "brand": "Crelander",
-    "name": "W30"
+    "name": "W30_NEU"
   },
   "crelander_android15": {
     "brand": "Crelander",
@@ -24746,10 +24754,6 @@
   "TAB-T863-3": {
     "brand": "DAMASCO",
     "name": "TAB-T863-3"
-  },
-  "RTC_M82": {
-    "brand": "DARVEEN",
-    "name": "RTC_M82"
   },
   "SURF1000": {
     "brand": "DBM Maroc",
@@ -26693,7 +26697,7 @@
   },
   "T8004G": {
     "brand": "Datamini",
-    "name": "T8004G"
+    "name": "T8004GR"
   },
   "T84G": {
     "brand": "Datamini",
@@ -28594,6 +28598,10 @@
   "D-805XATV HD": {
     "brand": "DishTV (IN)",
     "name": "D-805XATV HD"
+  },
+  "VZY65P": {
+    "brand": "DishTV (IN)",
+    "name": "DISHTV INDIA LTD."
   },
   "DV-905XSTV": {
     "brand": "DishTV (IN)",
@@ -40474,6 +40482,10 @@
   "HKCREA_Series": {
     "brand": "HANKOOK-CREA",
     "name": "HANKOOK_CREA_IFPD"
+  },
+  "CREA_LEAP_Series": {
+    "brand": "HANKOOK_CREA",
+    "name": "CREA_LEAP_Series"
   },
   "CREA_86135_Series": {
     "brand": "HANKOOK_CREA",
@@ -55647,6 +55659,10 @@
     "brand": "IDEMIA",
     "name": "ID Screen 60"
   },
+  "MPH-MB005A": {
+    "brand": "IDEMIA",
+    "name": "IDScreen ONE"
+  },
   "Discovery-X1": {
     "brand": "IDONDRDO",
     "name": "Discovery-X1"
@@ -63154,6 +63170,10 @@
   "Black G4S": {
     "brand": "Kalley",
     "name": "Black G4S"
+  },
+  "Black G4S2": {
+    "brand": "Kalley",
+    "name": "Black G4S2"
   },
   "Black S": {
     "brand": "Kalley",
@@ -90535,6 +90555,10 @@
     "brand": "Nordalp",
     "name": "X6 Pro"
   },
+  "Funpad-10": {
+    "brand": "Nordic",
+    "name": "Funpad-10"
+  },
   "NT-P70": {
     "brand": "NorthTech",
     "name": "NT-P70"
@@ -109650,6 +109674,10 @@
   "Smart 10": {
     "brand": "SEGO",
     "name": "Smart_10"
+  },
+  "Smart 20": {
+    "brand": "SEGO",
+    "name": "Smart_20"
   },
   "Smart_20x": {
     "brand": "SEGO",
@@ -167739,6 +167767,14 @@
     "brand": "iDevice",
     "name": "Uzbekistan"
   },
+  "AI_Board_75": {
+    "brand": "iFLYTEK",
+    "name": "AI_Board_75"
+  },
+  "AI_Board_86": {
+    "brand": "iFLYTEK",
+    "name": "AI_Board_86"
+  },
   "AI_Board_Ultra": {
     "brand": "iFLYTEK",
     "name": "AI_Board_Ultra"
@@ -169330,6 +169366,10 @@
   "PM82TW": {
     "brand": "onn.",
     "name": "PM82TW"
+  },
+  "PM876T": {
+    "brand": "onn.",
+    "name": "PM876T"
   },
   "PP86AK": {
     "brand": "onn.",
@@ -171097,7 +171137,7 @@
   },
   "V2556": {
     "brand": "vivo",
-    "name": "Y05"
+    "name": "Y05i"
   },
   "V2565": {
     "brand": "vivo",
@@ -171106,6 +171146,10 @@
   "V2606": {
     "brand": "vivo",
     "name": "Y05e"
+  },
+  "V2650": {
+    "brand": "vivo",
+    "name": "Y05i"
   },
   "V2575": {
     "brand": "vivo",
