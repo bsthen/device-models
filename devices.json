@@ -46127,6 +46127,10 @@
     "brand": "Hisense",
     "name": "HLTE243E"
   },
+  "Hisense F36 Pro": {
+    "brand": "Hisense",
+    "name": "HLTE243E"
+  },
   "Hisense M50": {
     "brand": "Hisense",
     "name": "HLTE243E"
@@ -161107,6 +161111,10 @@
     "brand": "ZTE",
     "name": "Cosmote Xplore"
   },
+  "Z2450": {
+    "brand": "ZTE",
+    "name": "Z2450"
+  },
   "DL2 PLUS": {
     "brand": "ZTE",
     "name": "DL2 PLUS"
@@ -162635,6 +162643,10 @@
     "brand": "ZTE",
     "name": "STARXTREM 4"
   },
+  "Z2473": {
+    "brand": "ZTE",
+    "name": "nubia A56"
+  },
   "N818S": {
     "brand": "ZTE",
     "name": "Sapphire 3G"
@@ -163659,10 +163671,6 @@
     "brand": "ZTE",
     "name": "Z2359"
   },
-  "Z2450": {
-    "brand": "ZTE",
-    "name": "Z2450"
-  },
   "Z2453": {
     "brand": "ZTE",
     "name": "Z2453"
@@ -163682,6 +163690,10 @@
   "Z2570N": {
     "brand": "ZTE",
     "name": "Z2570N"
+  },
+  "Z2571N": {
+    "brand": "ZTE",
+    "name": "nubia Neo 5 5G"
   },
   "Z2575": {
     "brand": "ZTE",
@@ -164703,10 +164715,6 @@
     "brand": "ZTE",
     "name": "ZTE Blade A54"
   },
-  "Z2473": {
-    "brand": "ZTE",
-    "name": "nubia A56"
-  },
   "Z2474": {
     "brand": "ZTE",
     "name": "nubia A76"
@@ -165122,10 +165130,6 @@
   "Z2464N": {
     "brand": "ZTE",
     "name": "nubia Neo 3 5G"
-  },
-  "Z2571N": {
-    "brand": "ZTE",
-    "name": "nubia Neo 5 5G"
   },
   "nubia 8150N": {
     "brand": "ZTE",
