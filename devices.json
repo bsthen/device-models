@@ -14971,6 +14971,10 @@
     "brand": "Doogee",
     "name": "BL7000"
   },
+  "BL7000 Pro": {
+    "brand": "Blackview",
+    "name": "BL7000"
+  },
   "BL8000": {
     "brand": "Blackview",
     "name": "BL8000"
@@ -169481,7 +169485,7 @@
   },
   "M90_MAX": {
     "brand": "raemond",
-    "name": "M90_MAX_EEA"
+    "name": "M90_MAX_ROW"
   },
   "the101loop": {
     "brand": "rainx",
