@@ -147,6 +147,10 @@
     "brand": "7mobile",
     "name": "Swegue 2"
   },
+  "A101": {
+    "brand": "TPS",
+    "name": "SZTPS"
+  },
   "OB-A98": {
     "brand": "8849",
     "name": "OB-A98"
@@ -2454,10 +2458,6 @@
   "A100": {
     "brand": "ZTE",
     "name": "V9"
-  },
-  "A101": {
-    "brand": "TPS",
-    "name": "SZTPS"
   },
   "A10-21": {
     "brand": "Acer",
@@ -76919,6 +76919,10 @@
     "brand": "Lunnen",
     "name": "TL62810G01"
   },
+  "TL828S01": {
+    "brand": "Lunnen",
+    "name": "TL828S01"
+  },
   "Lunnen Ground 11": {
     "brand": "Lunnen",
     "name": "TL85611B01"
@@ -77070,10 +77074,6 @@
   "M-KOPA M10": {
     "brand": "M-KOPA",
     "name": "M-KOPA M10"
-  },
-  "X4e": {
-    "brand": "M-KOPA",
-    "name": "X4e"
   },
   "EROS Power": {
     "brand": "M-tech",
@@ -91363,6 +91363,10 @@
     "brand": "ONERugged",
     "name": "M86XE"
   },
+  "M87X": {
+    "brand": "ONERugged",
+    "name": "M87X"
+  },
   "M87XE": {
     "brand": "ONERugged",
     "name": "M87XE"
@@ -95587,6 +95591,10 @@
     "brand": "Oppo",
     "name": "Reno16c 5G"
   },
+  "CPH2967": {
+    "brand": "Oppo",
+    "name": "Reno16 F 5G"
+  },
   "PMK110": {
     "brand": "Oppo",
     "name": "Reno16 Pro"
@@ -97698,6 +97706,10 @@
   "YQ11MK": {
     "brand": "PEICHENG",
     "name": "YQ11MK"
+  },
+  "ZB10": {
+    "brand": "ZZB (cn)",
+    "name": "ZB10"
   },
   "ZB10A": {
     "brand": "PEICHENG",
@@ -106978,6 +106990,10 @@
   "AF12_EEA": {
     "brand": "RebotAi",
     "name": "AF12_EEA"
+  },
+  "AF12_US": {
+    "brand": "RebotAi",
+    "name": "AF12_US"
   },
   "AF13": {
     "brand": "RebotAi",
@@ -143131,6 +143147,10 @@
     "brand": "Tecno",
     "name": "TECNO MEGAPAD SE 2"
   },
+  "TECNO T1002W": {
+    "brand": "Tecno",
+    "name": "TECNO MEGAPAD SE 2"
+  },
   "TECNO T1101": {
     "brand": "Tecno",
     "name": "TECNO MegaPad 11"
@@ -155299,6 +155319,10 @@
     "brand": "Weimei",
     "name": "weplus 3"
   },
+  "RugPad Pro": {
+    "brand": "Welio",
+    "name": "RugPad"
+  },
   "wPad_Aura": {
     "brand": "Welio",
     "name": "wPad_Aura"
@@ -155385,7 +155409,7 @@
   },
   "X7K": {
     "brand": "Whitedeer",
-    "name": "X7K_E"
+    "name": "X7K_U"
   },
   "WiBox.tv V3": {
     "brand": "Wibox",
@@ -165307,10 +165331,6 @@
     "brand": "ZUOPU",
     "name": "M2a103"
   },
-  "ZB10": {
-    "brand": "ZZB (cn)",
-    "name": "ZB10"
-  },
   "ZB10M": {
     "brand": "ZZB (cn)",
     "name": "ZB10M"
@@ -168613,7 +168633,7 @@
   },
   "V2559UA": {
     "brand": "iQOO",
-    "name": "iQOO Z11i"
+    "name": "iQOO Z11i AI版"
   },
   "V2532A": {
     "brand": "iQOO",
