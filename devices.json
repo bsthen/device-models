@@ -10377,7 +10377,7 @@
   },
   "CP10_Pro": {
     "brand": "PEICHENG",
-    "name": "CP10R_Pro"
+    "name": "CP10SPro"
   },
   "CP20S": {
     "brand": "Atozee",
@@ -17194,6 +17194,10 @@
   "B170D": {
     "brand": "Blu",
     "name": "View 5 Pro"
+  },
+  "B1661V": {
+    "brand": "Blu",
+    "name": "View Speed Ultra 5G"
   },
   "Vivo 12 Pro": {
     "brand": "Blu",
@@ -33903,6 +33907,10 @@
     "brand": "FCNT",
     "name": "arrows Alpha M08"
   },
+  "F-51G": {
+    "brand": "FCNT",
+    "name": "arrows Alpha2 F-51G"
+  },
   "BZ02": {
     "brand": "FCNT",
     "name": "arrows BZ02"
@@ -37478,6 +37486,10 @@
   "GYRO S6001": {
     "brand": "GYRO",
     "name": "S6001"
+  },
+  "TBAI698": {
+    "brand": "Gadnic",
+    "name": "TBAI698"
   },
   "ETAB_M7043G": {
     "brand": "Galactic",
@@ -76915,6 +76927,10 @@
     "brand": "Lunnen",
     "name": "TL4648S01"
   },
+  "TL4648S02": {
+    "brand": "Lunnen",
+    "name": "TL4648S02"
+  },
   "TL62810G01": {
     "brand": "Lunnen",
     "name": "TL62810G01"
@@ -85665,7 +85681,7 @@
   },
   "moto g47": {
     "brand": "Motorola",
-    "name": "moto g47"
+    "name": "moto g77 power"
   },
   "XT2171-3": {
     "brand": "Motorola",
@@ -85774,6 +85790,10 @@
   "moto g77": {
     "brand": "Motorola",
     "name": "moto g77"
+  },
+  "moto g77 power": {
+    "brand": "Motorola",
+    "name": "moto g77 power"
   },
   "XT2169-2": {
     "brand": "Motorola",
@@ -107231,6 +107251,10 @@
     "brand": "Redmi",
     "name": "Redmi Note 14 5G"
   },
+  "26021RN18C": {
+    "brand": "Redmi",
+    "name": "REDMI Note 17"
+  },
   "25040RP0AC": {
     "brand": "Redmi",
     "name": "REDMI Pad 2"
@@ -127351,6 +127375,10 @@
     "brand": "Shenzhen SEI Robotics",
     "name": "CNTV Plus Smart Box"
   },
+  "MH700": {
+    "brand": "Shenzhen SEI Robotics",
+    "name": "MH700"
+  },
   "ANDROID TV MEDIA BOX": {
     "brand": "Shenzhen SEI Robotics",
     "name": "SEI103V"
@@ -144246,10 +144274,6 @@
   "TL_4_ROW": {
     "brand": "Teletab",
     "name": "TL_4_ROW"
-  },
-  "MH700": {
-    "brand": "Telev8",
-    "name": "MH700"
   },
   "DV8919X-EE": {
     "brand": "Telia",
