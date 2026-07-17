@@ -45139,6 +45139,10 @@
     "brand": "Helio",
     "name": "helio 50"
   },
+  "helio 110": {
+    "brand": "Helio",
+    "name": "helio_110"
+  },
   "helio 45": {
     "brand": "Helio",
     "name": "helio_45"
@@ -49610,6 +49614,10 @@
   "TAB R11 Pro": {
     "brand": "Hotwav",
     "name": "TAB R11 Pro"
+  },
+  "TAB R12 Pro": {
+    "brand": "Hotwav",
+    "name": "TAB R12 Pro"
   },
   "TAB R5": {
     "brand": "Hotwav",
@@ -73759,6 +73767,10 @@
     "brand": "Lenovo",
     "name": "LIFETAB E7310"
   },
+  "XT2611-1": {
+    "brand": "Lenovo",
+    "name": "Legion Phone Y70 New Generation"
+  },
   "TB320FC": {
     "brand": "Lenovo",
     "name": "Lenovo Legion Tab"
@@ -86006,6 +86018,10 @@
   "motorola edge 70 fusion plus": {
     "brand": "Motorola",
     "name": "motorola edge 70 fusion +"
+  },
+  "motorola edge 70 max": {
+    "brand": "Motorola",
+    "name": "motorola edge 70 max"
   },
   "motorola edge 70 pro": {
     "brand": "Motorola",
@@ -101190,6 +101206,10 @@
   "PLUZZ_PL5510": {
     "brand": "Pluzz",
     "name": "PLUZZ_PL5510"
+  },
+  "MF52e": {
+    "brand": "Point Mobile",
+    "name": "MF52e"
   },
   "MX450": {
     "brand": "Point Mobile",
@@ -148611,6 +148631,10 @@
     "brand": "VS Visu",
     "name": "VS-DUAL-86"
   },
+  "VS_SA14": {
+    "brand": "VS Visu",
+    "name": "VS_SA14"
+  },
   "VS_S_P4": {
     "brand": "VS Visu",
     "name": "VS_S_P4"
@@ -155426,6 +155450,10 @@
   "KT1028": {
     "brand": "Whitedeer",
     "name": "KT1028_EEA"
+  },
+  "X13L": {
+    "brand": "Whitedeer",
+    "name": "X13L_EEA"
   },
   "X7L": {
     "brand": "Whitedeer",
