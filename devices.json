@@ -10832,8 +10832,8 @@
     "name": "S80"
   },
   "S90": {
-    "brand": "Premio",
-    "name": "S90"
+    "brand": "raemond",
+    "name": "S90_ROW_BND"
   },
   "Avion A10": {
     "brand": "Avion",
@@ -14920,8 +14920,8 @@
     "name": "A9 Pro"
   },
   "A90": {
-    "brand": "Hiking",
-    "name": "A90"
+    "brand": "raemond",
+    "name": "A90_ROW"
   },
   "A95": {
     "brand": "Blackview",
@@ -18298,6 +18298,10 @@
   "CTABNEXUS8128": {
     "brand": "CEPTER",
     "name": "CTABNEXUS8128"
+  },
+  "CTABNEXUSC": {
+    "brand": "CEPTER",
+    "name": "CTABNEXUSC"
   },
   "CTABNEXUSG": {
     "brand": "CEPTER",
@@ -24899,6 +24903,10 @@
     "brand": "DEPLAY",
     "name": "PRO4"
   },
+  "PRO5_P": {
+    "brand": "DEPLAY",
+    "name": "PRO5_P"
+  },
   "DEPLAY_SMART5PLUS": {
     "brand": "DEPLAY",
     "name": "SMART5PLUS_P"
@@ -26138,6 +26146,10 @@
   "DS60S": {
     "brand": "DSIC",
     "name": "Mobilebase DS60S"
+  },
+  "DS65": {
+    "brand": "DSIC",
+    "name": "Mobilebase DS65"
   },
   "RD86QE": {
     "brand": "Remdun",
@@ -47975,6 +47987,10 @@
     "brand": "Hometech",
     "name": "ALFA10MX"
   },
+  "Alfa 11BT Lite": {
+    "brand": "Hometech",
+    "name": "ALFA10MX"
+  },
   "ALFA10TB": {
     "brand": "Hometech",
     "name": "ALFA10TB"
@@ -60575,13 +60591,13 @@
     "brand": "Itel",
     "name": "itel CITY 200"
   },
-  "itel C681LN": {
-    "brand": "Itel",
-    "name": "itel CITY 200s"
-  },
   "itel C672L": {
     "brand": "Itel",
     "name": "itel CITY 200+"
+  },
+  "itel C681LN": {
+    "brand": "Itel",
+    "name": "itel CITY 200s"
   },
   "Itel W7001": {
     "brand": "Itel",
@@ -77081,7 +77097,7 @@
   },
   "Pad_17": {
     "brand": "M-Horse",
-    "name": "Pad_17"
+    "name": "Pad_17_US"
   },
   "Pad_17Pro": {
     "brand": "M-Horse",
@@ -89570,6 +89586,10 @@
   "LGA311D2": {
     "brand": "Newline",
     "name": "23QA"
+  },
+  "newline26S": {
+    "brand": "Newline",
+    "name": "26S"
   },
   "newline26Q": {
     "brand": "Newline",
@@ -133883,6 +133903,10 @@
     "brand": "TABWEE",
     "name": "T60_Pro_US"
   },
+  "V90_NEU": {
+    "brand": "TABWEE",
+    "name": "V90_NEU"
+  },
   "W90": {
     "brand": "TABWEE",
     "name": "W90_US"
@@ -145090,6 +145114,10 @@
   "G12": {
     "brand": "Topsand",
     "name": "G12"
+  },
+  "G12_Mini_S": {
+    "brand": "Topsand",
+    "name": "G12_Mini_S"
   },
   "G12_Pro": {
     "brand": "Topsand",
@@ -169051,6 +169079,10 @@
     "brand": "inefi",
     "name": "SlimPOS319"
   },
+  "Eu_Lite": {
+    "brand": "innex",
+    "name": "EU_Lite_3576"
+  },
   "EU": {
     "brand": "innex",
     "name": "Meeting_hub_EU"
@@ -169550,6 +169582,10 @@
   "K90Pro_EEA_BND": {
     "brand": "raemond",
     "name": "K90Pro_EEA_BND"
+  },
+  "K90Pro": {
+    "brand": "raemond",
+    "name": "K90Pro_ROW_BND"
   },
   "L90": {
     "brand": "raemond",
