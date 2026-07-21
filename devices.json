@@ -27839,6 +27839,10 @@
     "brand": "Digit",
     "name": "Digit_Glory"
   },
+  "Digit_Tab2": {
+    "brand": "Digit",
+    "name": "Digit_Tab2"
+  },
   "Digitplay1": {
     "brand": "Digit",
     "name": "Digitplay1"
@@ -58994,6 +58998,10 @@
   "ULTRA S25": {
     "brand": "Invens",
     "name": "ULTRA_S25_EEA"
+  },
+  "ULTRA S26": {
+    "brand": "Invens",
+    "name": "ULTRA_S26"
   },
   "UNO": {
     "brand": "Invens",
@@ -166578,6 +166586,10 @@
   "A16pro": {
     "brand": "aigo",
     "name": "A16pro"
+  },
+  "AIGO_Pad_Y800": {
+    "brand": "aigo",
+    "name": "AIGO_Pad_Y800"
   },
   "F819": {
     "brand": "aipan",
