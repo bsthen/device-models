@@ -10879,6 +10879,10 @@
     "brand": "Avtek",
     "name": "TS_8_1_Mate_G"
   },
+  "TS_9_Mate_G": {
+    "brand": "Avtek",
+    "name": "TS_9_Mate_G"
+  },
   "aiworks": {
     "brand": "Avvio",
     "name": "A680"
@@ -22751,6 +22755,10 @@
     "brand": "Contixo",
     "name": "A1-64G"
   },
+  "A10e": {
+    "brand": "Contixo",
+    "name": "A10e"
+  },
   "A8_B": {
     "brand": "Contixo",
     "name": "A8_B"
@@ -27858,6 +27866,10 @@
   "Sonic One": {
     "brand": "Digit",
     "name": "Sonic_One"
+  },
+  "Tab2": {
+    "brand": "Stylos",
+    "name": "Tab2"
   },
   "Titan 5G": {
     "brand": "Digit",
@@ -43950,10 +43962,6 @@
   "X10S": {
     "brand": "XMART",
     "name": "X10S"
-  },
-  "XC90_US": {
-    "brand": "HUIHUANG",
-    "name": "XC90_US"
   },
   "CW-SPCM": {
     "brand": "HUSHIDA",
@@ -86683,6 +86691,10 @@
     "brand": "Mtel",
     "name": "HP44H"
   },
+  "MP_8660QC": {
+    "brand": "MultiPad",
+    "name": "MP_8660QC"
+  },
   "Multilaser Android TV": {
     "brand": "Multilaser",
     "name": "Brazil"
@@ -86806,6 +86818,10 @@
   "M10_4G_PRO_TERE": {
     "brand": "Multilaser",
     "name": "M10_4G_PRO_TERE"
+  },
+  "M12_4G": {
+    "brand": "Multilaser",
+    "name": "M12_4G"
   },
   "M7-3G": {
     "brand": "Multilaser",
@@ -94671,6 +94687,10 @@
     "brand": "Oppo",
     "name": "OPPO K11x 5G"
   },
+  "PYD110": {
+    "brand": "Oppo",
+    "name": "OPPO K15"
+  },
   "OPD2101": {
     "brand": "Oppo",
     "name": "OPPO Pad"
@@ -98406,6 +98426,10 @@
   "PRIMA 4K Android TV": {
     "brand": "PRIMA",
     "name": "PRIMA 4K Android TV"
+  },
+  "SA_Series": {
+    "brand": "PRIMA",
+    "name": "SA_Interactive_Screens"
   },
   "PrismPlus 2KA": {
     "brand": "PRISMPLUS",
@@ -132711,10 +132735,6 @@
     "brand": "Stylos",
     "name": "Tab104"
   },
-  "Tab2": {
-    "brand": "Stylos",
-    "name": "Tab2"
-  },
   "AT703": {
     "brand": "Toshiba",
     "name": "AT10LE-A/AT15LE-A/AT10PE-A/AT15PE-A  (Japan: AT703)"
@@ -158695,6 +158715,10 @@
     "brand": "Xiaomi",
     "name": "Xiaomi TV Box S (2nd Gen)"
   },
+  "MiTV-AXTU0": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi TV Stick"
+  },
   "MiTV-AFMU1": {
     "brand": "Xiaomi",
     "name": "Xiaomi TV Stick 4K (2nd Gen)"
@@ -169604,6 +169628,10 @@
     "name": "L90_ROW"
   },
   "M90_MAX": {
+    "brand": "raemond",
+    "name": "M90_MAX_ROW"
+  },
+  "M90 MAX": {
     "brand": "raemond",
     "name": "M90_MAX_ROW"
   },
