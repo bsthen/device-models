@@ -85947,6 +85947,14 @@
     "brand": "Motorola",
     "name": "motorola edge 40 neo"
   },
+  "motorola edge - 2026": {
+    "brand": "Motorola",
+    "name": "motorola edge - 2026"
+  },
+  "motorola edge 60 fusion": {
+    "brand": "Motorola",
+    "name": "motorola edge 60 fusion"
+  },
   "motorola edge 20": {
     "brand": "Motorola",
     "name": "motorola edge 20"
@@ -86022,10 +86030,6 @@
   "motorola edge 60": {
     "brand": "Motorola",
     "name": "motorola edge 60"
-  },
-  "motorola edge 60 fusion": {
-    "brand": "Motorola",
-    "name": "motorola edge 60 fusion"
   },
   "motorola edge 60 neo": {
     "brand": "Motorola",
@@ -88723,6 +88727,10 @@
     "brand": "NOS",
     "name": "Box 4K"
   },
+  "BOX v4": {
+    "brand": "NOS",
+    "name": "Box V4"
+  },
   "NOVAT-10": {
     "brand": "NOVATAB",
     "name": "T10"
@@ -91354,6 +91362,10 @@
   "FeelMook": {
     "brand": "OMAX",
     "name": "FeelMook"
+  },
+  "FeelMook6_Series": {
+    "brand": "OMAX",
+    "name": "FeelMook6_Series"
   },
   "HANJI": {
     "brand": "OMAX",
@@ -97830,6 +97842,10 @@
   "86KTA_PRO_PIS": {
     "brand": "PERSONA",
     "name": "86KTA_PRO_PIS-AMLT982"
+  },
+  "KTA_PRO_100W": {
+    "brand": "PERSONA",
+    "name": "KTA_PRO_100W"
   },
   "MyTab_A8": {
     "brand": "PERSONA",
