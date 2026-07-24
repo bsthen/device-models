@@ -24031,10 +24031,6 @@
     "brand": "Croatian Telecom",
     "name": "KSTB6044"
   },
-  "AD-Z5": {
-    "brand": "Crosscall",
-    "name": "AD-Z5"
-  },
   "ACTION-X3": {
     "brand": "Crosscall",
     "name": "Action-X3"
@@ -24098,6 +24094,10 @@
   "Core-Z5": {
     "brand": "Crosscall",
     "name": "Core-Z5"
+  },
+  "AD-Z5": {
+    "brand": "Crosscall",
+    "name": "Core-Z6"
   },
   "ODYSSEY": {
     "brand": "Crosscall",
@@ -31034,6 +31034,10 @@
   "ENV NOTE X": {
     "brand": "ENV(EC)",
     "name": "ENV_NOTE_X"
+  },
+  "ENV PAD 17 PRO": {
+    "brand": "ENV(EC)",
+    "name": "ENV_PAD_17_PRO"
   },
   "ENV PAD PRO": {
     "brand": "ENV(EC)",
@@ -70887,6 +70891,10 @@
     "brand": "LT_Mobile",
     "name": "LT_mobile_K80"
   },
+  "LT K82": {
+    "brand": "LT_Mobile",
+    "name": "LT_K82"
+  },
   "LT C26": {
     "brand": "LT_Mobile",
     "name": "LT_mobile_C26"
@@ -76942,6 +76950,10 @@
   "Siren_1": {
     "brand": "Lucentel",
     "name": "Siren_1"
+  },
+  "G127D": {
+    "brand": "Lumallax",
+    "name": "G127D"
   },
   "T2HD": {
     "brand": "Lumigon",
@@ -111705,7 +111717,7 @@
   },
   "P11_T": {
     "brand": "SVITOO",
-    "name": "P11_T_ROW"
+    "name": "P11_T_US"
   },
   "P11_pro_EEA": {
     "brand": "SVITOO",
@@ -124323,6 +124335,50 @@
     "brand": "Samsung",
     "name": "Galaxy Z Flip7 FE"
   },
+  "SC-55G": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip8"
+  },
+  "SCG40": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip8"
+  },
+  "SM-F7760": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip8"
+  },
+  "SM-F776C": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip8"
+  },
+  "SM-F776Q": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip8"
+  },
+  "SM-F776U": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip8"
+  },
+  "SM-F776U1": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip8"
+  },
+  "SM-F776W": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip8"
+  },
+  "SM-F776Z": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip8"
+  },
+  "SM-F776B": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip8"
+  },
+  "SM-F776N": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip8"
+  },
   "SM-F958N": {
     "brand": "Samsung",
     "name": "Galaxy Z Fold Special Edition"
@@ -124530,6 +124586,14 @@
   "SM-F966Z": {
     "brand": "Samsung",
     "name": "Galaxy Z Fold7"
+  },
+  "SM-F9760": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8 Ultra"
+  },
+  "SM-F976U1": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8 Ultra"
   },
   "SM-F9680": {
     "brand": "Samsung",
