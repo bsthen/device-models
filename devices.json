@@ -1589,7 +1589,7 @@
   },
   "SN515AR": {
     "brand": "AT&T",
-    "name": "AT&T Trek™"
+    "name": "SN515AR_UM"
   },
   "SL219A": {
     "brand": "AT&T",
@@ -2734,6 +2734,10 @@
   "AS20WF": {
     "brand": "Acer",
     "name": "Sospiro AS20WF"
+  },
+  "AS20WF NEO": {
+    "brand": "Acer",
+    "name": "AS20WF_NEO"
   },
   "AS8W": {
     "brand": "Acer",
@@ -18715,6 +18719,10 @@
     "brand": "COMBUSTECH",
     "name": "COMBUS_IB3"
   },
+  "C1B": {
+    "brand": "COMMTEC",
+    "name": "C1B"
+  },
   "A3-1510P": {
     "brand": "COMPAX",
     "name": "ACE 1s Pro"
@@ -24461,7 +24469,7 @@
   },
   "P90": {
     "brand": "Relndoo",
-    "name": "P90_US"
+    "name": "P90_Y_EEA"
   },
   "POCKET 3": {
     "brand": "Cubot",
@@ -26651,6 +26659,14 @@
     "brand": "Datalogic",
     "name": "Datalogic MEMOR 10"
   },
+  "Falcon X60": {
+    "brand": "Datalogic",
+    "name": "Falcon X60"
+  },
+  "Falcon X65": {
+    "brand": "Datalogic",
+    "name": "Falcon X65"
+  },
   "Joya Smart": {
     "brand": "Datalogic",
     "name": "Joya Smart/Smart+"
@@ -26694,6 +26710,14 @@
   "Memor K2": {
     "brand": "Datalogic",
     "name": "Memor K25"
+  },
+  "Skorpio X40": {
+    "brand": "Datalogic",
+    "name": "Skorpio X40"
+  },
+  "Skorpio X45": {
+    "brand": "Datalogic",
+    "name": "Skorpio X45"
   },
   "Skorpio X5": {
     "brand": "Datalogic",
@@ -63015,6 +63039,10 @@
     "brand": "KTCtv",
     "name": "JAMUNA"
   },
+  "Joybee": {
+    "brand": "KTCtv",
+    "name": "Joybee"
+  },
   "EcoTV J": {
     "brand": "KTCtv",
     "name": "Leading Smart TV"
@@ -63222,6 +63250,10 @@
   "Black 1": {
     "brand": "Kalley",
     "name": "Black 1"
+  },
+  "Black C2": {
+    "brand": "Kalley",
+    "name": "Black C2"
   },
   "Black G": {
     "brand": "Kalley",
@@ -111715,6 +111747,10 @@
     "brand": "SVITOO",
     "name": "P10_T_EEA"
   },
+  "P11_R": {
+    "brand": "SVITOO",
+    "name": "P11_R_EEA"
+  },
   "P11_T": {
     "brand": "SVITOO",
     "name": "P11_T_US"
@@ -123455,6 +123491,10 @@
     "brand": "Samsung",
     "name": "Galaxy Watch Ultra"
   },
+  "SM-L710": {
+    "brand": "Samsung",
+    "name": "Galaxy Watch Ultra2"
+  },
   "SM-R870": {
     "brand": "Samsung",
     "name": "Galaxy Watch4"
@@ -123738,6 +123778,26 @@
   "SM-L505U": {
     "brand": "Samsung",
     "name": "Galaxy Watch8 Classic"
+  },
+  "SM-L350": {
+    "brand": "Samsung",
+    "name": "Galaxy Watch9"
+  },
+  "SM-L340": {
+    "brand": "Samsung",
+    "name": "Galaxy Watch9"
+  },
+  "SM-L345F": {
+    "brand": "Samsung",
+    "name": "Galaxy Watch9"
+  },
+  "SM-L345N": {
+    "brand": "Samsung",
+    "name": "Galaxy Watch9"
+  },
+  "SM-L345U": {
+    "brand": "Samsung",
+    "name": "Galaxy Watch9"
   },
   "SM-G600S": {
     "brand": "Samsung",
@@ -124587,11 +124647,91 @@
     "brand": "Samsung",
     "name": "Galaxy Z Fold7"
   },
+  "SC-57G": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8"
+  },
+  "SCG41": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8"
+  },
+  "SM-F9710": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8"
+  },
+  "SM-F971B": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8"
+  },
+  "SM-F971C": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8"
+  },
+  "SM-F971N": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8"
+  },
+  "SM-F971Q": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8"
+  },
+  "SM-F971U": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8"
+  },
+  "SM-F971U1": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8"
+  },
+  "SM-F971W": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8"
+  },
+  "SM-F971Z": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8"
+  },
+  "SC-56G": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8 Ultra"
+  },
+  "SCG39": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8 Ultra"
+  },
   "SM-F9760": {
     "brand": "Samsung",
     "name": "Galaxy Z Fold8 Ultra"
   },
+  "SM-F976B": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8 Ultra"
+  },
+  "SM-F976C": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8 Ultra"
+  },
+  "SM-F976N": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8 Ultra"
+  },
+  "SM-F976Q": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8 Ultra"
+  },
+  "SM-F976U": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8 Ultra"
+  },
   "SM-F976U1": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8 Ultra"
+  },
+  "SM-F976W": {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold8 Ultra"
+  },
+  "SM-F976Z": {
     "brand": "Samsung",
     "name": "Galaxy Z Fold8 Ultra"
   },
@@ -134010,6 +134150,10 @@
   "T60 Pro": {
     "brand": "TABWEE",
     "name": "T60_Pro_US"
+  },
+  "V90_EEA": {
+    "brand": "TABWEE",
+    "name": "V90_EEA"
   },
   "V90_NEU": {
     "brand": "TABWEE",
@@ -148486,6 +148630,10 @@
   "VILLAON V671NP": {
     "brand": "VILLAON",
     "name": "VILLAON X50"
+  },
+  "VP0703L": {
+    "brand": "VILLAON",
+    "name": "VP0703L-Liv"
   },
   "VILLAON-VP1002L": {
     "brand": "VILLAON",
@@ -169709,7 +169857,7 @@
   },
   "M90_MAX": {
     "brand": "raemond",
-    "name": "M90_MAX_ROW"
+    "name": "M90_MAX_US"
   },
   "M90 MAX": {
     "brand": "raemond",
