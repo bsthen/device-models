@@ -30515,6 +30515,10 @@
     "brand": "ECOPAD",
     "name": "A30Pro_A_EEA"
   },
+  "A30Pro_A_US": {
+    "brand": "ECOPAD",
+    "name": "A30Pro_A_US"
+  },
   "C30plus": {
     "brand": "ECOPAD",
     "name": "C30plus_US"
