@@ -4895,6 +4895,10 @@
     "brand": "Aiwa",
     "name": "JA5-TBA1201"
   },
+  "JA6-TBA1103": {
+    "brand": "Aiwa",
+    "name": "JA6-TBA1103"
+  },
   "AI PONT CO": {
     "brand": "Hyundai",
     "name": "Smart TV"
@@ -16107,6 +16111,10 @@
     "brand": "Blu",
     "name": "B160V"
   },
+  "B1680V": {
+    "brand": "Blu",
+    "name": "B1680V"
+  },
   "B3": {
     "brand": "Meswao",
     "name": "B3-EEA"
@@ -24469,7 +24477,7 @@
   },
   "P90": {
     "brand": "Relndoo",
-    "name": "P90_Y_EEA"
+    "name": "P90_Y_US"
   },
   "POCKET 3": {
     "brand": "Cubot",
@@ -34594,6 +34602,10 @@
   "CP11_J1": {
     "brand": "FPD",
     "name": "CP11_J1"
+  },
+  "CP12-J1": {
+    "brand": "FPD",
+    "name": "CP12-J1"
   },
   "EcoTV1 Plus": {
     "brand": "Hyundai",
@@ -49242,6 +49254,10 @@
   "YK_P30_EEA": {
     "brand": "Hoozo",
     "name": "YK_P30_EEA"
+  },
+  "K8M8A": {
+    "brand": "Horion",
+    "name": "Horion_K8M8A"
   },
   "W72B": {
     "brand": "Horion",
@@ -79779,6 +79795,10 @@
     "brand": "Maxwest",
     "name": "TAB_MAX_7"
   },
+  "TA-04": {
+    "brand": "Maxzz",
+    "name": "TA-04"
+  },
   "MAZDA CONNECT": {
     "brand": "Mazda",
     "name": "Mazda Connect"
@@ -93746,6 +93766,10 @@
   "PBFT00": {
     "brand": "Oppo",
     "name": "A7"
+  },
+  "PYC110": {
+    "brand": "Oppo",
+    "name": "A7 Pro Max 5G"
   },
   "CPH2067": {
     "brand": "Oppo",
@@ -110387,6 +110411,10 @@
     "brand": "SMART_KASSEL",
     "name": "SK-5503AR"
   },
+  "SK-5503ARX": {
+    "brand": "SMART_KASSEL",
+    "name": "SK-5503ARX"
+  },
   "SK3403": {
     "brand": "SMART_KASSEL",
     "name": "SK3403"
@@ -114012,6 +114040,10 @@
     "name": "Galaxy A57 5G"
   },
   "SM-A576Q": {
+    "brand": "Samsung",
+    "name": "Galaxy A57 5G"
+  },
+  "SM-A576U": {
     "brand": "Samsung",
     "name": "Galaxy A57 5G"
   },
@@ -169859,13 +169891,13 @@
     "brand": "raemond",
     "name": "L90_ROW"
   },
-  "M90_MAX": {
-    "brand": "raemond",
-    "name": "M90_MAX_US"
-  },
   "M90 MAX": {
     "brand": "raemond",
     "name": "M90_MAX_ROW"
+  },
+  "M90_MAX": {
+    "brand": "raemond",
+    "name": "M90_MAX_US"
   },
   "the101loop": {
     "brand": "rainx",
