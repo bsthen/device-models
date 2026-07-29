@@ -899,6 +899,10 @@
     "brand": "AIPLUS",
     "name": "AI+ Nova 2 5G"
   },
+  "AI+ Nova 2 Ultra": {
+    "brand": "AIPLUS",
+    "name": "AI+ Nova 2 Ultra"
+  },
   "AI+ NxtFlip 5G": {
     "brand": "AIPLUS",
     "name": "AI+ NxtFlip 5G"
@@ -1186,6 +1190,10 @@
   "M10": {
     "brand": "UAUU",
     "name": "M10"
+  },
+  "M21": {
+    "brand": "Himax",
+    "name": "M21"
   },
   "Q10107L-ME": {
     "brand": "AOC",
@@ -6019,6 +6027,10 @@
     "brand": "Alldocube",
     "name": "Kido"
   },
+  "U818": {
+    "brand": "Alldocube",
+    "name": "Kido"
+  },
   "T811": {
     "brand": "Wishtel",
     "name": "T811"
@@ -6542,6 +6554,10 @@
   "Altus UHD Pro TV": {
     "brand": "Altus",
     "name": "Altus UHD Pro TV"
+  },
+  "AME_QT08UM": {
+    "brand": "Amdox",
+    "name": "AME_QT08UM"
   },
   "EP-01": {
     "brand": "Amdox",
@@ -18322,6 +18338,10 @@
   "CTABNEXUSG": {
     "brand": "CEPTER",
     "name": "CTABNEXUSG"
+  },
+  "CTABNEXUSP": {
+    "brand": "CEPTER",
+    "name": "CTABNEXUSP"
   },
   "CTABNEXUSW": {
     "brand": "CEPTER",
@@ -34355,6 +34375,10 @@
     "brand": "Innjoo",
     "name": "F106"
   },
+  "F106 Plus": {
+    "brand": "FOSSiBOT",
+    "name": "F106_Plus"
+  },
   "F107 Pro": {
     "brand": "FOSSiBOT",
     "name": "F107 Pro"
@@ -34394,6 +34418,10 @@
   "F116 Pro": {
     "brand": "FOSSiBOT",
     "name": "F116 Pro"
+  },
+  "F123": {
+    "brand": "FOSSiBOT",
+    "name": "F123_EEA"
   },
   "S3 Pro": {
     "brand": "FOSSiBOT",
@@ -45523,10 +45551,6 @@
     "brand": "Hillpos",
     "name": "HT65"
   },
-  "M21": {
-    "brand": "Himax",
-    "name": "M21"
-  },
   "M25i": {
     "brand": "Himax",
     "name": "M25i"
@@ -48878,6 +48902,18 @@
   "NLA-NX3": {
     "brand": "Honor",
     "name": "HONOR X6d 5G"
+  },
+  "LBU-LX1": {
+    "brand": "Honor",
+    "name": "HONOR X6e"
+  },
+  "LBU-LX2": {
+    "brand": "Honor",
+    "name": "HONOR X6e"
+  },
+  "LBU-LX3": {
+    "brand": "Honor",
+    "name": "HONOR X6e"
   },
   "CMA-LX1": {
     "brand": "Honor",
@@ -60938,6 +60974,10 @@
   "Toughphone E10": {
     "brand": "JCB_Phone",
     "name": "ToughPhone_E10_EEA"
+  },
+  "Tough_Tablet_T10": {
+    "brand": "JCB_Phone",
+    "name": "Tough_Tablet_T10"
   },
   "Toughphone E50": {
     "brand": "JCB_Phone",
@@ -96519,6 +96559,10 @@
     "brand": "Oukitel",
     "name": "C17 Pro"
   },
+  "C17": {
+    "brand": "Oukitel",
+    "name": "C17_go_EEA"
+  },
   "C18_Plus": {
     "brand": "Oukitel",
     "name": "C18 Plus"
@@ -97803,6 +97847,10 @@
     "brand": "PEICHENG",
     "name": "AT74K"
   },
+  "CP10-proK": {
+    "brand": "PEICHENG",
+    "name": "CP10R_Pro"
+  },
   "CP10SPro": {
     "brand": "PEICHENG",
     "name": "CP10SPro"
@@ -98598,6 +98646,10 @@
   "X20 Pro": {
     "brand": "PROTON",
     "name": "X20 Pro"
+  },
+  "Zen 6T": {
+    "brand": "PROTON",
+    "name": "Zen 6T"
   },
   "PS101": {
     "brand": "PS",
@@ -106563,6 +106615,10 @@
     "brand": "RUGSTORM",
     "name": "UA80"
   },
+  "RUGTAKE_T5 Pro": {
+    "brand": "RUGTAKE",
+    "name": "RUGTAKE_T5Pro"
+  },
   "M132-EEA": {
     "brand": "RUSHAR",
     "name": "M132-EEA"
@@ -109295,6 +109351,10 @@
     "brand": "RuggON",
     "name": "Xever 7 Pro Thermal"
   },
+  "Xever 8": {
+    "brand": "RugOne",
+    "name": "Xever 8"
+  },
   "MT7030": {
     "brand": "RuggON",
     "name": "MT7030"
@@ -110906,6 +110966,10 @@
   "Spectra_J2_MTN": {
     "brand": "SPECTRA",
     "name": "Spectra J2 MTN"
+  },
+  "Spectra_J3_MTN": {
+    "brand": "SPECTRA",
+    "name": "Spectra J3 MTN"
   },
   "MobileMapper6": {
     "brand": "SPECTRA",
@@ -133151,6 +133215,10 @@
     "brand": "Sun_King",
     "name": "EZ 2"
   },
+  "EZ 3": {
+    "brand": "Sun_King",
+    "name": "EZ 3"
+  },
   "EZ 3 Pro": {
     "brand": "Sun_King",
     "name": "EZ 3 Pro"
@@ -147163,6 +147231,10 @@
     "brand": "Ulefone",
     "name": "Tab A11 Pro"
   },
+  "Tab A12 Pro": {
+    "brand": "Ulefone",
+    "name": "UF1201RK1"
+  },
   "Ulefone Tab A7": {
     "brand": "Ulefone",
     "name": "Ulefone Tab A7"
@@ -148010,6 +148082,10 @@
   "Bolt 1": {
     "brand": "Unnecto",
     "name": "Bolt1"
+  },
+  "Eco_1": {
+    "brand": "Unnecto",
+    "name": "Eco 1"
   },
   "QUATTRO_M-3": {
     "brand": "Unnecto",
@@ -159923,6 +159999,10 @@
     "brand": "ZDK(SZ)",
     "name": "ZDKMP-T30B_ROW"
   },
+  "Z-PAD PRO ZP210P": {
+    "brand": "ZEED",
+    "name": "Z-PAD_PRO"
+  },
   "ZEEKER P10": {
     "brand": "ZEEKER",
     "name": "ZEEKER_P10_RU"
@@ -165934,6 +166014,18 @@
   "TC20": {
     "brand": "Zebra",
     "name": "TC20KB"
+  },
+  "TC201L": {
+    "brand": "Zebra",
+    "name": "TC201"
+  },
+  "TC201": {
+    "brand": "Zebra",
+    "name": "TC201"
+  },
+  "TC201W": {
+    "brand": "Zebra",
+    "name": "TC201"
   },
   "TC21": {
     "brand": "Zebra",
