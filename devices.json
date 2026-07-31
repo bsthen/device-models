@@ -1459,6 +1459,10 @@
     "brand": "ASTCA",
     "name": "AA 787 S"
   },
+  "ASTECH_IRIS_60": {
+    "brand": "ASTECH",
+    "name": "ASTECH_IRIS_60"
+  },
   "Astech NEO": {
     "brand": "ASTECH",
     "name": "Astech NEO"
@@ -7011,6 +7015,10 @@
     "brand": "Anydata",
     "name": "iCraig CMP749"
   },
+  "Note 56": {
+    "brand": "Doogee",
+    "name": "Note 56"
+  },
   "Note56 Plus": {
     "brand": "Doogee",
     "name": "Note56 Plus"
@@ -7018,6 +7026,10 @@
   "Note56 Pro": {
     "brand": "Doogee",
     "name": "Note56 Pro"
+  },
+  "Note56 X": {
+    "brand": "Doogee",
+    "name": "Note 56X"
   },
   "Note56X Pro": {
     "brand": "Doogee",
@@ -7030,6 +7042,10 @@
   "Tab G6 Max": {
     "brand": "Doogee",
     "name": "Tab G6 Max"
+  },
+  "U11": {
+    "brand": "Doogee",
+    "name": "U11"
   },
   "U11 Pro": {
     "brand": "Doogee",
@@ -15009,7 +15025,7 @@
   },
   "BL7000 Pro": {
     "brand": "Blackview",
-    "name": "BL7000"
+    "name": "BL7000 Pro"
   },
   "BL8000": {
     "brand": "Blackview",
@@ -18322,6 +18338,10 @@
   "CTABNEXA10V2": {
     "brand": "CEPTER",
     "name": "CTABNEXA10V2"
+  },
+  "CTABNEXT10C": {
+    "brand": "CEPTER",
+    "name": "CTABNEXT10C"
   },
   "CTABNEXT10S": {
     "brand": "CEPTER",
@@ -29183,14 +29203,6 @@
     "brand": "Doogee",
     "name": "N70"
   },
-  "Note 56": {
-    "brand": "Doogee",
-    "name": "Note 56"
-  },
-  "Note56 X": {
-    "brand": "Doogee",
-    "name": "Note 56X"
-  },
   "Note 58": {
     "brand": "Doogee",
     "name": "Note 58"
@@ -29602,10 +29614,6 @@
   "T2": {
     "brand": "Wiseasy",
     "name": "T2"
-  },
-  "U11": {
-    "brand": "Doogee",
-    "name": "U11"
   },
   "U11 Kid": {
     "brand": "Doogee",
@@ -31802,6 +31810,10 @@
   "Z_766_EEA": {
     "brand": "Eaglesoar",
     "name": "Z_766_EEA"
+  },
+  "P12 Power": {
+    "brand": "Easerush",
+    "name": "P9T-E"
   },
   "100": {
     "brand": "EasyPhone",
@@ -34842,6 +34854,10 @@
   "SC228": {
     "brand": "Fanconn",
     "name": "DC685"
+  },
+  "DC695": {
+    "brand": "Fanconn",
+    "name": "DC695"
   },
   "M200H": {
     "brand": "Fantec",
@@ -44050,6 +44066,10 @@
   "X10S": {
     "brand": "XMART",
     "name": "X10S"
+  },
+  "XC70_US": {
+    "brand": "HUIHUANG",
+    "name": "XC70_US"
   },
   "CW-SPCM": {
     "brand": "HUSHIDA",
@@ -55784,6 +55804,10 @@
     "name": "i3TOUCH-X3"
   },
   "IACTIVE": {
+    "brand": "IACTIVE",
+    "name": "lactive_IA75"
+  },
+  "lactive_IA75": {
     "brand": "IACTIVE",
     "name": "lactive_IA75"
   },
@@ -91779,6 +91803,10 @@
     "brand": "ORION",
     "name": "ORION"
   },
+  "BOLT 2": {
+    "brand": "OSCAL",
+    "name": "BOLT 2"
+  },
   "C20 Pro": {
     "brand": "OSCAL",
     "name": "C20 Pro"
@@ -91810,6 +91838,10 @@
   "FLAT 3C": {
     "brand": "OSCAL",
     "name": "FLAT 3C"
+  },
+  "FLAT 3C Mini": {
+    "brand": "OSCAL",
+    "name": "FLAT 3C Mini"
   },
   "KIDO 2": {
     "brand": "OSCAL",
