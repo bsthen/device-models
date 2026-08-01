@@ -1351,6 +1351,10 @@
     "brand": "ARATEK",
     "name": "Marshall-8"
   },
+  "Marshall-8R": {
+    "brand": "ARATEK",
+    "name": "Marshall-8R"
+  },
   "TruFace": {
     "brand": "ARATEK",
     "name": "TruFace"
@@ -7047,6 +7051,10 @@
     "brand": "Doogee",
     "name": "U11"
   },
+  "Tab A9 Pro+": {
+    "brand": "Doogee",
+    "name": "Tab A9 Pro+"
+  },
   "U11 Pro": {
     "brand": "Doogee",
     "name": "U11 Pro"
@@ -7055,9 +7063,17 @@
     "brand": "Doogee",
     "name": "Tab A9"
   },
+  "Tab E3 Max": {
+    "brand": "Doogee",
+    "name": "Tab E3 Max"
+  },
   "Tab G5": {
     "brand": "Doogee",
     "name": "Tab G5"
+  },
+  "U12": {
+    "brand": "Doogee",
+    "name": "U12"
   },
   "U13 Pro": {
     "brand": "Doogee",
@@ -9198,6 +9214,10 @@
   "ASUS_Z00YD": {
     "brand": "Asus",
     "name": "ASUS Live (G500TG)"
+  },
+  "ASUS Pad T3201M5A": {
+    "brand": "Asus",
+    "name": "ASUS Pad"
   },
   "P023": {
     "brand": "Asus",
@@ -11687,6 +11707,10 @@
     "brand": "BKAV",
     "name": "Bphone B86"
   },
+  "PHD20": {
+    "brand": "BLACKLINE",
+    "name": "PHD20"
+  },
   "BE_dg": {
     "brand": "BLECK",
     "name": "BE dg"
@@ -11952,7 +11976,7 @@
     "name": "BMPRO7DI"
   },
   "A80": {
-    "brand": "Blackview",
+    "brand": "Wintouch",
     "name": "A80"
   },
   "BM108": {
@@ -15499,6 +15523,10 @@
     "brand": "Blackview",
     "name": "ROCK 3"
   },
+  "ROCK 5": {
+    "brand": "Blackview",
+    "name": "ROCK 5"
+  },
   "SHARK 6": {
     "brand": "Blackview",
     "name": "SHARK 6"
@@ -15735,6 +15763,10 @@
     "brand": "Blackview",
     "name": "WAVE 10C"
   },
+  "WAVE 2C": {
+    "brand": "Blackview",
+    "name": "WAVE 2C"
+  },
   "WAVE 6C": {
     "brand": "Blackview",
     "name": "WAVE 6C"
@@ -15798,6 +15830,10 @@
   "ZENO 2": {
     "brand": "Blackview",
     "name": "ZENO 2"
+  },
+  "ZENO 5": {
+    "brand": "Blackview",
+    "name": "ZENO 5"
   },
   "A-STREAM": {
     "brand": "Blaupunkt",
@@ -29215,6 +29251,14 @@
     "brand": "Doogee",
     "name": "Note 59"
   },
+  "Note56 Lite": {
+    "brand": "Doogee",
+    "name": "Note56 Lite"
+  },
+  "Note56 X Lite": {
+    "brand": "Doogee",
+    "name": "Note56 X"
+  },
   "Note59 Pro": {
     "brand": "Doogee",
     "name": "Note59 Pro"
@@ -29286,6 +29330,10 @@
   "S200": {
     "brand": "Doogee",
     "name": "S200"
+  },
+  "S200 E": {
+    "brand": "Doogee",
+    "name": "S200 E"
   },
   "S200 Max": {
     "brand": "Doogee",
@@ -29563,10 +29611,6 @@
     "brand": "Doogee",
     "name": "Tab A9 Pro Kid"
   },
-  "Tab A9 Pro+": {
-    "brand": "Doogee",
-    "name": "Tab A9 Pro+"
-  },
   "Tab A9+": {
     "brand": "Doogee",
     "name": "Tab A9+"
@@ -29574,10 +29618,6 @@
   "Tab E3": {
     "brand": "Doogee",
     "name": "Tab E3"
-  },
-  "Tab E3 Max": {
-    "brand": "Doogee",
-    "name": "Tab E3 Max"
   },
   "Tab E3 Pro": {
     "brand": "Doogee",
@@ -29623,10 +29663,6 @@
     "brand": "Doogee",
     "name": "U11 Pro Kid"
   },
-  "U12": {
-    "brand": "Doogee",
-    "name": "U12"
-  },
   "U8": {
     "brand": "Doogee",
     "name": "U8"
@@ -29650,6 +29686,10 @@
   "V Max": {
     "brand": "Doogee",
     "name": "V Max"
+  },
+  "V Max 2": {
+    "brand": "Doogee",
+    "name": "V Max 2"
   },
   "V Max 2 Pro": {
     "brand": "Doogee",
@@ -31995,6 +32035,10 @@
     "brand": "Elecson",
     "name": "Prime X"
   },
+  "EMU 21": {
+    "brand": "ElectroMax",
+    "name": "YE2647170W"
+  },
   "NASCO_Allure": {
     "brand": "Electroland Ghana",
     "name": "NASCO_Allure"
@@ -34122,6 +34166,10 @@
   "D115": {
     "brand": "Zonko",
     "name": "D115"
+  },
+  "D117_EEA": {
+    "brand": "FEONAL",
+    "name": "D117_EEA"
   },
   "D118_EEA": {
     "brand": "FEONAL",
@@ -45290,6 +45338,10 @@
   "helio 62": {
     "brand": "Helio",
     "name": "helio_62"
+  },
+  "A900": {
+    "brand": "HelloPro",
+    "name": "A900"
   },
   "PK81R": {
     "brand": "HelloPro",
@@ -61182,6 +61234,10 @@
   "V2427": {
     "brand": "Vivo",
     "name": "V50"
+  },
+  "J2505": {
+    "brand": "JOVI",
+    "name": "X300 FE"
   },
   "TB-JS100A": {
     "brand": "JOYSURF",
@@ -78727,6 +78783,10 @@
     "brand": "MYCOM",
     "name": "COMEK C20"
   },
+  "COMEK SMART 20Pro": {
+    "brand": "MYCOM",
+    "name": "COMEK SMART 20"
+  },
   "COMEK smart 10": {
     "brand": "MYCOM",
     "name": "COMEK smart 10"
@@ -82566,6 +82626,10 @@
   "Mintt_Tab_T1": {
     "brand": "Mintt",
     "name": "Mintt_Tab_T1"
+  },
+  "Niu 2": {
+    "brand": "Mintt",
+    "name": "Niu 2"
   },
   "P25": {
     "brand": "Mintt",
@@ -88715,6 +88779,10 @@
     "brand": "NEXG",
     "name": "NEXG N28 Pro"
   },
+  "EF930": {
+    "brand": "NEXGO",
+    "name": "EF930"
+  },
   "P300__Pro": {
     "brand": "NEXGO",
     "name": "P300"
@@ -89730,6 +89798,10 @@
   "S611": {
     "brand": "Neusoft",
     "name": "S611"
+  },
+  "CK_HYYT": {
+    "brand": "Neutral",
+    "name": "CK_HYYT"
   },
   "NB RunIQ": {
     "brand": "New Balance",
@@ -92718,6 +92790,10 @@
   "CPH2955": {
     "brand": "OnePlus",
     "name": "OnePlus N6"
+  },
+  "CPH2971": {
+    "brand": "OnePlus",
+    "name": "OnePlus N6x"
   },
   "AC2001": {
     "brand": "OnePlus",
@@ -98667,6 +98743,10 @@
     "brand": "PRAZteck",
     "name": "PT116LPREduPad"
   },
+  "PT73G1": {
+    "brand": "PRAZteck",
+    "name": "PT73G1"
+  },
   "PT7EduPad": {
     "brand": "PRAZteck",
     "name": "PT7EduPad"
@@ -104523,6 +104603,10 @@
     "brand": "Pritom",
     "name": "P7PRO_EEA"
   },
+  "P7_A11": {
+    "brand": "Pritom",
+    "name": "P7_A11_EEA"
+  },
   "P7_EEA": {
     "brand": "Pritom",
     "name": "P7_EEA"
@@ -110054,6 +110138,10 @@
   "ZERO 50": {
     "brand": "SEGO",
     "name": "SEGO_Zero_50"
+  },
+  "Zero_60": {
+    "brand": "SEGO",
+    "name": "SEGO_Zero_60"
   },
   "DT6P30YK": {
     "brand": "SEGO",
@@ -125819,6 +125907,10 @@
     "brand": "Seuic",
     "name": "AUTOIDQ9"
   },
+  "CRUISE GeP": {
+    "brand": "Seuic",
+    "name": "CRUISE GeP"
+  },
   "CRUISE1": {
     "brand": "Seuic",
     "name": "CRUISE1"
@@ -125834,6 +125926,10 @@
   "CRUISE2 5GA": {
     "brand": "Seuic",
     "name": "CRUISE2 5GA"
+  },
+  "CRUISE3": {
+    "brand": "Seuic",
+    "name": "CRUISE3"
   },
   "HHT8B": {
     "brand": "Seuic",
@@ -141907,6 +142003,10 @@
     "brand": "Techview",
     "name": "S15Pro"
   },
+  "S16PRO": {
+    "brand": "Techview",
+    "name": "S16PRO"
+  },
   "S17Pro": {
     "brand": "Techview",
     "name": "S17Pro"
@@ -147807,6 +147907,14 @@
     "brand": "Umidigi",
     "name": "UMIDIGI A16 Pro"
   },
+  "UMIDIGI A71C": {
+    "brand": "Umidigi",
+    "name": "UMIDIGI A71C"
+  },
+  "UMIDIGI A75": {
+    "brand": "Umidigi",
+    "name": "UMIDIGI A75"
+  },
   "UMIDIGI A75x": {
     "brand": "Umidigi",
     "name": "UMIDIGI A75x"
@@ -147814,6 +147922,10 @@
   "UMIDIGI A76": {
     "brand": "Umidigi",
     "name": "UMIDIGI A76"
+  },
+  "UMIDIGI A78C": {
+    "brand": "Umidigi",
+    "name": "UMIDIGI A78C"
   },
   "MP07": {
     "brand": "Umidigi",
@@ -148389,7 +148501,7 @@
   },
   "DT50": {
     "brand": "Urovo",
-    "name": "DT50"
+    "name": "DT50 Pro"
   },
   "DT50_5G": {
     "brand": "Urovo",
@@ -159482,6 +159594,10 @@
   "EMEETING_3576": {
     "brand": "YISHENGTC",
     "name": "EMEETING_3576"
+  },
+  "EMEETING_3588": {
+    "brand": "YISHENGTC",
+    "name": "EMEETING_3588"
   },
   "OPS_3576": {
     "brand": "YISHENGTC",
@@ -171711,9 +171827,25 @@
     "brand": "vivo",
     "name": "V70 FE"
   },
+  "V2584": {
+    "brand": "vivo",
+    "name": "Y500"
+  },
   "V2604": {
     "brand": "vivo",
     "name": "V70 Lite"
+  },
+  "V2627": {
+    "brand": "vivo",
+    "name": "Y500"
+  },
+  "V2634": {
+    "brand": "vivo",
+    "name": "Y500"
+  },
+  "V2635": {
+    "brand": "vivo",
+    "name": "Y500"
   },
   "V2615": {
     "brand": "vivo",
@@ -171932,22 +172064,6 @@
     "name": "Y500"
   },
   "V2570": {
-    "brand": "vivo",
-    "name": "Y500"
-  },
-  "V2584": {
-    "brand": "vivo",
-    "name": "Y500"
-  },
-  "V2627": {
-    "brand": "vivo",
-    "name": "Y500"
-  },
-  "V2634": {
-    "brand": "vivo",
-    "name": "Y500"
-  },
-  "V2635": {
     "brand": "vivo",
     "name": "Y500"
   },
