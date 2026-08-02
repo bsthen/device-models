@@ -2255,6 +2255,10 @@
     "brand": "Aaztec",
     "name": "THAZ-65/75/86/98/110 PD"
   },
+  "65E-L3576C-E7": {
+    "brand": "Abans",
+    "name": "65E-L3576C-E7"
+  },
   "Abans": {
     "brand": "Abans",
     "name": "65E-L3576C-E7"
@@ -4218,6 +4222,10 @@
   "Pr7547": {
     "brand": "Advance",
     "name": "Pr7547"
+  },
+  "SP3702": {
+    "brand": "Advance",
+    "name": "SP3702"
   },
   "SP3703": {
     "brand": "Advance",
@@ -17599,6 +17607,10 @@
     "brand": "Bmobility",
     "name": "ORION TG07"
   },
+  "Evo": {
+    "brand": "Boltt",
+    "name": "Evo"
+  },
   "Cybook-Tablet": {
     "brand": "Booken",
     "name": "Cybook Tablet"
@@ -23967,9 +23979,17 @@
     "brand": "Cozyla",
     "name": "Calendar2_32"
   },
+  "CD-8V545F0": {
+    "brand": "Cozyla",
+    "name": "Calendar3_32"
+  },
   "Calendar3_32": {
     "brand": "Cozyla",
     "name": "Calendar3_32"
+  },
+  "CD-8R545F0": {
+    "brand": "Cozyla",
+    "name": "CalendarPlus3_24"
   },
   "CalendarPlus3_24": {
     "brand": "Cozyla",
@@ -26627,6 +26647,10 @@
     "brand": "Danew",
     "name": "Dslide_117"
   },
+  "Dslide_118": {
+    "brand": "Danew",
+    "name": "Dslide_118_EEA"
+  },
   "Dslide_809": {
     "brand": "Danew",
     "name": "Dslide_809"
@@ -27998,6 +28022,10 @@
   "Titan 5G": {
     "brand": "Digit",
     "name": "Titan_5G"
+  },
+  "Pad12pro": {
+    "brand": "VIKUSHA",
+    "name": "V_M1"
   },
   "Digital2-Deluxe": {
     "brand": "Digital2",
@@ -44118,6 +44146,10 @@
   "XC70_US": {
     "brand": "HUIHUANG",
     "name": "XC70_US"
+  },
+  "XC90_US": {
+    "brand": "HUIHUANG",
+    "name": "XC90_US"
   },
   "CW-SPCM": {
     "brand": "HUSHIDA",
@@ -77173,7 +77205,7 @@
   },
   "G127D": {
     "brand": "Lumallax",
-    "name": "G127D"
+    "name": "G127D-ROM"
   },
   "T2HD": {
     "brand": "Lumigon",
@@ -95267,6 +95299,10 @@
     "brand": "Oppo",
     "name": "PLT140"
   },
+  "PLT150": {
+    "brand": "Oppo",
+    "name": "PLT150"
+  },
   "OPD2409": {
     "brand": "Oppo",
     "name": "Pad 4 Pro"
@@ -96726,6 +96762,10 @@
   "C17 Pro": {
     "brand": "Oukitel",
     "name": "C17 Pro"
+  },
+  "C17 Mini": {
+    "brand": "Oukitel",
+    "name": "C17_Mini_go_EEA"
   },
   "C17": {
     "brand": "Oukitel",
@@ -102558,6 +102598,10 @@
   "Vaio TL12": {
     "brand": "Positivo",
     "name": "Vaio TL12"
+  },
+  "T3011D": {
+    "brand": "Positivo",
+    "name": "Vision Tab 11"
   },
   "T307F": {
     "brand": "Positivo",
@@ -145315,6 +145359,10 @@
     "brand": "Thomson",
     "name": "PRIMO8 Tablet"
   },
+  "Pad_Pro": {
+    "brand": "Thomson",
+    "name": "Pad_Pro_EEA"
+  },
   "SPPL 2K GSmartTV": {
     "brand": "Thomson",
     "name": "SPPL 2K GSmartTV"
@@ -148938,10 +148986,6 @@
   "VZ-30Pro": {
     "brand": "VIKUSHA",
     "name": "VZ-30Pro"
-  },
-  "Pad12pro": {
-    "brand": "VIKUSHA",
-    "name": "V_M1"
   },
   "V_M1": {
     "brand": "VIKUSHA",
@@ -167038,6 +167082,10 @@
   "MAGNO P4": {
     "brand": "Zuum",
     "name": "MAGNO_P4"
+  },
+  "MAGNO R II": {
+    "brand": "Zuum",
+    "name": "MAGNO_R_II"
   },
   "Magno Pro": {
     "brand": "Zuum",
