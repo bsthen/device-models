@@ -45319,6 +45319,10 @@
     "brand": "Heco",
     "name": "KiddoPad_K2"
   },
+  "Pad_Mini": {
+    "brand": "Heco",
+    "name": "Pad_Mini"
+  },
   "HCPxx10": {
     "brand": "Helgi",
     "name": "HELGI_C_Series_PRO"
@@ -133047,6 +133051,10 @@
     "brand": "Stylo",
     "name": "ECLIPSE_TAB_8"
   },
+  "STYLO ECLIPSE TAB 8": {
+    "brand": "Stylo",
+    "name": "ECLIPSE_TAB_8"
+  },
   "EOA39-STYLO AXIS": {
     "brand": "Stylo",
     "name": "EOA39_STYLO_AXIS"
@@ -149739,6 +149747,10 @@
     "brand": "Veidoo",
     "name": "Veidoo_S20_Pro"
   },
+  "Veidoo S30": {
+    "brand": "Veidoo",
+    "name": "Veidoo_S30"
+  },
   "SXX01G": {
     "brand": "Veld",
     "name": "Veld Board"
@@ -164503,6 +164515,10 @@
     "brand": "ZTE",
     "name": "Z2577"
   },
+  "Z2581": {
+    "brand": "ZTE",
+    "name": "Z2581"
+  },
   "Z3153V": {
     "brand": "ZTE",
     "name": "Z3153V"
@@ -166054,6 +166070,10 @@
   "S8Plus2": {
     "brand": "ZTLEKE",
     "name": "S8Plus2"
+  },
+  "S8Plus3": {
+    "brand": "ZTLEKE",
+    "name": "S8Plus3"
   },
   "DV8330-T2": {
     "brand": "ZUKU",
@@ -170449,7 +170469,7 @@
   },
   "RMX5555": {
     "brand": "realme",
-    "name": "realme C85 Pro"
+    "name": "RMX5555"
   },
   "RMX3571": {
     "brand": "realme",
