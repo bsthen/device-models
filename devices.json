@@ -567,6 +567,10 @@
     "brand": "ADVAN",
     "name": "ADVAN_X1"
   },
+  "NASA ONE": {
+    "brand": "ADVAN",
+    "name": "NASA ONE"
+  },
   "S50": {
     "brand": "Stylo",
     "name": "S50"
@@ -33342,6 +33346,10 @@
   "Fine 7B": {
     "brand": "Everex",
     "name": "Fine 7B"
+  },
+  "PULSE": {
+    "brand": "Evergreen Wireless",
+    "name": "PULSE"
   },
   "E0109": {
     "brand": "Everis",
@@ -97691,6 +97699,10 @@
     "brand": "Ovion",
     "name": "V30 Ultra"
   },
+  "V40 Ultra": {
+    "brand": "Ovion",
+    "name": "V40_ULTRA_TR"
+  },
   "OVION_V8_LITE": {
     "brand": "Ovion",
     "name": "V8_LITE"
@@ -103126,6 +103138,10 @@
   "P450": {
     "brand": "Premio",
     "name": "PREMIO P450"
+  },
+  "PREMIO_Blaze": {
+    "brand": "Premio",
+    "name": "PREMIO_Blaze"
   },
   "PREMIO S50": {
     "brand": "Premio",
@@ -142919,6 +142935,10 @@
     "brand": "Teclast",
     "name": "T60Ai_ROW"
   },
+  "T60Mini_ROW": {
+    "brand": "Teclast",
+    "name": "T60Mini_ROW"
+  },
   "T60Plus_EEA": {
     "brand": "Teclast",
     "name": "T60Plus_EEA"
@@ -148830,6 +148850,10 @@
   "TAB7Q804VAL": {
     "brand": "VALTECH",
     "name": "TAB7Q804VAL"
+  },
+  "SG-TM-xxXP": {
+    "brand": "VAMAA",
+    "name": "SG-TM-xxXP"
   },
   "L10-C03": {
     "brand": "VASOUN",
