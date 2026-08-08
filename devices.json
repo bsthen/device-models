@@ -32852,8 +32852,8 @@
     "name": "VMD1029"
   },
   "Projector": {
-    "brand": "Epson",
-    "name": "Projector"
+    "brand": "KTCtv",
+    "name": "FPD"
   },
   "HC43": {
     "brand": "Epson",
@@ -33434,6 +33434,10 @@
   "E8224HG": {
     "brand": "Evertek",
     "name": "E8224HG"
+  },
+  "HALO": {
+    "brand": "Evertek",
+    "name": "HALO"
   },
   "Hero": {
     "brand": "NASCO",
@@ -78303,6 +78307,10 @@
     "brand": "MLINK",
     "name": "M761"
   },
+  "M808": {
+    "brand": "MLINK",
+    "name": "M808"
+  },
   "M809": {
     "brand": "MLINK",
     "name": "M809"
@@ -78706,6 +78714,14 @@
   "H6032": {
     "brand": "Mobiwire",
     "name": "H6032"
+  },
+  "Alola 5G": {
+    "brand": "MTN",
+    "name": "Alola 5G"
+  },
+  "Alola Max 2": {
+    "brand": "MTN",
+    "name": "Alola Max 2"
   },
   "Alola_Max": {
     "brand": "MTN",
@@ -98890,6 +98906,14 @@
   "PRAMA_3576": {
     "brand": "PRAMA",
     "name": "PRAMA_3576"
+  },
+  "PT10EduPad21-4G": {
+    "brand": "PRAZteck",
+    "name": "10_Tablet_PC"
+  },
+  "PT11EduPad21-4G": {
+    "brand": "PRAZteck",
+    "name": "11_Tablet_PC"
   },
   "PT10EduPad21": {
     "brand": "PRAZteck",
@@ -134114,6 +134138,10 @@
   "MAX 60": {
     "brand": "Symphony",
     "name": "MAX_60"
+  },
+  "MAX 70": {
+    "brand": "Symphony",
+    "name": "MAX_70"
   },
   "P6 PRO": {
     "brand": "Symphony",
