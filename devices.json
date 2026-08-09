@@ -34736,7 +34736,7 @@
     "name": "P8"
   },
   "T10A": {
-    "brand": "Hoozo",
+    "brand": "LUCKYSTAR",
     "name": "T10A"
   },
   "T8A": {
@@ -55458,6 +55458,10 @@
   "10WB3": {
     "brand": "Hyundai",
     "name": "HT10WB3MSG01"
+  },
+  "10WC1": {
+    "brand": "Hyundai",
+    "name": "HT10WC1MSG01"
   },
   "7GB1": {
     "brand": "Hyundai",
@@ -78947,6 +78951,14 @@
     "brand": "MYCOM",
     "name": "COMEK_Tab_20"
   },
+  "COMEK Tab K": {
+    "brand": "MYCOM",
+    "name": "COMEK_Tab_K"
+  },
+  "COMEK Tab K2": {
+    "brand": "MYCOM",
+    "name": "COMEK_Tab_K2"
+  },
   "MA1": {
     "brand": "MaQ(Global)",
     "name": "M.AI Phone Gen1"
@@ -86361,7 +86373,7 @@
   },
   "motorola edge 2025": {
     "brand": "Motorola",
-    "name": "motorola edge 70 pro"
+    "name": "motorola edge 70 pro+"
   },
   "motorola edge 30": {
     "brand": "Motorola",
@@ -86446,6 +86458,10 @@
   "motorola edge 70 pro": {
     "brand": "Motorola",
     "name": "motorola edge 70 pro"
+  },
+  "motorola edge 70 pro+": {
+    "brand": "Motorola",
+    "name": "motorola edge 70 pro+"
   },
   "XT2175-2": {
     "brand": "Motorola",
@@ -107638,6 +107654,10 @@
   "AF13Air": {
     "brand": "RebotAi",
     "name": "AF13Air"
+  },
+  "AF13Air_EEA": {
+    "brand": "RebotAi",
+    "name": "AF13Air_EEA"
   },
   "AF13_EEA": {
     "brand": "RebotAi",
@@ -134710,6 +134730,10 @@
   "V90_NEU": {
     "brand": "TABWEE",
     "name": "V90_NEU"
+  },
+  "V90_US": {
+    "brand": "TABWEE",
+    "name": "V90_US"
   },
   "W90": {
     "brand": "TABWEE",
