@@ -46415,6 +46415,10 @@
     "brand": "Hisense",
     "name": "HLTE243E"
   },
+  "Hisense C60": {
+    "brand": "Hisense",
+    "name": "HLTE243E"
+  },
   "Hisense E33": {
     "brand": "Hisense",
     "name": "Hisense E33"
@@ -48891,6 +48895,14 @@
     "brand": "Honor",
     "name": "荣耀平板 10"
   },
+  "HEY4-N09": {
+    "brand": "Honor",
+    "name": "HONOR Pad 20"
+  },
+  "HEY4-W09": {
+    "brand": "Honor",
+    "name": "荣耀平板20"
+  },
   "HEY-W09": {
     "brand": "Honor",
     "name": "HONOR Pad 8"
@@ -49356,10 +49368,6 @@
     "name": "荣耀平板10"
   },
   "HEY4-AN00": {
-    "brand": "Honor",
-    "name": "荣耀平板20"
-  },
-  "HEY4-W09": {
     "brand": "Honor",
     "name": "荣耀平板20"
   },
@@ -101266,6 +101274,10 @@
   "X3Pro": {
     "brand": "Phone Max",
     "name": "X3Pro"
+  },
+  "X5_T": {
+    "brand": "Phone Max",
+    "name": "X5_T_EEA"
   },
   "PicassoTab A10": {
     "brand": "PicassoTab",
