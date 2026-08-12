@@ -61183,6 +61183,10 @@
     "brand": "JAV Smartboard",
     "name": "H10S_PRO-Series"
   },
+  "LED65H19S": {
+    "brand": "JAV Smartboard",
+    "name": "JAV_smartboard"
+  },
   "TPC-G1010": {
     "brand": "JAY-TECH",
     "name": "TPC-G1010"
@@ -62670,6 +62674,10 @@
   "ZKEMPLER PLUS": {
     "brand": "KEMPLER STRAUSS",
     "name": "ZKEMPLER_PLUS"
+  },
+  "101HH1B": {
+    "brand": "KENSHI",
+    "name": "101HH1B"
   },
   "Armor C1 Max": {
     "brand": "KENSHI",
@@ -71506,6 +71514,10 @@
   "Lt6248": {
     "brand": "Landbyte",
     "name": "Lt6248"
+  },
+  "IFPD-R3576": {
+    "brand": "Lango",
+    "name": "IFPD-R3576"
   },
   "OPS-8195A-3-V0": {
     "brand": "Lango",
@@ -91739,6 +91751,10 @@
     "brand": "OKSI",
     "name": "GT1001"
   },
+  "IWB-3576": {
+    "brand": "OKView",
+    "name": "IWB-3576"
+  },
   "PI Plus": {
     "brand": "OKWU",
     "name": "PI Plus"
@@ -98746,6 +98762,10 @@
   "25118PC98I": {
     "brand": "POCO",
     "name": "POCO M8 5G"
+  },
+  "26021PC18I": {
+    "brand": "POCO",
+    "name": "POCO M8 Power 5G"
   },
   "2510EPC8BG": {
     "brand": "POCO",
@@ -107766,6 +107786,10 @@
   "2508CRN2BI": {
     "brand": "Redmi",
     "name": "REDMI 15C 5G"
+  },
+  "26062RN92G": {
+    "brand": "Redmi",
+    "name": "REDMI 17 5G"
   },
   "26020RNB4I": {
     "brand": "Redmi",
@@ -119167,6 +119191,10 @@
     "brand": "Samsung",
     "name": "Galaxy Quantum6"
   },
+  "SM-A576S": {
+    "brand": "Samsung",
+    "name": "Galaxy Quantum7"
+  },
   "SHV-E170K": {
     "brand": "Samsung",
     "name": "Galaxy R-Style"
@@ -125494,6 +125522,10 @@
   "SM-W2017": {
     "brand": "Samsung",
     "name": "W2017"
+  },
+  "WAF-S": {
+    "brand": "Samsung",
+    "name": "WAF-S"
   },
   "WAFX-P": {
     "brand": "Samsung",
@@ -151459,6 +151491,10 @@
     "brand": "Virtual",
     "name": "Interactive-Flat-Panel"
   },
+  "Interactive-Flat-Panel": {
+    "brand": "Virtual",
+    "name": "Interactive-Touch-Screen"
+  },
   "V501C": {
     "brand": "Virzo",
     "name": "V501C"
@@ -159766,6 +159802,10 @@
   "BRIO_X31": {
     "brand": "Xtratech",
     "name": "BRIO_X31"
+  },
+  "IGUANAPAD_X11MK87": {
+    "brand": "Xtratech",
+    "name": "IGUANAPAD_X11MK87"
   },
   "XTRATECH Android TV": {
     "brand": "Xtratech",
@@ -169962,6 +170002,10 @@
   "TEXX13A": {
     "brand": "iiyama",
     "name": "TEXX13A"
+  },
+  "TEXX13A-76": {
+    "brand": "iiyama",
+    "name": "TEXX13A-76"
   },
   "TEXX14MIS-B2AG": {
     "brand": "iiyama",
