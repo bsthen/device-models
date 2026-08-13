@@ -1087,6 +1087,10 @@
     "brand": "AMobile",
     "name": "RT101"
   },
+  "TC1560M-G510": {
+    "brand": "AMobile",
+    "name": "TC1560M-G510"
+  },
   "ANAM 4K Android TV": {
     "brand": "ANAM",
     "name": "ANAM"
@@ -17290,6 +17294,10 @@
   "Touchbook M7 Pro": {
     "brand": "Blu",
     "name": "Touchbook M7 Pro"
+  },
+  "B161V": {
+    "brand": "Blu",
+    "name": "VIEW 5"
   },
   "VIVO 5": {
     "brand": "Blu",
@@ -61487,6 +61495,10 @@
     "brand": "JUEDUR",
     "name": "R500 US"
   },
+  "R500_U": {
+    "brand": "JUEDUR",
+    "name": "R500_U"
+  },
   "R500_V_EEA": {
     "brand": "JUEDUR",
     "name": "R500_V_EEA"
@@ -81078,6 +81090,10 @@
   "MN_AIO_B": {
     "brand": "Megmeet",
     "name": "MN_AIO_B"
+  },
+  "MN_AIO_RK3576": {
+    "brand": "Megmeet",
+    "name": "MN_AIO_RK3576"
   },
   "Meitu M4": {
     "brand": "Meitu",
@@ -113127,6 +113143,14 @@
     "brand": "Samsung",
     "name": "Galaxy A07 5G"
   },
+  "SM-A077F": {
+    "brand": "Samsung",
+    "name": "Galaxy A07s"
+  },
+  "SM-A077M": {
+    "brand": "Samsung",
+    "name": "Galaxy A07s"
+  },
   "SM-A105F": {
     "brand": "Samsung",
     "name": "Galaxy A10"
@@ -120499,6 +120523,26 @@
     "brand": "Samsung",
     "name": "Galaxy S26"
   },
+  "SM-S741B": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 FE"
+  },
+  "SM-S741N": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 FE"
+  },
+  "SM-S741U": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 FE"
+  },
+  "SM-S741U1": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 FE"
+  },
+  "SM-S741W": {
+    "brand": "Samsung",
+    "name": "Galaxy S26 FE"
+  },
   "SC-53G": {
     "brand": "Samsung",
     "name": "Galaxy S26 Ultra"
@@ -122942,6 +122986,26 @@
   "SM-X936N": {
     "brand": "Samsung",
     "name": "Galaxy Tab S11 Ultra 5G"
+  },
+  "SM-X840": {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S12+"
+  },
+  "SM-X846B": {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S12+ 5G"
+  },
+  "SM-X846E": {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S12+ 5G"
+  },
+  "SM-X846N": {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S12+ 5G"
+  },
+  "SM-X848U": {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S12+ 5G"
   },
   "SM-T815": {
     "brand": "Samsung",
@@ -158263,6 +158327,10 @@
     "brand": "XPLORE",
     "name": "XPLORE X7U"
   },
+  "MDP1231": {
+    "brand": "XPPen",
+    "name": "MDP1232_EEA"
+  },
   "MagicDrawingPad": {
     "brand": "XPPen",
     "name": "XPPen_Magic_Drawing_Pad_RU"
@@ -160746,6 +160814,10 @@
   "SC02-I5": {
     "brand": "ZKTeco",
     "name": "Interactive_Whiteboard"
+  },
+  "ZKTeco_I3": {
+    "brand": "ZKTeco",
+    "name": "ZKTeco_I3"
   },
   "Z_742": {
     "brand": "ZLINE",
