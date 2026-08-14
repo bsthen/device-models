@@ -7223,6 +7223,10 @@
     "brand": "Apex",
     "name": "Z4PRO"
   },
+  "rk3576_u": {
+    "brand": "Apolosign",
+    "name": "AndroidSmartDisplay"
+  },
   "WA1389T": {
     "brand": "Apolosign",
     "name": "AndroidTablet"
@@ -12013,7 +12017,7 @@
   },
   "I9_Plus_WireFree": {
     "brand": "BMAX",
-    "name": "I9_Plus_WireFree"
+    "name": "I9_Plus_WireFree_US"
   },
   "BMPRO7DI": {
     "brand": "BMPRO",
@@ -16231,10 +16235,6 @@
     "brand": "Blu",
     "name": "B160V"
   },
-  "B1680V": {
-    "brand": "Blu",
-    "name": "B1680V"
-  },
   "B3": {
     "brand": "Meswao",
     "name": "B3-EEA"
@@ -17298,6 +17298,10 @@
   "B161V": {
     "brand": "Blu",
     "name": "VIEW 5"
+  },
+  "B1680V": {
+    "brand": "Blu",
+    "name": "VIEW PRO 5G"
   },
   "VIVO 5": {
     "brand": "Blu",
@@ -40860,7 +40864,7 @@
     "name": "HA10Kids"
   },
   "HT10Pro": {
-    "brand": "HCNCP",
+    "brand": "TechZen",
     "name": "HT10Pro"
   },
   "MID1109A-SC": {
@@ -48653,7 +48657,7 @@
   },
   "MTN-NX1": {
     "brand": "Honor",
-    "name": "HONOR  X9d"
+    "name": "HONOR X9e s"
   },
   "MAA-AN00": {
     "brand": "Honor",
@@ -48877,7 +48881,7 @@
   },
   "MTN-NX3": {
     "brand": "Honor",
-    "name": "HONOR Magic8 Lite"
+    "name": "HONOR X9e s"
   },
   "BKQ-N49": {
     "brand": "Honor",
@@ -49327,6 +49331,10 @@
     "brand": "Honor",
     "name": "荣耀Magic8 Pro Air"
   },
+  "LNA-AN00": {
+    "brand": "Honor",
+    "name": "荣耀X80i"
+  },
   "DVD-AN00": {
     "brand": "Honor",
     "name": "荣耀Power"
@@ -49366,10 +49374,6 @@
   "BSN-AN00": {
     "brand": "Honor",
     "name": "荣耀X80 Pro Max"
-  },
-  "LNA-AN00": {
-    "brand": "Honor",
-    "name": "荣耀X80i"
   },
   "HEY3-W10": {
     "brand": "Honor",
@@ -55431,6 +55435,10 @@
     "brand": "Hyundai",
     "name": "HT10LA2MSGNA01"
   },
+  "HT10LA2MSGNA02": {
+    "brand": "Hyundai",
+    "name": "HT10LA2MSGNA02"
+  },
   "10LB2": {
     "brand": "Hyundai",
     "name": "HT10LB2MBKLTM"
@@ -61327,6 +61335,10 @@
     "brand": "JOVI",
     "name": "JOVI V70 5G"
   },
+  "J2505": {
+    "brand": "JOVI",
+    "name": "JOVI X300 FE"
+  },
   "J2510": {
     "brand": "JOVI",
     "name": "JOVI X300 Ultra"
@@ -61370,10 +61382,6 @@
   "V2427": {
     "brand": "Vivo",
     "name": "V50"
-  },
-  "J2505": {
-    "brand": "JOVI",
-    "name": "X300 FE"
   },
   "TB-JS100A": {
     "brand": "JOYSURF",
@@ -77975,6 +77983,10 @@
     "brand": "MEIZE",
     "name": "D121_EEA"
   },
+  "D122_US": {
+    "brand": "MEIZE",
+    "name": "D122_US"
+  },
   "D123": {
     "brand": "MEIZE",
     "name": "D123"
@@ -78022,6 +78034,10 @@
   "D138": {
     "brand": "MEIZE",
     "name": "D138"
+  },
+  "F107": {
+    "brand": "MEIZE",
+    "name": "F107_ROW"
   },
   "MEO TV Box 4K": {
     "brand": "MEO(Portugal)",
@@ -155659,6 +155675,10 @@
     "brand": "WOZIFAN",
     "name": "W500_US"
   },
+  "Gm81": {
+    "brand": "WQi(sh)",
+    "name": "Gm81"
+  },
   "TD-TP010G-2": {
     "brand": "WS(SZ)",
     "name": "TD-TP010G-2"
@@ -166610,6 +166630,10 @@
   "HC55": {
     "brand": "Zebra",
     "name": "HC55"
+  },
+  "KC401": {
+    "brand": "Zebra",
+    "name": "KC401"
   },
   "KC50": {
     "brand": "Zebra",
