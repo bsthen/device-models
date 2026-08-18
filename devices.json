@@ -24211,6 +24211,10 @@
     "brand": "Croatian Telecom",
     "name": "KSTB6044"
   },
+  "27409-1": {
+    "brand": "Crosscall",
+    "name": "27409-1"
+  },
   "ACTION-X3": {
     "brand": "Crosscall",
     "name": "Action-X3"
@@ -55493,7 +55497,7 @@
   },
   "10WC1": {
     "brand": "Hyundai",
-    "name": "HT10WC1MSG01"
+    "name": "HT10WC1MSG01_EEA"
   },
   "7GB1": {
     "brand": "Hyundai",
@@ -71307,6 +71311,10 @@
     "brand": "LT_Mobile",
     "name": "LT_mobile_E18"
   },
+  "LT E51": {
+    "brand": "LT_Mobile",
+    "name": "LT_mobile_E51"
+  },
   "LT S33": {
     "brand": "LT_Mobile",
     "name": "LT_mobile_S33"
@@ -71320,7 +71328,7 @@
     "name": "LT_mobile_S40"
   },
   "siwxxf1x": {
-    "brand": "LUCOMS",
+    "brand": "LUCOMS-T",
     "name": "IWB"
   },
   "AT11R464": {
@@ -77538,6 +77546,10 @@
   "M-KOPA M10": {
     "brand": "M-KOPA",
     "name": "M-KOPA M10"
+  },
+  "X4e": {
+    "brand": "M-KOPA",
+    "name": "X4e"
   },
   "EROS Power": {
     "brand": "M-tech",
@@ -86162,6 +86174,10 @@
   "moto g37": {
     "brand": "Motorola",
     "name": "moto g37"
+  },
+  "M-51G": {
+    "brand": "Motorola",
+    "name": "moto g37 M-51G"
   },
   "moto g37 power": {
     "brand": "Motorola",
@@ -95495,6 +95511,10 @@
     "brand": "Oppo",
     "name": "PLT150"
   },
+  "PMM110": {
+    "brand": "Oppo",
+    "name": "PMM110"
+  },
   "OPD2409": {
     "brand": "Oppo",
     "name": "Pad 4 Pro"
@@ -96182,10 +96202,6 @@
   "PMD110": {
     "brand": "Oppo",
     "name": "Reno15c"
-  },
-  "PMM110": {
-    "brand": "Oppo",
-    "name": "Reno16"
   },
   "CPH2865": {
     "brand": "Oppo",
@@ -110226,6 +110242,10 @@
   "SALT A78": {
     "brand": "SALT",
     "name": "SALT A78"
+  },
+  "TV box 2.0": {
+    "brand": "SALT",
+    "name": "TV box 2.0"
   },
   "M1039A": {
     "brand": "SAMA",
@@ -130255,6 +130275,10 @@
     "brand": "Sony",
     "name": "BRAVIA AE3"
   },
+  "BRAVIA DE1": {
+    "brand": "Sony",
+    "name": "BRAVIA DE1"
+  },
   "NSZ-GU1": {
     "brand": "Sony",
     "name": "BRAVIA Smart Stick"
@@ -143239,6 +143263,10 @@
     "brand": "Teclast",
     "name": "T65_ROW"
   },
+  "T70Max": {
+    "brand": "Teclast",
+    "name": "T70Max_US"
+  },
   "T70Pro_ROW": {
     "brand": "Teclast",
     "name": "T70Pro_ROW"
@@ -149046,6 +149074,10 @@
   "V10E_LTE_464": {
     "brand": "VALE",
     "name": "V10E_LTE_464"
+  },
+  "V10E_W-4128": {
+    "brand": "VALE",
+    "name": "V10E_W-4128"
   },
   "V11E LTE": {
     "brand": "VALE",
