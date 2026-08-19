@@ -1455,6 +1455,14 @@
     "brand": "ARTRAN",
     "name": "IB868H_A"
   },
+  "IH101F": {
+    "brand": "ARTRAN",
+    "name": "IH101F"
+  },
+  "IH101F_Pro": {
+    "brand": "ARTRAN",
+    "name": "IH101F_Pro"
+  },
   "LI109Q": {
     "brand": "ARTRAN",
     "name": "LI109Q"
@@ -26265,7 +26273,7 @@
   },
   "T115G": {
     "brand": "Datamini",
-    "name": "T115G"
+    "name": "T115G_INC"
   },
   "VT502A": {
     "brand": "DOMO",
@@ -31866,6 +31874,10 @@
   "Wave_i101u": {
     "brand": "EXO S.A.",
     "name": "Wave_i101u"
+  },
+  "i101AC": {
+    "brand": "EXO S.A.",
+    "name": "i101AC"
   },
   "i101GMC": {
     "brand": "EXO S.A.",
@@ -40014,6 +40026,22 @@
   "Pixel 10a": {
     "brand": "Google",
     "name": "Pixel 10a"
+  },
+  "Pixel 11": {
+    "brand": "Google",
+    "name": "Pixel 11"
+  },
+  "Pixel 11 Pro": {
+    "brand": "Google",
+    "name": "Pixel 11 Pro"
+  },
+  "Pixel 11 Pro Fold": {
+    "brand": "Google",
+    "name": "Pixel 11 Pro Fold"
+  },
+  "Pixel 11 Pro XL": {
+    "brand": "Google",
+    "name": "Pixel 11 Pro XL"
   },
   "Pixel 2": {
     "brand": "Google",
@@ -101707,6 +101735,10 @@
     "brand": "Plimpton",
     "name": "Kids20_A16_JAE"
   },
+  "Kids20_A16_US_JAE": {
+    "brand": "Plimpton",
+    "name": "Kids20_A16_US_JAE"
+  },
   "Kids20_PA15": {
     "brand": "Plimpton",
     "name": "Kids20_PA15"
@@ -102714,6 +102746,10 @@
   "Vaio TL10A": {
     "brand": "Positivo",
     "name": "TL10"
+  },
+  "TUPI1500": {
+    "brand": "Positivo",
+    "name": "TUPI 1500"
   },
   "Positivo Twist M": {
     "brand": "Positivo",
@@ -112834,6 +112870,10 @@
   "m384wb": {
     "brand": "Wibox",
     "name": "WiboxTv"
+  },
+  "SP10X_EEA": {
+    "brand": "Sailproof",
+    "name": "SP10X_EEA"
   },
   "CF10": {
     "brand": "Saltillo",
@@ -141534,6 +141574,10 @@
   "TONE_e22": {
     "brand": "TONE",
     "name": "TONE_e22"
+  },
+  "ONEPro": {
+    "brand": "TOPDON",
+    "name": "ONEPro"
   },
   "KIDS06": {
     "brand": "TOPELOTEK",
@@ -171206,6 +171250,10 @@
   "RMX5353": {
     "brand": "realme",
     "name": "realme C100"
+  },
+  "RMX5399": {
+    "brand": "realme",
+    "name": "realme C100i"
   },
   "RMX3263": {
     "brand": "realme",
