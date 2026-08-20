@@ -26243,6 +26243,10 @@
     "brand": "DOMATON",
     "name": "D103"
   },
+  "D103_US": {
+    "brand": "DOMATON",
+    "name": "D103_US"
+  },
   "D718": {
     "brand": "Delm",
     "name": "D718"
@@ -28086,6 +28090,10 @@
   "Pad12pro": {
     "brand": "VIKUSHA",
     "name": "V_M1"
+  },
+  "Pad12ultra": {
+    "brand": "JoyStar",
+    "name": "Joystar_J16"
   },
   "Digital2-Deluxe": {
     "brand": "Digital2",
@@ -48171,6 +48179,10 @@
     "brand": "Hitachi",
     "name": "HitachiTV"
   },
+  "TWBXXXXXXX24A": {
+    "brand": "Hitevision",
+    "name": "TWBXXXXXXX24A"
+  },
   "5-0": {
     "brand": "Hiya",
     "name": "5-0"
@@ -49255,6 +49267,14 @@
     "brand": "Honor",
     "name": "HONOR X7e"
   },
+  "MRK-LX1": {
+    "brand": "Honor",
+    "name": "HONOR X8e"
+  },
+  "MRK-LX2": {
+    "brand": "Honor",
+    "name": "HONOR X7e Plus"
+  },
   "TFY-LX1": {
     "brand": "Honor",
     "name": "HONOR X8"
@@ -49318,6 +49338,10 @@
   "LNA-LX3": {
     "brand": "Honor",
     "name": "HONOR X8d"
+  },
+  "MRK-LX3": {
+    "brand": "Honor",
+    "name": "HONOR X8e s"
   },
   "ANY-LX2": {
     "brand": "Honor",
@@ -62247,10 +62271,6 @@
     "brand": "JoyStar",
     "name": "Joystar_J16"
   },
-  "Pad12ultra": {
-    "brand": "JoyStar",
-    "name": "Joystar_J16"
-  },
   "M25": {
     "brand": "Jubiter",
     "name": "M25"
@@ -71063,6 +71083,10 @@
     "brand": "LOGIC",
     "name": "EX_Series"
   },
+  "Logic L-PAD_PRO": {
+    "brand": "LOGIC",
+    "name": "Logic_L-PAD_PRO"
+  },
   "Logic_L-PAD_PRO": {
     "brand": "LOGIC",
     "name": "L-PAD-PRO-BK"
@@ -71090,10 +71114,6 @@
   "Logic L68M Plus": {
     "brand": "LOGIC",
     "name": "Logic L68M Plus"
-  },
-  "Logic L-PAD_PRO": {
-    "brand": "LOGIC",
-    "name": "Logic_L-PAD_PRO"
   },
   "Logic_LT_IRXXZX": {
     "brand": "LOGIC",
@@ -146209,7 +146229,7 @@
   },
   "mdt880": {
     "brand": "Topicon",
-    "name": "mdt880"
+    "name": "mdt880_row"
   },
   "G12": {
     "brand": "Topsand",
@@ -169911,6 +169931,10 @@
     "brand": "iQOO",
     "name": "iQOO Neo11"
   },
+  "V2573A": {
+    "brand": "iQOO",
+    "name": "iQOO Neo11 至尊版"
+  },
   "iPA2556": {
     "brand": "iQOO",
     "name": "iQOO Pad5"
@@ -170450,6 +170474,10 @@
   "P18": {
     "brand": "kozen",
     "name": "P18"
+  },
+  "HM": {
+    "brand": "leaderhub",
+    "name": "Leaderhub"
   },
   "Mini_Tab8": {
     "brand": "leaderhub",
