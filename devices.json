@@ -157699,6 +157699,10 @@
     "brand": "Wintec",
     "name": "T730"
   },
+  "A20K": {
+    "brand": "Wintouch",
+    "name": "A20"
+  },
   "K19": {
     "brand": "Wintouch",
     "name": "K19"
@@ -168806,6 +168810,10 @@
   "Kidz Pro": {
     "brand": "iBRIT",
     "name": "Max12pro"
+  },
+  "Nova_N1": {
+    "brand": "iBRIT",
+    "name": "Nova_N1"
   },
   "POWER_X": {
     "brand": "iBRIT",
