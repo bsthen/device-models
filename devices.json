@@ -26359,6 +26359,10 @@
     "brand": "MyFon",
     "name": "F6"
   },
+  "F6_US": {
+    "brand": "DSPREAD",
+    "name": "F6_US"
+  },
   "MO_Series": {
     "brand": "DSTechnology",
     "name": "MATE ONE"
@@ -30715,6 +30719,10 @@
     "brand": "ECOPAD",
     "name": "C5L1_US"
   },
+  "C5L2": {
+    "brand": "ECOPAD",
+    "name": "C5L1_US"
+  },
   "C5Pro": {
     "brand": "ECOPAD",
     "name": "C5Pro_US"
@@ -34660,7 +34668,7 @@
     "name": "A551"
   },
   "A56": {
-    "brand": "KGTEL",
+    "brand": "Rungrace",
     "name": "A56"
   },
   "A56L": {
@@ -85875,6 +85883,10 @@
     "brand": "Motorola",
     "name": "moto g87"
   },
+  "moto g57": {
+    "brand": "Motorola",
+    "name": "moto g57"
+  },
   "moto g play (2021)": {
     "brand": "Motorola",
     "name": "moto g play (2021)"
@@ -86306,10 +86318,6 @@
   "moto g56 5G": {
     "brand": "Motorola",
     "name": "moto g56 5G"
-  },
-  "moto g57": {
-    "brand": "Motorola",
-    "name": "moto g57"
   },
   "motorola edge 60 stylus": {
     "brand": "Motorola",
@@ -160851,6 +160859,10 @@
     "brand": "ZEED",
     "name": "Z-PAD_PRO"
   },
+  "Z-PAD ULTRA ZP210U": {
+    "brand": "ZEED",
+    "name": "Z-PAD_ULTRA"
+  },
   "Z210": {
     "brand": "ZEED",
     "name": "ZEED Z-ONE"
@@ -168759,6 +168771,10 @@
     "brand": "i3CONNECT",
     "name": "Aspen 4"
   },
+  "VPL-75": {
+    "brand": "i3CONNECT",
+    "name": "VENEER_PL"
+  },
   "10080": {
     "brand": "i5 (dza)",
     "name": "TABLET_PC"
@@ -171211,6 +171227,10 @@
     "brand": "realme",
     "name": "realme 16T 5G"
   },
+  "RMX5270": {
+    "brand": "realme",
+    "name": "realme 16x 5G"
+  },
   "realme 2K G Smart TV": {
     "brand": "realme",
     "name": "realme 2K G Smart TV"
@@ -171286,6 +171306,10 @@
   "RMX5353": {
     "brand": "realme",
     "name": "realme C100"
+  },
+  "RMX5363": {
+    "brand": "realme",
+    "name": "realme C100d"
   },
   "RMX5399": {
     "brand": "realme",
