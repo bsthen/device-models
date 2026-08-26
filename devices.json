@@ -40203,6 +40203,10 @@
     "brand": "Google",
     "name": "Pixel Watch 4"
   },
+  "Pixel Watch 5": {
+    "brand": "Google",
+    "name": "Pixel Watch 5"
+  },
   "Pixel XL": {
     "brand": "Google",
     "name": "Pixel XL"
@@ -46536,6 +46540,10 @@
     "name": "HLTE243E"
   },
   "Hisense U967": {
+    "brand": "Hisense",
+    "name": "HLTE243E"
+  },
+  "Hisense U968": {
     "brand": "Hisense",
     "name": "HLTE243E"
   },
@@ -79531,6 +79539,10 @@
     "brand": "Mason",
     "name": "MGQ300"
   },
+  "MPT-1011": {
+    "brand": "Maspower",
+    "name": "K7MPT-1011"
+  },
   "Masstel Hapi 15": {
     "brand": "Masstel",
     "name": "Hapi 15"
@@ -100695,6 +100707,10 @@
     "brand": "Permaray",
     "name": "Permaray-IFPD"
   },
+  "Permaray3576-IFPD": {
+    "brand": "Permaray",
+    "name": "Permaray3576-IFPD"
+  },
   "Perseo TV Home 2nd Generation Ranger": {
     "brand": "Perseo TV",
     "name": "Perseo TV Home 2nd Generation Ranger"
@@ -101991,6 +102007,10 @@
     "brand": "Point Mobile",
     "name": "PM451"
   },
+  "PM452": {
+    "brand": "PointMobile",
+    "name": "PM452"
+  },
   "PM45E": {
     "brand": "Point Mobile",
     "name": "PM45E"
@@ -102037,7 +102057,7 @@
   },
   "PM85": {
     "brand": "Point Mobile",
-    "name": "PM85"
+    "name": "pm85"
   },
   "PM85E": {
     "brand": "Point Mobile",
@@ -102094,10 +102114,6 @@
   "TAB_TS101S_LTE": {
     "brand": "Point of view",
     "name": "TAB_TS101S_LTE"
-  },
-  "PM452": {
-    "brand": "PointMobile",
-    "name": "PM452"
   },
   "PS32": {
     "brand": "PointMobile",
@@ -112123,6 +112139,10 @@
     "brand": "SUAAT",
     "name": "S11_V_US"
   },
+  "S3_E": {
+    "brand": "SUAAT",
+    "name": "S3_E"
+  },
   "S3_EEA": {
     "brand": "SUAAT",
     "name": "S3_EEA"
@@ -113300,6 +113320,10 @@
     "name": "Galaxy A07s"
   },
   "SM-A085F": {
+    "brand": "Samsung",
+    "name": "Galaxy A08"
+  },
+  "SM-A085M": {
     "brand": "Samsung",
     "name": "Galaxy A08"
   },
@@ -145857,7 +145881,7 @@
   },
   "Pad_Pro": {
     "brand": "Thomson",
-    "name": "Pad_Pro_EEA"
+    "name": "Pad_Pro_NEU"
   },
   "SPPL 2K GSmartTV": {
     "brand": "Thomson",
