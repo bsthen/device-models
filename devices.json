@@ -78067,6 +78067,10 @@
     "brand": "MEIZE",
     "name": "D108"
   },
+  "D117": {
+    "brand": "MEIZE",
+    "name": "D117_US"
+  },
   "D121": {
     "brand": "MEIZE",
     "name": "D121"
@@ -124343,6 +124347,18 @@
     "brand": "Samsung",
     "name": "Galaxy Watch Ultra2"
   },
+  "SM-L7150": {
+    "brand": "Samsung",
+    "name": "Galaxy Watch Ultra2"
+  },
+  "SM-L715F": {
+    "brand": "Samsung",
+    "name": "Galaxy Watch Ultra2"
+  },
+  "SM-L715N": {
+    "brand": "Samsung",
+    "name": "Galaxy Watch Ultra2"
+  },
   "SM-L715U": {
     "brand": "Samsung",
     "name": "Galaxy Watch Ultra2"
@@ -124636,6 +124652,22 @@
     "name": "Galaxy Watch9"
   },
   "SM-L340": {
+    "brand": "Samsung",
+    "name": "Galaxy Watch9"
+  },
+  "SM-L3550": {
+    "brand": "Samsung",
+    "name": "Galaxy Watch9"
+  },
+  "SM-L355F": {
+    "brand": "Samsung",
+    "name": "Galaxy Watch9"
+  },
+  "SM-L355N": {
+    "brand": "Samsung",
+    "name": "Galaxy Watch9"
+  },
+  "SM-L355U": {
     "brand": "Samsung",
     "name": "Galaxy Watch9"
   },
@@ -170058,6 +170090,10 @@
   "V2536A": {
     "brand": "iQOO",
     "name": "iQOO Z11 Turbo"
+  },
+  "V2603A": {
+    "brand": "iQOO",
+    "name": "iQOO Z11S"
   },
   "V2559UA": {
     "brand": "iQOO",
