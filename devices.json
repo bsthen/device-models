@@ -14431,6 +14431,10 @@
     "brand": "Biegedy",
     "name": "B23_U_US"
   },
+  "B25_E": {
+    "brand": "Biegedy",
+    "name": "B25_E"
+  },
   "B25_EEA": {
     "brand": "Biegedy",
     "name": "B25_EEA"
@@ -15839,6 +15843,10 @@
     "brand": "Blackview",
     "name": "WAVE 2C"
   },
+  "WAVE 3": {
+    "brand": "Blackview",
+    "name": "WAVE 3"
+  },
   "WAVE 6C": {
     "brand": "Blackview",
     "name": "WAVE 6C"
@@ -15883,6 +15891,10 @@
     "brand": "Blackview",
     "name": "XPLORE 2 Satellite"
   },
+  "XPLORE 6 Pro": {
+    "brand": "Blackview",
+    "name": "XPLORE 6 Pro"
+  },
   "XPLORE X1": {
     "brand": "Blackview",
     "name": "XPLORE X1"
@@ -15906,6 +15918,10 @@
   "ZENO 5": {
     "brand": "Blackview",
     "name": "ZENO 5"
+  },
+  "ZENO 6 Pro": {
+    "brand": "Blackview",
+    "name": "ZENO 6 Pro"
   },
   "A-STREAM": {
     "brand": "Blaupunkt",
@@ -18658,6 +18674,10 @@
   "C80": {
     "brand": "OSCAL",
     "name": "C80"
+  },
+  "CX10": {
+    "brand": "CILICO",
+    "name": "CX10"
   },
   "F750": {
     "brand": "CILICO",
@@ -26375,6 +26395,10 @@
     "brand": "DSIC",
     "name": "Mobilebase DS65"
   },
+  "DS95": {
+    "brand": "DSIC",
+    "name": "Mobilebase DS95"
+  },
   "RD86QE": {
     "brand": "Remdun",
     "name": "RD86QE"
@@ -29362,6 +29386,10 @@
   "N70": {
     "brand": "Doogee",
     "name": "N70"
+  },
+  "Note 57": {
+    "brand": "Doogee",
+    "name": "Note 57"
   },
   "Note 58": {
     "brand": "Doogee",
@@ -38891,6 +38919,10 @@
     "brand": "Gigaset",
     "name": "GX290"
   },
+  "E940-3044-01": {
+    "brand": "Gigaset",
+    "name": "GX30 EP"
+  },
   "GS270": {
     "brand": "Gigaset",
     "name": "Gigaset GS270"
@@ -44293,7 +44325,7 @@
   },
   "T-Smart": {
     "brand": "HUGEROCK",
-    "name": "T-Smart"
+    "name": "T-Smart-H72"
   },
   "E10_A": {
     "brand": "HUIHUANG",
@@ -49186,6 +49218,10 @@
   "NAA-LX2P": {
     "brand": "Honor",
     "name": "HONOR X5d Plus"
+  },
+  "MLD-LX2": {
+    "brand": "Honor",
+    "name": "HONOR X5e s"
   },
   "VNE-LX1": {
     "brand": "Honor",
@@ -71591,6 +71627,10 @@
     "brand": "LUO(A)",
     "name": "S18 Max"
   },
+  "i18 Pro Max": {
+    "brand": "LUO(A)",
+    "name": "i18 Pro Max"
+  },
   "L1582C": {
     "brand": "LUSH_MINT",
     "name": "L1582C"
@@ -77343,6 +77383,10 @@
     "brand": "Logicom",
     "name": "ORION E1 PLUS"
   },
+  "ORION E2": {
+    "brand": "Logicom",
+    "name": "ORION E2"
+  },
   "POWER BOT": {
     "brand": "Logicom",
     "name": "POWER bot"
@@ -79522,6 +79566,10 @@
   "mDESK": {
     "brand": "Mantra",
     "name": "mDESK"
+  },
+  "RT1308B": {
+    "brand": "MapleSystems",
+    "name": "RT1308B"
   },
   "DV6067H": {
     "brand": "MarQ",
@@ -92395,6 +92443,10 @@
     "brand": "OSCAL",
     "name": "PILOT 6"
   },
+  "PILOT 8": {
+    "brand": "OSCAL",
+    "name": "PILOT 8"
+  },
   "Pad 100": {
     "brand": "OSCAL",
     "name": "Pad 100"
@@ -99314,6 +99366,10 @@
   "Infinity 8": {
     "brand": "PROTON",
     "name": "Infinity 8"
+  },
+  "NitroX": {
+    "brand": "PROTON",
+    "name": "NitroX"
   },
   "P25 Ultra": {
     "brand": "PROTON",
@@ -108051,6 +108107,10 @@
     "brand": "RebotAi",
     "name": "AF13_EEA"
   },
+  "AF8_ROW": {
+    "brand": "RebotAi",
+    "name": "AF8_ROW"
+  },
   "AG11": {
     "brand": "RebotAi",
     "name": "AG11"
@@ -108288,6 +108348,18 @@
     "name": "Redmi Note 14 5G"
   },
   "26021RN18C": {
+    "brand": "Redmi",
+    "name": "REDMI Note 17"
+  },
+  "26012RN62A": {
+    "brand": "Redmi",
+    "name": "REDMI Note 17"
+  },
+  "26012RN62L": {
+    "brand": "Redmi",
+    "name": "REDMI Note 17"
+  },
+  "26012RN62Y": {
     "brand": "Redmi",
     "name": "REDMI Note 17"
   },
@@ -110774,6 +110846,10 @@
   "Shark": {
     "brand": "SEGO",
     "name": "Shark"
+  },
+  "Smart 20 GO": {
+    "brand": "SEGO",
+    "name": "Smart 20 GO"
   },
   "Smart 10": {
     "brand": "SEGO",
@@ -141615,6 +141691,10 @@
     "brand": "TELOX",
     "name": "TE620G"
   },
+  "TELOX_TE850": {
+    "brand": "TELOX",
+    "name": "TE850"
+  },
   "TELSTAR 2K Google TV": {
     "brand": "TELSTAR",
     "name": "TELSTAR 2K Google TV"
@@ -143386,6 +143466,10 @@
   "P85_RUS": {
     "brand": "Teclast",
     "name": "P85_RUS"
+  },
+  "RGD1_ROW": {
+    "brand": "Teclast",
+    "name": "RGD1_US"
   },
   "T30_EEA": {
     "brand": "Teclast",
@@ -146194,6 +146278,18 @@
   "Pad_Pro": {
     "brand": "Thomson",
     "name": "Pad_Pro_NEU"
+  },
+  "SPPL 2K GOOGLE TV": {
+    "brand": "Thomson",
+    "name": "SPPL"
+  },
+  "SPPL4K": {
+    "brand": "Thomson",
+    "name": "SPPL"
+  },
+  "SPPL 4K Google TV": {
+    "brand": "Thomson",
+    "name": "SPPL"
   },
   "SPPL 2K GSmartTV": {
     "brand": "Thomson",
@@ -149498,6 +149594,10 @@
   "V10E-LTE-464": {
     "brand": "VALE",
     "name": "V10E-LTE"
+  },
+  "V10E LTE-464": {
+    "brand": "VALE",
+    "name": "V10E_464_LTE"
   },
   "V10E_LTE_464": {
     "brand": "VALE",
@@ -153554,6 +153654,10 @@
   "vivo V5Plus": {
     "brand": "Vivo",
     "name": "V5Plus"
+  },
+  "V2626": {
+    "brand": "vivo",
+    "name": "V80 Lite 5G"
   },
   "vivo 1727": {
     "brand": "Vivo",
@@ -172900,6 +173004,10 @@
     "name": "V80 Lite 5G"
   },
   "V2644": {
+    "brand": "vivo",
+    "name": "V80 Lite 5G"
+  },
+  "V2655": {
     "brand": "vivo",
     "name": "V80 Lite 5G"
   },
