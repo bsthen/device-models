@@ -61495,6 +61495,10 @@
     "brand": "JMGO",
     "name": "N1S Pro"
   },
+  "K610AO": {
+    "brand": "JMGO",
+    "name": "N1S SE"
+  },
   "S91A": {
     "brand": "JMGO",
     "name": "S91A"
@@ -65378,6 +65382,10 @@
   "KSTB6188": {
     "brand": "Korea Telecom",
     "name": "KSTB6188"
+  },
+  "KSTB8000": {
+    "brand": "Korea Telecom",
+    "name": "KSTB8000"
   },
   "MA4000": {
     "brand": "Korea Telecom",
@@ -95327,6 +95335,10 @@
     "brand": "Oppo",
     "name": "K14 5G"
   },
+  "CPH3007": {
+    "brand": "Oppo",
+    "name": "K14 Lite"
+  },
   "CPH2871": {
     "brand": "Oppo",
     "name": "K14x 5G"
@@ -99178,6 +99190,10 @@
   "2412DPC0AI": {
     "brand": "POCO",
     "name": "POCO X7 Pro"
+  },
+  "2607DPC18G": {
+    "brand": "POCO",
+    "name": "POCO X8"
   },
   "2511FPC34G": {
     "brand": "POCO",
@@ -108207,7 +108223,15 @@
     "brand": "Redmi",
     "name": "REDMI 17 5G"
   },
+  "26020RNB4A": {
+    "brand": "Redmi",
+    "name": "REDMI A7"
+  },
   "26020RNB4I": {
+    "brand": "Redmi",
+    "name": "REDMI A7"
+  },
+  "26020RNB4L": {
     "brand": "Redmi",
     "name": "REDMI A7"
   },
@@ -108366,6 +108390,30 @@
   "26021RN18I": {
     "brand": "Redmi",
     "name": "REDMI Note 17 5G"
+  },
+  "26081RA18G": {
+    "brand": "Redmi",
+    "name": "REDMI Note 17 5G"
+  },
+  "26081RA18L": {
+    "brand": "Redmi",
+    "name": "REDMI Note 17 5G"
+  },
+  "2607DRA18C": {
+    "brand": "Redmi",
+    "name": "REDMI Note 17 Pro"
+  },
+  "2607DRA18G": {
+    "brand": "Redmi",
+    "name": "REDMI Note 17 Pro 5G"
+  },
+  "2607DRA18T": {
+    "brand": "Redmi",
+    "name": "REDMI Note 17 Pro 5G"
+  },
+  "2609FRA74G": {
+    "brand": "Redmi",
+    "name": "REDMI Note 17 Pro Max 5G"
   },
   "25040RP0AC": {
     "brand": "Redmi",
@@ -146279,6 +146327,10 @@
     "brand": "Thomson",
     "name": "Pad_Pro_NEU"
   },
+  "SPPL 4K 65P": {
+    "brand": "Thomson",
+    "name": "SPPL"
+  },
   "SPPL 2K GOOGLE TV": {
     "brand": "Thomson",
     "name": "SPPL"
@@ -161463,6 +161515,10 @@
     "brand": "ZIOVO",
     "name": "Z168-W"
   },
+  "Z168_E": {
+    "brand": "ZIOVO",
+    "name": "Z168_E"
+  },
   "Z168_EEA": {
     "brand": "ZIOVO",
     "name": "Z168_EEA"
@@ -173261,7 +173317,7 @@
   },
   "V2617A": {
     "brand": "vivo",
-    "name": "Y600i AI版"
+    "name": "Y600i m版"
   },
   "V2542A": {
     "brand": "vivo",
