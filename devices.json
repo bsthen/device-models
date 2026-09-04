@@ -13547,6 +13547,10 @@
     "brand": "BYD",
     "name": "BYD"
   },
+  "BYD300F_VCP_G": {
+    "brand": "BYD",
+    "name": "BYD"
+  },
   "Smart 502": {
     "brand": "BYD",
     "name": "FarEastone Smart 502"
@@ -22006,6 +22010,10 @@
   "RWT-NE-RGPH5-25612": {
     "brand": "Clover",
     "name": "RWT-NE-RGPH5-25612"
+  },
+  "T12": {
+    "brand": "Veidoo",
+    "name": "T12"
   },
   "gama_alta_6_128G": {
     "brand": "Clover",
@@ -37234,10 +37242,6 @@
   "T9 PRO": {
     "brand": "G-Tab",
     "name": "T9_PRO"
-  },
-  "T12": {
-    "brand": "Veidoo",
-    "name": "T12"
   },
   "Y": {
     "brand": "G-Tab",
@@ -79323,6 +79327,10 @@
     "brand": "MagentaTV",
     "name": "One (3. Generation)"
   },
+  "TV Box (2.Gen)": {
+    "brand": "MagentaTV",
+    "name": "TV Box (2.Gen)"
+  },
   "MMP848": {
     "brand": "Magnavox",
     "name": "MMP848"
@@ -98999,6 +99007,14 @@
     "brand": "POCO",
     "name": "POCO F8 Ultra"
   },
+  "2607APCA5G": {
+    "brand": "POCO",
+    "name": "POCO F9 Pro"
+  },
+  "26077PC53G": {
+    "brand": "POCO",
+    "name": "POCO F9 Ultra"
+  },
   "M2004J19PI": {
     "brand": "POCO",
     "name": "POCO M2"
@@ -105010,6 +105026,10 @@
   "X6_Pro": {
     "brand": "Prime",
     "name": "X6_Pro"
+  },
+  "Primebook Duo Max": {
+    "brand": "Primebook",
+    "name": "PB1380"
   },
   "Primux_ioxphone": {
     "brand": "Primux",
