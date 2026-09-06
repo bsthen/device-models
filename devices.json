@@ -3699,6 +3699,14 @@
     "brand": "thehaam",
     "name": "vileparle"
   },
+  "ACP75P": {
+    "brand": "AcerPure",
+    "name": "ACERPURE INDIA CE PRIVATE LIMITED"
+  },
+  "ADZ75P": {
+    "brand": "AcerPure",
+    "name": "ACERPURE INDIA CE PRIVATE LIMITED"
+  },
   "ACP65P": {
     "brand": "AcerPure",
     "name": "ACERPURE INDIA CE PRIVATE LIMITED"
@@ -3842,6 +3850,10 @@
   "ADMIRAL 4K TV": {
     "brand": "Admiral Overseas Corporation",
     "name": "ADMIRAL 4K TV"
+  },
+  "ADS75P": {
+    "brand": "Admiral Overseas Corporation",
+    "name": "ADMIRAL AMERICA CORPORATION PRIVATE LIMITED"
   },
   "ADMIRAL TV": {
     "brand": "Admiral Overseas Corporation",
@@ -28922,6 +28934,10 @@
   "D-805XATV HD": {
     "brand": "DishTV (IN)",
     "name": "D-805XATV HD"
+  },
+  "VZY SMART TV": {
+    "brand": "DishTV (IN)",
+    "name": "DISHTV INDIA LTD."
   },
   "VZY65P": {
     "brand": "DishTV (IN)",
@@ -92298,6 +92314,14 @@
   "MT50CE": {
     "brand": "ONERugged",
     "name": "MT50CE"
+  },
+  "ONI75P": {
+    "brand": "ONIDA",
+    "name": "MIRC Electronics Ltd."
+  },
+  "ONX75P": {
+    "brand": "ONIDA",
+    "name": "MIRC Electronics Ltd."
   },
   "ONI65P": {
     "brand": "ONIDA",
@@ -172318,6 +172342,10 @@
   "RMX3708": {
     "brand": "realme",
     "name": "realmeGT Neo5 240W"
+  },
+  "REC75P": {
+    "brand": "realme",
+    "name": "realmeTechLife"
   },
   "RMX3562": {
     "brand": "realme",
