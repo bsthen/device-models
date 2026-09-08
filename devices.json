@@ -2619,6 +2619,10 @@
     "brand": "Acer",
     "name": "A14M1N​"
   },
+  "A15": {
+    "brand": "We (BD)",
+    "name": "WE_A15"
+  },
   "A16-11MN_EEA": {
     "brand": "Acer",
     "name": "A16M1N"
@@ -7123,9 +7127,17 @@
     "brand": "Doogee",
     "name": "U11"
   },
+  "Tab A9+": {
+    "brand": "Doogee",
+    "name": "Tab A9+"
+  },
   "Tab A9 Pro+": {
     "brand": "Doogee",
     "name": "Tab A9 Pro+"
+  },
+  "U11 Kid": {
+    "brand": "Doogee",
+    "name": "U11 Kid"
   },
   "U11 Pro": {
     "brand": "Doogee",
@@ -8782,6 +8794,10 @@
   "ARCHOS T105FHD WIFI ULTRA": {
     "brand": "Archos",
     "name": "SPACT105FHDWFUL_EEA"
+  },
+  "ARCHOS T110 FHD3 4G ULTRA": {
+    "brand": "Archos",
+    "name": "SPACT110FHD34GULTRA_EEA"
   },
   "ARCHOS T110 FHD 4G ULTRA": {
     "brand": "Archos",
@@ -19083,6 +19099,10 @@
     "brand": "CORN",
     "name": "CPhone17ProMax4G"
   },
+  "ClassyS26Ultra4G": {
+    "brand": "CORN",
+    "name": "ClassyS26Ultra4G"
+  },
   "Coco10_Ultra_4G": {
     "brand": "CORN",
     "name": "Coco10_Ultra_4G"
@@ -29200,7 +29220,7 @@
     "name": "Blade10 Max"
   },
   "Blade10 Power": {
-    "brand": "Doogee",
+    "brand": "Stargorilla",
     "name": "Blade10 Power"
   },
   "Blade10 Pro": {
@@ -29246,6 +29266,10 @@
   "Blade20 Ultra": {
     "brand": "Doogee",
     "name": "Blade20 Ultra"
+  },
+  "Blade20 X": {
+    "brand": "Stargorilla",
+    "name": "Blade20 X"
   },
   "F10": {
     "brand": "Telego",
@@ -29535,6 +29559,10 @@
     "brand": "Doogee",
     "name": "S200 X"
   },
+  "S300": {
+    "brand": "Ipro",
+    "name": "S300"
+  },
   "S300 Plus": {
     "brand": "Doogee",
     "name": "S300 Plus"
@@ -29795,10 +29823,6 @@
     "brand": "Doogee",
     "name": "Tab A9 Pro Kid"
   },
-  "Tab A9+": {
-    "brand": "Doogee",
-    "name": "Tab A9+"
-  },
   "Tab E3": {
     "brand": "Doogee",
     "name": "Tab E3"
@@ -29838,10 +29862,6 @@
   "T2": {
     "brand": "Wiseasy",
     "name": "T2"
-  },
-  "U11 Kid": {
-    "brand": "Doogee",
-    "name": "U11 Kid"
   },
   "U11 Kid Pro": {
     "brand": "Doogee",
@@ -34619,6 +34639,10 @@
     "brand": "FORCO",
     "name": "K8T"
   },
+  "C17 SE": {
+    "brand": "FOSSiBOT",
+    "name": "C17 SE"
+  },
   "DT1 Lite": {
     "brand": "FOSSiBOT",
     "name": "DT1_Lite"
@@ -35006,10 +35030,6 @@
   "FPT Play Box S": {
     "brand": "FPT Telecom",
     "name": "SEI610FPT"
-  },
-  "A15": {
-    "brand": "We (BD)",
-    "name": "WE_A15"
   },
   "FPT S68 4G": {
     "brand": "FPT Trading",
@@ -37391,6 +37411,10 @@
     "brand": "GDL(BD)",
     "name": "GigaX Y30"
   },
+  "GigaX F19": {
+    "brand": "GDL(BD)",
+    "name": "GigaX_F19"
+  },
   "GigaX S7": {
     "brand": "GDL(BD)",
     "name": "GigaX_S7"
@@ -38946,6 +38970,10 @@
   "GX290": {
     "brand": "Gigaset",
     "name": "GX290"
+  },
+  "E940-3044-00": {
+    "brand": "Gigaset",
+    "name": "GX30"
   },
   "E940-3044-01": {
     "brand": "Gigaset",
@@ -49249,7 +49277,7 @@
   },
   "MLD-LX2": {
     "brand": "Honor",
-    "name": "HONOR X5e s"
+    "name": "Melody"
   },
   "VNE-LX1": {
     "brand": "Honor",
@@ -49506,6 +49534,10 @@
   "YLP-W00": {
     "brand": "Honor",
     "name": "MagicPad3 Pro 13.3"
+  },
+  "MLD-LX3": {
+    "brand": "Honor",
+    "name": "Melody"
   },
   "VER-N49DP": {
     "brand": "Honor",
@@ -49903,6 +49935,10 @@
     "brand": "Hotwav",
     "name": "A17 Pro Max"
   },
+  "A18 Pro": {
+    "brand": "Hotwav",
+    "name": "A18 Pro"
+  },
   "A25 Ultra": {
     "brand": "Hotwav",
     "name": "A36"
@@ -50095,6 +50131,10 @@
     "brand": "Hotwav",
     "name": "Pad 12 Pro"
   },
+  "Pad 15 Pro": {
+    "brand": "Hotwav",
+    "name": "Pad 15 Pro"
+  },
   "Pad 13": {
     "brand": "OSCAL",
     "name": "Pad13_RU"
@@ -50214,6 +50254,10 @@
   "X100 GT": {
     "brand": "Hotwav",
     "name": "X100 GT"
+  },
+  "X26 Ultra": {
+    "brand": "Hotwav",
+    "name": "X26 Ultra"
   },
   "1001-G": {
     "brand": "How",
@@ -59710,10 +59754,6 @@
   "S200M": {
     "brand": "Ipro",
     "name": "S200M"
-  },
-  "S300": {
-    "brand": "Ipro",
-    "name": "S300"
   },
   "S401": {
     "brand": "Ipro",
@@ -71283,6 +71323,10 @@
     "brand": "LOGIC",
     "name": "L66F"
   },
+  "L67 Ultra": {
+    "brand": "LOGIC",
+    "name": "L67 Ultra"
+  },
   "LOGIC L66M": {
     "brand": "Logic Mobility",
     "name": "LOGIC_L66M"
@@ -71294,6 +71338,10 @@
   "LOGIC_L55V": {
     "brand": "LOGIC",
     "name": "LOGIC_L55V"
+  },
+  "Logic L67 PRO MAX": {
+    "brand": "LOGIC",
+    "name": "Logic L67 PRO MAX"
   },
   "Logic L68M Plus": {
     "brand": "LOGIC",
@@ -71646,6 +71694,10 @@
   "P70 Pro": {
     "brand": "LUO(A)",
     "name": "P70 Pro"
+  },
+  "Pad 31 Ultra": {
+    "brand": "LUO(A)",
+    "name": "Pad 31 Ultra"
   },
   "S15 Pro": {
     "brand": "LUO(A)",
@@ -78071,6 +78123,10 @@
     "brand": "MAXHUB",
     "name": "E3"
   },
+  "E3_Series": {
+    "brand": "MAXHUB",
+    "name": "E3_Series"
+  },
   "S_Line": {
     "brand": "MAXHUB",
     "name": "S_Line"
@@ -78290,6 +78346,10 @@
   "D126_TAB_EEA": {
     "brand": "MEIZE",
     "name": "D126_TAB_EEA"
+  },
+  "D126_US": {
+    "brand": "MEIZE",
+    "name": "D126_US"
   },
   "D131": {
     "brand": "MEIZE",
@@ -87418,6 +87478,10 @@
   "MPGIO_8": {
     "brand": "Mpgio",
     "name": "MPGIO_8"
+  },
+  "MT-A10": {
+    "brand": "Mpgio",
+    "name": "MT-A10"
   },
   "MTabAir9": {
     "brand": "Mpgio",
@@ -105175,6 +105239,10 @@
     "brand": "Pritom",
     "name": "M10-EEA"
   },
+  "TAB 10 MAX": {
+    "brand": "Pritom",
+    "name": "M10_A02_EEA"
+  },
   "M10_Air": {
     "brand": "Pritom",
     "name": "M10_Air"
@@ -110882,6 +110950,10 @@
   "GPH-650R": {
     "brand": "SED Wireless",
     "name": "GPH-650R"
+  },
+  "EPICa": {
+    "brand": "SEGO",
+    "name": "EPICa"
   },
   "Hot 100": {
     "brand": "SEGO",
@@ -144931,6 +145003,10 @@
     "brand": "Tecno",
     "name": "TECNO SPARK Go 3"
   },
+  "TECNO KO2": {
+    "brand": "Tecno",
+    "name": "TECNO POP 20C"
+  },
   "TECNO B1g": {
     "brand": "Tecno",
     "name": "TECNO POP 2F"
@@ -147954,6 +148030,10 @@
   "X107": {
     "brand": "URAO",
     "name": "X107_EEA"
+  },
+  "X109K": {
+    "brand": "URAO",
+    "name": "X109K_G"
   },
   "iRULU X11": {
     "brand": "USA111",
