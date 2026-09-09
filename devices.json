@@ -7099,6 +7099,10 @@
     "brand": "Doogee",
     "name": "Note 56"
   },
+  "Note56 Lite": {
+    "brand": "Doogee",
+    "name": "Note56 Lite"
+  },
   "Note56 Plus": {
     "brand": "Doogee",
     "name": "Note56 Plus"
@@ -7111,9 +7115,21 @@
     "brand": "Doogee",
     "name": "Note 56X"
   },
+  "Note56 X Lite": {
+    "brand": "Doogee",
+    "name": "Note56 X"
+  },
   "Note56X Pro": {
     "brand": "Doogee",
     "name": "Note56X Pro"
+  },
+  "Note59 Pro": {
+    "brand": "Doogee",
+    "name": "Note59 Pro"
+  },
+  "Note60": {
+    "brand": "Doogee",
+    "name": "Note60"
   },
   "U13": {
     "brand": "Workmate",
@@ -7162,6 +7178,10 @@
   "U13 Pro": {
     "brand": "Doogee",
     "name": "VPad Pro"
+  },
+  "U14": {
+    "brand": "Doogee",
+    "name": "U14"
   },
   "AoGo1": {
     "brand": "AoGo",
@@ -10580,8 +10600,8 @@
     "name": "CP81S_PRO"
   },
   "NV10S": {
-    "brand": "Atozee",
-    "name": "NV10S"
+    "brand": "PEICHENG",
+    "name": "NV10ST"
   },
   "P70W": {
     "brand": "Atozee",
@@ -12758,6 +12778,10 @@
   "BPad": {
     "brand": "BNCF",
     "name": "BPad"
+  },
+  "BPad X1": {
+    "brand": "BNCF",
+    "name": "BPad X1"
   },
   "BPad_": {
     "brand": "BNCF",
@@ -15427,6 +15451,10 @@
     "brand": "Blackview",
     "name": "BV9300 Pro"
   },
+  "BV9300Pro Plus": {
+    "brand": "Blackview",
+    "name": "BV9300Pro Plus"
+  },
   "BV9600": {
     "brand": "Blackview",
     "name": "BV9600"
@@ -15534,6 +15562,10 @@
   "LINK 2": {
     "brand": "Blackview",
     "name": "LINK 2"
+  },
+  "LINK 5": {
+    "brand": "Blackview",
+    "name": "LINK 5"
   },
   "LINK 8": {
     "brand": "Blackview",
@@ -15922,6 +15954,10 @@
   "XPLORE 2 Satellite": {
     "brand": "Blackview",
     "name": "XPLORE 2 Satellite"
+  },
+  "XPLORE 6": {
+    "brand": "Blackview",
+    "name": "XPLORE 6"
   },
   "XPLORE 6 Pro": {
     "brand": "Blackview",
@@ -18386,6 +18422,10 @@
   "AZ101FCN": {
     "brand": "CATCHTABLE",
     "name": "AZ101FCN"
+  },
+  "CW10": {
+    "brand": "CATCHTABLE",
+    "name": "CW10"
   },
   "connect": {
     "brand": "CBN Media",
@@ -25051,6 +25091,10 @@
     "brand": "DAMASCO",
     "name": "TAB-T863-3"
   },
+  "RTC_M102": {
+    "brand": "DARVEEN",
+    "name": "RTC_M102"
+  },
   "SURF1000": {
     "brand": "DBM Maroc",
     "name": "ACCENT SURF 1000"
@@ -28175,6 +28219,10 @@
     "brand": "Digit",
     "name": "NOTE 16"
   },
+  "Sonic Lite": {
+    "brand": "Digit",
+    "name": "Sonic Lite"
+  },
   "Sonic One": {
     "brand": "Digit",
     "name": "Sonic_One"
@@ -29236,7 +29284,7 @@
     "name": "Blade10 Ultra"
   },
   "Blade10 Ultra Energy": {
-    "brand": "Doogee",
+    "brand": "Stargorilla",
     "name": "Blade10 Ultra Energy"
   },
   "Blade20": {
@@ -29250,6 +29298,10 @@
   "Blade20 Play": {
     "brand": "Doogee",
     "name": "Blade20 Play"
+  },
+  "Blade20 Plus": {
+    "brand": "Stargorilla",
+    "name": "Blade20 Plus"
   },
   "Blade20 Pro": {
     "brand": "Doogee",
@@ -29280,7 +29332,7 @@
     "name": "F10S"
   },
   "Fire 3": {
-    "brand": "Doogee",
+    "brand": "Stargorilla",
     "name": "Fire 3"
   },
   "Fire 3 Max": {
@@ -29288,7 +29340,7 @@
     "name": "Fire 3 Max"
   },
   "Fire 3 Pro": {
-    "brand": "Doogee",
+    "brand": "Stargorilla",
     "name": "Fire 3 Pro"
   },
   "Fire 3 Ultra": {
@@ -29459,17 +29511,9 @@
     "brand": "Doogee",
     "name": "Note 59"
   },
-  "Note56 Lite": {
+  "Note57 Lite": {
     "brand": "Doogee",
-    "name": "Note56 Lite"
-  },
-  "Note56 X Lite": {
-    "brand": "Doogee",
-    "name": "Note56 X"
-  },
-  "Note59 Pro": {
-    "brand": "Doogee",
-    "name": "Note59 Pro"
+    "name": "Note57 Lite"
   },
   "Note59 Pro+": {
     "brand": "Doogee",
@@ -29558,6 +29602,10 @@
   "S200 X": {
     "brand": "Doogee",
     "name": "S200 X"
+  },
+  "S200 X Pro": {
+    "brand": "Doogee",
+    "name": "S200 X Pro"
   },
   "S300": {
     "brand": "Ipro",
@@ -29906,6 +29954,10 @@
   "V Max Play": {
     "brand": "Doogee",
     "name": "V Max Play"
+  },
+  "V Max Play Pro": {
+    "brand": "Doogee",
+    "name": "V Max Play Pro"
   },
   "V Max Plus": {
     "brand": "Doogee",
@@ -32638,6 +32690,10 @@
   "EID-1001": {
     "brand": "Emerson",
     "name": "EID_1001"
+  },
+  "EID-1001A": {
+    "brand": "Emerson",
+    "name": "EID_1001A"
   },
   "EID-1050": {
     "brand": "Emerson",
@@ -37291,6 +37347,10 @@
     "brand": "G-Tab",
     "name": "Y"
   },
+  "Z": {
+    "brand": "G-Tab",
+    "name": "Z"
+  },
   "EX750": {
     "brand": "G-TiDE",
     "name": "EX750"
@@ -39010,6 +39070,10 @@
   "E940-2797-01": {
     "brand": "Gigaset",
     "name": "Gigaset GX4 PRO"
+  },
+  "E940-3045-00": {
+    "brand": "Gigaset",
+    "name": "Gigaset GX50"
   },
   "E940-2849-00": {
     "brand": "Gigaset",
@@ -50135,6 +50199,10 @@
     "brand": "Hotwav",
     "name": "Pad 15 Pro"
   },
+  "Pad 17 Pro": {
+    "brand": "LUO(A)",
+    "name": "Pad 17 Pro"
+  },
   "Pad 13": {
     "brand": "OSCAL",
     "name": "Pad13_RU"
@@ -50254,6 +50322,14 @@
   "X100 GT": {
     "brand": "Hotwav",
     "name": "X100 GT"
+  },
+  "X100 Mecha": {
+    "brand": "Hotwav",
+    "name": "X100 Mecha"
+  },
+  "X100 SE": {
+    "brand": "Hotwav",
+    "name": "X100 SE"
   },
   "X26 Ultra": {
     "brand": "Hotwav",
@@ -56923,6 +56999,10 @@
     "brand": "IRA (explore more)",
     "name": "IRA_DUO_PRO_5G"
   },
+  "IRA_T1021": {
+    "brand": "IRA (explore more)",
+    "name": "Wishtel Pvt Ltd"
+  },
   "IRA_T1029": {
     "brand": "IRA (explore more)",
     "name": "IRA_T1029"
@@ -56974,10 +57054,6 @@
   "T808": {
     "brand": "IRA (explore more)",
     "name": "T808"
-  },
-  "IRA_T1021": {
-    "brand": "IRA (explore more)",
-    "name": "Wishtel Pvt Ltd"
   },
   "Wishtel_IRA_T1029": {
     "brand": "IRA (explore more)",
@@ -66586,6 +66662,10 @@
   "LAMZIEN_P2": {
     "brand": "LAMZIEN",
     "name": "LAMZIEN_P2"
+  },
+  "C20 Plus": {
+    "brand": "LANDI",
+    "name": "C20PlusN00"
   },
   "C20Pro": {
     "brand": "LANDI",
@@ -78335,6 +78415,14 @@
     "brand": "MEIZE",
     "name": "D126_EEA"
   },
+  "D126_PRO": {
+    "brand": "MEIZE",
+    "name": "D126_PRO"
+  },
+  "D126_PRO_EEA": {
+    "brand": "MEIZE",
+    "name": "D126_PRO_EEA"
+  },
   "D126_PRO_US": {
     "brand": "MEIZE",
     "name": "D126_PRO_US"
@@ -89351,6 +89439,10 @@
     "brand": "NEXA",
     "name": "NexaN5a"
   },
+  "NXLPAD1": {
+    "brand": "NEXAL",
+    "name": "Nexal Pad"
+  },
   "N28 Pro": {
     "brand": "NEXG",
     "name": "NEXG N28 Pro"
@@ -92927,6 +93019,10 @@
     "brand": "Ollee",
     "name": "XT080"
   },
+  "Olternix_A11": {
+    "brand": "Olternix",
+    "name": "Olternix_A11"
+  },
   "CH10PLUS": {
     "brand": "Olvy",
     "name": "CH10PLUS"
@@ -94590,6 +94686,14 @@
   "PBFT00": {
     "brand": "Oppo",
     "name": "A7"
+  },
+  "PYE110": {
+    "brand": "Oppo",
+    "name": "A7 Pro 5G"
+  },
+  "PYE130": {
+    "brand": "Oppo",
+    "name": "A7 Pro 5G"
   },
   "PYC110": {
     "brand": "Oppo",
@@ -101630,6 +101734,10 @@
   "S7220": {
     "brand": "Philips",
     "name": "S7220"
+  },
+  "S7221": {
+    "brand": "Philips",
+    "name": "S7221"
   },
   "S8300": {
     "brand": "Philips",
@@ -110951,6 +111059,10 @@
     "brand": "SED Wireless",
     "name": "GPH-650R"
   },
+  "EPIC Vision": {
+    "brand": "SEGO",
+    "name": "EPIC_Vision"
+  },
   "EPICa": {
     "brand": "SEGO",
     "name": "EPICa"
@@ -111066,6 +111178,10 @@
   "GO5E": {
     "brand": "SEMP TCL",
     "name": "GO5E"
+  },
+  "S-T6128HD": {
+    "brand": "Sense",
+    "name": "T6128HD"
   },
   "TW102": {
     "brand": "SENSE",
@@ -113835,14 +113951,6 @@
     "brand": "Samsung",
     "name": "Galaxy A08"
   },
-  "SM-E085F": {
-    "brand": "Samsung",
-    "name": "Galaxy A08"
-  },
-  "SM-M085F": {
-    "brand": "Samsung",
-    "name": "Galaxy A08"
-  },
   "SM-A105F": {
     "brand": "Samsung",
     "name": "Galaxy A10"
@@ -114190,6 +114298,14 @@
   "SM-S176V": {
     "brand": "Samsung",
     "name": "Galaxy A17 5G"
+  },
+  "SM-A185F": {
+    "brand": "Samsung",
+    "name": "Galaxy A18"
+  },
+  "SM-A185N": {
+    "brand": "Samsung",
+    "name": "Galaxy A18"
   },
   "SM-A260F": {
     "brand": "Samsung",
@@ -116623,6 +116739,10 @@
     "brand": "Samsung",
     "name": "Galaxy F07"
   },
+  "SM-E085F": {
+    "brand": "Samsung",
+    "name": "Galaxy F08"
+  },
   "SM-F127G": {
     "brand": "Samsung",
     "name": "Galaxy F12"
@@ -118214,6 +118334,10 @@
   "SM-M075F": {
     "brand": "Samsung",
     "name": "Galaxy M07"
+  },
+  "SM-M085F": {
+    "brand": "Samsung",
+    "name": "Galaxy M08"
   },
   "SM-M105F": {
     "brand": "Samsung",
@@ -142207,6 +142331,10 @@
     "brand": "TOPDON",
     "name": "ONEPro"
   },
+  "K15A": {
+    "brand": "TOPELOTEK",
+    "name": "K15A"
+  },
   "KIDS06": {
     "brand": "TOPELOTEK",
     "name": "KIDS06"
@@ -143123,6 +143251,10 @@
     "brand": "Techview",
     "name": "S17Pro"
   },
+  "S17Pro_Sub": {
+    "brand": "Techview",
+    "name": "S17Pro_Sub"
+  },
   "Tab_80_LTE": {
     "brand": "Techview",
     "name": "Techview_Tab_80_LTE"
@@ -143486,6 +143618,14 @@
   "P33_ROW": {
     "brand": "Teclast",
     "name": "P33_ROW"
+  },
+  "P35_ROW": {
+    "brand": "Teclast",
+    "name": "P35_Y"
+  },
+  "P35_Y_ROW": {
+    "brand": "Teclast",
+    "name": "P35_Y"
   },
   "P40HD": {
     "brand": "Teclast",
