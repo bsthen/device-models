@@ -12841,7 +12841,7 @@
   },
   "Interactive_Intelligent_Panel": {
     "brand": "BOXLIGHT",
-    "name": "ProColor_P5"
+    "name": "ProColor_P5UC_Plus"
   },
   "PC_MODULE": {
     "brand": "BOXLIGHT",
@@ -14166,6 +14166,10 @@
   "JM-250": {
     "brand": "BenQ",
     "name": "JM-250"
+  },
+  "Joybee": {
+    "brand": "BenQ",
+    "name": "Joybee"
   },
   "Agora 4G+": {
     "brand": "BenQ",
@@ -19540,7 +19544,7 @@
     "name": "P83L"
   },
   "S18": {
-    "brand": "FOLG",
+    "brand": "i-custom",
     "name": "S18"
   },
   "S28": {
@@ -27791,6 +27795,10 @@
     "brand": "Dicle_Tab",
     "name": "Dicle_Tab_Active"
   },
+  "Comtrend-S3A": {
+    "brand": "Digi",
+    "name": "Comtrend-S3A"
+  },
   "DIGI R2A": {
     "brand": "Digi",
     "name": "DIGI R2A"
@@ -31827,6 +31835,10 @@
     "brand": "ETOE",
     "name": "D2G"
   },
+  "MZYIA": {
+    "brand": "ETTO",
+    "name": "ETTO"
+  },
   "E10Pro": {
     "brand": "EUDORA",
     "name": "E10Pro"
@@ -33072,7 +33084,7 @@
     "name": "VMD1029"
   },
   "Projector": {
-    "brand": "KTCtv",
+    "brand": "FPD",
     "name": "FPD"
   },
   "HC43": {
@@ -33646,6 +33658,10 @@
   "VORTEX_V10": {
     "brand": "Everpad",
     "name": "VORTEX_V10"
+  },
+  "AURA PRO": {
+    "brand": "Zuum",
+    "name": "AURA PRO"
   },
   "E7224HG": {
     "brand": "Evertek",
@@ -56315,6 +56331,10 @@
     "brand": "I3-TECHNOLOGIES",
     "name": "i3TOUCH-X3"
   },
+  "W Series": {
+    "brand": "IACTIVE",
+    "name": "Iactive_IFPD"
+  },
   "IACTIVE": {
     "brand": "IACTIVE",
     "name": "lactive_IA75"
@@ -58770,6 +58790,10 @@
   "Infinix X1201": {
     "brand": "Infinix",
     "name": "XPAD 20 Pro"
+  },
+  "Infinix X1102D": {
+    "brand": "Infinix",
+    "name": "XPAD 30"
   },
   "Infinix X1102B": {
     "brand": "Infinix",
@@ -63706,10 +63730,6 @@
   "JAMUNA SMART TV": {
     "brand": "KTCtv",
     "name": "JAMUNA"
-  },
-  "Joybee": {
-    "brand": "KTCtv",
-    "name": "Joybee"
   },
   "EcoTV J": {
     "brand": "KTCtv",
@@ -71210,6 +71230,10 @@
   "TR3DQ-B": {
     "brand": "LG_Electronics",
     "name": "TR3DQ-B"
+  },
+  "TR3ER": {
+    "brand": "LG_Electronics",
+    "name": "TR3ER"
   },
   "TR3ER-B": {
     "brand": "LG_Electronics",
@@ -99327,6 +99351,10 @@
     "brand": "POCO",
     "name": "POCO M8 Pro 5G"
   },
+  "26062PC92I": {
+    "brand": "POCO",
+    "name": "POCO M8x 5G"
+  },
   "2405CPCFBG": {
     "brand": "POCO",
     "name": "POCO Pad"
@@ -103234,6 +103262,10 @@
   "T2070": {
     "brand": "Positivo",
     "name": "T2070D"
+  },
+  "T2072": {
+    "brand": "Positivo",
+    "name": "T2072"
   },
   "Vision Tab 10": {
     "brand": "Positivo",
@@ -114304,6 +114336,10 @@
     "name": "Galaxy A18"
   },
   "SM-A185N": {
+    "brand": "Samsung",
+    "name": "Galaxy A18"
+  },
+  "SM-A185G": {
     "brand": "Samsung",
     "name": "Galaxy A18"
   },
@@ -154781,7 +154817,7 @@
   },
   "iPA2453": {
     "brand": "iQOO",
-    "name": "iQOO Pad5e"
+    "name": "iPA2537"
   },
   "iPA2475": {
     "brand": "Vivo",
@@ -155161,7 +155197,7 @@
   },
   "PA2455": {
     "brand": "vivo",
-    "name": "Pad5e"
+    "name": "PA2535"
   },
   "PA2473": {
     "brand": "Vivo",
@@ -160583,6 +160619,10 @@
     "brand": "Xiaomi",
     "name": "Xiaomi 17T Pro"
   },
+  "2608BPX34C": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 18 Fold"
+  },
   "2109119BC": {
     "brand": "Xiaomi",
     "name": "Xiaomi Civi 1S"
@@ -160694,6 +160734,10 @@
   "25091RP04C": {
     "brand": "Xiaomi",
     "name": "Xiaomi Pad 8 Pro"
+  },
+  "M367FC": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Pad 9 Pro Max"
   },
   "25079RPDCG": {
     "brand": "Xiaomi",
@@ -168335,10 +168379,6 @@
     "brand": "Zuum",
     "name": "AURA PLUS JLO"
   },
-  "AURA PRO": {
-    "brand": "Zuum",
-    "name": "AURA PRO"
-  },
   "AURA PRO JLO": {
     "brand": "Zuum",
     "name": "AURA PRO JLO"
@@ -170747,6 +170787,10 @@
     "brand": "iQOO",
     "name": "iQOO Z11 Lite 44W 5G"
   },
+  "iPA2537": {
+    "brand": "iQOO",
+    "name": "iPA2537"
+  },
   "I2501": {
     "brand": "iQOO",
     "name": "iQOO 15"
@@ -170794,10 +170838,6 @@
   "iPA2575": {
     "brand": "iQOO",
     "name": "iQOO Pad5 Pro"
-  },
-  "iPA2537": {
-    "brand": "iQOO",
-    "name": "iQOO Pad5e"
   },
   "I2502": {
     "brand": "iQOO",
@@ -173195,13 +173235,13 @@
     "brand": "vivo",
     "name": "Y6a"
   },
+  "PA2535": {
+    "brand": "vivo",
+    "name": "PA2535"
+  },
   "PA2553": {
     "brand": "vivo",
     "name": "Pad5"
-  },
-  "PA2535": {
-    "brand": "vivo",
-    "name": "Pad5e"
   },
   "PA2671": {
     "brand": "vivo",
