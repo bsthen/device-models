@@ -24351,6 +24351,18 @@
     "brand": "Crosscall",
     "name": "27409-1"
   },
+  "AD-C1": {
+    "brand": "Crosscall",
+    "name": "AD-C1"
+  },
+  "AD-C2": {
+    "brand": "Crosscall",
+    "name": "AD-C2"
+  },
+  "AD-C3": {
+    "brand": "Crosscall",
+    "name": "AD-C3"
+  },
   "ACTION-X3": {
     "brand": "Crosscall",
     "name": "Action-X3"
@@ -24412,8 +24424,12 @@
     "name": "Core-X5"
   },
   "Core-Z5": {
-    "brand": "Crosscall",
+    "brand": "Hisense",
     "name": "Core-Z5"
+  },
+  "Core-Z5P": {
+    "brand": "Crosscall",
+    "name": "Core-Z5P"
   },
   "AD-Z5": {
     "brand": "Crosscall",
@@ -47079,6 +47095,10 @@
     "brand": "Hisense",
     "name": "Hisense E31 Lite"
   },
+  "Hisense E36": {
+    "brand": "Hisense",
+    "name": "Hisense E36"
+  },
   "Hisense V40": {
     "brand": "Hisense",
     "name": "Hisense V40"
@@ -47111,6 +47131,10 @@
     "brand": "Hisense",
     "name": "Hisense E70 Pro"
   },
+  "Hisense E73": {
+    "brand": "Hisense",
+    "name": "Hisense E73"
+  },
   "Hisense E76MINIM": {
     "brand": "Hisense",
     "name": "Hisense E76MINIM"
@@ -47126,6 +47150,18 @@
   "Hisense Enigma SE": {
     "brand": "Hisense",
     "name": "Hisense Enigma"
+  },
+  "Hisense Enigma Plus": {
+    "brand": "Hisense",
+    "name": "Hisense Enigma Plus"
+  },
+  "Hisense Hisense Engima Plus": {
+    "brand": "Hisense",
+    "name": "Hisense Enigma Plus"
+  },
+  "Hisense Hisense Enigma Plus": {
+    "brand": "Hisense",
+    "name": "Hisense Enigma Plus"
   },
   "Hisense F15": {
     "brand": "Hisense",
@@ -47239,6 +47275,10 @@
     "brand": "Hisense",
     "name": "Hisense H60 Smart"
   },
+  "Hisense H73": {
+    "brand": "Hisense",
+    "name": "Hisense Infinity H72 Pro"
+  },
   "Hisense Infinity E30 Lite": {
     "brand": "Hisense",
     "name": "Hisense Infinity E30 Lite"
@@ -47274,10 +47314,6 @@
   "Hisense Infinity H60 5G": {
     "brand": "Hisense",
     "name": "Hisense Infinity H60 5G"
-  },
-  "Hisense H73": {
-    "brand": "Hisense",
-    "name": "Hisense Infinity H72 Pro"
   },
   "Hisense Infinity H72 Pro": {
     "brand": "Hisense",
@@ -47334,6 +47370,10 @@
   "Hisense U50": {
     "brand": "Hisense",
     "name": "Hisense U605"
+  },
+  "Hisense Enigma Lite": {
+    "brand": "Hisense",
+    "name": "Hisense U54"
   },
   "Hisense U54": {
     "brand": "Hisense",
@@ -47490,6 +47530,10 @@
   "Hisense V50": {
     "brand": "Hisense",
     "name": "Hisense V50"
+  },
+  "Hisense Y63": {
+    "brand": "Hisense",
+    "name": "Hisense Y63"
   },
   "Hisense I300T": {
     "brand": "Hisense",
@@ -63058,6 +63102,10 @@
   "101HH1B": {
     "brand": "KENSHI",
     "name": "101HH1B"
+  },
+  "101HH1C": {
+    "brand": "KENSHI",
+    "name": "101HH1C"
   },
   "Armor C1 Max": {
     "brand": "KENSHI",
@@ -112426,6 +112474,10 @@
   "Vision Plus": {
     "brand": "SSmooth",
     "name": "Vision Plus"
+  },
+  "CP31M-4T": {
+    "brand": "ST(everup)",
+    "name": "CP31M-4T"
   },
   "VARG": {
     "brand": "STARK_FUTURE",
