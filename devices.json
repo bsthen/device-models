@@ -49895,6 +49895,10 @@
     "brand": "HorusVision",
     "name": "FieldHub1_0_ROW"
   },
+  "H-H101_EEA": {
+    "brand": "Hosoton",
+    "name": "H-H101_EEA"
+  },
   "H101": {
     "brand": "Hosoton",
     "name": "H101_EEA"
@@ -57219,6 +57223,10 @@
     "brand": "IRIS_OHYAMA",
     "name": "TM08E2W74"
   },
+  "TM08F6W74": {
+    "brand": "IRIS_OHYAMA",
+    "name": "TM08F6W74"
+  },
   "TM101": {
     "brand": "IRIS_OHYAMA",
     "name": "TM101"
@@ -59479,6 +59487,10 @@
     "brand": "Intex",
     "name": "INTEX_AQUA_S3"
   },
+  "Ace2": {
+    "brand": "Intex",
+    "name": "Ace2"
+  },
   "INTEX AQUA 4.0 3G": {
     "brand": "Intex",
     "name": "Aqua 4.0 3G"
@@ -61334,6 +61346,10 @@
   "itel C681LN": {
     "brand": "Itel",
     "name": "itel CITY 200s"
+  },
+  "itel C672N": {
+    "brand": "Itel",
+    "name": "itel CITY 300 5G"
   },
   "Itel W7001": {
     "brand": "Itel",
@@ -77959,6 +77975,10 @@
     "brand": "M-Horse",
     "name": "M-HORSE"
   },
+  "M18ProMax": {
+    "brand": "M-Horse",
+    "name": "M18ProMax"
+  },
   "M2S": {
     "brand": "M-Horse",
     "name": "M2S"
@@ -92475,6 +92495,10 @@
     "brand": "ONERugged",
     "name": "M19TE"
   },
+  "M80XE": {
+    "brand": "ONERugged",
+    "name": "M80XE"
+  },
   "M86X": {
     "brand": "ONERugged",
     "name": "M86X"
@@ -92638,6 +92662,10 @@
   "ORCATAB_WT1_WT1Pro": {
     "brand": "ORCATAB",
     "name": "ORCATAB_WT1_WT1Pro"
+  },
+  "WT3 Pro": {
+    "brand": "ORCATAB",
+    "name": "ORCATAB_WT3_Pro"
   },
   "Doshisha 2K Smart TV": {
     "brand": "ORION",
@@ -93570,6 +93598,10 @@
   "CPH2955": {
     "brand": "OnePlus",
     "name": "OnePlus N6"
+  },
+  "CPH2993": {
+    "brand": "OnePlus",
+    "name": "OnePlus N6 Lite"
   },
   "CPH2971": {
     "brand": "OnePlus",
@@ -101179,6 +101211,10 @@
     "brand": "Partner",
     "name": "Partner_Evolution"
   },
+  "Sofia5": {
+    "brand": "Partner_Tech",
+    "name": "Sofia5"
+  },
   "P15": {
     "brand": "Pastigio",
     "name": "P15"
@@ -108431,6 +108467,10 @@
     "brand": "RebotAi",
     "name": "AF13Air_EEA"
   },
+  "AF13Air_US": {
+    "brand": "RebotAi",
+    "name": "AF13Air_US"
+  },
   "AF13_EEA": {
     "brand": "RebotAi",
     "name": "AF13_EEA"
@@ -112074,6 +112114,10 @@
   "ZEUS 2 ELITE": {
     "brand": "SPC",
     "name": "ZEUS_2_ELITE_EEA"
+  },
+  "ZEUS HALO": {
+    "brand": "SPC",
+    "name": "ZEUS_HALO_EEA"
   },
   "APOLO": {
     "brand": "SPC Mobile",
@@ -128259,6 +128303,18 @@
     "brand": "Sharp",
     "name": "AQUOS wish5s"
   },
+  "A603SH": {
+    "brand": "Sharp",
+    "name": "AQUOS wish6"
+  },
+  "A604SH": {
+    "brand": "Sharp",
+    "name": "AQUOS wish6"
+  },
+  "SH-M36": {
+    "brand": "Sharp",
+    "name": "AQUOS wish6"
+  },
   "801SH": {
     "brand": "Sharp",
     "name": "AQUOS zero"
@@ -136858,6 +136914,30 @@
   "T807W": {
     "brand": "TCL",
     "name": "TCL NXTPAPER 70 Pro"
+  },
+  "T853K": {
+    "brand": "TCL",
+    "name": "TCL P80"
+  },
+  "T853P": {
+    "brand": "TCL",
+    "name": "TCL P80"
+  },
+  "T852K": {
+    "brand": "TCL",
+    "name": "TCL P80 Pro"
+  },
+  "T852P": {
+    "brand": "TCL",
+    "name": "TCL P80 Pro"
+  },
+  "T952K": {
+    "brand": "TCL",
+    "name": "TCL P80 Ultra"
+  },
+  "T952P": {
+    "brand": "TCL",
+    "name": "TCL P80 Ultra"
   },
   "T780H": {
     "brand": "TCL",
@@ -150426,6 +150506,10 @@
   "VILLAON V654L": {
     "brand": "VILLAON",
     "name": "V50s"
+  },
+  "VILLAON V655L": {
+    "brand": "VILLAON",
+    "name": "V60"
   },
   "VILLAON V671N": {
     "brand": "VILLAON",
@@ -167707,6 +167791,10 @@
     "brand": "Zebra",
     "name": "TC22R"
   },
+  "HC201L": {
+    "brand": "Zebra",
+    "name": "HC201"
+  },
   "HC25": {
     "brand": "Zebra",
     "name": "TC27"
@@ -172494,6 +172582,10 @@
   "RMX5125": {
     "brand": "realme",
     "name": "realme P4s 5G"
+  },
+  "RMX5398": {
+    "brand": "realme",
+    "name": "realme P4s Lite"
   },
   "RMX5367": {
     "brand": "realme",
