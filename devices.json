@@ -12811,6 +12811,10 @@
     "brand": "BNCF",
     "name": "BPad_T1"
   },
+  "BPad T11": {
+    "brand": "BNCF",
+    "name": "BPad_T11"
+  },
   "CinePad_13": {
     "brand": "BNCF",
     "name": "CinePad_13"
@@ -77019,6 +77023,10 @@
     "brand": "Logicom",
     "name": "AERO"
   },
+  "Astral": {
+    "brand": "Logicom",
+    "name": "Astral"
+  },
   "B BOT 50": {
     "brand": "Logicom",
     "name": "B bot 50"
@@ -77626,6 +77634,10 @@
   "M bot 52": {
     "brand": "Logicom",
     "name": "M_ bot_ 52"
+  },
+  "Mistral": {
+    "brand": "Logicom",
+    "name": "Mistral"
   },
   "ONIX": {
     "brand": "Zuum",
@@ -78623,6 +78635,10 @@
     "brand": "MIAPRODUCT",
     "name": "AMBK290471"
   },
+  "EPIC_G_12": {
+    "brand": "MICRODIGIT",
+    "name": "EPIC_G_12"
+  },
   "Model-6-Pro-Max-4G": {
     "brand": "MIFONE",
     "name": "Model 6 Pro Max 4G"
@@ -78998,6 +79014,10 @@
   "MB_530": {
     "brand": "MOBO",
     "name": "MB_530"
+  },
+  "MOBOE1": {
+    "brand": "MOBODO",
+    "name": "MOBODO MOBO E1"
   },
   "MOBOK2": {
     "brand": "MOBODO",
@@ -90302,6 +90322,10 @@
   "D2351": {
     "brand": "Nebula",
     "name": "Nebula X1"
+  },
+  "D2151": {
+    "brand": "Nebula",
+    "name": "Nebula X1 Pro"
   },
   "D2425": {
     "brand": "Nebula",
@@ -108582,6 +108606,10 @@
   "26062RN92I": {
     "brand": "Redmi",
     "name": "REDMI 17 5G"
+  },
+  "2607FRNEAG": {
+    "brand": "Redmi",
+    "name": "REDMI 17C 5G"
   },
   "26020RNB4A": {
     "brand": "Redmi",
@@ -167791,10 +167819,6 @@
     "brand": "Zebra",
     "name": "TC22R"
   },
-  "HC201L": {
-    "brand": "Zebra",
-    "name": "HC201"
-  },
   "HC25": {
     "brand": "Zebra",
     "name": "TC27"
@@ -173098,6 +173122,14 @@
   "SPECTRA GO": {
     "brand": "spectramobile",
     "name": "SPECTRA GO"
+  },
+  "SPECTRA PLAY": {
+    "brand": "spectramobile",
+    "name": "SPECTRA PLAY"
+  },
+  "SPECTRA A2": {
+    "brand": "spectramobile",
+    "name": "SPECTRA_A2"
   },
   "Spectra J1": {
     "brand": "spectramobile",
