@@ -59059,6 +59059,10 @@
     "brand": "Infocus",
     "name": "InFocus M7S"
   },
+  "JTOUCH_26_ADVANCED_SERIES": {
+    "brand": "Infocus",
+    "name": "JTOUCH_26_ADVANCED_SERIES"
+  },
   "JTouch_Series_13ea": {
     "brand": "Infocus",
     "name": "JTouch 13e"
@@ -82094,6 +82098,10 @@
   "Good": {
     "brand": "Melefon",
     "name": "Good"
+  },
+  "Melita-4K-IP-TV": {
+    "brand": "Melita",
+    "name": "Melita-4K-IP-TV"
   },
   "DV8955C-C": {
     "brand": "Melita",
