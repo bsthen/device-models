@@ -2793,7 +2793,7 @@
   },
   "AS10L": {
     "brand": "Acer",
-    "name": "AS10L_A16"
+    "name": "AS10L_A16_N"
   },
   "AS10W": {
     "brand": "Acer",
@@ -11016,8 +11016,8 @@
     "name": "S30Pro"
   },
   "S80": {
-    "brand": "Premio",
-    "name": "S80"
+    "brand": "Relndoo",
+    "name": "S80-ROW"
   },
   "S90": {
     "brand": "raemond",
@@ -18506,6 +18506,10 @@
   "6769-4G": {
     "brand": "CENAVA",
     "name": "6769-4G"
+  },
+  "A1095Z-5G": {
+    "brand": "CENAVA",
+    "name": "A1095Z-5G"
   },
   "A10ST-5G": {
     "brand": "CENAVA",
@@ -59063,6 +59067,10 @@
     "brand": "Infocus",
     "name": "JTOUCH_26_ADVANCED_SERIES"
   },
+  "JTOUCH_26_ESSENTIAL_SERIES": {
+    "brand": "Infocus",
+    "name": "JTOUCH_26_ESSENTIAL_SERIES"
+  },
   "JTouch_Series_13ea": {
     "brand": "Infocus",
     "name": "JTouch 13e"
@@ -64864,7 +64872,7 @@
     "name": "Kimfly MC"
   },
   "MX": {
-    "brand": "Kimfly",
+    "brand": "Telpo",
     "name": "MX"
   },
   "D103_EEA": {
@@ -82222,6 +82230,10 @@
   "N672": {
     "brand": "MiTAC",
     "name": "hera_pro_eea"
+  },
+  "N962": {
+    "brand": "MiTAC",
+    "name": "hera_pro_se"
   },
   "N722": {
     "brand": "MiTAC",
@@ -110983,6 +110995,10 @@
     "brand": "Ruio",
     "name": "RUIO S6518"
   },
+  "RS2503": {
+    "brand": "Ruio",
+    "name": "RUIO ZIP"
+  },
   "RS2503-AU": {
     "brand": "Ruio",
     "name": "RUIO ZIP"
@@ -113401,7 +113417,7 @@
   },
   "P11_R": {
     "brand": "SVITOO",
-    "name": "P11_R_ROW"
+    "name": "P11_R_USA"
   },
   "P11_T": {
     "brand": "SVITOO",
@@ -113682,6 +113698,10 @@
   "SWTV-25TGL-4K": {
     "brand": "SWTV",
     "name": "SWTV-25TGL-4K"
+  },
+  "SWTV-26AE-2KA5": {
+    "brand": "SWTV",
+    "name": "SWTV-26AE-2KA5"
   },
   "SWTV-26AE-4K": {
     "brand": "SWTV",
@@ -133795,6 +133815,10 @@
     "brand": "SparX",
     "name": "Neo 8 Lite"
   },
+  "Neo_16": {
+    "brand": "SparX",
+    "name": "Neo_16"
+  },
   "Neo X": {
     "brand": "SparX",
     "name": "Neo_X"
@@ -142727,6 +142751,10 @@
     "brand": "TOPELOTEK",
     "name": "KIDS707"
   },
+  "KIDS707A-708": {
+    "brand": "TOPELOTEK",
+    "name": "KIDS707A_708A"
+  },
   "KIDS708": {
     "brand": "TOPELOTEK",
     "name": "KIDS708"
@@ -146431,6 +146459,10 @@
     "brand": "Telefunken",
     "name": "TF600"
   },
+  "Telefunken 2K SmartTV": {
+    "brand": "Telefunken",
+    "name": "Telefunken 2K SmartTV"
+  },
   "Telefunken 4K TV": {
     "brand": "Telefunken",
     "name": "Telefunken 4K TV"
@@ -146994,6 +147026,10 @@
   "Pad_Pro": {
     "brand": "Thomson",
     "name": "Pad_Pro_NEU"
+  },
+  "Pad_SE": {
+    "brand": "Thomson",
+    "name": "Pad_SE_EEA"
   },
   "SPPL 4K 65P": {
     "brand": "Thomson",
@@ -161186,6 +161222,10 @@
   "X8Pro": {
     "brand": "Xmobile",
     "name": "X8ProUSNal"
+  },
+  "GT350": {
+    "brand": "Xnano",
+    "name": "GT350"
   },
   "Era 3": {
     "brand": "Xolo",
