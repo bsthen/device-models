@@ -19915,6 +19915,10 @@
     "brand": "iRulu",
     "name": "L20"
   },
+  "CTP100": {
+    "brand": "Casper",
+    "name": "PAD_D10"
+  },
   "Pad H10 PEN": {
     "brand": "Casper",
     "name": "Pad_H10_PEN"
@@ -81351,6 +81355,10 @@
     "brand": "Mediacom",
     "name": "M-SP10MXHL"
   },
+  "Azimut_4_lite": {
+    "brand": "Mediacom",
+    "name": "M-SP11AZ48"
+  },
   "M-SP1AGO3G": {
     "brand": "Mediacom",
     "name": "M-SP1AGO3G"
@@ -94979,10 +94987,6 @@
     "brand": "Oppo",
     "name": "A7 Pro 5G"
   },
-  "PYC110": {
-    "brand": "Oppo",
-    "name": "A7 Pro Max 5G"
-  },
   "CPH2067": {
     "brand": "Oppo",
     "name": "A72"
@@ -96282,6 +96286,10 @@
   "PMM110": {
     "brand": "Oppo",
     "name": "PMM110"
+  },
+  "PYC110": {
+    "brand": "Oppo",
+    "name": "PYC110"
   },
   "OPD2409": {
     "brand": "Oppo",
@@ -115263,6 +115271,10 @@
     "brand": "Samsung",
     "name": "Galaxy A37 5G"
   },
+  "SM-A376N": {
+    "brand": "Samsung",
+    "name": "Galaxy A37 5G"
+  },
   "SM-A376U": {
     "brand": "Samsung",
     "name": "Galaxy A37 5G"
@@ -129174,6 +129186,10 @@
   "SH-04D": {
     "brand": "Sharp",
     "name": "Q-pot.Phone SH-04D"
+  },
+  "R3GS": {
+    "brand": "Sharp",
+    "name": "R3GS"
   },
   "R4-SH": {
     "brand": "Sharp",
@@ -174077,7 +174093,7 @@
   },
   "V2553A": {
     "brand": "vivo",
-    "name": "Y600 Turbo"
+    "name": "Y600k Turbo"
   },
   "V2542A": {
     "brand": "vivo",
