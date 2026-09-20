@@ -46843,6 +46843,10 @@
     "brand": "Hisense",
     "name": "HLTE243E"
   },
+  "Hisense U55": {
+    "brand": "Hisense",
+    "name": "HLTE243E"
+  },
   "Hisense U967": {
     "brand": "Hisense",
     "name": "HLTE243E"
@@ -66426,6 +66430,10 @@
   "KC-S703": {
     "brand": "Kyocera",
     "name": "DuraForce EX"
+  },
+  "KC-S704": {
+    "brand": "Kyocera",
+    "name": "DuraForce EX2"
   },
   "KYOCERA-E6820": {
     "brand": "Kyocera",
@@ -92683,6 +92691,10 @@
     "brand": "ONERugged",
     "name": "M19TE"
   },
+  "M80X": {
+    "brand": "ONERugged",
+    "name": "M80X"
+  },
   "M80XE": {
     "brand": "ONERugged",
     "name": "M80XE"
@@ -95839,6 +95851,10 @@
     "brand": "Oppo",
     "name": "K14 Lite"
   },
+  "CPH3009": {
+    "brand": "Oppo",
+    "name": "K14 Plus 5G"
+  },
   "CPH2871": {
     "brand": "Oppo",
     "name": "K14x 5G"
@@ -97434,6 +97450,10 @@
   "Orange V652L": {
     "brand": "Orange",
     "name": "Orange V652L"
+  },
+  "Video Soundbox": {
+    "brand": "Orange",
+    "name": "Orange Video Soundbox"
   },
   "Orange_Tab_7_4G": {
     "brand": "Orange",
@@ -170982,6 +171002,14 @@
   "I24P01": {
     "brand": "iMin",
     "name": "Lark 1"
+  },
+  "I26K01": {
+    "brand": "iMin",
+    "name": "Penguin 1 mini"
+  },
+  "I26K02": {
+    "brand": "iMin",
+    "name": "Penguin1"
   },
   "I25M01": {
     "brand": "iMin",
