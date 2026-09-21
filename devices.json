@@ -25219,6 +25219,10 @@
     "brand": "DEERTiME",
     "name": "E11_US"
   },
+  "E15_E": {
+    "brand": "DEERTiME",
+    "name": "E15_E"
+  },
   "E15_EEA": {
     "brand": "DEERTiME",
     "name": "E15_EEA"
@@ -28060,6 +28064,10 @@
     "name": "mid1016_mk_64"
   },
   "M10AA": {
+    "brand": "DigiLand",
+    "name": "M10AA"
+  },
+  "R10Pro": {
     "brand": "DigiLand",
     "name": "M10AA"
   },
@@ -31842,6 +31850,10 @@
   "ETEL-P66": {
     "brand": "ETELPREMIUM",
     "name": "ETEL P66"
+  },
+  "ETEL_P69": {
+    "brand": "ETELPREMIUM",
+    "name": "ETEL_P69"
   },
   "Etel_P64": {
     "brand": "ETELPREMIUM",
@@ -99735,6 +99747,10 @@
     "brand": "POCO",
     "name": "POCO X8"
   },
+  "2607DPC18I": {
+    "brand": "POCO",
+    "name": "POCO X8"
+  },
   "2511FPC34G": {
     "brand": "POCO",
     "name": "POCO X8 Pro"
@@ -102698,6 +102714,10 @@
   "PlimPad_P60": {
     "brand": "Plimpton",
     "name": "PlimPad_P60"
+  },
+  "iKids20_A16_JAE": {
+    "brand": "Plimpton",
+    "name": "iKids20_A16_JAE"
   },
   "kids20A15_A537": {
     "brand": "Plimpton",
@@ -108992,6 +109012,10 @@
     "name": "REDMI Note 17 Pro"
   },
   "2607DRA18G": {
+    "brand": "Redmi",
+    "name": "REDMI Note 17 Pro 5G"
+  },
+  "2607DRA18I": {
     "brand": "Redmi",
     "name": "REDMI Note 17 Pro 5G"
   },
@@ -156987,6 +157011,10 @@
     "brand": "WARP",
     "name": "TAB-WP11"
   },
+  "Wynn_Pad_EEA": {
+    "brand": "WAWLYN",
+    "name": "Wynn_Pad_EEA"
+  },
   "H1010_M50": {
     "brand": "WCED",
     "name": "H1010_M50"
@@ -171003,6 +171031,10 @@
     "brand": "iMin",
     "name": "Lark 1"
   },
+  "I26K03": {
+    "brand": "iMin",
+    "name": "Penguin 1 Pro mini"
+  },
   "I26K01": {
     "brand": "iMin",
     "name": "Penguin 1 mini"
@@ -172623,6 +172655,10 @@
     "brand": "realme",
     "name": "realme 9i"
   },
+  "RMX5399": {
+    "brand": "realme",
+    "name": "realme C100i"
+  },
   "RMX5353": {
     "brand": "realme",
     "name": "realme C100"
@@ -172630,10 +172666,6 @@
   "RMX5363": {
     "brand": "realme",
     "name": "realme C100d"
-  },
-  "RMX5399": {
-    "brand": "realme",
-    "name": "realme C100i"
   },
   "RMX3263": {
     "brand": "realme",
