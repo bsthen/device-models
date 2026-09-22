@@ -95011,6 +95011,10 @@
     "brand": "Oppo",
     "name": "A7 Pro 5G"
   },
+  "CPH2931": {
+    "brand": "Oppo",
+    "name": "F35 5G"
+  },
   "CPH2067": {
     "brand": "Oppo",
     "name": "A72"
@@ -173766,6 +173770,10 @@
   "V2572A": {
     "brand": "vivo",
     "name": "S60 元气版"
+  },
+  "V2620A": {
+    "brand": "vivo",
+    "name": "S60t"
   },
   "V2510": {
     "brand": "vivo",
