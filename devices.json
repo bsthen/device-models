@@ -39119,6 +39119,10 @@
     "brand": "Gigaset",
     "name": "GS6 PRO"
   },
+  "EE940-3043-00": {
+    "brand": "Gigaset",
+    "name": "GS6 PRO"
+  },
   "E940-2940-00": {
     "brand": "Gigaset",
     "name": "GS6_PRO"
@@ -49058,6 +49062,10 @@
   "TA60A": {
     "brand": "Honeywell",
     "name": "RT60A"
+  },
+  "RT710": {
+    "brand": "Honeywell",
+    "name": "RT710"
   },
   "VM1A": {
     "brand": "Honeywell",
@@ -74871,6 +74879,10 @@
     "brand": "Lenovo",
     "name": "联想平板电脑 昭阳K11"
   },
+  "TB336ZA": {
+    "brand": "Lenovo",
+    "name": "Lenovo Idea Tab / Lenovo Tab K11 Gen 2"
+  },
   "TB336ZU": {
     "brand": "Lenovo",
     "name": "联想平板电脑 昭阳K11"
@@ -81375,6 +81387,10 @@
     "brand": "Mediacom",
     "name": "M-SP10MXHL"
   },
+  "AZIMUT_4_LITE": {
+    "brand": "Mediacom",
+    "name": "SP1AZ4_L"
+  },
   "Azimut_4_lite": {
     "brand": "Mediacom",
     "name": "M-SP11AZ48"
@@ -81442,10 +81458,6 @@
   "M-SP8MXA": {
     "brand": "Mediacom",
     "name": "M-SP8MXA"
-  },
-  "AZIMUT_4_LITE": {
-    "brand": "Mediacom",
-    "name": "SP1AZ4_L"
   },
   "E109GC": {
     "brand": "Mediacom",
@@ -101702,6 +101714,10 @@
   "BDL4152E": {
     "brand": "Philips",
     "name": "65BDL4152E"
+  },
+  "Philips Google TV TC1": {
+    "brand": "Philips",
+    "name": "7231 series"
   },
   "AND1E": {
     "brand": "Philips",
@@ -136275,10 +136291,6 @@
     "brand": "TCL",
     "name": "Alcatel 1B"
   },
-  "T451A": {
-    "brand": "TCT (Alcatel)",
-    "name": "Alcatel A33"
-  },
   "BeyondTV": {
     "brand": "TCL",
     "name": "BeyondTV2"
@@ -139994,6 +140006,10 @@
   "5052Y_EEA": {
     "brand": "TCT (Alcatel)",
     "name": "Alcatel 3"
+  },
+  "T451A": {
+    "brand": "TCT (Alcatel)",
+    "name": "Alcatel A33"
   },
   "Orange Dive 73": {
     "brand": "TCT (Alcatel)",
