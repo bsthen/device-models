@@ -25307,6 +25307,10 @@
     "brand": "DEVOPS",
     "name": "DEVOPS"
   },
+  "DEVOPS_RK3576": {
+    "brand": "DEVOPS",
+    "name": "DEVOPS-RK3576"
+  },
   "A350": {
     "brand": "INOI",
     "name": "INOI A35 Adventure"
@@ -41077,7 +41081,7 @@
   },
   "M8781A": {
     "brand": "H3Cmagic",
-    "name": "M8781A"
+    "name": "M8781A_EU"
   },
   "MINTAKA": {
     "brand": "H819E",
@@ -87099,6 +87103,14 @@
     "brand": "Motorola",
     "name": "moto pad 60 neo"
   },
+  "XT2673-1": {
+    "brand": "Motorola",
+    "name": "moto pad 70"
+  },
+  "XT2673-2": {
+    "brand": "Motorola",
+    "name": "moto pad 70"
+  },
   "XT2675-1": {
     "brand": "Motorola",
     "name": "moto pad 70 groove"
@@ -92830,6 +92842,10 @@
   "ONVO TV": {
     "brand": "ONVO",
     "name": "ONVO TV"
+  },
+  "Onvo Smart TV": {
+    "brand": "ONVO",
+    "name": "ONVO"
   },
   "Model A": {
     "brand": "ONYX",
@@ -143475,6 +143491,10 @@
     "brand": "Teachmint_X",
     "name": "Teachmint_X"
   },
+  "Teachmint_XC": {
+    "brand": "Teachmint_X",
+    "name": "Teachmint_XC"
+  },
   "Force": {
     "brand": "Tech 4u",
     "name": "Force"
@@ -156351,6 +156371,10 @@
     "brand": "Volvo",
     "name": "Volvo"
   },
+  "moose on uxc10": {
+    "brand": "Volvo",
+    "name": "Volvo"
+  },
   "Volvo XC40": {
     "brand": "Volvo",
     "name": "Volvo XC40 Emulator"
@@ -162198,6 +162222,10 @@
   "Z-PAD PRO ZP210P": {
     "brand": "ZEED",
     "name": "Z-PAD_PRO"
+  },
+  "Z-PAD SE ZP105-SE": {
+    "brand": "ZEED",
+    "name": "Z-PAD_SE"
   },
   "Z-PAD ULTRA ZP210U": {
     "brand": "ZEED",
@@ -171063,6 +171091,10 @@
     "brand": "iMin",
     "name": "Penguin1"
   },
+  "I26K04": {
+    "brand": "iMin",
+    "name": "Penguin1Pro"
+  },
   "I25M01": {
     "brand": "iMin",
     "name": "Roc 1"
@@ -171938,6 +171970,10 @@
   "TK807": {
     "brand": "moderness.online",
     "name": "TK807"
+  },
+  "myBoard_Horizon": {
+    "brand": "myBoard",
+    "name": "myBoard_Horizon"
   },
   "M9501": {
     "brand": "mytel",
@@ -174002,6 +174038,26 @@
   "V2548A": {
     "brand": "vivo",
     "name": "X300s"
+  },
+  "V2609A": {
+    "brand": "vivo",
+    "name": "X500"
+  },
+  "V2608A": {
+    "brand": "vivo",
+    "name": "X500 Pro"
+  },
+  "V2608DA": {
+    "brand": "vivo",
+    "name": "X500 Pro"
+  },
+  "V2602A": {
+    "brand": "vivo",
+    "name": "X500 Pro Max"
+  },
+  "V2602DA": {
+    "brand": "vivo",
+    "name": "X500 Pro Max 卫星通信版"
   },
   "V2532": {
     "brand": "vivo",
