@@ -1769,7 +1769,7 @@
   },
   "IT-801B": {
     "brand": "ATMPC",
-    "name": "IT-801BA9_EEA"
+    "name": "IT_801BA9_EEA"
   },
   "IT-801BA3": {
     "brand": "ATMPC",
@@ -66923,6 +66923,10 @@
     "brand": "LANDI",
     "name": "C20ProSE"
   },
+  "K20 Pro": {
+    "brand": "LANDI",
+    "name": "K20ProN00"
+  },
   "M10SE": {
     "brand": "LANDI",
     "name": "M10SE"
@@ -113091,6 +113095,10 @@
     "brand": "STUDYNLEARN",
     "name": "IS-IFPSeries"
   },
+  "IS-IFSeries": {
+    "brand": "STUDYNLEARN",
+    "name": "Interactive_Flat_Panel_SNL"
+  },
   "HJ_M2": {
     "brand": "STboard",
     "name": "HJ_M2"
@@ -126894,6 +126902,10 @@
   "WAFX-P": {
     "brand": "Samsung",
     "name": "WAFX-P"
+  },
+  "WAFX-PS": {
+    "brand": "Samsung",
+    "name": "WAFX-PS"
   },
   "SMT-E5015": {
     "brand": "Samsung",
@@ -170514,6 +170526,10 @@
   "iData i3": {
     "brand": "iData",
     "name": "iData i3"
+  },
+  "iDataP5": {
+    "brand": "iData",
+    "name": "iDataP5"
   },
   "iDataT2": {
     "brand": "iData",
