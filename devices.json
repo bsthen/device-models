@@ -2891,6 +2891,10 @@
     "brand": "Acer",
     "name": "Acer Chromebook R13"
   },
+  "Acer Googlebook 14": {
+    "brand": "Acer",
+    "name": "Acer Googlebook 14"
+  },
   "C01": {
     "brand": "Acer",
     "name": "C01 (PA)"
@@ -9331,6 +9335,10 @@
     "brand": "Asus",
     "name": "ASUS Chromebook Flip C302"
   },
+  "ASUS Googlebook 14": {
+    "brand": "Asus",
+    "name": "ASUS Googlebook 14"
+  },
   "ASUS_Z00YD": {
     "brand": "Asus",
     "name": "ASUS Live (G500TG)"
@@ -13611,7 +13619,19 @@
     "brand": "BYD",
     "name": "BYD"
   },
+  "BYD300F_G": {
+    "brand": "BYD",
+    "name": "BYD"
+  },
+  "BYD300F_G_P": {
+    "brand": "BYD",
+    "name": "BYD"
+  },
   "BYD300F_VCP_G": {
+    "brand": "BYD",
+    "name": "BYD"
+  },
+  "BYD300F_VCP_G_P": {
     "brand": "BYD",
     "name": "BYD"
   },
@@ -26687,6 +26707,10 @@
     "brand": "Daewoo",
     "name": "THINK EBIKEGO PRIVATE LIMITED"
   },
+  "DAE65P": {
+    "brand": "Daewoo",
+    "name": "THINK EBIKEGO PRIVATE LIMITED"
+  },
   "X7": {
     "brand": "USA111",
     "name": "Irulu X7"
@@ -27434,6 +27458,10 @@
   "Venue 8 HSPA+": {
     "brand": "Dell",
     "name": "Venue 8"
+  },
+  "XPS Googlebook": {
+    "brand": "Dell",
+    "name": "XPS Googlebook"
   },
   "D1018": {
     "brand": "Delm",
@@ -39187,6 +39215,10 @@
     "brand": "Gigaset",
     "name": "Gigaset GX50"
   },
+  "E940-3045-01": {
+    "brand": "Gigaset",
+    "name": "Gigaset GX50 EP"
+  },
   "E940-2849-00": {
     "brand": "Gigaset",
     "name": "Gigaset GX6"
@@ -41938,6 +41970,10 @@
   "HP GOOGLE TV": {
     "brand": "HP",
     "name": "South America"
+  },
+  "HP Googlebook 14": {
+    "brand": "HP",
+    "name": "HP Googlebook 14"
   },
   "HP SMART TV": {
     "brand": "HP",
@@ -74883,6 +74919,10 @@
     "brand": "Lenovo",
     "name": "Lenovo A8"
   },
+  "Lenovo Googlebook 15": {
+    "brand": "Lenovo",
+    "name": "Lenovo Googlebook 15"
+  },
   "TB336FU": {
     "brand": "Lenovo",
     "name": "联想平板电脑 昭阳K11"
@@ -87451,6 +87491,10 @@
     "brand": "Motorola",
     "name": "motorola razr ultra 2026"
   },
+  "motorola razr ultra 2025": {
+    "brand": "Motorola",
+    "name": "motorola razr ultra 2025"
+  },
   "M-51F": {
     "brand": "Motorola",
     "name": "motorola razr 60d M-51F"
@@ -87494,10 +87538,6 @@
   "motorola razr plus 2026": {
     "brand": "Motorola",
     "name": "motorola razr plus 2026"
-  },
-  "motorola razr ultra 2025": {
-    "brand": "Motorola",
-    "name": "motorola razr ultra 2025"
   },
   "motorola razr ultra 2026": {
     "brand": "Motorola",
@@ -94047,10 +94087,6 @@
     "brand": "OnePlus",
     "name": "OnePlus Turbo 6"
   },
-  "PLY110": {
-    "brand": "OnePlus",
-    "name": "OnePlus Turbo 6V"
-  },
   "OPWWE231": {
     "brand": "OnePlus",
     "name": "OnePlus Watch 2"
@@ -94106,6 +94142,10 @@
   "PHP110": {
     "brand": "OnePlus",
     "name": "PHP110"
+  },
+  "PLY110": {
+    "brand": "OnePlus",
+    "name": "PLY110"
   },
   "PYS110": {
     "brand": "OnePlus",
@@ -127506,6 +127546,10 @@
   "T6000": {
     "brand": "Servicom IT",
     "name": "T6000"
+  },
+  "AUTOID PAD Air-5G-P": {
+    "brand": "Seuic",
+    "name": "AUTOID PAD Air-5G-P"
   },
   "AUTOID Pad Air": {
     "brand": "Seuic",
