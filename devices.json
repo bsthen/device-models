@@ -24407,6 +24407,14 @@
     "brand": "Croatian Telecom",
     "name": "KSTB6044"
   },
+  "Croma TV": {
+    "brand": "Croma",
+    "name": "Croma TV"
+  },
+  "Croma TV FF": {
+    "brand": "Croma",
+    "name": "Croma TV FF"
+  },
   "27409-1": {
     "brand": "Crosscall",
     "name": "27409-1"
@@ -57894,6 +57902,10 @@
   "Indurama 4K smart TV": {
     "brand": "Indurama",
     "name": "Indurama 4K smart TV"
+  },
+  "Indurama 4K smart TV FF": {
+    "brand": "Indurama",
+    "name": "Indurama 4K smart TV FF"
   },
   "indurama 2K TV": {
     "brand": "Indurama",
@@ -92555,6 +92567,10 @@
     "brand": "OFD(Display)",
     "name": "HSD-M03"
   },
+  "HSD-M03F": {
+    "brand": "OFD(Display)",
+    "name": "HSD-M03F"
+  },
   "HSD01": {
     "brand": "OFD(Display)",
     "name": "HSD01"
@@ -99263,6 +99279,10 @@
     "brand": "PEICHENG",
     "name": "Q1"
   },
+  "Q11_Pro": {
+    "brand": "PEICHENG",
+    "name": "Q11_Pro"
+  },
   "Q8 PRO": {
     "brand": "PEICHENG",
     "name": "Q8PRO"
@@ -100950,6 +100970,14 @@
   "Panasonic 2K TV LA": {
     "brand": "Panasonic",
     "name": "Panasonic 2K TV LA"
+  },
+  "Panasonic 2K TV SA": {
+    "brand": "Panasonic",
+    "name": "Panasonic 2K TV SA"
+  },
+  "Panasonic 4K TV SA": {
+    "brand": "Panasonic",
+    "name": "Panasonic 4K TV SA"
   },
   "Panasonic 4K TV US": {
     "brand": "Panasonic",
@@ -131427,6 +131455,10 @@
     "brand": "SoftBank",
     "name": "602ZT"
   },
+  "SL-75SLEDU168U": {
+    "brand": "Softlogic",
+    "name": "Interactive_Flat_Panel_SL"
+  },
   "Max-M8": {
     "brand": "Softlogic",
     "name": "MaxAiPlus"
@@ -132086,6 +132118,10 @@
   "XQ-FE72": {
     "brand": "Sony",
     "name": "Xperia 10 VII"
+  },
+  "SO-52G": {
+    "brand": "Sony",
+    "name": "Xperia 10 VIII"
   },
   "XQ-GH54": {
     "brand": "Sony",
