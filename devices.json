@@ -65883,6 +65883,10 @@
     "brand": "Korea Telecom",
     "name": "MA4100"
   },
+  "MA8000": {
+    "brand": "Korea Telecom",
+    "name": "MA8000"
+  },
   "MAR4510C": {
     "brand": "Korea Telecom",
     "name": "MAR4510C"
@@ -132203,7 +132207,19 @@
     "brand": "Sony",
     "name": "Xperia 10 VII"
   },
+  "A602SO": {
+    "brand": "Sony",
+    "name": "Xperia 10 VIII"
+  },
   "SO-52G": {
+    "brand": "Sony",
+    "name": "Xperia 10 VIII"
+  },
+  "SOG18": {
+    "brand": "Sony",
+    "name": "Xperia 10 VIII"
+  },
+  "XQ-GH44": {
     "brand": "Sony",
     "name": "Xperia 10 VIII"
   },
