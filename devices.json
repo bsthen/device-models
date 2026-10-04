@@ -9035,6 +9035,10 @@
     "brand": "Artel",
     "name": "GAPYOQ"
   },
+  "R3GS": {
+    "brand": "TCL",
+    "name": "R3GS"
+  },
   "Starpad_T-181": {
     "brand": "Artel",
     "name": "Starpad_T-181"
@@ -41616,8 +41620,8 @@
     "name": "Google TV"
   },
   "POLYTRON 2K": {
-    "brand": "HKC Elec",
-    "name": "Google TV"
+    "brand": "Polytron",
+    "name": "R3GS"
   },
   "4K 9676 Google TV": {
     "brand": "HKC Elec",
@@ -129446,10 +129450,6 @@
   "SH-04D": {
     "brand": "Sharp",
     "name": "Q-pot.Phone SH-04D"
-  },
-  "R3GS": {
-    "brand": "Sharp",
-    "name": "R3GS"
   },
   "R4-SH": {
     "brand": "Sharp",
