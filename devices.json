@@ -6655,6 +6655,18 @@
     "brand": "Altus",
     "name": "Altus UHD Pro TV"
   },
+  "ATTQUWI": {
+    "brand": "Amazon",
+    "name": "Alexa Tablet 11, Amazon Kids Tablet 11"
+  },
+  "ATSPUWI": {
+    "brand": "Amazon",
+    "name": "Alexa Tablet 12 Pro"
+  },
+  "ATROWI": {
+    "brand": "Amazon",
+    "name": "Alexa Tablet 8, Amazon Kids Tablet 8"
+  },
   "AME_QT08UM": {
     "brand": "Amdox",
     "name": "AME_QT08UM"
@@ -19679,6 +19691,10 @@
     "brand": "Callsky",
     "name": "Ctab_12"
   },
+  "Cpad_10": {
+    "brand": "Callsky-tab",
+    "name": "Cpad_10"
+  },
   "e720": {
     "brand": "Caltta",
     "name": "e720"
@@ -26366,6 +26382,10 @@
   "D2_US": {
     "brand": "DMOAO",
     "name": "D2_US"
+  },
+  "D3_C": {
+    "brand": "DMOAO",
+    "name": "D3_C"
   },
   "D3_E": {
     "brand": "DMOAO",
@@ -34591,6 +34611,10 @@
     "brand": "Gionee",
     "name": "F100"
   },
+  "F20": {
+    "brand": "ORBYS",
+    "name": "F20"
+  },
   "F310P": {
     "brand": "FEITIAN",
     "name": "F310 P"
@@ -41145,7 +41169,7 @@
   },
   "M8781A": {
     "brand": "H3Cmagic",
-    "name": "M8781A_EU"
+    "name": "M8781A_TK"
   },
   "MINTAKA": {
     "brand": "H819E",
@@ -46730,10 +46754,6 @@
   "Hisense Hi 3": {
     "brand": "Hisense",
     "name": "F102"
-  },
-  "F20": {
-    "brand": "ORBYS",
-    "name": "F20"
   },
   "Hisense F20": {
     "brand": "Hisense",
@@ -56135,6 +56155,10 @@
     "brand": "Hyundai",
     "name": "HT8WB1RBK03"
   },
+  "8WC1": {
+    "brand": "Hyundai",
+    "name": "Koral"
+  },
   "HY1-5085": {
     "brand": "Hyundai",
     "name": "HY1-5085"
@@ -56348,10 +56372,6 @@
     "name": "Koral"
   },
   "7WD1": {
-    "brand": "Hyundai",
-    "name": "Koral"
-  },
-  "8WC1": {
     "brand": "Hyundai",
     "name": "Koral"
   },
@@ -67046,6 +67066,10 @@
   "M10SE": {
     "brand": "LANDI",
     "name": "M10SE"
+  },
+  "M20 Plus": {
+    "brand": "LANDI",
+    "name": "M20PlusN00"
   },
   "M20SE": {
     "brand": "LANDI",
@@ -83670,6 +83694,10 @@
   "Mintt__Digi__2": {
     "brand": "Mintt",
     "name": "MINTT_DIGI_2"
+  },
+  "MINTT P26+": {
+    "brand": "Mintt",
+    "name": "MINTT_P26PLUS"
   },
   "MINTT PRIME S11": {
     "brand": "Mintt",
@@ -109031,6 +109059,10 @@
     "brand": "Redmi",
     "name": "REDMI 17C 5G"
   },
+  "2607FRNEAI": {
+    "brand": "Redmi",
+    "name": "REDMI 17C 5G"
+  },
   "26020RNB4A": {
     "brand": "Redmi",
     "name": "REDMI A7"
@@ -112155,6 +112187,10 @@
     "brand": "SKYEGG",
     "name": "K13-U-US"
   },
+  "K13_E": {
+    "brand": "SKYEGG",
+    "name": "K13_E"
+  },
   "K13_EEA": {
     "brand": "SKYEGG",
     "name": "K13_EEA"
@@ -113314,6 +113350,10 @@
   "S10_V_US": {
     "brand": "SUAAT",
     "name": "S10_V_US"
+  },
+  "S11_E": {
+    "brand": "SUAAT",
+    "name": "S11_E"
   },
   "S11_V_EEA": {
     "brand": "SUAAT",
@@ -136419,6 +136459,10 @@
     "brand": "TABWEE",
     "name": "W90_US"
   },
+  "GSIT8TAC": {
+    "brand": "TACTIVIS",
+    "name": "GSIT8TAC"
+  },
   "TADI_TOUCH_1": {
     "brand": "TADI",
     "name": "TADI_TOUCH_1_SERIES"
@@ -143097,7 +143141,7 @@
   },
   "ZIDS_701": {
     "brand": "TOPELOTEK",
-    "name": "ZIDS_701"
+    "name": "ZIDS_701_US"
   },
   "PNC450": {
     "brand": "TOPJOY",
@@ -148714,6 +148758,10 @@
   "U7_US": {
     "brand": "UJJ(SZ)",
     "name": "U7_US"
+  },
+  "U8_C": {
+    "brand": "UJJ(SZ)",
+    "name": "U8_C"
   },
   "U8_E": {
     "brand": "UJJ(SZ)",
@@ -159275,6 +159323,10 @@
     "brand": "Wintouch",
     "name": "A20"
   },
+  "A80PRO": {
+    "brand": "Wintouch",
+    "name": "A80PRO"
+  },
   "K19": {
     "brand": "Wintouch",
     "name": "K19"
@@ -161346,6 +161398,14 @@
   "2608BPX34C": {
     "brand": "Xiaomi",
     "name": "Xiaomi 18 Fold"
+  },
+  "M610BB": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 18 Pro"
+  },
+  "M154FF": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 18 Pro Max"
   },
   "2109119BC": {
     "brand": "Xiaomi",
@@ -170110,6 +170170,10 @@
   "F12_EEA": {
     "brand": "fezawio",
     "name": "F12_EEA"
+  },
+  "F12_E": {
+    "brand": "fezawio",
+    "name": "F12_E_EEA"
   },
   "F12_US": {
     "brand": "fezawio",
