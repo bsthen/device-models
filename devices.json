@@ -11099,6 +11099,10 @@
     "brand": "Avtek",
     "name": "TS_8_1_Mate_G"
   },
+  "TS_9_Lite_G": {
+    "brand": "Avtek",
+    "name": "TS_9_Lite_G"
+  },
   "TS_9_Mate_G": {
     "brand": "Avtek",
     "name": "TS_9_Mate_G"
@@ -19389,7 +19393,7 @@
   },
   "SA12 series": {
     "brand": "CVTE",
-    "name": "CVTE SA12"
+    "name": "SA12"
   },
   "edu_v2": {
     "brand": "CVTE",
@@ -22432,7 +22436,7 @@
     "name": "Q5 PRO"
   },
   "Q6": {
-    "brand": "G-Tab",
+    "brand": "VOPLLS",
     "name": "Q6"
   },
   "QT10": {
@@ -25322,6 +25326,10 @@
   "E9-W": {
     "brand": "DEERTiME",
     "name": "E9-W"
+  },
+  "E9_E": {
+    "brand": "DEERTiME",
+    "name": "E9_E"
   },
   "E9_EEA": {
     "brand": "DEERTiME",
@@ -38850,6 +38858,10 @@
   "GRINV1": {
     "brand": "Ghia",
     "name": "GRINV1"
+  },
+  "GRINV2": {
+    "brand": "Ghia",
+    "name": "GRINV2"
   },
   "GS3G": {
     "brand": "Ghia",
@@ -62018,6 +62030,10 @@
   "J2507": {
     "brand": "JOVI",
     "name": "JOVI V70 5G"
+  },
+  "J2607": {
+    "brand": "JOVI",
+    "name": "JOVI V80"
   },
   "J2505": {
     "brand": "JOVI",
@@ -93755,6 +93771,10 @@
     "brand": "OnePlus",
     "name": "OnePlus 15T"
   },
+  "PYB110": {
+    "brand": "OnePlus",
+    "name": "OnePlus 16"
+  },
   "ONEPLUS A6000": {
     "brand": "OnePlus",
     "name": "OnePlus 6"
@@ -102931,6 +102951,10 @@
     "brand": "Plimpton",
     "name": "PlimPad_P60"
   },
+  "iKids20_A16_EEA_JAE": {
+    "brand": "Plimpton",
+    "name": "iKids20_A16_EEA_JAE"
+  },
   "iKids20_A16_JAE": {
     "brand": "Plimpton",
     "name": "iKids20_A16_JAE"
@@ -110974,6 +110998,10 @@
   "AXX10": {
     "brand": "Ricoh",
     "name": "AXX10"
+  },
+  "RIIING_TAB_ULTRA": {
+    "brand": "Riiing",
+    "name": "RIIING_TAB_ULTRA"
   },
   "SRT412": {
     "brand": "RiksTV",
@@ -146271,6 +146299,10 @@
     "brand": "Tecno",
     "name": "TECNO SPARK 50T"
   },
+  "TECNO KN8s": {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 50S 5G"
+  },
   "TECNO KF6": {
     "brand": "Tecno",
     "name": "TECNO SPARK 7"
@@ -159899,6 +159931,10 @@
     "brand": "X-View",
     "name": "Q11"
   },
+  "QUANTUM_Q10X": {
+    "brand": "X-View",
+    "name": "QUANTUM_Q10X"
+  },
   "Quantum_Q7s": {
     "brand": "X-View",
     "name": "Quantum_Q7s"
@@ -169507,6 +169543,10 @@
     "brand": "ahlo",
     "name": "1"
   },
+  "T807J": {
+    "brand": "ahlo",
+    "name": "Ahlo 2"
+  },
   "A16": {
     "brand": "aigo",
     "name": "A16"
@@ -170038,6 +170078,10 @@
   "TAE10N12": {
     "brand": "eNOVA",
     "name": "TAE10N12"
+  },
+  "TAE10N13": {
+    "brand": "eNOVA",
+    "name": "TAE10N13"
   },
   "Emerald": {
     "brand": "eSSL",
@@ -172355,6 +172399,10 @@
     "brand": "noDROPOUT",
     "name": "T25"
   },
+  "EmkoBoard": {
+    "brand": "nova6",
+    "name": "Nova_6"
+  },
   "Bonvi Prime": {
     "brand": "novo",
     "name": "Bonvi Prime"
@@ -174283,6 +174331,14 @@
     "brand": "vivo",
     "name": "V70 Lite 5G"
   },
+  "V2648": {
+    "brand": "vivo",
+    "name": "V80"
+  },
+  "V2649": {
+    "brand": "vivo",
+    "name": "V80"
+  },
   "V2643": {
     "brand": "vivo",
     "name": "V80 Lite 5G"
@@ -174378,6 +174434,10 @@
   "V2609A": {
     "brand": "vivo",
     "name": "X500"
+  },
+  "V2656": {
+    "brand": "vivo",
+    "name": "X500 E"
   },
   "V2608A": {
     "brand": "vivo",
@@ -174610,6 +174670,10 @@
   "Vali1 Pro": {
     "brand": "wanbo",
     "name": "Vali1 Pro"
+  },
+  "X7 Pro Max": {
+    "brand": "wanbo",
+    "name": "X7 Pro Max"
   },
   "WC-F11": {
     "brand": "wancheng",
