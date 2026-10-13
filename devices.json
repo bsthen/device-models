@@ -1031,6 +1031,10 @@
     "brand": "ALPINE",
     "name": "Intelligent vehicle network system"
   },
+  "ALT-SR10-PRO": {
+    "brand": "ALT(IN)",
+    "name": "ALT-SR10-PRO"
+  },
   "L1": {
     "brand": "HEADWOLF",
     "name": "L1"
@@ -49507,6 +49511,10 @@
     "brand": "Honor",
     "name": "HONOR Pad X7"
   },
+  "ONL-W09": {
+    "brand": "Honor",
+    "name": "HONOR Pad X7b"
+  },
   "AGM3-AL09HN": {
     "brand": "Honor",
     "name": "HONOR Pad X8"
@@ -59978,6 +59986,10 @@
   "NOTE 15P": {
     "brand": "Invens",
     "name": "NOTE_15P_EEA"
+  },
+  "NOTE 18": {
+    "brand": "Invens",
+    "name": "NOTE_18_GO"
   },
   "NOTE 5G": {
     "brand": "Invens",
@@ -73958,6 +73970,10 @@
   "MOVE_6_mini": {
     "brand": "Lechpol",
     "name": "MOVE 6 mini"
+  },
+  "P900A": {
+    "brand": "Lecoo",
+    "name": "P900A"
   },
   "Le X820": {
     "brand": "Leeco",
@@ -96564,6 +96580,10 @@
     "name": "Pad Air5"
   },
   "OPD2515": {
+    "brand": "Oppo",
+    "name": "Pad Mini"
+  },
+  "OPD2516": {
     "brand": "Oppo",
     "name": "Pad Mini"
   },
@@ -131578,6 +131598,10 @@
   "Smooth626": {
     "brand": "Smooth",
     "name": "Smooth626"
+  },
+  "VEER": {
+    "brand": "Snexian",
+    "name": "VEER"
   },
   "ServiceChecKIT_EEA": {
     "brand": "Snopow",
@@ -174578,6 +174602,18 @@
   "V2574": {
     "brand": "vivo",
     "name": "Y31t 5G"
+  },
+  "V2638": {
+    "brand": "vivo",
+    "name": "Y32"
+  },
+  "V2641": {
+    "brand": "vivo",
+    "name": "Y32"
+  },
+  "V2642": {
+    "brand": "vivo",
+    "name": "Y32"
   },
   "V2455": {
     "brand": "vivo",
