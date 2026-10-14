@@ -579,6 +579,10 @@
     "brand": "Advan digital",
     "name": "XTAB"
   },
+  "X1 NEO": {
+    "brand": "ADVAN",
+    "name": "X1 NEO"
+  },
   "EO1_RK3588_08128": {
     "brand": "ADVANTOUCH",
     "name": "Android_EDLA_OPS"
@@ -1001,7 +1005,7 @@
   },
   "L3": {
     "brand": "Sunmi",
-    "name": "L3"
+    "name": "Sunmi L3/M3"
   },
   "L3A": {
     "brand": "ALPHAWOLF",
@@ -19687,9 +19691,17 @@
     "brand": "Cablecolor",
     "name": "GIU3A00"
   },
+  "Ctab-10Pro": {
+    "brand": "Callsky",
+    "name": "Cpad-10"
+  },
   "Cpad10": {
     "brand": "Callsky",
     "name": "Cpad10"
+  },
+  "Cpad-10": {
+    "brand": "Callsky",
+    "name": "Ctab-10Pro"
   },
   "Ctab 12": {
     "brand": "Callsky",
@@ -25299,6 +25311,10 @@
     "brand": "DEERTiME",
     "name": "E15_EEA"
   },
+  "E15_U": {
+    "brand": "DEERTiME",
+    "name": "E15_U"
+  },
   "E15_US": {
     "brand": "DEERTiME",
     "name": "E15_US"
@@ -26410,6 +26426,10 @@
   "D3_EU": {
     "brand": "DMOAO",
     "name": "D3_EU"
+  },
+  "D3_U": {
+    "brand": "DMOAO",
+    "name": "D3_U"
   },
   "D3_US": {
     "brand": "DMOAO",
@@ -29214,6 +29234,10 @@
   "CTS05": {
     "brand": "Disney",
     "name": "CTS05"
+  },
+  "CTS07": {
+    "brand": "Disney",
+    "name": "CTS07"
   },
   "DISNEYTAB": {
     "brand": "Disney",
@@ -38570,6 +38594,10 @@
   "F35": {
     "brand": "General_luxe",
     "name": "F35"
+  },
+  "General Luxe E16": {
+    "brand": "General_luxe",
+    "name": "General_Luxe_E16"
   },
   "SHAHIN III": {
     "brand": "General_luxe",
@@ -59989,7 +60017,7 @@
   },
   "NOTE 18": {
     "brand": "Invens",
-    "name": "NOTE_18_GO"
+    "name": "NOTE_18_ROW_GO"
   },
   "NOTE 5G": {
     "brand": "Invens",
@@ -91115,6 +91143,10 @@
     "brand": "Nexel",
     "name": "Infinity_Lite"
   },
+  "PJ40Pro": {
+    "brand": "NexiGo",
+    "name": "PJ40Pro"
+  },
   "Mi438S": {
     "brand": "Nexian",
     "name": "journey one"
@@ -105830,6 +105862,10 @@
   "WP101": {
     "brand": "Pretech",
     "name": "WP101"
+  },
+  "WP103": {
+    "brand": "Pretech",
+    "name": "WP103"
   },
   "WP106": {
     "brand": "Pretech",
