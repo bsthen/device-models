@@ -14543,6 +14543,10 @@
     "brand": "Biegedy",
     "name": "B22_EEA"
   },
+  "B22_U": {
+    "brand": "Biegedy",
+    "name": "B22_U"
+  },
   "B22_US": {
     "brand": "Biegedy",
     "name": "B22_US"
@@ -57787,6 +57791,10 @@
     "brand": "Ikon",
     "name": "IK-869"
   },
+  "IK-SET028": {
+    "brand": "Ikon",
+    "name": "IK-SET028"
+  },
   "IK-T808": {
     "brand": "Ikon",
     "name": "IK-T808"
@@ -94063,6 +94071,14 @@
     "brand": "OnePlus",
     "name": "OnePlus Ace 6 至尊版"
   },
+  "PYF110": {
+    "brand": "OnePlus",
+    "name": "OnePlus Ace 7"
+  },
+  "PMS110": {
+    "brand": "OnePlus",
+    "name": "OnePlus Ace 7 Pro"
+  },
   "PGZ110": {
     "brand": "OnePlus",
     "name": "OnePlus Ace 竞速版"
@@ -95918,6 +95934,30 @@
   "PAHM00": {
     "brand": "Oppo",
     "name": "Find X 兰博基尼"
+  },
+  "PMW110": {
+    "brand": "Oppo",
+    "name": "Find X10"
+  },
+  "CPH2911": {
+    "brand": "Oppo",
+    "name": "Find X10"
+  },
+  "OPG09": {
+    "brand": "Oppo",
+    "name": "Find X10"
+  },
+  "PNA110": {
+    "brand": "Oppo",
+    "name": "Find X10 E"
+  },
+  "PMX110": {
+    "brand": "Oppo",
+    "name": "Find X10 Pro Max"
+  },
+  "CPH2913": {
+    "brand": "Oppo",
+    "name": "Find X10 Pro Max"
   },
   "CPH2023": {
     "brand": "Oppo",
@@ -105887,6 +105927,10 @@
     "brand": "Prime",
     "name": "X6_Pro"
   },
+  "Primebook Duo Pro": {
+    "brand": "Primebook",
+    "name": "PB1310"
+  },
   "Primebook Duo Max": {
     "brand": "Primebook",
     "name": "PB1380"
@@ -112290,6 +112334,10 @@
   "K15_US": {
     "brand": "SKYEGG",
     "name": "K15_US"
+  },
+  "K16_E": {
+    "brand": "SKYEGG",
+    "name": "K16_E"
   },
   "K16_US": {
     "brand": "SKYEGG",
@@ -148831,6 +148879,10 @@
     "brand": "UJJ(SZ)",
     "name": "U6_EEA"
   },
+  "U6_U": {
+    "brand": "UJJ(SZ)",
+    "name": "U6_U"
+  },
   "U6_US": {
     "brand": "UJJ(SZ)",
     "name": "U6_US"
@@ -160263,6 +160315,10 @@
     "brand": "Xtratech",
     "name": "X8MT16"
   },
+  "Quantum_Q10x+": {
+    "brand": "XView",
+    "name": "QUANTUM_Q10XPLUS"
+  },
   "Protab10": {
     "brand": "X_View",
     "name": "Protab10"
@@ -170282,6 +170338,10 @@
   "F12_US": {
     "brand": "fezawio",
     "name": "F12_US"
+  },
+  "F12_U": {
+    "brand": "fezawio",
+    "name": "F12_U_US"
   },
   "F8_EEA": {
     "brand": "fezawio",
