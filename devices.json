@@ -9087,6 +9087,10 @@
     "brand": "Artia",
     "name": "SP545C_1"
   },
+  "SP676W": {
+    "brand": "Artia",
+    "name": "SP676W"
+  },
   "Artizlee_S9": {
     "brand": "Artizlee",
     "name": "Artizlee S9"
@@ -24131,6 +24135,10 @@
     "brand": "Coolpad",
     "name": "coolpad COOL 30 Play"
   },
+  "K22": {
+    "brand": "Komu",
+    "name": "K22"
+  },
   "2021": {
     "brand": "Coolpad",
     "name": "coolpad N7 Air"
@@ -25234,6 +25242,10 @@
   "TAB-T863-3": {
     "brand": "DAMASCO",
     "name": "TAB-T863-3"
+  },
+  "TAB-TK101-4": {
+    "brand": "DAMASCO",
+    "name": "tk101_4"
   },
   "RTC_M102": {
     "brand": "DARVEEN",
@@ -26490,6 +26502,10 @@
   "D7_EEA": {
     "brand": "DMOAO",
     "name": "D7_EEA"
+  },
+  "D7_U": {
+    "brand": "DMOAO",
+    "name": "D7_U"
   },
   "D7_US": {
     "brand": "DMOAO",
@@ -50179,6 +50195,10 @@
     "brand": "HorusVision",
     "name": "FieldHub1_0_ROW"
   },
+  "L67": {
+    "brand": "Hosan",
+    "name": "L67"
+  },
   "H-H101_EEA": {
     "brand": "Hosoton",
     "name": "H-H101_EEA"
@@ -58951,6 +58971,10 @@
     "brand": "Infinix",
     "name": "SMART 20"
   },
+  "Infinix X6843B": {
+    "brand": "Infinix",
+    "name": "SMART 20e"
+  },
   "Infinix X657C": {
     "brand": "Infinix",
     "name": "SMART 5"
@@ -64247,6 +64271,14 @@
     "brand": "KUVA",
     "name": "Pad"
   },
+  "15C": {
+    "brand": "KXD mobile",
+    "name": "15C"
+  },
+  "18_Max": {
+    "brand": "KXD mobile",
+    "name": "18_Max"
+  },
   "A06": {
     "brand": "KXD mobile",
     "name": "A06"
@@ -65794,10 +65826,6 @@
   "Kolke_KTK611": {
     "brand": "Kolke",
     "name": "KTK-611"
-  },
-  "K22": {
-    "brand": "Komu",
-    "name": "K22"
   },
   "Konchris 2K Android TV": {
     "brand": "Konchris",
@@ -79915,6 +79943,10 @@
     "brand": "MYCOM",
     "name": "COMEK_Tab_20"
   },
+  "COMEK Tab Joy 20": {
+    "brand": "MYCOM",
+    "name": "COMEK_Tab_Joy_20"
+  },
   "COMEK Tab K": {
     "brand": "MYCOM",
     "name": "COMEK_Tab_K"
@@ -80802,6 +80834,10 @@
   "ASTRO A67": {
     "brand": "Maxwest",
     "name": "ASTRO A67"
+  },
+  "ASTRO A68": {
+    "brand": "Maxwest",
+    "name": "ASTRO A68"
   },
   "MX-A10": {
     "brand": "Maxwest",
@@ -111483,6 +111519,10 @@
     "brand": "Ruio",
     "name": "S6539Q"
   },
+  "S6539Z": {
+    "brand": "Ruio",
+    "name": "S6539Z"
+  },
   "S6705": {
     "brand": "Ruio",
     "name": "S6705"
@@ -112143,6 +112183,10 @@
     "brand": "SINAL",
     "name": "SA08_310"
   },
+  "SA08_3100": {
+    "brand": "SINAL",
+    "name": "SA08_3100"
+  },
   "SINAT_TOUCH_ST": {
     "brand": "SINAT",
     "name": "SINAT TOUCH ST"
@@ -112334,6 +112378,10 @@
   "K15_US": {
     "brand": "SKYEGG",
     "name": "K15_US"
+  },
+  "K16_C": {
+    "brand": "SKYEGG",
+    "name": "K16_C"
   },
   "K16_E": {
     "brand": "SKYEGG",
@@ -135274,6 +135322,14 @@
   "STEP_UP": {
     "brand": "Stylo",
     "name": "STEP_UP"
+  },
+  "LEGACY": {
+    "brand": "Stylo",
+    "name": "STYLO LEGACY"
+  },
+  "LEGEND": {
+    "brand": "Stylo",
+    "name": "STYLO LEGEND"
   },
   "MAX": {
     "brand": "Stylo",
