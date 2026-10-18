@@ -17807,6 +17807,10 @@
     "brand": "Bluedot",
     "name": "BNT_1012W"
   },
+  "BP76A16": {
+    "brand": "Bluefin",
+    "name": "BP76A16"
+  },
   "BM-12WTN": {
     "brand": "Bluemake",
     "name": "BM-12WTN"
@@ -25183,6 +25187,10 @@
     "brand": "DABLIU",
     "name": "T1B"
   },
+  "T50PV_16R": {
+    "brand": "DABLIU",
+    "name": "T50PV_16R"
+  },
   "Daiichi 2K SMART TV": {
     "brand": "DAIICHI",
     "name": "Vietnam"
@@ -27846,6 +27854,10 @@
   "TAB30_EEA": {
     "brand": "Dghrti",
     "name": "TAB30_EEA"
+  },
+  "TAB30_U": {
+    "brand": "Dghrti",
+    "name": "TAB30_U"
   },
   "TAB30_US": {
     "brand": "Dghrti",
@@ -56177,7 +56189,7 @@
   },
   "10WC1": {
     "brand": "Hyundai",
-    "name": "HT10WC1MSG01_US"
+    "name": "HT10WC1MSG03"
   },
   "7GB1": {
     "brand": "Hyundai",
@@ -62654,6 +62666,10 @@
   "HT1": {
     "brand": "Janam",
     "name": "HT1"
+  },
+  "HT2": {
+    "brand": "Janam",
+    "name": "HT2"
   },
   "XG200": {
     "brand": "Janam",
@@ -112359,6 +112375,10 @@
     "brand": "SKYEGG",
     "name": "K13-U-US"
   },
+  "K13_C": {
+    "brand": "SKYEGG",
+    "name": "K13_C"
+  },
   "K13_E": {
     "brand": "SKYEGG",
     "name": "K13_E"
@@ -112386,6 +112406,10 @@
   "K16_E": {
     "brand": "SKYEGG",
     "name": "K16_E"
+  },
+  "K16_U": {
+    "brand": "SKYEGG",
+    "name": "K16_U"
   },
   "K16_US": {
     "brand": "SKYEGG",
@@ -113551,6 +113575,10 @@
     "brand": "SUAAT",
     "name": "S3_EEA"
   },
+  "S3_U": {
+    "brand": "SUAAT",
+    "name": "S3_U"
+  },
   "S3_US": {
     "brand": "SUAAT",
     "name": "S3_US"
@@ -113582,6 +113610,10 @@
   "S6_US": {
     "brand": "SUAAT",
     "name": "S6_US"
+  },
+  "Z138_C": {
+    "brand": "SUAAT",
+    "name": "Z138_C"
   },
   "SUNTB 01 GY": {
     "brand": "SUNCONNECTION",
@@ -136623,6 +136655,14 @@
     "brand": "Veidoo",
     "name": "T70"
   },
+  "Smarti Gen 3": {
+    "brand": "T-SOURCE",
+    "name": "T19_Plus"
+  },
+  "T19_Plus": {
+    "brand": "T-SOURCE",
+    "name": "T19_Plus"
+  },
   "TA71CA5": {
     "brand": "i-Buddie",
     "name": "TA71CA5"
@@ -136714,6 +136754,10 @@
   "TB_Series": {
     "brand": "TAMBOARD",
     "name": "TB_Series"
+  },
+  "TM1062": {
+    "brand": "TAPC",
+    "name": "TM1062"
   },
   "TATV-8000": {
     "brand": "TBC (TW)",
@@ -148926,6 +148970,10 @@
   "U3_V_US": {
     "brand": "UJJ(SZ)",
     "name": "U3_V_US"
+  },
+  "U6_C": {
+    "brand": "UJJ(SZ)",
+    "name": "U6_C"
   },
   "U6_E": {
     "brand": "UJJ(SZ)",
@@ -174251,6 +174299,10 @@
     "brand": "unitel",
     "name": "SMART_4G_II"
   },
+  "Unitel Smart III 4G SP160A": {
+    "brand": "unitel",
+    "name": "SMART_4G_III"
+  },
   "U901": {
     "brand": "unitel",
     "name": "U901"
@@ -174623,7 +174675,19 @@
     "brand": "vivo",
     "name": "X500 Pro"
   },
+  "V2621": {
+    "brand": "vivo",
+    "name": "X500 Pro"
+  },
+  "V2622": {
+    "brand": "vivo",
+    "name": "X500 Pro"
+  },
   "V2602A": {
+    "brand": "vivo",
+    "name": "X500 Pro Max"
+  },
+  "V2610": {
     "brand": "vivo",
     "name": "X500 Pro Max"
   },
