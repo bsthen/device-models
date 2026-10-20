@@ -98971,6 +98971,10 @@
     "brand": "Overmax",
     "name": "OV10274G"
   },
+  "N50_Pro": {
+    "brand": "Ovion",
+    "name": "N50_Pro"
+  },
   "V11 Lite": {
     "brand": "Ovion",
     "name": "V11_Lite_TR"
@@ -103014,6 +103018,10 @@
   "Kids20_PA15_EEA": {
     "brand": "Plimpton",
     "name": "Kids20_PA15_EEA"
+  },
+  "Kids30_A16_JAE": {
+    "brand": "Plimpton",
+    "name": "Kids30_A16_JAE"
   },
   "Kids_10": {
     "brand": "Plimpton",
@@ -117695,6 +117703,10 @@
     "brand": "Samsung",
     "name": "Galaxy F70 5G"
   },
+  "SM-E476B": {
+    "brand": "Samsung",
+    "name": "Galaxy F70 Pro 5G"
+  },
   "SM-E076B": {
     "brand": "Samsung",
     "name": "Galaxy F70e 5G"
@@ -119414,6 +119426,10 @@
   "SM-M426B": {
     "brand": "Samsung",
     "name": "Galaxy M42 5G"
+  },
+  "SM-M476B": {
+    "brand": "Samsung",
+    "name": "Galaxy M47 5G"
   },
   "SM-M515F": {
     "brand": "Samsung",
@@ -149503,6 +149519,10 @@
     "brand": "Ulefone",
     "name": "Armor X17 Pro"
   },
+  "Armor X17 Pro": {
+    "brand": "Ulefone",
+    "name": "Armor X17 Ultra"
+  },
   "Armor_X2": {
     "brand": "Ulefone",
     "name": "Armor_X2"
@@ -172774,6 +172794,10 @@
   "PM1042TW": {
     "brand": "onn.",
     "name": "PM1042TW"
+  },
+  "PM108AK": {
+    "brand": "onn.",
+    "name": "PM108AK"
   },
   "PM116T": {
     "brand": "onn.",
