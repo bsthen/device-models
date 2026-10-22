@@ -903,6 +903,10 @@
     "brand": "AIDATA",
     "name": "ADT_1061"
   },
+  "T7": {
+    "brand": "Winnovo",
+    "name": "T7_eea"
+  },
   "AI+ Nova 1 5G": {
     "brand": "AIPLUS",
     "name": "AI+ Nova 1 5G"
@@ -14692,8 +14696,8 @@
     "name": "Energy"
   },
   "F07": {
-    "brand": "Bird",
-    "name": "F07"
+    "brand": "Franko",
+    "name": "Franko F07"
   },
   "F15": {
     "brand": "Bird",
@@ -32019,6 +32023,10 @@
     "brand": "ETELPREMIUM",
     "name": "ETEL P66"
   },
+  "ETEL_P67": {
+    "brand": "ETELPREMIUM",
+    "name": "ETEL P67"
+  },
   "ETEL_P69": {
     "brand": "ETELPREMIUM",
     "name": "ETEL_P69"
@@ -32738,10 +32746,6 @@
   "T201": {
     "brand": "TOSCIDO",
     "name": "T201"
-  },
-  "T7": {
-    "brand": "Winnovo",
-    "name": "T7_eea"
   },
   "B866V2F01": {
     "brand": "Elisa",
@@ -34914,6 +34918,10 @@
   "SYNC": {
     "brand": "FMC",
     "name": "Digital Experience"
+  },
+  "F18 Pro": {
+    "brand": "FOAL",
+    "name": "F18_Pro"
   },
   "FOLG GT 10": {
     "brand": "FOLG",
@@ -56295,6 +56303,10 @@
     "brand": "Hyundai",
     "name": "HYUNDAI"
   },
+  "HYUNDAI Super TV": {
+    "brand": "Hyundai",
+    "name": "HYUNDAI"
+  },
   "EcoTV Ultra": {
     "brand": "Philips",
     "name": "PHILIPS"
@@ -76891,6 +76903,10 @@
     "brand": "Lephone",
     "name": "lephone_P2Plus"
   },
+  "BRIGHT_18": {
+    "brand": "Lesia",
+    "name": "BRIGHT_18"
+  },
   "BRIGHT 20": {
     "brand": "Lesia",
     "name": "BRIGHT_20"
@@ -79663,6 +79679,10 @@
     "brand": "MTC",
     "name": "Infiniton"
   },
+  "JAHAN VINESH 4K": {
+    "brand": "MTC",
+    "name": "JAHANVINESH"
+  },
   "JVC TV Ultra": {
     "brand": "MTC",
     "name": "JVC"
@@ -79706,6 +79726,14 @@
   "S4000-C0C10": {
     "brand": "MTC",
     "name": "S4000-C0C10"
+  },
+  "STARGOLD 2KTV": {
+    "brand": "MTC",
+    "name": "STARGOLD"
+  },
+  "STARGOLD 4K UHDTV": {
+    "brand": "MTC",
+    "name": "STARGOLD"
   },
   "SANSUI4KAndroidTV": {
     "brand": "MTC",
@@ -79982,6 +80010,10 @@
   "COMEK Tab 20": {
     "brand": "MYCOM",
     "name": "COMEK_Tab_20"
+  },
+  "COMEK Tab Joy 10": {
+    "brand": "MYCOM",
+    "name": "COMEK_Tab_Joy_10"
   },
   "COMEK Tab Joy 20": {
     "brand": "MYCOM",
@@ -93223,6 +93255,10 @@
     "brand": "ORION",
     "name": "Doshisha 2K Smart TV"
   },
+  "ORION 2KTV": {
+    "brand": "ORION",
+    "name": "ORION"
+  },
   "ORION SMART TV": {
     "brand": "ORION",
     "name": "ORION"
@@ -93634,6 +93670,10 @@
   "Octopus A83 CT4": {
     "brand": "Olive Oil",
     "name": "CT4"
+  },
+  "Olive 4K UHDTV": {
+    "brand": "Olive Oil",
+    "name": "Olive"
   },
   "CT3": {
     "brand": "Olive Oil",
@@ -114755,6 +114795,10 @@
     "brand": "Samsung",
     "name": "Galaxy A03s"
   },
+  "SM-S135DL": {
+    "brand": "Samsung",
+    "name": "Galaxy A03s"
+  },
   "SM-A045F": {
     "brand": "Samsung",
     "name": "Galaxy A04"
@@ -119146,6 +119190,10 @@
   "SM-A202K": {
     "brand": "Samsung",
     "name": "Galaxy Jean2"
+  },
+  "SM-A326K": {
+    "brand": "Samsung",
+    "name": "Galaxy Jump"
   },
   "SM-M336K": {
     "brand": "Samsung",
@@ -124411,6 +124459,10 @@
     "brand": "Samsung",
     "name": "Galaxy Tab Active3"
   },
+  "SM-T630": {
+    "brand": "Samsung",
+    "name": "Galaxy Tab Active4 Pro"
+  },
   "SM-T636B": {
     "brand": "Samsung",
     "name": "Galaxy Tab Active4 Pro 5G"
@@ -127343,6 +127395,10 @@
     "brand": "Samsung",
     "name": "Sidekick"
   },
+  "SM-T270": {
+    "brand": "Samsung",
+    "name": "SmartThings Home Tablet"
+  },
   "SCH-R730": {
     "brand": "Samsung",
     "name": "Transfix"
@@ -127406,6 +127462,14 @@
   "SM-W7023": {
     "brand": "Samsung",
     "name": "心系天下 三星 W23 Flip"
+  },
+  "SM-W9024": {
+    "brand": "Samsung",
+    "name": "心系天下 三星 W24"
+  },
+  "SM-W7024": {
+    "brand": "Samsung",
+    "name": "心系天下 三星 W24 Flip"
   },
   "SM-W9025": {
     "brand": "Samsung",
@@ -171455,6 +171519,10 @@
     "brand": "iHunt",
     "name": "S21_Ultra_4G_2021_EEA"
   },
+  "S27 Ultra": {
+    "brand": "iHunt",
+    "name": "S27_Ultra"
+  },
   "S30 ULTRA APEX 2021": {
     "brand": "iHunt",
     "name": "S30 ULTRA APEX 2021"
@@ -172146,6 +172214,10 @@
   "MIT700": {
     "brand": "iRiver",
     "name": "DMT580D"
+  },
+  "Iriver4KAndroidTV": {
+    "brand": "iRiver",
+    "name": "Iriver"
   },
   "MM-3201": {
     "brand": "iRiver",
