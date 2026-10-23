@@ -34341,7 +34341,7 @@
   },
   "FU 4K SMART TV": {
     "brand": "F&U (Fandu)",
-    "name": "Greece"
+    "name": "FU 4K SMART TV"
   },
   "F and U Android TV": {
     "brand": "F&U (Fandu)",
@@ -45629,7 +45629,7 @@
   },
   "HIP-T66": {
     "brand": "Haitech",
-    "name": "HIP-T66"
+    "name": "HIP_T66"
   },
   "HPAD-M2": {
     "brand": "Haitech",
@@ -56858,6 +56858,10 @@
   "Z20": {
     "brand": "Symphony",
     "name": "Z20"
+  },
+  "IFP_3576": {
+    "brand": "IKINOR",
+    "name": "IFP_3576"
   },
   "PRIME": {
     "brand": "Stylo",
@@ -79147,6 +79151,10 @@
     "brand": "MIRAI_TOUCH",
     "name": "MXXCE4S"
   },
+  "CE4X_Series": {
+    "brand": "MIRAI_TOUCH",
+    "name": "MXXCE4X"
+  },
   "MXXCE4X": {
     "brand": "MIRAI_TOUCH",
     "name": "MXXCE4X"
@@ -80720,7 +80728,7 @@
     "name": "HE2704"
   },
   "HP4411": {
-    "brand": "MauritiusTelcom",
+    "brand": "MauritiusTelecom",
     "name": "HP4411"
   },
   "MS453": {
