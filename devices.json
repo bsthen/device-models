@@ -4795,6 +4795,10 @@
     "brand": "Airtel",
     "name": "XstreamIPTV1"
   },
+  "XstreamIPTV4-VT": {
+    "brand": "Airtel",
+    "name": "XstreamIPTV4"
+  },
   "XstreamIPTV2-SM": {
     "brand": "Airtel-Xstream",
     "name": "XstreamIPTV2-SM"
@@ -7558,6 +7562,14 @@
   "AQUA MatrixTV GE": {
     "brand": "Aqua",
     "name": "AQUA MatrixTV GE"
+  },
+  "AQUA MatrixTV GE1": {
+    "brand": "Aqua",
+    "name": "AQUA MatrixTV GE1"
+  },
+  "AQUA MatrixTV HE": {
+    "brand": "Aqua",
+    "name": "AQUA MatrixTV HE"
   },
   "AQUA Android TV": {
     "brand": "Aqua",
@@ -40927,13 +40939,13 @@
     "brand": "GreenLion",
     "name": "G-8_PRO"
   },
-  "A10Pro": {
-    "brand": "Greentel",
-    "name": "A10Pro"
-  },
   "A10_Pro": {
     "brand": "Greentel",
     "name": "A10_Pro"
+  },
+  "A10Pro": {
+    "brand": "Greentel",
+    "name": "A10Pro"
   },
   "A10_premium": {
     "brand": "Greentel",
@@ -44979,6 +44991,14 @@
     "brand": "Haier",
     "name": "CANDY MatrixTV GE"
   },
+  "CANDY MatrixTV GE1": {
+    "brand": "Haier",
+    "name": "CANDY MatrixTV GE1"
+  },
+  "CANDY MatrixTV HE": {
+    "brand": "Haier",
+    "name": "CANDY MatrixTV HE"
+  },
   "CDP7TAB4C8": {
     "brand": "Haier",
     "name": "CDP7TAB4C8"
@@ -45306,6 +45326,14 @@
   "Haier MatrixTV GE": {
     "brand": "Haier",
     "name": "Haier MatrixTV GE"
+  },
+  "Haier MatrixTV GE1": {
+    "brand": "Haier",
+    "name": "Haier MatrixTV GE1"
+  },
+  "Haier MatrixTV HE": {
+    "brand": "Haier",
+    "name": "Haier MatrixTV HE"
   },
   "Haier OLED TV AE": {
     "brand": "Haier",
@@ -45699,10 +45727,6 @@
     "brand": "Hamlet",
     "name": "XZPAD470LTE"
   },
-  "Blade_6_Pro": {
-    "brand": "Hammer",
-    "name": "Blade_6_Pro_EEA"
-  },
   "Construction_3_5G": {
     "brand": "Hammer",
     "name": "Construction_3_5G_EEA"
@@ -45722,6 +45746,10 @@
   "Hammer_Blade_5G": {
     "brand": "Hammer",
     "name": "Hammer Blade 5G"
+  },
+  "Blade_6_Pro": {
+    "brand": "Hammer",
+    "name": "Hammer Blade 6 PRO"
   },
   "Hammer Blade Va 5G": {
     "brand": "Hammer",
@@ -66611,6 +66639,10 @@
     "brand": "Kyocera",
     "name": "DIGNO BX3 カメラレス"
   },
+  "A601KC": {
+    "brand": "Kyocera",
+    "name": "DIGNO BX4"
+  },
   "WX04K": {
     "brand": "Kyocera",
     "name": "DIGNO Dual"
@@ -74091,6 +74123,14 @@
     "brand": "Lechpol",
     "name": "MOVE 6 mini"
   },
+  "P131B": {
+    "brand": "Lecoo",
+    "name": "P131B"
+  },
+  "P132W": {
+    "brand": "Lecoo",
+    "name": "P132W"
+  },
   "P900A": {
     "brand": "Lecoo",
     "name": "P900A"
@@ -76922,6 +76962,10 @@
   "BRIGHT 6": {
     "brand": "Lesia",
     "name": "BRIGHT_6"
+  },
+  "BRIGHT_9": {
+    "brand": "Lesia",
+    "name": "BRIGHT_9"
   },
   "FUTURE 10": {
     "brand": "Lesia",
@@ -91267,6 +91311,10 @@
     "brand": "Nexel",
     "name": "Infinity_Lite"
   },
+  "NovaMini_Lite": {
+    "brand": "NexiGo",
+    "name": "NovaMini_Lite"
+  },
   "PJ40Pro": {
     "brand": "NexiGo",
     "name": "PJ40Pro"
@@ -92572,6 +92620,14 @@
     "name": "N21"
   },
   "S6010L": {
+    "brand": "Nuu",
+    "name": "N22"
+  },
+  "S6516L": {
+    "brand": "Nuu",
+    "name": "N22"
+  },
+  "S6518L": {
     "brand": "Nuu",
     "name": "N22"
   },
@@ -95414,6 +95470,10 @@
   "CPH2931": {
     "brand": "Oppo",
     "name": "F35 5G"
+  },
+  "CPH2909": {
+    "brand": "Oppo",
+    "name": "A7 Pro Max 5G"
   },
   "CPH2067": {
     "brand": "Oppo",
@@ -107635,6 +107695,10 @@
     "brand": "Quantum",
     "name": "Elise_T65V"
   },
+  "Elite T90E": {
+    "brand": "Quantum",
+    "name": "Elise_T65V"
+  },
   "Quantum Fly": {
     "brand": "Quantum",
     "name": "FLY"
@@ -109229,7 +109293,7 @@
   },
   "D101_PRO": {
     "brand": "RebotAi",
-    "name": "D101_EEA"
+    "name": "D101_PRO_US"
   },
   "D101_EEA": {
     "brand": "RebotAi",
@@ -175290,6 +175354,10 @@
   "CT1001": {
     "brand": "yyswie",
     "name": "CT1001_EEA"
+  },
+  "ZPad": {
+    "brand": "zyrex",
+    "name": "ZPad_10"
   },
   "ZT 216": {
     "brand": "zyrex",
