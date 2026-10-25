@@ -60119,6 +60119,10 @@
     "brand": "Invens",
     "name": "NOTE_15P_EEA"
   },
+  "NOTE 18P": {
+    "brand": "Invens",
+    "name": "NOTE_18P_RU"
+  },
   "NOTE 18": {
     "brand": "Invens",
     "name": "NOTE_18_ROW_GO"
@@ -100430,6 +100434,10 @@
   "Eagle X": {
     "brand": "PROTON",
     "name": "Eagle X"
+  },
+  "Glory_i20": {
+    "brand": "PROTON",
+    "name": "Glory_i20"
   },
   "Glory_i30": {
     "brand": "PROTON",
