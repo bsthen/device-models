@@ -84139,6 +84139,18 @@
     "brand": "Miramage",
     "name": "Miramage AndroidTV"
   },
+  "Smart TV E": {
+    "brand": "Miramage",
+    "name": "Smart TV E"
+  },
+  "Smart TV P": {
+    "brand": "PANORAMA",
+    "name": "SmartTV P"
+  },
+  "SmartTV 4K M5": {
+    "brand": "Miramage",
+    "name": "SmartTV 4K M5"
+  },
   "Miramage AndroidTV": {
     "brand": "Miramage",
     "name": "TV5023UHDA11SMARTG"
@@ -99254,10 +99266,6 @@
   "Y95": {
     "brand": "PAITANRY",
     "name": "Y95"
-  },
-  "Smart TV P": {
-    "brand": "PANORAMA",
-    "name": "SmartTV P"
   },
   "Smart TV KR": {
     "brand": "PANORAMA",
@@ -136215,6 +136223,10 @@
     "brand": "Syinix",
     "name": "Glory TV"
   },
+  "Syinix Google TV": {
+    "brand": "Syinix",
+    "name": "Syinix Google TV"
+  },
   "Syinix TV": {
     "brand": "Syinix",
     "name": "Syinix TV"
@@ -151890,6 +151902,10 @@
   "VSP Google TV": {
     "brand": "VSP(VN)",
     "name": "VSP Google TV"
+  },
+  "VSP Google TV 4K M5": {
+    "brand": "VSP(VN)",
+    "name": "VSP Google TV 4K M5"
   },
   "VSP Google TV P": {
     "brand": "VSP(VN)",
