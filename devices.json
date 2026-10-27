@@ -1375,6 +1375,10 @@
     "brand": "Micromax",
     "name": "A75"
   },
+  "AQCH108": {
+    "brand": "AQuasar",
+    "name": "AQCH108"
+  },
   "BM5500": {
     "brand": "ARATEK",
     "name": "BM5500"
@@ -11130,6 +11134,10 @@
   "TS_8_1_Mate_G": {
     "brand": "Avtek",
     "name": "TS_8_1_Mate_G"
+  },
+  "TS_9_Connect": {
+    "brand": "Avtek",
+    "name": "TS_9_Connect"
   },
   "TS_9_Lite_G": {
     "brand": "Avtek",
@@ -26631,6 +26639,10 @@
     "brand": "MOREFUN",
     "name": "M90"
   },
+  "SLP36": {
+    "brand": "DOMO",
+    "name": "SLP36"
+  },
   "Slate": {
     "brand": "DOMO",
     "name": "Slate"
@@ -40219,6 +40231,10 @@
     "brand": "GoClever",
     "name": "TQ700/QUANTUM 700/TAB"
   },
+  "S6518L": {
+    "brand": "Nuu",
+    "name": "N22"
+  },
   "S5506L": {
     "brand": "GoMo",
     "name": "N11"
@@ -41610,6 +41626,10 @@
   "BH502G": {
     "brand": "HEROFUN",
     "name": "BH502G"
+  },
+  "BH518": {
+    "brand": "HEROFUN",
+    "name": "BH518"
   },
   "BH558G": {
     "brand": "HEROFUN",
@@ -50074,6 +50094,10 @@
   "VCA-AN00": {
     "brand": "Honor",
     "name": "荣耀V Purse"
+  },
+  "HES-W00": {
+    "brand": "Honor",
+    "name": "荣耀WIN平板"
   },
   "BRC-AN00": {
     "brand": "Honor",
@@ -76975,6 +76999,10 @@
     "brand": "Lesia",
     "name": "FUTURE 10"
   },
+  "FUTURE_10C": {
+    "brand": "Lesia",
+    "name": "FUTURE_10C"
+  },
   "FUTURE_18_PRO": {
     "brand": "Lesia",
     "name": "FUTURE_18_PRO"
@@ -92643,10 +92671,6 @@
     "brand": "Nuu",
     "name": "N22"
   },
-  "S6518L": {
-    "brand": "Nuu",
-    "name": "N22"
-  },
   "S6704L": {
     "brand": "Nuu",
     "name": "N30"
@@ -100266,6 +100290,10 @@
   "2607DPC18I": {
     "brand": "POCO",
     "name": "POCO X8"
+  },
+  "2609FPC74I": {
+    "brand": "POCO",
+    "name": "POCO X8 Power"
   },
   "2511FPC34G": {
     "brand": "POCO",
@@ -109592,6 +109620,10 @@
     "name": "REDMI Note 17 Pro 5G"
   },
   "2609FRA74G": {
+    "brand": "Redmi",
+    "name": "REDMI Note 17 Pro Max 5G"
+  },
+  "2609FRA74I": {
     "brand": "Redmi",
     "name": "REDMI Note 17 Pro Max 5G"
   },
@@ -149159,6 +149191,10 @@
     "brand": "UGRIHACH",
     "name": "MB1001_EEA"
   },
+  "U3_C": {
+    "brand": "UJJ(SZ)",
+    "name": "U3_C"
+  },
   "U3_EEA": {
     "brand": "UJJ(SZ)",
     "name": "U3_EEA"
@@ -155842,10 +155878,6 @@
   "V2355": {
     "brand": "Vivo",
     "name": "Y58 5G"
-  },
-  "V2607A": {
-    "brand": "vivo",
-    "name": "Y600 AI"
   },
   "vivo Y66": {
     "brand": "Vivo",
@@ -163151,6 +163183,10 @@
     "brand": "ZIOVO",
     "name": "Z168_EEA"
   },
+  "Z168_U": {
+    "brand": "ZIOVO",
+    "name": "Z168_U"
+  },
   "Z168_US": {
     "brand": "ZIOVO",
     "name": "Z168_US"
@@ -163162,6 +163198,10 @@
   "Z168_U_US": {
     "brand": "ZIOVO",
     "name": "Z168_U_US"
+  },
+  "ZKDIGIMAX_I3": {
+    "brand": "ZKDIGIMAX",
+    "name": "ZKDIGIMAX_I3"
   },
   "SC02-I5": {
     "brand": "ZKTeco",
@@ -173043,6 +173083,10 @@
     "brand": "onn.",
     "name": "PM116T_LTE"
   },
+  "PM132T": {
+    "brand": "onn.",
+    "name": "PM132T"
+  },
   "PM82TW": {
     "brand": "onn.",
     "name": "PM82TW"
@@ -175091,6 +175135,10 @@
     "brand": "vivo",
     "name": "Y32"
   },
+  "V2639": {
+    "brand": "vivo",
+    "name": "Y32 5G"
+  },
   "V2455": {
     "brand": "vivo",
     "name": "Y400"
@@ -175134,6 +175182,10 @@
   "V2559A": {
     "brand": "vivo",
     "name": "Y6t"
+  },
+  "V2607A": {
+    "brand": "vivo",
+    "name": "Y600 AI版"
   },
   "V2561A": {
     "brand": "vivo",
