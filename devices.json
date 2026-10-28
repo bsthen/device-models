@@ -19044,8 +19044,8 @@
     "name": "E30_EEA"
   },
   "E30": {
-    "brand": "Inhon",
-    "name": "E30"
+    "brand": "REDTONE",
+    "name": "RTSP-C64B"
   },
   "E30_Pro": {
     "brand": "COLORROOM",
@@ -41654,6 +41654,10 @@
   "DS-MDT202": {
     "brand": "HIKVISION",
     "name": "DS-MDT202"
+  },
+  "DS-MDT202PRO": {
+    "brand": "HIKVISION",
+    "name": "DS-MDT202PRO"
   },
   "DS-MDT301": {
     "brand": "HIKVISION",
@@ -74159,6 +74163,10 @@
     "brand": "Lecoo",
     "name": "P132W"
   },
+  "P140W": {
+    "brand": "Lecoo",
+    "name": "P140W"
+  },
   "P900A": {
     "brand": "Lecoo",
     "name": "P900A"
@@ -80805,7 +80813,7 @@
   },
   "HP4411": {
     "brand": "MauritiusTelecom",
-    "name": "HP4411"
+    "name": "HP4411-MT"
   },
   "MS453": {
     "brand": "Maxcom",
@@ -149687,6 +149695,10 @@
     "brand": "Ulefone",
     "name": "ArmorPad3Pro_EEA"
   },
+  "Armor Pad 4": {
+    "brand": "Ulefone",
+    "name": "Armor Pad 4"
+  },
   "Armor Pad 4 Ultra": {
     "brand": "Ulefone",
     "name": "Armor Pad 4 Ultra"
@@ -171999,6 +172011,10 @@
     "brand": "iMin",
     "name": "Swan3"
   },
+  "I26D01": {
+    "brand": "iMin",
+    "name": "Swan4"
+  },
   "I22M01": {
     "brand": "iMin",
     "name": "Swift 1"
@@ -172234,6 +172250,10 @@
   "V2573A": {
     "brand": "iQOO",
     "name": "iQOO Neo11 至尊版"
+  },
+  "V2618A": {
+    "brand": "iQOO",
+    "name": "iQOO Neo12"
   },
   "iPA2691": {
     "brand": "iQOO",
