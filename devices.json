@@ -11835,6 +11835,10 @@
     "brand": "Pritom",
     "name": "K7Pro"
   },
+  "BFL PO728M": {
+    "brand": "BFL",
+    "name": "PO728M"
+  },
   "BGH 2K Android TV": {
     "brand": "BGH S.A.",
     "name": "BGH 2K Android TV"
@@ -22570,6 +22574,10 @@
   "Qtab10Plus": {
     "brand": "Compaq",
     "name": "Qtab10Plus"
+  },
+  "Qtab11": {
+    "brand": "Compaq",
+    "name": "Qtab11"
   },
   "Qtab Ultra": {
     "brand": "Compaq",
@@ -84015,6 +84023,10 @@
     "brand": "Mintt",
     "name": "P26"
   },
+  "P27+": {
+    "brand": "Mintt",
+    "name": "P27PLUS"
+  },
   "CoolMintt Rival 2": {
     "brand": "Mintt",
     "name": "Rival_2"
@@ -87538,6 +87550,10 @@
   "XT2575-3": {
     "brand": "Motorola",
     "name": "moto pad 60 neo"
+  },
+  "XT2571-1": {
+    "brand": "Motorola",
+    "name": "moto pad 60 pro"
   },
   "XT2673-1": {
     "brand": "Motorola",
@@ -93150,6 +93166,10 @@
   "X700": {
     "brand": "OMIX",
     "name": "X700"
+  },
+  "OMMI A17S": {
+    "brand": "OMMI",
+    "name": "OMMI_A17S"
   },
   "T7_PRO": {
     "brand": "ONDA TLC",
@@ -100526,6 +100546,10 @@
   "Power 50": {
     "brand": "PROTON",
     "name": "Power 50"
+  },
+  "Power 60": {
+    "brand": "PROTON",
+    "name": "Power_60"
   },
   "X10 Pro": {
     "brand": "PROTON",
@@ -113638,6 +113662,10 @@
   "STK EVO": {
     "brand": "STK(Santok)",
     "name": "STK EVO"
+  },
+  "Helix": {
+    "brand": "STK(Santok)",
+    "name": "STK Helix"
   },
   "STK Hero Lite": {
     "brand": "STK(Santok)",
@@ -145039,6 +145067,10 @@
     "brand": "Teclast",
     "name": "P85_RUS"
   },
+  "RGD1": {
+    "brand": "Teclast",
+    "name": "RGD1_EEA"
+  },
   "RGD1_ROW": {
     "brand": "Teclast",
     "name": "RGD1_US"
@@ -160090,6 +160122,10 @@
   "HT10_Ultra": {
     "brand": "Wpawa",
     "name": "HT10_Ultra"
+  },
+  "HT10_Ultra_A17": {
+    "brand": "Wpawa",
+    "name": "HT10_Ultra_A17"
   },
   "ACE": {
     "brand": "X-Age",
