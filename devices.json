@@ -18799,6 +18799,10 @@
     "brand": "CHAINWAY",
     "name": "C90A"
   },
+  "MC80": {
+    "brand": "CHAINWAY",
+    "name": "CHAINWAY_MC80"
+  },
   "MC21": {
     "brand": "CHAINWAY",
     "name": "MC21"
@@ -18810,6 +18814,10 @@
   "MC51": {
     "brand": "CHAINWAY",
     "name": "MC51"
+  },
+  "MC51S": {
+    "brand": "CHAINWAY",
+    "name": "MC51S"
   },
   "MC62": {
     "brand": "CHAINWAY",
@@ -24559,10 +24567,6 @@
     "brand": "Crosscall",
     "name": "CORE-M4 GO"
   },
-  "AD-Z5": {
-    "brand": "Crosscall",
-    "name": "CORE-Z6 450"
-  },
   "Core-X3": {
     "brand": "Crosscall",
     "name": "Core- X3"
@@ -24606,6 +24610,10 @@
   "Core-Z5P": {
     "brand": "Crosscall",
     "name": "Core-Z5P"
+  },
+  "AD-Z5": {
+    "brand": "Crosscall",
+    "name": "Core-Z6 450"
   },
   "ODYSSEY": {
     "brand": "Crosscall",
@@ -63503,6 +63511,10 @@
     "brand": "KDDI",
     "name": "Power Up Unit"
   },
+  "ST4000G": {
+    "brand": "KDDI",
+    "name": "ST4000G"
+  },
   "STA3000": {
     "brand": "KDDI",
     "name": "STA3000"
@@ -64370,6 +64382,10 @@
   "KUBIK_GENTA_10": {
     "brand": "KUBIK",
     "name": "KUBIK_GENTA_10"
+  },
+  "HONOR CHOICE Pad 3": {
+    "brand": "KUMI",
+    "name": "KM-TC02_EEA"
   },
   "KCG02": {
     "brand": "KURAEMON",
@@ -73499,6 +73515,10 @@
     "brand": "Lava",
     "name": "Shark 2 5G"
   },
+  "LAVA LZG414": {
+    "brand": "Lava",
+    "name": "Smart 4"
+  },
   "LTN10RT": {
     "brand": "Lava",
     "name": "T101"
@@ -77031,6 +77051,10 @@
     "brand": "Lesia",
     "name": "NEO_9"
   },
+  "PAD_10_Pro": {
+    "brand": "Lesia",
+    "name": "PAD_10_Pro"
+  },
   "Pad_11": {
     "brand": "Lesia",
     "name": "Pad_11"
@@ -78591,6 +78615,10 @@
     "brand": "M-Horse",
     "name": "Pure 3"
   },
+  "S27Ultra": {
+    "brand": "M-Horse",
+    "name": "S27Ultra_US"
+  },
   "M-KOPA M10": {
     "brand": "M-KOPA",
     "name": "M-KOPA M10"
@@ -79031,6 +79059,10 @@
     "brand": "MEFERI",
     "name": "ME74"
   },
+  "ME87": {
+    "brand": "MEFERI",
+    "name": "ME87"
+  },
   "Multimedia_Megaaudio": {
     "brand": "MEGAAUDIO",
     "name": "Multimedia_Megaaudio"
@@ -79046,6 +79078,10 @@
   "D108": {
     "brand": "MEIZE",
     "name": "D108"
+  },
+  "D112": {
+    "brand": "MEIZE",
+    "name": "D112"
   },
   "D117": {
     "brand": "MEIZE",
@@ -128211,6 +128247,10 @@
     "brand": "Seuic",
     "name": "AUTOID Pad Air"
   },
+  "AUTOID Pad Air 11": {
+    "brand": "Seuic",
+    "name": "AUTOID Pad Air 11"
+  },
   "AUTOID Pad Air-5G": {
     "brand": "Seuic",
     "name": "AUTOID Pad Air-5G"
@@ -128242,6 +128282,10 @@
   "AUTOIDQ9": {
     "brand": "Seuic",
     "name": "AUTOIDQ9"
+  },
+  "CRUISE Air": {
+    "brand": "Seuic",
+    "name": "CRUISE Air"
   },
   "CRUISE GeP": {
     "brand": "Seuic",
@@ -143586,6 +143630,10 @@
   "TONE_e22": {
     "brand": "TONE",
     "name": "TONE_e22"
+  },
+  "ONEMax": {
+    "brand": "TOPDON",
+    "name": "ONEMax_US"
   },
   "ONEPro": {
     "brand": "TOPDON",
@@ -160718,6 +160766,10 @@
   "MDP1231": {
     "brand": "XPPen",
     "name": "MDP1234_US"
+  },
+  "MDP1236": {
+    "brand": "XPPen",
+    "name": "Magic_12_US"
   },
   "MagicDrawingPad": {
     "brand": "XPPen",
