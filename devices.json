@@ -6695,6 +6695,10 @@
     "brand": "Amdox",
     "name": "AME_QT08UM"
   },
+  "AME_RX78KB": {
+    "brand": "Amdox",
+    "name": "AME_RX78KB"
+  },
   "EP-01": {
     "brand": "Amdox",
     "name": "EP-01"
@@ -16811,6 +16815,10 @@
     "brand": "Blu",
     "name": "G35"
   },
+  "G36": {
+    "brand": "iRulu",
+    "name": "iRULU_G36"
+  },
   "G40": {
     "brand": "Haier",
     "name": "G40"
@@ -25299,6 +25307,10 @@
     "brand": "DAMASCO",
     "name": "TAB-T863-3"
   },
+  "TK831-3": {
+    "brand": "DAMASCO",
+    "name": "TK831-3"
+  },
   "TAB-TK101-4": {
     "brand": "DAMASCO",
     "name": "tk101_4"
@@ -28506,6 +28518,10 @@
   "Sonic One": {
     "brand": "Digit",
     "name": "Sonic_One"
+  },
+  "Digit Sonic Pro": {
+    "brand": "Digit",
+    "name": "Sonic_Pro"
   },
   "Tab2": {
     "brand": "Stylos",
@@ -38823,6 +38839,10 @@
     "brand": "Getnord",
     "name": "LYNX"
   },
+  "GX30": {
+    "brand": "Gevo",
+    "name": "GX30"
+  },
   "GEVO E10": {
     "brand": "Gevo",
     "name": "Gevo E10"
@@ -40254,6 +40274,10 @@
   "S5506L": {
     "brand": "GoMo",
     "name": "N11"
+  },
+  "S6712L": {
+    "brand": "GoMo",
+    "name": "S6712L"
   },
   "GoPlus 4k": {
     "brand": "GoPlus",
@@ -99719,6 +99743,10 @@
     "brand": "PEEPandLEARN",
     "name": "PLPro"
   },
+  "A1016": {
+    "brand": "PEICHENG",
+    "name": "A1016"
+  },
   "A3_MAX": {
     "brand": "PEICHENG",
     "name": "A3_MAX"
@@ -149831,6 +149859,10 @@
     "brand": "Ulefone",
     "name": "Armor X33 Pro"
   },
+  "Armor X17": {
+    "brand": "Ulefone",
+    "name": "Armor X17"
+  },
   "Armor X17 Ultra": {
     "brand": "Ulefone",
     "name": "Armor X17 Pro"
@@ -172538,10 +172570,6 @@
   "Y57P": {
     "brand": "iRulu",
     "name": "Y57P_EEA"
-  },
-  "G36": {
-    "brand": "iRulu",
-    "name": "iRULU_G36"
   },
   "iSTAR AndroidTV": {
     "brand": "iSTAR",
