@@ -1739,14 +1739,6 @@
     "brand": "ATEL",
     "name": "A68EL"
   },
-  "AT908": {
-    "brand": "ATID",
-    "name": "AT908"
-  },
-  "AT908_EEA": {
-    "brand": "ATID",
-    "name": "AT908_EEA"
-  },
   "ATILIM_mPAD07": {
     "brand": "ATILIM UNIVERSITY",
     "name": "ATILIM_mPAD07"
@@ -16463,6 +16455,10 @@
     "brand": "Blu",
     "name": "B160V"
   },
+  "B1680M": {
+    "brand": "Blu",
+    "name": "B1680M"
+  },
   "B3": {
     "brand": "Meswao",
     "name": "B3-EEA"
@@ -18194,6 +18190,10 @@
   "BT Home SmartPhone S II": {
     "brand": "British Telecom",
     "name": "HomeSmartphone d800"
+  },
+  "Bro_s_III": {
+    "brand": "Bro(SZ)",
+    "name": "Bro_s_III"
   },
   "Brondi 620 SZ": {
     "brand": "Brondi",
@@ -84211,6 +84211,10 @@
     "brand": "Miophone",
     "name": "Mio Phone"
   },
+  "MT8": {
+    "brand": "MiraTab",
+    "name": "MT8"
+  },
   "MI-JI-43T": {
     "brand": "Mirage",
     "name": "43T"
@@ -93115,6 +93119,10 @@
     "brand": "OKAPI",
     "name": "Tab10"
   },
+  "OK17ProMax4G": {
+    "brand": "OKING",
+    "name": "OK17ProMax4G"
+  },
   "GEN-10": {
     "brand": "OKSI",
     "name": "GEN-10"
@@ -95591,10 +95599,6 @@
     "brand": "Oppo",
     "name": "A7 Pro 5G"
   },
-  "PYE130": {
-    "brand": "Oppo",
-    "name": "A7 Pro 5G"
-  },
   "CPH2931": {
     "brand": "Oppo",
     "name": "F35 5G"
@@ -96498,6 +96502,10 @@
   "PMG110": {
     "brand": "Oppo",
     "name": "K15 Pro+"
+  },
+  "PYE130": {
+    "brand": "Oppo",
+    "name": "K15s"
   },
   "PCGM00": {
     "brand": "Oppo",
@@ -111782,6 +111790,10 @@
   "RUIO_S4": {
     "brand": "Ruio",
     "name": "S4"
+  },
+  "S5518": {
+    "brand": "Ruio",
+    "name": "S5518"
   },
   "Orange Kova one": {
     "brand": "Ruio",
@@ -163279,6 +163291,14 @@
     "brand": "ZIOVO",
     "name": "Z138_US"
   },
+  "Z138_U": {
+    "brand": "ZIOVO",
+    "name": "Z138_U_US"
+  },
+  "Z138_U_US": {
+    "brand": "ZIOVO",
+    "name": "Z138_U_US"
+  },
   "Z138_V_EEA": {
     "brand": "ZIOVO",
     "name": "Z138_V_EEA"
@@ -163402,6 +163422,10 @@
   "ZM10": {
     "brand": "ZOOMSMART",
     "name": "ZM10_EEA"
+  },
+  "ZM600": {
+    "brand": "ZOOMSMART",
+    "name": "ZM600"
   },
   "ZM800": {
     "brand": "ZOOMSMART",
