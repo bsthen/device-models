@@ -5075,9 +5075,17 @@
     "brand": "Akai",
     "name": "AKAI"
   },
+  "AKAI": {
+    "brand": "Akai",
+    "name": "AKAI"
+  },
   "AKAI 4K SMART TV": {
     "brand": "Akai",
     "name": "AKAI 4K SMART TV"
+  },
+  "AKAI FF": {
+    "brand": "Akai",
+    "name": "AKAI FF"
   },
   "AKAI  SMART TV": {
     "brand": "Akai",
@@ -18194,6 +18202,10 @@
   "BT Home SmartPhone S II": {
     "brand": "British Telecom",
     "name": "HomeSmartphone d800"
+  },
+  "Bro_s_II": {
+    "brand": "Bro(SZ)",
+    "name": "Bro_s_II"
   },
   "Bro_s_III": {
     "brand": "Bro(SZ)",
@@ -44830,6 +44842,10 @@
   "GOLD_77": {
     "brand": "HUAVI",
     "name": "SH_700"
+  },
+  "H-Smart": {
+    "brand": "HUGEROCK",
+    "name": "H-Smart-H61"
   },
   "H8": {
     "brand": "HUGEROCK",
@@ -90503,6 +90519,10 @@
     "brand": "NOVOJOY",
     "name": "NV10"
   },
+  "B866V6M1 Express": {
+    "brand": "NOW Express",
+    "name": "B866V6M1 Express"
+  },
   "NWD_G5": {
     "brand": "NOWADA",
     "name": "NWD_G5"
@@ -102671,6 +102691,10 @@
     "brand": "Philips",
     "name": "Philips Smart 4K TV"
   },
+  "Philips Smart 4K TV NF": {
+    "brand": "Philips",
+    "name": "Philips Smart 4K TV NF"
+  },
   "PHILIPS 4K TV": {
     "brand": "Philips",
     "name": "Smart TV"
@@ -111806,6 +111830,10 @@
   "S5521": {
     "brand": "Ruio",
     "name": "S5521Q"
+  },
+  "S6209": {
+    "brand": "Ruio",
+    "name": "S6209"
   },
   "S6506": {
     "brand": "Ruio",
@@ -127719,6 +127747,10 @@
     "brand": "Samsung",
     "name": "心系天下 三星 W26"
   },
+  "SM-W9027": {
+    "brand": "Samsung",
+    "name": "心系天下 三星 W27"
+  },
   "SM-G9298": {
     "brand": "Samsung",
     "name": "领世旗舰8"
@@ -136139,6 +136171,10 @@
     "brand": "Sunmi",
     "name": "V3 PLUS"
   },
+  "V3_A16": {
+    "brand": "Sunmi",
+    "name": "V3_A16"
+  },
   "SN01DNGL300": {
     "brand": "Sunny",
     "name": "SN01DNGL300"
@@ -143931,6 +143967,10 @@
     "brand": "TPLAY",
     "name": "Telecentro 4K"
   },
+  "Telecentro 4K Z1": {
+    "brand": "TPLAY",
+    "name": "Telecentro 4K Z1"
+  },
   "ALTAB08": {
     "brand": "TPS",
     "name": "ALTAB08"
@@ -144350,6 +144390,10 @@
   "Teachmint_XC": {
     "brand": "Teachmint_X",
     "name": "Teachmint_XC"
+  },
+  "Teachmint_X_L": {
+    "brand": "Teachmint_X",
+    "name": "Teachmint_X_L"
   },
   "Force": {
     "brand": "Tech 4u",
@@ -157235,6 +157279,10 @@
     "brand": "Vodafone",
     "name": "Vodafone TV 3"
   },
+  "Vodafone TV Hub": {
+    "brand": "Vodafone",
+    "name": "Vodafone TV Hub"
+  },
   "X100_EEA": {
     "brand": "Voger",
     "name": "X100_EEA"
@@ -160823,6 +160871,10 @@
     "brand": "XPPen",
     "name": "XPPen_Magic_Drawing_Pad_RU"
   },
+  "Android XR Puck": {
+    "brand": "XREAL",
+    "name": "Aura"
+  },
   "X4000": {
     "brand": "XREAL",
     "name": "Beam Pro"
@@ -162442,6 +162494,10 @@
   "Xtreme 4K Smart TV FF": {
     "brand": "Xtreme",
     "name": "Xtreme 4K Smart TV FF"
+  },
+  "RD-811": {
+    "brand": "XuanPad",
+    "name": "RD-811"
   },
   "Xpad_M9_3G": {
     "brand": "Xwave",
@@ -173022,6 +173078,10 @@
   "TK807": {
     "brand": "moderness.online",
     "name": "TK807"
+  },
+  "PAD001": {
+    "brand": "momentplus",
+    "name": "PAD001"
   },
   "myBoard_Horizon": {
     "brand": "myBoard",
