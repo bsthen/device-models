@@ -25287,6 +25287,10 @@
     "brand": "DAMASCO",
     "name": "DAMASCO MOBILE SERIE M-300 VISION"
   },
+  "MC200": {
+    "brand": "DAMASCO",
+    "name": "MC200"
+  },
   "MC400": {
     "brand": "DAMASCO",
     "name": "MC400"
@@ -31201,7 +31205,7 @@
   },
   "A30Pro_A": {
     "brand": "ECOPAD",
-    "name": "A30Pro_A_EEA"
+    "name": "A30Pro_A_US"
   },
   "A30Pro_A_US": {
     "brand": "ECOPAD",
@@ -38715,6 +38719,10 @@
     "brand": "General Motors",
     "name": "VCU"
   },
+  "GLF27": {
+    "brand": "GeneralLuxe",
+    "name": "GLF27"
+  },
   "E-Tab10": {
     "brand": "GeneralMobile",
     "name": "E-Tab10"
@@ -40283,6 +40291,10 @@
     "brand": "GoClever",
     "name": "TQ700/QUANTUM 700/TAB"
   },
+  "S6516L": {
+    "brand": "Nuu",
+    "name": "N22"
+  },
   "S6518L": {
     "brand": "Nuu",
     "name": "N22"
@@ -40292,8 +40304,8 @@
     "name": "N11"
   },
   "S6712L": {
-    "brand": "GoMo",
-    "name": "S6712L"
+    "brand": "Nuu",
+    "name": "N22"
   },
   "GoPlus 4k": {
     "brand": "GoPlus",
@@ -46150,6 +46162,10 @@
   "helio 62": {
     "brand": "Helio",
     "name": "helio_62"
+  },
+  "helio 63": {
+    "brand": "Helio",
+    "name": "helio_63"
   },
   "helio 65": {
     "brand": "Helio",
@@ -73559,6 +73575,10 @@
     "brand": "Lava",
     "name": "Shark 2 5G"
   },
+  "LAVA LXX532": {
+    "brand": "Lava",
+    "name": "Shark 3 5G"
+  },
   "LAVA LZG414": {
     "brand": "Lava",
     "name": "Smart 4"
@@ -80659,6 +80679,10 @@
     "brand": "Mascom",
     "name": "Mascom_S750"
   },
+  "MDM350": {
+    "brand": "Mason",
+    "name": "MDM350A"
+  },
   "MDQ300": {
     "brand": "Mason",
     "name": "MDQ300"
@@ -84358,6 +84382,10 @@
   "MITO A16": {
     "brand": "Mito",
     "name": "T5091A"
+  },
+  "MVNOE": {
+    "brand": "Mivi",
+    "name": "MVNOE"
   },
   "S22-8A": {
     "brand": "MoT(Mobility Technologies)",
@@ -92779,10 +92807,6 @@
     "brand": "Nuu",
     "name": "N22"
   },
-  "S6516L": {
-    "brand": "Nuu",
-    "name": "N22"
-  },
   "S6704L": {
     "brand": "Nuu",
     "name": "N30"
@@ -93258,6 +93282,10 @@
   "X700": {
     "brand": "OMIX",
     "name": "X700"
+  },
+  "OMMI_A08": {
+    "brand": "OMMI",
+    "name": "OMMI_A08"
   },
   "OMMI A17S": {
     "brand": "OMMI",
@@ -93938,6 +93966,10 @@
   "Olternix_A11": {
     "brand": "Olternix",
     "name": "Olternix_A11"
+  },
+  "Olternix_A16": {
+    "brand": "Olternix",
+    "name": "Olternix_A16"
   },
   "CH10PLUS": {
     "brand": "Olvy",
