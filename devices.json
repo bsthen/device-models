@@ -12839,6 +12839,10 @@
     "brand": "BMobile",
     "name": "ORION_TG05"
   },
+  "ROCKET_A1": {
+    "brand": "BMobile",
+    "name": "ROCKET_A1"
+  },
   "Speed 5": {
     "brand": "BMobile",
     "name": "Speed 5"
@@ -41777,7 +41781,7 @@
   },
   "TB02": {
     "brand": "Relndoo",
-    "name": "TB02_US"
+    "name": "TB02_Y_US"
   },
   "A79": {
     "brand": "Lava",
@@ -46462,6 +46466,10 @@
   "P16_TU": {
     "brand": "Hiking",
     "name": "P16_TU"
+  },
+  "PAD_PRO_1": {
+    "brand": "Hiking",
+    "name": "PAD_PRO_1"
   },
   "Rugged S2": {
     "brand": "Hiking",
@@ -56345,7 +56353,7 @@
   },
   "10WC1": {
     "brand": "Hyundai",
-    "name": "HT10WC1MSG03"
+    "name": "HT10WC1MSG03_US"
   },
   "7GB1": {
     "brand": "Hyundai",
@@ -57938,6 +57946,10 @@
   "NTMC17": {
     "brand": "Icon",
     "name": "Portal_10i"
+  },
+  "S26 Ultra Max": {
+    "brand": "Ifinex",
+    "name": "S26_Ultra_Max"
   },
   "XM14G": {
     "brand": "IguanaPad",
@@ -80679,6 +80691,10 @@
     "brand": "Mascom",
     "name": "Mascom_S750"
   },
+  "MDM250": {
+    "brand": "Mason",
+    "name": "MDM250A"
+  },
   "MDM350": {
     "brand": "Mason",
     "name": "MDM350A"
@@ -88065,7 +88081,11 @@
   },
   "motorola signature": {
     "brand": "Motorola",
-    "name": "motorola signature"
+    "name": "motorola signature 27"
+  },
+  "motorola signature 27": {
+    "brand": "Motorola",
+    "name": "motorola signature 27"
   },
   "EVOLVE": {
     "brand": "Motorola Solutions",
@@ -128473,7 +128493,7 @@
   },
   "AQUOS-4KTVJ26-2": {
     "brand": "Sharp",
-    "name": "4T-**S7A/X7A"
+    "name": "4T-**S7A/X7A/X5A, 4T-48S9A"
   },
   "AQUOS-4KTVJ26-1": {
     "brand": "Sharp",
