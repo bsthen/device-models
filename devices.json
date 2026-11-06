@@ -24819,6 +24819,10 @@
     "brand": "Cubot",
     "name": "KINGKONG 11"
   },
+  "KINGKONG 13": {
+    "brand": "Cubot",
+    "name": "KINGKONG 13"
+  },
   "KINGKONG 5": {
     "brand": "Cubot",
     "name": "KINGKONG 5"
@@ -25294,6 +25298,10 @@
   "MC200": {
     "brand": "DAMASCO",
     "name": "MC200"
+  },
+  "MC300": {
+    "brand": "DAMASCO",
+    "name": "MC300"
   },
   "MC400": {
     "brand": "DAMASCO",
@@ -35183,6 +35191,10 @@
     "brand": "FOXX",
     "name": "FOXX S13 5G"
   },
+  "A67X": {
+    "brand": "FOXX",
+    "name": "FOXXD A67X"
+  },
   "FOXX G1": {
     "brand": "FOXX",
     "name": "G1"
@@ -44903,6 +44915,10 @@
     "brand": "HWD",
     "name": "HT738-01"
   },
+  "HYMA A10": {
+    "brand": "HYMA",
+    "name": "HYMA A10"
+  },
   "THATAB": {
     "brand": "HYPERTECH",
     "name": "THATAB"
@@ -50582,6 +50598,10 @@
   "Cyber 18": {
     "brand": "Hotwav",
     "name": "Cyber 18"
+  },
+  "Cyber 19 Pro": {
+    "brand": "Hotwav",
+    "name": "Cyber 19 Pro"
   },
   "Cyber 7": {
     "brand": "Hotwav",
@@ -92895,6 +92915,10 @@
     "brand": "Nuu",
     "name": "Tab 8 Plus"
   },
+  "T0871W": {
+    "brand": "Nuu",
+    "name": "Tab 9"
+  },
   "S6707X": {
     "brand": "Nuu",
     "name": "X10 5G"
@@ -98046,6 +98070,14 @@
   "DV9651": {
     "brand": "Orange",
     "name": "DV9651"
+  },
+  "DV9651-OFR": {
+    "brand": "Orange",
+    "name": "DV9651-OFR"
+  },
+  "DV9651-OFRBYC": {
+    "brand": "Orange",
+    "name": "DV9651-OFRBYC"
   },
   "Orange Dive 30": {
     "brand": "Orange",
@@ -106347,13 +106379,17 @@
     "brand": "Prime",
     "name": "X6_Pro"
   },
+  "PrimeTabP11": {
+    "brand": "PrimeTab",
+    "name": "PrimeTabP11"
+  },
   "Primebook Duo Pro": {
     "brand": "Primebook",
     "name": "PB1310"
   },
   "Primebook Duo Max": {
     "brand": "Primebook",
-    "name": "PB1380"
+    "name": "PB1380_US"
   },
   "Primux_ioxphone": {
     "brand": "Primux",
@@ -111620,8 +111656,8 @@
     "name": "RoadQuest"
   },
   "UHD Streaming STB": {
-    "brand": "RockTek",
-    "name": "GT1"
+    "brand": "Strong",
+    "name": "LEAP-S4"
   },
   "RT-G1": {
     "brand": "RockTek",
@@ -128545,11 +128581,11 @@
   },
   "AQUOS-4KTVJ25-1": {
     "brand": "Sharp",
-    "name": "4T-C**HP1/HS1/HQ1/HV1"
+    "name": "4T-C**HP1/HS1/HQ1/HV1, 4T-C65HN2, 4T-65L51A"
   },
   "AQUOS-4KTVJ25-2": {
     "brand": "Sharp",
-    "name": "4T-C**HP2/HQ2/HN2"
+    "name": "4T-C**HP2/HQ2/HN2, 4T-**L51A"
   },
   "LCD_50FOCAG1T": {
     "brand": "Sharp",
@@ -136539,6 +136575,10 @@
     "brand": "Symphony",
     "name": "INOVA"
   },
+  "MAX 20": {
+    "brand": "Symphony",
+    "name": "MAX 20"
+  },
   "MAX 30": {
     "brand": "Symphony",
     "name": "MAX 30"
@@ -141339,6 +141379,10 @@
     "brand": "TCT (Alcatel)",
     "name": "Alcatel A62"
   },
+  "A801M": {
+    "brand": "TCT (Alcatel)",
+    "name": "Alcatel A83 5G"
+  },
   "Alcatel_5004R": {
     "brand": "TCT (Alcatel)",
     "name": "Alcatel AXEL™"
@@ -144898,6 +144942,10 @@
   "M50mini_ROW": {
     "brand": "Teclast",
     "name": "M50mini_ROW"
+  },
+  "M60_B_ROW": {
+    "brand": "Teclast",
+    "name": "M60_B_ROW"
   },
   "M60_ROW": {
     "brand": "Teclast",
