@@ -19143,6 +19143,10 @@
     "brand": "QMobile",
     "name": "W70"
   },
+  "COMBUS_IB4": {
+    "brand": "COMBUSTECH",
+    "name": "BCQ_IFPD"
+  },
   "COMBUS_IB2": {
     "brand": "COMBUSTECH",
     "name": "COMBUSTECH-IFPD"
@@ -19384,8 +19388,8 @@
     "name": "Star9_Pro"
   },
   "P98": {
-    "brand": "CORN",
-    "name": "T12Pro"
+    "brand": "TPS",
+    "name": "SZTPS"
   },
   "T12Pro": {
     "brand": "CORN",
@@ -85421,7 +85425,7 @@
   },
   "H6733 Pro": {
     "brand": "Mobiwire",
-    "name": "MTN"
+    "name": "Rodiall"
   },
   "H67A1": {
     "brand": "Mobiwire",
@@ -87511,6 +87515,10 @@
     "brand": "Motorola",
     "name": "moto g37 power"
   },
+  "moto g37j": {
+    "brand": "Motorola",
+    "name": "moto g37j"
+  },
   "moto g(40) fusion": {
     "brand": "Motorola",
     "name": "moto g40 fusion"
@@ -88266,6 +88274,14 @@
   "VIP5242A": {
     "brand": "Movistar",
     "name": "Telefonica ATV"
+  },
+  "M5941": {
+    "brand": "Movitel",
+    "name": "M5941"
+  },
+  "M5942": {
+    "brand": "Movitel",
+    "name": "M5942"
   },
   "M8414": {
     "brand": "Movitel",
@@ -98838,6 +98854,14 @@
   "OT5 S": {
     "brand": "Oukitel",
     "name": "OT5_S_V_EEA"
+  },
+  "OT6 Air Kids": {
+    "brand": "Oukitel",
+    "name": "OT6_Air_Kids_ROW"
+  },
+  "OT6 Air": {
+    "brand": "Oukitel",
+    "name": "OT6_Air_ROW"
   },
   "OT6": {
     "brand": "Oukitel",
@@ -146575,6 +146599,10 @@
     "brand": "Tecno",
     "name": "TECNO CAMON Slim/Air"
   },
+  "TECNO CN6": {
+    "brand": "Tecno",
+    "name": "TECNO CAMON Slim 5G"
+  },
   "TECNO KB2": {
     "brand": "Tecno",
     "name": "TECNO CAMON iACE 2"
@@ -175513,7 +175541,7 @@
   },
   "V2561A": {
     "brand": "vivo",
-    "name": "Y600 Pro AI版"
+    "name": "Y600s Pro AI版"
   },
   "V2553A": {
     "brand": "vivo",
