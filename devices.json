@@ -170175,6 +170175,10 @@
     "brand": "Zuum",
     "name": "MAGNO MINI"
   },
+  "MAGNO P4": {
+    "brand": "Zuum",
+    "name": "MAGNO_P4"
+  },
   "MAGNO R": {
     "brand": "Zuum",
     "name": "MAGNO R"
@@ -170190,10 +170194,6 @@
   "MAGNO P1": {
     "brand": "Zuum",
     "name": "MAGNO_P1"
-  },
-  "MAGNO P4": {
-    "brand": "Zuum",
-    "name": "MAGNO_P4"
   },
   "MAGNO R II": {
     "brand": "Zuum",
