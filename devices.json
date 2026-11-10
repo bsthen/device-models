@@ -17583,6 +17583,10 @@
     "brand": "Blu",
     "name": "View 5 Pro"
   },
+  "B1661R": {
+    "brand": "Blu",
+    "name": "View Speed Ultra 5G"
+  },
   "B1661V": {
     "brand": "Blu",
     "name": "View Speed Ultra 5G"
@@ -19303,6 +19307,10 @@
     "brand": "CORN",
     "name": "CORN_X55"
   },
+  "CPadPro13": {
+    "brand": "CORN",
+    "name": "CPadPro13"
+  },
   "CPhone17 Pro Max 4G": {
     "brand": "CORN",
     "name": "CPhone17ProMax4G"
@@ -19430,6 +19438,10 @@
   "Y60": {
     "brand": "CORN",
     "name": "Y60"
+  },
+  "CORTB_04": {
+    "brand": "CORNEA",
+    "name": "CORTB_04"
   },
   "IS_IFPSeries": {
     "brand": "CORNEA",
@@ -20416,8 +20428,8 @@
     "name": "Minchir"
   },
   "bnd": {
-    "brand": "Teclast",
-    "name": "P30_ROW"
+    "brand": "edu-africa",
+    "name": "eduafrica2026"
   },
   "RIGEL": {
     "brand": "Ceibal",
@@ -24571,10 +24583,6 @@
     "brand": "Crosscall",
     "name": "AD-C2"
   },
-  "AD-C3": {
-    "brand": "Crosscall",
-    "name": "AD-C3"
-  },
   "ACTION-X3": {
     "brand": "Crosscall",
     "name": "Action-X3"
@@ -24678,6 +24686,10 @@
   "Trekker-X4": {
     "brand": "Crosscall",
     "name": "Trekker- X4"
+  },
+  "AD-C3": {
+    "brand": "Crosscall",
+    "name": "XR Smart"
   },
   "CROWNTAB8": {
     "brand": "CrownHeights",
@@ -27254,6 +27266,14 @@
   "Dslide_1095ml": {
     "brand": "Danew_Talla",
     "name": "Dslide_1095ml"
+  },
+  "DBD04A": {
+    "brand": "Dangbei",
+    "name": "D7"
+  },
+  "DBD05A": {
+    "brand": "Dangbei",
+    "name": "D7 Pro"
   },
   "DBOD02": {
     "brand": "Dangbei",
@@ -38783,6 +38803,10 @@
     "brand": "GeoMax",
     "name": "GeoMax Zenius08"
   },
+  "Geo S8": {
+    "brand": "GeoPhone",
+    "name": "geo_S8"
+  },
   "Geo S7": {
     "brand": "GeoPhone",
     "name": "geo_s7"
@@ -46486,6 +46510,10 @@
   "P16_TU": {
     "brand": "Hiking",
     "name": "P16_TU"
+  },
+  "PAD_1": {
+    "brand": "Hiking",
+    "name": "PAD_1"
   },
   "PAD_PRO_1": {
     "brand": "Hiking",
@@ -64481,7 +64509,7 @@
   },
   "HONOR CHOICE Pad 3": {
     "brand": "KUMI",
-    "name": "KM-TC02_EEA"
+    "name": "KM-TC02_RU"
   },
   "KCG02": {
     "brand": "KURAEMON",
@@ -90530,6 +90558,10 @@
   "Hi10_XPro": {
     "brand": "NIS(NWTF)",
     "name": "Hi10_XPro_ROW"
+  },
+  "TK-P617": {
+    "brand": "NIS(NWTF)",
+    "name": "TK-P617"
   },
   "Forte_se": {
     "brand": "NOA Mobile",
@@ -145215,13 +145247,13 @@
     "brand": "Teclast",
     "name": "P50S_ROW"
   },
-  "P50T_E_ROW": {
-    "brand": "Teclast",
-    "name": "P50T_E_ROW"
-  },
   "P50T": {
     "brand": "Teclast",
     "name": "P50T_Y_US"
+  },
+  "P50T_E_ROW": {
+    "brand": "Teclast",
+    "name": "P50T_E_ROW"
   },
   "P50_B": {
     "brand": "Teclast",
@@ -145242,6 +145274,10 @@
   "P50_ROW": {
     "brand": "Teclast",
     "name": "P50_ROW"
+  },
+  "P50_YB": {
+    "brand": "Teclast",
+    "name": "P50_YB_EEA"
   },
   "P80T_EEA": {
     "brand": "Teclast",
@@ -160851,6 +160887,10 @@
     "brand": "XGIMI",
     "name": "Elfin Flip Plus"
   },
+  "WM04R": {
+    "brand": "XGIMI",
+    "name": "Elfin Flip Pro"
+  },
   "XR13A": {
     "brand": "XGIMI",
     "name": "HORIZON 20"
@@ -162371,9 +162411,29 @@
     "brand": "Xiaomi",
     "name": "Xiaomi Pad 8"
   },
+  "25097RP43G": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Pad 8"
+  },
+  "25097RP43I": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Pad 8"
+  },
   "25091RP04C": {
     "brand": "Xiaomi",
     "name": "Xiaomi Pad 8 Pro"
+  },
+  "25091RP04G": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Pad 8 Pro"
+  },
+  "M656BA": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Pad 9"
+  },
+  "2612CRPFFC": {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Pad 9 Pro"
   },
   "M367FC": {
     "brand": "Xiaomi",
@@ -171015,6 +171075,10 @@
     "brand": "edu-africa",
     "name": "edu-africa2026_ROW"
   },
+  "edu-africa2026": {
+    "brand": "edu-africa",
+    "name": "eduafrica2026"
+  },
   "Tab N7a": {
     "brand": "efioo",
     "name": "efiootabn7a"
@@ -171038,6 +171102,10 @@
   "F10_US": {
     "brand": "fezawio",
     "name": "F10_US"
+  },
+  "F11_C": {
+    "brand": "fezawio",
+    "name": "F11_C"
   },
   "F11_EEA": {
     "brand": "fezawio",
@@ -172434,6 +172502,10 @@
   "IM-L801": {
     "brand": "iMuz",
     "name": "IM-L801"
+  },
+  "IM-S291": {
+    "brand": "iMuz",
+    "name": "IM-S291"
   },
   "IM-S881": {
     "brand": "iMuz",
