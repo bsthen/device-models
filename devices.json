@@ -7199,6 +7199,10 @@
     "brand": "Doogee",
     "name": "Tab G6 Max"
   },
+  "S2": {
+    "brand": "Xstar",
+    "name": "S2"
+  },
   "U11": {
     "brand": "Doogee",
     "name": "U11"
@@ -9338,6 +9342,10 @@
   "Nitro2": {
     "brand": "Aspera",
     "name": "Nitro2"
+  },
+  "Aspera Verve": {
+    "brand": "Aspera",
+    "name": "Verve"
   },
   "Wren": {
     "brand": "Aspera",
@@ -11722,6 +11730,10 @@
   "BT1025SS": {
     "brand": "BASICS",
     "name": "BT1025SS"
+  },
+  "BT1026FW": {
+    "brand": "BASICS",
+    "name": "BT1026FW"
   },
   "BT1124FW": {
     "brand": "BASICS",
@@ -17691,10 +17703,6 @@
     "brand": "Bluboo",
     "name": "S1a"
   },
-  "S2": {
-    "brand": "Xstar",
-    "name": "S2"
-  },
   "S3": {
     "brand": "SparX",
     "name": "S3"
@@ -18831,10 +18839,6 @@
     "brand": "CHAINWAY",
     "name": "C90A"
   },
-  "MC80": {
-    "brand": "CHAINWAY",
-    "name": "CHAINWAY_MC80"
-  },
   "MC21": {
     "brand": "CHAINWAY",
     "name": "MC21"
@@ -18854,6 +18858,10 @@
   "MC62": {
     "brand": "CHAINWAY",
     "name": "MC62"
+  },
+  "MC80": {
+    "brand": "CHAINWAY",
+    "name": "MC80"
   },
   "MC95": {
     "brand": "CHAINWAY",
@@ -25219,6 +25227,10 @@
     "brand": "Cyrus",
     "name": "CS45XA_EEA"
   },
+  "CS75XA": {
+    "brand": "Cyrus",
+    "name": "CS75XA_EEA"
+  },
   "ORSY_Controller": {
     "brand": "Cyrus",
     "name": "ORSY_Controller"
@@ -26718,6 +26730,10 @@
   "SLP36": {
     "brand": "DOMO",
     "name": "SLP36"
+  },
+  "SSM28": {
+    "brand": "DOMO",
+    "name": "SSM28"
   },
   "Slate": {
     "brand": "DOMO",
@@ -67511,6 +67527,10 @@
     "brand": "Trifone",
     "name": "X701"
   },
+  "H67A2": {
+    "brand": "LENIX",
+    "name": "LENIX MAX"
+  },
   "LENIX Pro": {
     "brand": "LENIX",
     "name": "LENIX Pro"
@@ -78722,6 +78742,10 @@
   "Note 50 Pro Max": {
     "brand": "M-Horse",
     "name": "Note 50 Pro Max"
+  },
+  "POWER_1_Max": {
+    "brand": "M-Horse",
+    "name": "POWER_1_Max_US"
   },
   "Pad_17": {
     "brand": "M-Horse",
@@ -92595,6 +92619,10 @@
     "brand": "NorthTech",
     "name": "NT-S10"
   },
+  "CommercialTerminal": {
+    "brand": "Noryox",
+    "name": "CommercialTerminal"
+  },
   "Handheld-POS": {
     "brand": "Noryox",
     "name": "Handheld-POS-EEA"
@@ -97119,6 +97147,14 @@
     "brand": "Oppo",
     "name": "Pad Air5"
   },
+  "OPD2613": {
+    "brand": "Oppo",
+    "name": "Pad Air6"
+  },
+  "OPD2614": {
+    "brand": "Oppo",
+    "name": "Pad Air6"
+  },
   "OPD2515": {
     "brand": "Oppo",
     "name": "Pad Mini"
@@ -100730,6 +100766,10 @@
   "K726": {
     "brand": "PROGRACE",
     "name": "K726"
+  },
+  "Dynamo": {
+    "brand": "PROTON",
+    "name": "Dynamo"
   },
   "Eagle X": {
     "brand": "PROTON",
@@ -106439,6 +106479,10 @@
     "brand": "PrimeTab",
     "name": "PrimeTabP11"
   },
+  "PrimeTabP9": {
+    "brand": "PrimeTab",
+    "name": "PrimeTabP9"
+  },
   "Primebook Duo Pro": {
     "brand": "Primebook",
     "name": "PB1310"
@@ -108146,6 +108190,10 @@
   "R-6502": {
     "brand": "RADDY",
     "name": "RADDY_JANJA_PRO"
+  },
+  "RADDY AQUAMATE": {
+    "brand": "RADDY",
+    "name": "Raddy_Aquamate"
   },
   "RM-705": {
     "brand": "RAMTECHNOLOGY",
@@ -136638,6 +136686,10 @@
   "MAX 30": {
     "brand": "Symphony",
     "name": "MAX 30"
+  },
+  "MAX 50": {
+    "brand": "Symphony",
+    "name": "MAX_50"
   },
   "MAX 60": {
     "brand": "Symphony",
@@ -170258,6 +170310,10 @@
   "MAGNO R II": {
     "brand": "Zuum",
     "name": "MAGNO_R_II"
+  },
+  "MAGNO Z": {
+    "brand": "Zuum",
+    "name": "MAGNO_Z"
   },
   "Magno Pro": {
     "brand": "Zuum",
