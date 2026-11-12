@@ -24179,6 +24179,10 @@
     "brand": "Coolpad",
     "name": "VodafoneSmart4turbo"
   },
+  "K29": {
+    "brand": "Coolpad",
+    "name": "X200"
+  },
   "X30": {
     "brand": "Rebecco",
     "name": "X30_EEA"
@@ -31206,6 +31210,10 @@
   "VC5": {
     "brand": "EARTHTREK",
     "name": "ET_tablet"
+  },
+  "E8600": {
+    "brand": "EASTCOM",
+    "name": "E8600"
   },
   "EK10": {
     "brand": "EASYTECK",
@@ -57987,6 +57995,10 @@
     "brand": "IZZI Telecom",
     "name": "B866V2FI"
   },
+  "B866V2FIX": {
+    "brand": "IZZI Telecom",
+    "name": "B866V2FIX"
+  },
   "HP2714": {
     "brand": "IZZI Telecom",
     "name": "HP2714"
@@ -62555,6 +62567,10 @@
     "brand": "JUEDUR",
     "name": "R500_V_US"
   },
+  "R600_U": {
+    "brand": "JUEDUR",
+    "name": "R600_U"
+  },
   "R700_EEA": {
     "brand": "JUEDUR",
     "name": "R700_EEA"
@@ -64722,6 +64738,10 @@
   "Black_G_2": {
     "brand": "Kalley",
     "name": "Black_G_2"
+  },
+  "Black S2": {
+    "brand": "Kalley",
+    "name": "Black_S2"
   },
   "Black S4": {
     "brand": "Kalley",
@@ -85481,7 +85501,7 @@
   },
   "H67A1": {
     "brand": "Mobiwire",
-    "name": "H67A1"
+    "name": "Rodiall Pro"
   },
   "H6821": {
     "brand": "Mobiwire",
@@ -85942,6 +85962,10 @@
   "M320": {
     "brand": "Morep",
     "name": "Morep Pocket"
+  },
+  "V7": {
+    "brand": "TOPELOTEK",
+    "name": "V7"
   },
   "M521": {
     "brand": "Morep",
@@ -93282,6 +93306,10 @@
   "Okapi_Tab8": {
     "brand": "OKAPI",
     "name": "Okapi_Tab8"
+  },
+  "Okapi_Tab_18_Pro": {
+    "brand": "OKAPI",
+    "name": "Okapi_Tab_18_Pro"
   },
   "Tab10": {
     "brand": "OKAPI",
@@ -101995,6 +102023,10 @@
     "brand": "Panodic",
     "name": "IPHDCK16H"
   },
+  "H130101": {
+    "brand": "Pantas",
+    "name": "H130101"
+  },
   "ADR910L": {
     "brand": "Pantech",
     "name": "ADR910L"
@@ -104190,10 +104222,6 @@
   "CARBON_PRO4543": {
     "brand": "Polaroid",
     "name": "V45M"
-  },
-  "V7": {
-    "brand": "TOPELOTEK",
-    "name": "V7"
   },
   "midcb232pr": {
     "brand": "Polaroid",
@@ -112470,6 +112498,10 @@
   "Smart 20 GO": {
     "brand": "SEGO",
     "name": "Smart 20 GO"
+  },
+  "Smart20 Pro Max": {
+    "brand": "SEGO",
+    "name": "Smart20_Pro_Max"
   },
   "Smart 10": {
     "brand": "SEGO",
@@ -171042,6 +171074,10 @@
   "TAE10N13": {
     "brand": "eNOVA",
     "name": "TAE10N13"
+  },
+  "TAE10N14": {
+    "brand": "eNOVA",
+    "name": "TAE10N14"
   },
   "Emerald": {
     "brand": "eSSL",
