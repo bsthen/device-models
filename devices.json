@@ -579,6 +579,10 @@
     "brand": "Advan digital",
     "name": "XTAB"
   },
+  "VX Nova": {
+    "brand": "ADVAN",
+    "name": "VX Nova"
+  },
   "X1 NEO": {
     "brand": "ADVAN",
     "name": "X1 NEO"
@@ -16983,6 +16987,10 @@
     "brand": "Blu",
     "name": "G84"
   },
+  "B1680W": {
+    "brand": "Blu",
+    "name": "G85 5G"
+  },
   "G9": {
     "brand": "GOODTEL",
     "name": "G9_V_US"
@@ -17134,6 +17142,10 @@
   "K2": {
     "brand": "iBRIT",
     "name": "K2"
+  },
+  "K3": {
+    "brand": "Oukitel",
+    "name": "K3"
   },
   "BLU LIFE ONE X": {
     "brand": "Blu",
@@ -19258,6 +19270,10 @@
   "SATURNO2": {
     "brand": "COOP",
     "name": "SATURNO2"
+  },
+  "URANO": {
+    "brand": "COOP",
+    "name": "URANO"
   },
   "CP10": {
     "brand": "COOPERS",
@@ -25439,6 +25455,10 @@
     "brand": "DEERTiME",
     "name": "E10_US"
   },
+  "E11_C": {
+    "brand": "DEERTiME",
+    "name": "E11_C"
+  },
   "E11_E": {
     "brand": "DEERTiME",
     "name": "E11_E"
@@ -29410,6 +29430,10 @@
   "SVPro1": {
     "brand": "DishTV-NZ",
     "name": "SmartVU Freeview Projector | Google TV"
+  },
+  "CPT06": {
+    "brand": "Disney",
+    "name": "CPT06"
   },
   "CTS05": {
     "brand": "Disney",
@@ -64251,10 +64275,6 @@
     "brand": "KOOLNEE",
     "name": "K1 Trio"
   },
-  "K3": {
-    "brand": "Oukitel",
-    "name": "K3"
-  },
   "KOOMII A6": {
     "brand": "KOOMII",
     "name": "KOOMII_A6"
@@ -67550,6 +67570,10 @@
   "H67A2": {
     "brand": "LENIX",
     "name": "LENIX MAX"
+  },
+  "H67M1": {
+    "brand": "LENIX",
+    "name": "LENIX Pro"
   },
   "LENIX Pro": {
     "brand": "LENIX",
@@ -72211,6 +72235,10 @@
     "brand": "LOGIC",
     "name": "LOGIC_L55V"
   },
+  "T10MW": {
+    "brand": "LOGIC",
+    "name": "LOGIC_T10MW"
+  },
   "Logic L67 PRO MAX": {
     "brand": "LOGIC",
     "name": "Logic L67 PRO MAX"
@@ -72478,6 +72506,10 @@
   "LT S40": {
     "brand": "LT_Mobile",
     "name": "LT_mobile_S40"
+  },
+  "LT S60": {
+    "brand": "LT_Mobile",
+    "name": "LT_mobile_S60"
   },
   "siwxxf1x": {
     "brand": "LUCOMS-T",
@@ -73274,6 +73306,10 @@
   "MID-1090IPS": {
     "brand": "Laser",
     "name": "MID-1090IPS"
+  },
+  "MID-10A16B-404": {
+    "brand": "Laser",
+    "name": "MID-10A16B-404"
   },
   "MID-787": {
     "brand": "Laser",
@@ -78763,6 +78799,10 @@
     "brand": "M-Horse",
     "name": "Note 50 Pro Max"
   },
+  "POWER_1": {
+    "brand": "M-Horse",
+    "name": "POWER_1_US"
+  },
   "POWER_1_Max": {
     "brand": "M-Horse",
     "name": "POWER_1_Max_US"
@@ -82850,6 +82890,10 @@
   "MES-B3": {
     "brand": "Meswao",
     "name": "MES-B3"
+  },
+  "MES-B3Lite": {
+    "brand": "Meswao",
+    "name": "MES-B3Lite"
   },
   "MES-B4": {
     "brand": "Meswao",
@@ -89898,6 +89942,10 @@
   "P68": {
     "brand": "NAVA",
     "name": "P68"
+  },
+  "N18 Pro": {
+    "brand": "NAVATAB",
+    "name": "N18_Pro"
   },
   "NID-7011": {
     "brand": "NAXA",
@@ -100134,6 +100182,10 @@
   "TP10A664": {
     "brand": "PHILCO (ar)",
     "name": "TP10A664"
+  },
+  "F58-8inch": {
+    "brand": "PHONELINETAB",
+    "name": "F58-8inch"
   },
   "12998-99": {
     "brand": "PHYWE",
@@ -111604,6 +111656,10 @@
     "name": "OpenR Link"
   },
   "AIVI2 R FULL DOM": {
+    "brand": "Renault",
+    "name": "OpenR Link"
+  },
+  "AIVI2 R FULL EGG": {
     "brand": "Renault",
     "name": "OpenR Link"
   },
@@ -135806,6 +135862,10 @@
   "Ithemba": {
     "brand": "Stylo",
     "name": "Ithemba"
+  },
+  "Jaguar": {
+    "brand": "Stylo",
+    "name": "Jaguar"
   },
   "DQR22": {
     "brand": "Stylo",
@@ -161131,6 +161191,14 @@
     "brand": "XREAL",
     "name": "Beam Pro"
   },
+  "XRZ": {
+    "brand": "XRZ(sz)",
+    "name": "XRZPro_EEA"
+  },
+  "XRZDual2": {
+    "brand": "XRZDual2",
+    "name": "XRZDual2_A16_US"
+  },
   "XT1": {
     "brand": "XTRA",
     "name": "XT1"
@@ -163762,6 +163830,10 @@
   "ZM800": {
     "brand": "ZOOMSMART",
     "name": "ZM800_EEA"
+  },
+  "S00754": {
+    "brand": "ZTAP",
+    "name": "S00754"
   },
   "009Z": {
     "brand": "ZTE",
@@ -173591,6 +173663,10 @@
     "brand": "onn.",
     "name": "PM108AK"
   },
+  "PM116A": {
+    "brand": "onn.",
+    "name": "PM116A"
+  },
   "PM116T": {
     "brand": "onn.",
     "name": "PM116T"
@@ -173607,6 +173683,10 @@
     "brand": "onn.",
     "name": "PM82TW"
   },
+  "PM876A": {
+    "brand": "onn.",
+    "name": "PM876A"
+  },
   "PM876T": {
     "brand": "onn.",
     "name": "PM876T"
@@ -173614,6 +173694,10 @@
   "PP86AK": {
     "brand": "onn.",
     "name": "PP86AK"
+  },
+  "PP88AK": {
+    "brand": "onn.",
+    "name": "PP88AK"
   },
   "SL713B1": {
     "brand": "onn.",
