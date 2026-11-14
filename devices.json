@@ -6905,7 +6905,7 @@
   },
   "PRO_MAX_16": {
     "brand": "AngelTech",
-    "name": "PRO_MAX_16"
+    "name": "PRO_MAX_16_EEA"
   },
   "SWAYTOSH_16": {
     "brand": "AngelTech",
@@ -9126,6 +9126,14 @@
   "SP545C": {
     "brand": "Artia",
     "name": "SP545C_1"
+  },
+  "SP626W": {
+    "brand": "Artia",
+    "name": "SP626W"
+  },
+  "SP676L": {
+    "brand": "Artia",
+    "name": "SP676L"
   },
   "SP676W": {
     "brand": "Artia",
@@ -24779,6 +24787,10 @@
     "brand": "Tibuta",
     "name": "A40"
   },
+  "C53": {
+    "brand": "Oukitel",
+    "name": "C53"
+  },
   "CUBOT CHEETAH 2": {
     "brand": "Cubot",
     "name": "NOTE S"
@@ -36755,6 +36767,10 @@
     "brand": "Foxtel",
     "name": "Foxtel Now box"
   },
+  "F17": {
+    "brand": "Franko",
+    "name": "F17"
+  },
   "H6733": {
     "brand": "Mobiwire",
     "name": "H6733"
@@ -39410,6 +39426,10 @@
   "iliumPAD": {
     "brand": "Gigabyte",
     "name": "mexico"
+  },
+  "GIG-X10": {
+    "brand": "Gigaset",
+    "name": "GIG-X10"
   },
   "GIG-X14": {
     "brand": "Gigaset",
@@ -49775,6 +49795,10 @@
     "brand": "Honor",
     "name": "HONOR Magic9 Lite+"
   },
+  "WKL-N59": {
+    "brand": "Honor",
+    "name": "HONOR Magic9 Pro Max"
+  },
   "ROD2-W09": {
     "brand": "Honor",
     "name": "HONOR MagicPad2"
@@ -50467,9 +50491,17 @@
     "brand": "HorusVision",
     "name": "FieldHub1_0_ROW"
   },
+  "L62": {
+    "brand": "Hosan",
+    "name": "L62"
+  },
   "L67": {
     "brand": "Hosan",
     "name": "L67"
+  },
+  "L67W": {
+    "brand": "Hosan",
+    "name": "L67W"
   },
   "H-H101_EEA": {
     "brand": "Hosoton",
@@ -81407,6 +81439,14 @@
     "brand": "Maxwest",
     "name": "Gravity_7P"
   },
+  "INFINITY F65": {
+    "brand": "Maxwest",
+    "name": "INFINITY F65"
+  },
+  "INFINITY F67": {
+    "brand": "Maxwest",
+    "name": "INFINITY F67"
+  },
   "AstroPhablet7s": {
     "brand": "Maxwest",
     "name": "MAXWEST"
@@ -84653,7 +84693,7 @@
   },
   "F52": {
     "brand": "Mobicel",
-    "name": "F51"
+    "name": "F52VS"
   },
   "IX_PLUS": {
     "brand": "Mobicel",
@@ -85519,13 +85559,13 @@
     "brand": "Mobiwire",
     "name": "H5112"
   },
-  "H6032 Plus": {
-    "brand": "Mobiwire",
-    "name": "H6032 Plus"
-  },
   "H6033": {
     "brand": "Mobiwire",
     "name": "eNOVA"
+  },
+  "H6032 Plus": {
+    "brand": "Mobiwire",
+    "name": "H6032 Plus"
   },
   "H6511": {
     "brand": "Mobiwire",
@@ -91674,6 +91714,10 @@
   "N90": {
     "brand": "Nexall",
     "name": "N90_US"
+  },
+  "INFINITY_V2": {
+    "brand": "Nexel",
+    "name": "INFINITY_V2"
   },
   "Infinity_Lite": {
     "brand": "Nexel",
@@ -97919,6 +97963,14 @@
     "brand": "Oppo",
     "name": "Reno16 Pro 5G"
   },
+  "PYK110": {
+    "brand": "Oppo",
+    "name": "Reno17"
+  },
+  "PND110": {
+    "brand": "Oppo",
+    "name": "Reno17 Pro"
+  },
   "CPH1945": {
     "brand": "Oppo",
     "name": "Reno2 Z"
@@ -98787,10 +98839,6 @@
     "brand": "Oukitel",
     "name": "C51_EEA"
   },
-  "C53": {
-    "brand": "Oukitel",
-    "name": "C53"
-  },
   "C57 Pro": {
     "brand": "Oukitel",
     "name": "C57_Pro_EEA"
@@ -99654,6 +99702,10 @@
   "Y85": {
     "brand": "PAITANRY",
     "name": "Y85"
+  },
+  "Y85Pro": {
+    "brand": "PAITANRY",
+    "name": "Y85Pro"
   },
   "Y86": {
     "brand": "PAITANRY",
@@ -112147,9 +112199,21 @@
     "brand": "Ruio",
     "name": "S6539Z"
   },
+  "S6605": {
+    "brand": "Ruio",
+    "name": "S6605"
+  },
   "S6705": {
     "brand": "Ruio",
     "name": "S6705"
+  },
+  "S6709M": {
+    "brand": "Ruio",
+    "name": "S6709M"
+  },
+  "S6901": {
+    "brand": "Ruio",
+    "name": "S6901"
   },
   "RS2613": {
     "brand": "Ruio",
@@ -149927,6 +149991,10 @@
     "brand": "URAO",
     "name": "X107_EEA"
   },
+  "X108K": {
+    "brand": "URAO",
+    "name": "X108K_G"
+  },
   "X109K": {
     "brand": "URAO",
     "name": "X109K_US"
@@ -172887,6 +172955,10 @@
     "brand": "iQOO",
     "name": "iQOO Z11x 5G"
   },
+  "I2516": {
+    "brand": "iQOO",
+    "name": "iQOO Z12 Lite 5G"
+  },
   "I2306": {
     "brand": "iQOO",
     "name": "iQOO Z9 Lite"
@@ -175375,6 +175447,10 @@
     "brand": "vivo",
     "name": "T5x 5G"
   },
+  "V2667": {
+    "brand": "vivo",
+    "name": "T6 Lite 5G"
+  },
   "V2511": {
     "brand": "vivo",
     "name": "V60"
@@ -175643,6 +175719,10 @@
     "brand": "vivo",
     "name": "Y11e"
   },
+  "V2669": {
+    "brand": "vivo",
+    "name": "Y11s 5G"
+  },
   "V2541": {
     "brand": "vivo",
     "name": "Y19s 5G"
@@ -175674,6 +175754,10 @@
   "V2560": {
     "brand": "vivo",
     "name": "Y21d"
+  },
+  "V2670": {
+    "brand": "vivo",
+    "name": "Y21s 5G"
   },
   "V2452GA": {
     "brand": "vivo",
