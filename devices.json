@@ -10665,7 +10665,7 @@
   },
   "CP10_Pro": {
     "brand": "PEICHENG",
-    "name": "CP10SPro"
+    "name": "CP10_ProK"
   },
   "CP20S": {
     "brand": "Atozee",
@@ -17115,6 +17115,10 @@
     "brand": "Blu",
     "name": "J13"
   },
+  "J14": {
+    "brand": "Blu",
+    "name": "J14"
+  },
   "J5": {
     "brand": "QMobile",
     "name": "J5"
@@ -17683,6 +17687,10 @@
     "brand": "SGIN",
     "name": "C8"
   },
+  "X7": {
+    "brand": "USA111",
+    "name": "Irulu X7"
+  },
   "D1": {
     "brand": "kozen",
     "name": "D1"
@@ -17846,6 +17854,10 @@
   "ST103": {
     "brand": "Bluebird",
     "name": "ST103"
+  },
+  "T40": {
+    "brand": "Veidoo",
+    "name": "T40"
   },
   "VF550": {
     "brand": "Bluebird",
@@ -26991,10 +27003,6 @@
     "brand": "Daewoo",
     "name": "THINK EBIKEGO PRIVATE LIMITED"
   },
-  "X7": {
-    "brand": "USA111",
-    "name": "Irulu X7"
-  },
   "X9": {
     "brand": "USA111",
     "name": "IRULU X9"
@@ -30198,10 +30206,6 @@
   "T10E": {
     "brand": "Doogee",
     "name": "T10SE"
-  },
-  "T40": {
-    "brand": "Veidoo",
-    "name": "T40"
   },
   "T10PLUS": {
     "brand": "Doogee",
@@ -35356,7 +35360,7 @@
     "name": "FOXXD A67L Gen2"
   },
   "A67U": {
-    "brand": "FOXXD",
+    "brand": "Hosan",
     "name": "A67U"
   },
   "A67W": {
@@ -44985,7 +44989,7 @@
   },
   "T-Smart": {
     "brand": "HUGEROCK",
-    "name": "T-Smart-H72"
+    "name": "T-Smart-H72-4G"
   },
   "E10_A": {
     "brand": "HUIHUANG",
@@ -46762,6 +46766,10 @@
   "Yupiroid": {
     "brand": "Hipstreet",
     "name": "Yupiroid"
+  },
+  "Hiroh H1": {
+    "brand": "Hiroh",
+    "name": "HRH_H1"
   },
   "2K Smart TV": {
     "brand": "Sceptre",
@@ -57067,6 +57075,10 @@
     "brand": "IDspire",
     "name": "TPSeries_1"
   },
+  "2707": {
+    "brand": "IIIF150",
+    "name": "A8"
+  },
   "Action 15": {
     "brand": "IIIF150",
     "name": "Action 15"
@@ -57190,6 +57202,10 @@
   "IMO S2": {
     "brand": "IMO(In My Opinion)",
     "name": "IMO S2"
+  },
+  "IMO Q6 Pro": {
+    "brand": "IMO(In My Opinion)",
+    "name": "Q6_Pro"
   },
   "IMTOS Pro": {
     "brand": "IMOTOR",
@@ -73723,6 +73739,10 @@
     "brand": "Lava",
     "name": "Lava LXX517"
   },
+  "LAVA LT4901": {
+    "brand": "Lava",
+    "name": "Lava S91"
+  },
   "Magnum_Pro": {
     "brand": "Lava",
     "name": "Magnum Pro"
@@ -84287,6 +84307,10 @@
     "brand": "Mintt",
     "name": "MINTT_T11"
   },
+  "M_7": {
+    "brand": "Mintt",
+    "name": "M_7"
+  },
   "Mintt M3": {
     "brand": "Mintt",
     "name": "MinttM3"
@@ -88315,6 +88339,10 @@
     "brand": "Motorola Solutions",
     "name": "LEX L11"
   },
+  "LEX L30": {
+    "brand": "Motorola Solutions",
+    "name": "LEX L30"
+  },
   "MSLB-MKZ900": {
     "brand": "Motorola Solutions",
     "name": "MOTOTRBO ION"
@@ -91664,8 +91692,8 @@
     "name": "23Q"
   },
   "LGA311D2": {
-    "brand": "Newline",
-    "name": "23QA"
+    "brand": "prowise",
+    "name": "Prowise_TSxG4"
   },
   "newline26S": {
     "brand": "Newline",
@@ -102431,6 +102459,10 @@
     "brand": "Partner",
     "name": "OT-310"
   },
+  "PA-115": {
+    "brand": "Partner",
+    "name": "PA-115"
+  },
   "PartnerTV BOX": {
     "brand": "Partner",
     "name": "PartnerTV BOX"
@@ -103246,6 +103278,10 @@
   "PPS2022-P156": {
     "brand": "Phoenix Note",
     "name": "PPS2022-P156"
+  },
+  "M1_P": {
+    "brand": "Phone Max",
+    "name": "M1_P"
   },
   "M3PRO": {
     "brand": "Phone Max",
@@ -112202,6 +112238,10 @@
   "S6539Z": {
     "brand": "Ruio",
     "name": "S6539Z"
+  },
+  "S6563": {
+    "brand": "Ruio",
+    "name": "S6563"
   },
   "S6605": {
     "brand": "Ruio",
@@ -129495,6 +129535,10 @@
     "brand": "Sharp",
     "name": "AQUOS sense10"
   },
+  "SH-53G": {
+    "brand": "Sharp",
+    "name": "AQUOS sense11"
+  },
   "SHV43-u": {
     "brand": "Sharp",
     "name": "AQUOS sense2"
@@ -132466,6 +132510,10 @@
   "Smarti_Gen_2_Plus": {
     "brand": "Smarti",
     "name": "Smarti_Gen_2_Plus"
+  },
+  "Smarti S6705": {
+    "brand": "Smarti",
+    "name": "Smarti_S6705"
   },
   "T5524": {
     "brand": "Smartron",
@@ -148151,6 +148199,10 @@
     "brand": "Telpo",
     "name": "P9"
   },
+  "UX": {
+    "brand": "Telpo",
+    "name": "UX"
+  },
   "HMB2213PW22TS": {
     "brand": "Telus",
     "name": "Pik TV Media Box"
@@ -149722,6 +149774,10 @@
   "TVSTAR 4K Android TV": {
     "brand": "Tvstar",
     "name": "TVSTAR"
+  },
+  "U17Pro Max 4G": {
+    "brand": "U-TRIBE",
+    "name": "U17Pro_Max_4G"
   },
   "T90_NEW": {
     "brand": "UAUU",
@@ -161265,7 +161321,7 @@
   },
   "XRZ": {
     "brand": "XRZ(sz)",
-    "name": "XRZPro_EEA"
+    "name": "XRZPro_NON_EU"
   },
   "XRZDual2": {
     "brand": "XRZDual2",
@@ -169731,11 +169787,11 @@
     "brand": "Zebra",
     "name": "TC20KB"
   },
-  "TC201L": {
+  "TC201": {
     "brand": "Zebra",
     "name": "TC201"
   },
-  "TC201": {
+  "TC201L": {
     "brand": "Zebra",
     "name": "TC201"
   },
@@ -175556,6 +175612,10 @@
     "name": "V80 Lite 5G"
   },
   "V2644": {
+    "brand": "vivo",
+    "name": "V80 Lite 5G"
+  },
+  "V2675": {
     "brand": "vivo",
     "name": "V80 Lite 5G"
   },
