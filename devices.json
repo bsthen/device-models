@@ -12863,6 +12863,18 @@
     "brand": "BMobile",
     "name": "ORBIT_MAX"
   },
+  "ORION_A2_TG06": {
+    "brand": "BMobile",
+    "name": "ORION_A2_TG06"
+  },
+  "ORION_A2_TG07NI": {
+    "brand": "BMobile",
+    "name": "ORION_A2_TG07NI"
+  },
+  "ORION_A3_TG05": {
+    "brand": "BMobile",
+    "name": "ORION_A3_TG05"
+  },
   "ORION_TG05": {
     "brand": "BMobile",
     "name": "ORION_TG05"
@@ -21743,6 +21755,10 @@
     "brand": "CignalPlayTV",
     "name": "CIGSEI100"
   },
+  "CM25": {
+    "brand": "Ciontek",
+    "name": "CM25"
+  },
   "CS20": {
     "brand": "Ciontek",
     "name": "CS20"
@@ -22289,7 +22305,7 @@
   },
   "MC8B654B": {
     "brand": "Cloud_Mobile",
-    "name": "MC8B654B100136"
+    "name": "Stratus C8 Prime"
   },
   "Stratus C8": {
     "brand": "Cloud_Mobile",
@@ -23253,7 +23269,11 @@
   },
   "SN512CC": {
     "brand": "ConsumerCellular",
-    "name": "IRIS Connect 2"
+    "name": "IRlS Connect 2"
+  },
+  "PN500CC": {
+    "brand": "ConsumerCellular",
+    "name": "IRIS Tab"
   },
   "SN512CCM": {
     "brand": "ConsumerCellular",
@@ -63851,6 +63871,18 @@
     "brand": "KENSHI",
     "name": "101HH1C"
   },
+  "8HH1A": {
+    "brand": "KENSHI",
+    "name": "8HH1A"
+  },
+  "8HH1B": {
+    "brand": "KENSHI",
+    "name": "8HH1B"
+  },
+  "8HZ1A": {
+    "brand": "KENSHI",
+    "name": "8HZ1A"
+  },
   "Armor C1 Max": {
     "brand": "KENSHI",
     "name": "Armor C1 Max"
@@ -92779,6 +92811,10 @@
     "brand": "Noryox",
     "name": "Handheld_POS"
   },
+  "Notch_A100": {
+    "brand": "Notch",
+    "name": "Notch_A100"
+  },
   "A063": {
     "brand": "Nothing",
     "name": "Nothing Phone (1)"
@@ -109807,6 +109843,10 @@
     "brand": "RebotAi",
     "name": "AF13_EEA"
   },
+  "AF14": {
+    "brand": "RebotAi",
+    "name": "AF14_EEA"
+  },
   "AF8_EEA": {
     "brand": "RebotAi",
     "name": "AF8_EEA"
@@ -111967,6 +112007,10 @@
     "brand": "Rogue mobile Inc",
     "name": "R67T"
   },
+  "R67X": {
+    "brand": "Rogue mobile Inc",
+    "name": "R67X"
+  },
   "RG-station2": {
     "brand": "Rokid",
     "name": "station2"
@@ -112254,6 +112298,10 @@
   "S6709M": {
     "brand": "Ruio",
     "name": "S6709M"
+  },
+  "S6712": {
+    "brand": "Ruio",
+    "name": "S6712"
   },
   "S6901": {
     "brand": "Ruio",
@@ -114278,6 +114326,10 @@
   "S10_V_US": {
     "brand": "SUAAT",
     "name": "S10_V_US"
+  },
+  "S11_C": {
+    "brand": "SUAAT",
+    "name": "S11_C"
   },
   "S11_E": {
     "brand": "SUAAT",
@@ -129535,7 +129587,15 @@
     "brand": "Sharp",
     "name": "AQUOS sense10"
   },
+  "A605SH": {
+    "brand": "Sharp",
+    "name": "AQUOS sense11"
+  },
   "SH-53G": {
+    "brand": "Sharp",
+    "name": "AQUOS sense11"
+  },
+  "SH-M37": {
     "brand": "Sharp",
     "name": "AQUOS sense11"
   },
@@ -136183,6 +136243,10 @@
     "brand": "Stylo",
     "name": "Sirius_Plus_Tab_10"
   },
+  "Stylo Helix": {
+    "brand": "Stylo",
+    "name": "Stylo Helix"
+  },
   "Stylo S40": {
     "brand": "Stylo",
     "name": "Stylo S40"
@@ -136190,6 +136254,10 @@
   "Stylo_521": {
     "brand": "Stylo",
     "name": "Stylo_521"
+  },
+  "Stylo Cyber": {
+    "brand": "Stylo",
+    "name": "Stylo_Cyber"
   },
   "Stylo_Viva": {
     "brand": "Stylo",
@@ -150053,7 +150121,7 @@
   },
   "X108K": {
     "brand": "URAO",
-    "name": "X108K_G"
+    "name": "X108K_US"
   },
   "X109K": {
     "brand": "URAO",
@@ -151858,6 +151926,10 @@
   "V12E-LTE-8128": {
     "brand": "VALE",
     "name": "V12E-LTE"
+  },
+  "V12E_LTE_8128": {
+    "brand": "VALE",
+    "name": "V12E_8128_LTE"
   },
   "VisionMaster": {
     "brand": "VALERION",
@@ -175751,6 +175823,10 @@
     "brand": "vivo",
     "name": "Y05"
   },
+  "V2664": {
+    "brand": "vivo",
+    "name": "Y05"
+  },
   "V2606": {
     "brand": "vivo",
     "name": "Y05e"
@@ -175758,6 +175834,10 @@
   "V2650": {
     "brand": "vivo",
     "name": "Y05i"
+  },
+  "V2668": {
+    "brand": "vivo",
+    "name": "Y05s"
   },
   "V2575": {
     "brand": "vivo",
