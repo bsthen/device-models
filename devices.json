@@ -7207,10 +7207,6 @@
     "brand": "Doogee",
     "name": "Tab G6 Max"
   },
-  "S2": {
-    "brand": "Xstar",
-    "name": "S2"
-  },
   "U11": {
     "brand": "Doogee",
     "name": "U11"
@@ -11070,6 +11066,10 @@
   "Smart Landline AC7 Tablet": {
     "brand": "Aura",
     "name": "Smart_Landline_AC7"
+  },
+  "ORBIT_AIO136COBF": {
+    "brand": "AuraVision",
+    "name": "ORBIT_AIO136COBF"
   },
   "TB-701": {
     "brand": "Auris",
@@ -17746,6 +17746,10 @@
   "S1a": {
     "brand": "Bluboo",
     "name": "S1a"
+  },
+  "S2": {
+    "brand": "Xstar",
+    "name": "S2"
   },
   "S3": {
     "brand": "SparX",
@@ -25298,6 +25302,10 @@
   "CS75XA": {
     "brand": "Cyrus",
     "name": "CS75XA_EEA"
+  },
+  "CS75XB": {
+    "brand": "Cyrus",
+    "name": "CS75XB"
   },
   "ORSY_Controller": {
     "brand": "Cyrus",
@@ -35174,6 +35182,10 @@
   "C17 SE": {
     "brand": "FOSSiBOT",
     "name": "C17 SE"
+  },
+  "C17 X": {
+    "brand": "FOSSiBOT",
+    "name": "C17_X_EEA_GO"
   },
   "DT1 Lite": {
     "brand": "FOSSiBOT",
@@ -73811,6 +73823,10 @@
     "brand": "Lava",
     "name": "Smart 4"
   },
+  "LAVA LZX422": {
+    "brand": "Lava",
+    "name": "Smart 4 Pro"
+  },
   "LTN10RT": {
     "brand": "Lava",
     "name": "T101"
@@ -90850,6 +90866,10 @@
   "DV 8935 X4": {
     "brand": "NOWO",
     "name": "DV 8935 X4"
+  },
+  "A18_Pro_Max": {
+    "brand": "NO_NAME",
+    "name": "A18_Pro_Max"
   },
   "ET1095A": {
     "brand": "NSDEVIL",
@@ -112049,11 +112069,11 @@
   },
   "Xever 7": {
     "brand": "RugOne",
-    "name": "Xever 7 Pro"
+    "name": "Xever 7"
   },
   "Xever 7 Pro": {
     "brand": "RuggON",
-    "name": "Xever 7 Pro Thermal"
+    "name": "Xever 7 Pro"
   },
   "Xever 8": {
     "brand": "RugOne",
@@ -145583,6 +145603,10 @@
     "brand": "Teclast",
     "name": "P50T_E_ROW"
   },
+  "P50_BB_US": {
+    "brand": "Teclast",
+    "name": "P50_BB_US"
+  },
   "P50_B": {
     "brand": "Teclast",
     "name": "P50_B_EEA"
@@ -148642,6 +148666,10 @@
   "TLINK455": {
     "brand": "Thomson",
     "name": "TLink 455"
+  },
+  "Thomson2K": {
+    "brand": "Thomson",
+    "name": "Thomson"
   },
   "Thomson 140G": {
     "brand": "Thomson",
@@ -173342,6 +173370,10 @@
   "TC603B_GWL": {
     "brand": "iWaylink",
     "name": "TC603B_P"
+  },
+  "A60S": {
+    "brand": "iYOU",
+    "name": "A60_S"
   },
   "iYOU_M1": {
     "brand": "iYOU",
