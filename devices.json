@@ -62675,6 +62675,10 @@
     "brand": "JUEDUR",
     "name": "R500_V_US"
   },
+  "R600_C": {
+    "brand": "JUEDUR",
+    "name": "R600_C"
+  },
   "R600_U": {
     "brand": "JUEDUR",
     "name": "R600_U"
@@ -64594,6 +64598,10 @@
   "NEXTSTAR SMART TV": {
     "brand": "KTCtv",
     "name": "NEXTSTAR"
+  },
+  "NITORI SMART TV": {
+    "brand": "KTCtv",
+    "name": "NITORI"
   },
   "RANCON GOOGLE TV": {
     "brand": "KTCtv",
@@ -73350,6 +73358,10 @@
   "llium Pad L8": {
     "brand": "Lanix",
     "name": "llium Pad L8"
+  },
+  "PT10": {
+    "brand": "Lanodo",
+    "name": "PT10"
   },
   "G11L": {
     "brand": "Laptok",
@@ -128019,6 +128031,10 @@
     "brand": "Samsung",
     "name": "Infuse"
   },
+  "SM-O200P": {
+    "brand": "Samsung",
+    "name": "Intelligent Eyewear"
+  },
   "SM-J106F": {
     "brand": "Samsung",
     "name": "J1 Mini Prime"
@@ -147430,6 +147446,10 @@
   "TECNO KO5": {
     "brand": "Tecno",
     "name": "TECNO SPARK 50T"
+  },
+  "TECNO KO3": {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 50C"
   },
   "TECNO KN8s": {
     "brand": "Tecno",
