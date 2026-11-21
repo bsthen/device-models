@@ -12179,6 +12179,10 @@
     "brand": "BMAX",
     "name": "I11_S_EEA"
   },
+  "I11_S_Pro": {
+    "brand": "BMAX",
+    "name": "I11_S_Pro"
+  },
   "I12_A_Power": {
     "brand": "BMAX",
     "name": "I12_A_Power"
@@ -147894,6 +147898,10 @@
   "Tele2_Mini_1_1": {
     "brand": "Tele2",
     "name": "Mini 1.1"
+  },
+  "T2 Mediabox": {
+    "brand": "Tele2",
+    "name": "T2 Mediabox"
   },
   "Tele2_Maxi_LTE": {
     "brand": "Tele2",
