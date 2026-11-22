@@ -96659,10 +96659,6 @@
     "brand": "Oppo",
     "name": "Find X10"
   },
-  "OPG09": {
-    "brand": "Oppo",
-    "name": "Find X10"
-  },
   "PNA110": {
     "brand": "Oppo",
     "name": "Find X10 E"
@@ -137807,10 +137803,6 @@
     "brand": "TCL",
     "name": "TCL TAB Lite"
   },
-  "9183W": {
-    "brand": "TCL",
-    "name": "TCL TAB 10 5G"
-  },
   "T790B": {
     "brand": "TCL",
     "name": "TCL 10 5G"
@@ -138710,6 +138702,10 @@
   "8094X": {
     "brand": "TCT (Alcatel)",
     "name": "Telstra Enhanced Tab 2"
+  },
+  "9183W": {
+    "brand": "TCL",
+    "name": "TCL TAB 10 5G"
   },
   "9161G": {
     "brand": "TCL",
