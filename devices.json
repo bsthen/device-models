@@ -64567,6 +64567,10 @@
     "brand": "KTC (PD)",
     "name": "BLISS_8"
   },
+  "Butterfly Smart TV": {
+    "brand": "KTCtv",
+    "name": "BUTTERFLY"
+  },
   "DIGGIO GOOGLE TV 4K": {
     "brand": "KTCtv",
     "name": "DIGGIO"
@@ -80435,6 +80439,10 @@
     "brand": "MUISOO",
     "name": "KB10_EEA"
   },
+  "KB10T": {
+    "brand": "MUISOO",
+    "name": "KB10T_US"
+  },
   "MULTYNET TV G2K": {
     "brand": "MULTYNET",
     "name": "MULTYNET TV G2K"
@@ -88506,6 +88514,10 @@
   "MOVE OTT-Box 4": {
     "brand": "Move",
     "name": "MOVE OTT-Box 4"
+  },
+  "MOVE OTT-Box 5": {
+    "brand": "Move",
+    "name": "MOVE OTT-Box 5"
   },
   "LX50": {
     "brand": "Moveby",
@@ -100278,6 +100290,10 @@
   "P13Ultra": {
     "brand": "PEICHENG",
     "name": "P13Ultra"
+  },
+  "PH05": {
+    "brand": "PEICHENG",
+    "name": "PH05"
   },
   "Q1": {
     "brand": "PEICHENG",
@@ -161486,6 +161502,10 @@
   "MDP1231": {
     "brand": "XPPen",
     "name": "MDP1234_US"
+  },
+  "MDP1311": {
+    "brand": "XPPen",
+    "name": "Magic Pro 13"
   },
   "MDP1236": {
     "brand": "XPPen",
