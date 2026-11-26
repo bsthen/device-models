@@ -39039,6 +39039,10 @@
     "brand": "Gfast",
     "name": "MD_97_S464A"
   },
+  "T_106": {
+    "brand": "Gfast",
+    "name": "T_106"
+  },
   "A7LED2": {
     "brand": "Ghia",
     "name": "A7LED2"
@@ -45042,6 +45046,10 @@
   "T3L2": {
     "brand": "HUIHUANG",
     "name": "T3L2_EEA"
+  },
+  "TabT10": {
+    "brand": "HUIHUANG",
+    "name": "TabT10_EEA"
   },
   "X10S": {
     "brand": "XMART",
@@ -93855,10 +93863,6 @@
     "brand": "ONYX",
     "name": "QuartzT10-3"
   },
-  "TabBoox": {
-    "brand": "ONYX",
-    "name": "TabBoox"
-  },
   "OPEN_PRO": {
     "brand": "OPEN",
     "name": "OPEN_PRO"
@@ -97410,6 +97414,18 @@
   "OPD2511": {
     "brand": "Oppo",
     "name": "Pad 5 Pro"
+  },
+  "OPD2615": {
+    "brand": "Oppo",
+    "name": "Pad 6 F Lite Edition"
+  },
+  "OPD2604": {
+    "brand": "Oppo",
+    "name": "Pad 6 F/Pad 6 F Matte Display Edition"
+  },
+  "OPD2605": {
+    "brand": "Oppo",
+    "name": "Pad 6 F/Pad 6 F Matte Display Edition"
   },
   "OPD2501": {
     "brand": "Oppo",
@@ -114773,7 +114789,7 @@
   },
   "P08_T": {
     "brand": "SVITOO",
-    "name": "P08_T"
+    "name": "P08_T1"
   },
   "P108": {
     "brand": "SVITOO",
@@ -161525,7 +161541,7 @@
   },
   "XRZ": {
     "brand": "XRZ(sz)",
-    "name": "XRZPro_NON_EU"
+    "name": "XRZPro_USA"
   },
   "XRZDual2": {
     "brand": "XRZDual2",
@@ -175603,6 +175619,10 @@
     "brand": "verifone",
     "name": "VG1"
   },
+  "VG102": {
+    "brand": "verifone",
+    "name": "vg102"
+  },
   "V503630": {
     "brand": "videocon",
     "name": "Delite 11"
@@ -175814,6 +175834,10 @@
   "V2649": {
     "brand": "vivo",
     "name": "V80"
+  },
+  "V2624": {
+    "brand": "vivo",
+    "name": "V80 FE"
   },
   "V2643": {
     "brand": "vivo",
