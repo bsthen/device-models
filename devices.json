@@ -1107,6 +1107,10 @@
     "brand": "AMobile",
     "name": "PD602"
   },
+  "RT080": {
+    "brand": "Bluebird",
+    "name": "RT080"
+  },
   "RT101": {
     "brand": "AMobile",
     "name": "RT101"
@@ -17850,10 +17854,6 @@
   "RP350": {
     "brand": "Bluebird",
     "name": "RP350"
-  },
-  "RT080": {
-    "brand": "Bluebird",
-    "name": "RT080"
   },
   "RT103": {
     "brand": "Bluebird",
@@ -39038,6 +39038,10 @@
   "MD_97_S464A": {
     "brand": "Gfast",
     "name": "MD_97_S464A"
+  },
+  "T-104KC": {
+    "brand": "Gfast",
+    "name": "T-104KC"
   },
   "T_106": {
     "brand": "Gfast",
@@ -88987,6 +88991,10 @@
     "brand": "Multilaser",
     "name": "M10_4G_PRO_TERE"
   },
+  "M12 Ultra": {
+    "brand": "Multilaser",
+    "name": "M12_4G"
+  },
   "M12_4G": {
     "brand": "Multilaser",
     "name": "M12_4G"
@@ -112399,6 +112407,10 @@
     "brand": "Ruio",
     "name": "S6563"
   },
+  "S6571R": {
+    "brand": "Ruio",
+    "name": "S6571R"
+  },
   "S6605": {
     "brand": "Ruio",
     "name": "S6605"
@@ -130982,6 +130994,10 @@
   "SHARP 4K UHDTV": {
     "brand": "Sharp",
     "name": "sharp"
+  },
+  "A601SH": {
+    "brand": "Sharp",
+    "name": "シンプルスマホ8"
   },
   "509SH": {
     "brand": "Sharp",
