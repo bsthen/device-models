@@ -1999,6 +1999,14 @@
     "brand": "AVOCOR",
     "name": "S_Series"
   },
+  "AWOL Valerion": {
+    "brand": "AWOL Vision",
+    "name": "AWOL Valerion"
+  },
+  "Aetherion": {
+    "brand": "AWOL Vision",
+    "name": "Aetherion"
+  },
   "AWOW_CreaPad_1001": {
     "brand": "AWOW",
     "name": "AWOW_CreaPad_1001"
@@ -17863,6 +17871,10 @@
     "brand": "xTouch",
     "name": "S20"
   },
+  "S21": {
+    "brand": "leaderhub",
+    "name": "S21"
+  },
   "SF550": {
     "brand": "Bluebird",
     "name": "SF550"
@@ -28691,6 +28703,10 @@
     "brand": "Digit",
     "name": "Titan_5G"
   },
+  "Pad12_pro": {
+    "brand": "DigitEdge",
+    "name": "Pad12_pro"
+  },
   "Pad12pro": {
     "brand": "VIKUSHA",
     "name": "V_M1"
@@ -34830,6 +34846,10 @@
   "F-53E": {
     "brand": "FCNT",
     "name": "F-53E"
+  },
+  "F-53G": {
+    "brand": "FCNT",
+    "name": "F-53G"
   },
   "MR01": {
     "brand": "FCNT",
@@ -48687,6 +48707,10 @@
     "brand": "Hisense",
     "name": "LT610"
   },
+  "LaserTV 4K": {
+    "brand": "Hisense",
+    "name": "LaserTV 4k"
+  },
   "Hisense M10-M": {
     "brand": "Hisense",
     "name": "M10-M"
@@ -48890,6 +48914,10 @@
   "SmartLaser 4K": {
     "brand": "Hisense",
     "name": "SmartLaser 4K"
+  },
+  "SmartTV 4K FFM SE": {
+    "brand": "Hisense",
+    "name": "SmartTV 4K FFM SE"
   },
   "Hisense SoundTab MA-317": {
     "brand": "Hisense",
@@ -79682,6 +79710,10 @@
   "Miray 4k google tv": {
     "brand": "MIRAY",
     "name": "Peru"
+  },
+  "TABM_P1095": {
+    "brand": "MIRAY",
+    "name": "TABM_P1095"
   },
   "TM4G_1006": {
     "brand": "MIRAY",
@@ -150475,6 +150507,14 @@
     "brand": "Ulefone",
     "name": "Armor 34 Pro"
   },
+  "Armor 36 Pro": {
+    "brand": "Ulefone",
+    "name": "Armor 36 Pro"
+  },
+  "Armor 36 Ultra": {
+    "brand": "Ulefone",
+    "name": "Armor 36 Ultra"
+  },
   "Armor_6": {
     "brand": "Ulefone",
     "name": "Armor6"
@@ -152870,10 +152910,6 @@
   "S20_EEA": {
     "brand": "Vankyo",
     "name": "S20_EEA"
-  },
-  "S21": {
-    "brand": "leaderhub",
-    "name": "S21"
   },
   "S21_Plus": {
     "brand": "Vankyo",
